@@ -1,0 +1,509 @@
+{
+ "_type": "album",
+ "api_path": "/albums/141864",
+ "cover_art_thumbnail_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.620x620x1.jpg",
+ "full_title": "Black Light by Waterparks",
+ "id": 141864,
+ "name": "Black Light",
+ "name_with_artist": "Black Light (artist: Waterparks)",
+ "release_date_components": {
+  "year": 2014,
+  "month": 6,
+  "day": 4
+ },
+ "release_date_for_display": "June 4, 2014",
+ "url": "https://genius.com/albums/Waterparks/Black-light",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/608075",
+  "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+  "id": 608075,
+  "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Waterparks",
+  "slug": "Waterparks",
+  "url": "https://genius.com/artists/Waterparks",
+  "iq": 112
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/608075",
+   "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+   "id": 608075,
+   "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+   "index_character": "w",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Waterparks",
+   "slug": "Waterparks",
+   "url": "https://genius.com/artists/Waterparks",
+   "iq": 112
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/2407485",
+    "artist_names": "Waterparks (Ft. Tyler Welsh)",
+    "full_title": "Christmas by\u00a0Waterparks (Ft.\u00a0Tyler\u00a0Welsh)",
+    "header_image_thumbnail_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.620x620x1.jpg",
+    "id": 2407485,
+    "instrumental": false,
+    "lyrics_owner_id": 321054,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1675386214,
+    "path": "/Waterparks-christmas-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Waterparks-christmas-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 6,
+     "day": 4
+    },
+    "release_date_for_display": "June 4, 2014",
+    "release_date_with_abbreviated_month_for_display": "Jun. 4, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.620x620x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 9960
+    },
+    "title": "Christmas",
+    "title_with_featured": "Christmas (Ft.\u00a0Tyler\u00a0Welsh)",
+    "updated_by_human_at": 1675386214,
+    "url": "https://genius.com/Waterparks-christmas-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/630603",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1722887932",
+      "id": 630603,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1722887932",
+      "index_character": "t",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Tyler Welsh",
+      "slug": "Tyler-welsh",
+      "url": "https://genius.com/artists/Tyler-welsh"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "11 ContributorsChristmas Lyrics[Verse 1: Awsten Knight]\nI fell asleep last Winter\nWoke up and it was August\nNot much has changed, yeah, I still feel the same\nBut I\u2019m slowly making progress\nThere\u2019s not much time\nSo sit, shut up and let me t-t-t-talk\nI had a dream last night\nThen I woke up and I had a thought\nIf I left my body for so long\nHow far could it get without me?\n\n[Chorus: Awsten Knight]\nI\u2019m just waiting\nAnd I\u2019m just saying\nMaybe the end is near\nBut all that means is a new beginning\nI\u2019m just waiting\nAnd I\u2019m just saying\nMaybe the end is near\nBut all that means is\n\n[Verse 2: Awsten Knight]\nI\u2019m not sure who is listening\nBut if anybody's there\nPlease forgive me if you missed me\nBecause I\u2019ve changed and now I\u2019m here\n'Cause if revenge is for the weak\nWell I guess I\u2019m getting somewhat stronger\nThere are still a few things I can\u2019t swallow\nBut I\u2019ll take care of those tomorrow\nYou might also like[Chorus: Awsten Knight]\nI\u2019m just waiting\nAnd I\u2019m just saying\nMaybe the end is near\nBut all that means is a new beginning\nI\u2019m just waiting\nAnd I\u2019m just saying\nMaybe the end is near\nBut all that means is\n\n[Bridge: Tyler Welsh]\nI\u2019m just waiting for my chance to put a\nPicture of me, put a picture of me in the\nDream scenes of\nDream scenes of\nDream scenes of\nDream scenes of my ideal future\n\n[Chorus 2/Outro: Awsten Knight]\nI was waiting\nAnd I was saying\nThe end wasn\u2019t ours to fear\nAnd all it meant was a new beginning\nI was waiting\nAnd I was saying\nThe end wasn\u2019t ours to fear\nAnd all it meant was a new beginning\n(I\u2019m just waiting\nAnd I\u2019m just saying\nMaybe the end is near\nBut all that means is a new beginning)6Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/2407484",
+    "artist_names": "Waterparks",
+    "full_title": "American History by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.620x620x1.jpg",
+    "id": 2407484,
+    "instrumental": false,
+    "lyrics_owner_id": 321054,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1617419247,
+    "path": "/Waterparks-american-history-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Waterparks-american-history-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 6,
+     "day": 4
+    },
+    "release_date_for_display": "June 4, 2014",
+    "release_date_with_abbreviated_month_for_display": "Jun. 4, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.620x620x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 7262
+    },
+    "title": "American History",
+    "title_with_featured": "American History",
+    "updated_by_human_at": 1641980023,
+    "url": "https://genius.com/Waterparks-american-history-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "9 ContributorsAmerican History Lyrics[Verse 1]\nWe are the young blood\nThe \u201cany-time\u201d assumption\nThe overstayed\nWith a jaded name\nWe are the truce\nWaiting for bad news\nTo chase us down\nAnd tear us inside out\n\n[Pre-Chorus]\nLet's try words\nLess slow verbs\nThe action's a fraction\nOf how much this hurts\n\n[Chorus]\nOh, it's like I told you\nIt's like I told you\nOh, when this was too far\nOh, tell me why we wonder\nWhat we were thinking all along\nOh, tell me why we wonder\nIf your indigo eyes are mine\n\n[Verse 2]\nWe are expected\nBut only in the best way\nTo live a small time\nA year: expired\nWe are supposed to\nFall into exposure\nWe have the biggest sparkling eyes\n(But they both have an ugly side)\nYou might also like[Pre-Chorus]\nLet's try words (Let's try words)\nLess slow verbs (Less slow verbs)\nThe action's a fraction\nOf how much this hurts (How much this hurts)\n\n[Chorus]\nOh, it's like I told you\nIt's like I told you\nOh, when this was too far\nOh, tell me why we wonder\nWhat we were thinking all along\nOh, tell me why we wonder\nIf your indigo eyes are mine\n\n[Bridge]\nLet's try words\nLess slow verbs\nThe action's a fraction\nOf how much this hurts\nIs this what we deserve\nBefore we're in the dirt?\nMiles of aisles\nFilled up with files of titles\nDescribing how much this hurts?\nIs this what we deserve\nBefore we're in the dirt?\nMiles of aisles\nFilled up with files of titles\nDescribing how much this hurts?\n[Chorus]\nOh, it's like I told you\nIt's like I told you\nOh, when this was too far\nOh, tell me why we wonder\nWhat we were thinking all along\nOh, tell me why we wonder\nIf your indigo\nOh, tell me why we wonder\nWhat we were thinking all along\nOh, tell me why we wonder\nIf your indigo eyes are mine2Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/2407481",
+    "artist_names": "Waterparks",
+    "full_title": "Easter Egg by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.620x620x1.jpg",
+    "id": 2407481,
+    "instrumental": false,
+    "lyrics_owner_id": 321054,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1675386183,
+    "path": "/Waterparks-easter-egg-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Waterparks-easter-egg-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 6,
+     "day": 4
+    },
+    "release_date_for_display": "June 4, 2014",
+    "release_date_with_abbreviated_month_for_display": "Jun. 4, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.620x620x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 12649
+    },
+    "title": "Easter Egg",
+    "title_with_featured": "Easter Egg",
+    "updated_by_human_at": 1687603900,
+    "url": "https://genius.com/Waterparks-easter-egg-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "18 ContributorsEaster Egg Lyrics[Verse 1]\nWould it be worth it to write songs\nAbout everything I\u2019m not?\nI could invent a thousand problems\nAnd tangle myself up in the knots\nBecause people only like the boys in bands\nWho are plagued with troubled thoughts\nSo give me, give me problems\nCut me out for this job\n\n[Chorus]\nEverybody just thinks that I\u2019m falling apart at the seams and I can\u2019t believe\nThat they\u2019re all wrong about me\nEverybody just thinks that I\u2019m falling apart at the seams and I can\u2019t believe\nThat they\u2019re all wrong about me\n\n[Verse 2]\nMy band and I could play along\nForging anxious three minute long\nLaundry lists of problems\nBut for some reason that feels wrong\nTo act unstable\nTo turn the tables\nOn myself and everyone\nMyself and\nYou might also like[Chorus]\nEverybody just thinks that I\u2019m falling apart at the seams and I can\u2019t believe\nThat they\u2019re all wrong about me\nEverybody just thinks that I\u2019m falling apart at the seams and I can\u2019t believe\nThat they\u2019re all wrong about me\n\n[Bridge]\nWould it be worth it to write songs\nAbout everything I\u2019m not?\nI could invent a thousand problems\nAnd tangle myself up in the knots\nLife's not perfect but I won\u2019t let that define me\nAnd I won't play along with the trending anxieties\n(Bleh!)\nLike I say, when I say\n\"I'll be something you're not\"\n\"I'll be what all the people want\"\n\"I'll be something you're not\"\nJust give all the people\nJust give all the people the truth, truth, truth\nWhich has nothing to do with you\nAnd there's nothing wrong with being happy\n\n[Chorus]\nEverybody just thinks that I\u2019m falling apart at the seams and I can\u2019t believe\nThat they\u2019re all wrong about me\nOr if it\u2019s just me and everything's bad and it\u2019s all falling down to finally come true\nThen they were right about you6Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/2407474",
+    "artist_names": "Waterparks",
+    "full_title": "New Wave by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/a771382fd665592b82473a5a22897656.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/a771382fd665592b82473a5a22897656.500x500x1.jpg",
+    "id": 2407474,
+    "instrumental": false,
+    "lyrics_owner_id": 321054,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1637311988,
+    "path": "/Waterparks-new-wave-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Waterparks-new-wave-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 6,
+     "day": 4
+    },
+    "release_date_for_display": "June 4, 2014",
+    "release_date_with_abbreviated_month_for_display": "Jun. 4, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a771382fd665592b82473a5a22897656.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/a771382fd665592b82473a5a22897656.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 7145
+    },
+    "title": "New Wave",
+    "title_with_featured": "New Wave",
+    "updated_by_human_at": 1637342463,
+    "url": "https://genius.com/Waterparks-new-wave-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "8 ContributorsNew Wave Lyrics[Verse 1]\nCall it new wave\nSay it like you should\nBecause a call to arms\nIs a calling card\nAnd I\u2019m calling soon\nHoping I can get through to you\n\n[Chorus]\nWe\u2019re not sleeping, we\u2019re just dreaming\nNothing said has come so easy\nWe\u2019re not sleeping, we\u2019re just dreaming\n\n[Verse 2]\nCall it new wave\nSecond guess the feel\nCall it everything at once \u2018cause\nThis is days on days\nBut something\u2019s changed\n\u2018Cause nothing good can stay the same\n\n[Pre-Chorus]\nEvery single time you throw your white flag down and surrender\nLike every single second's just another second spent to lose\nBut this is something I can\u2019t lose\nYou might also like[Chorus]\nWe\u2019re not sleeping, we\u2019re just dreaming\nNothing said has come so easy\nWe\u2019re not sleeping, we\u2019re just dreaming\nI was just doing the sane thing\n(To try something that the rest have never seen)\nI was just doing the sane thing\n\n[Pre-Chorus]\n'Cause every single time you throw your white flag down and surrender\nLike every single second's just another second spent to lose\n\n[Chorus]\nWe\u2019re not sleeping, we\u2019re just dreaming\nNothing said has come so easy\nWe\u2019re not sleeping, we\u2019re just dreaming\nI was just doing the sane thing\n(To try something that the rest have never seen)\nI was just doing the sane thing\n\nWe are the new wave crashing the same day\n(We are the new wave crashing the same day)\nWe are the new wave crashing the same\n(We are the new wave, we are the new wave)\n\n[Outro]\nCall it new wave\nUntil it's all washed up\nBecause we'll be crashing soon\nBut before we do\nI hope I get through\nThrough to you2Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/2407480",
+    "artist_names": "Waterparks (Ft. Fred Mascherino)",
+    "full_title": "Night Maps by\u00a0Waterparks (Ft.\u00a0Fred\u00a0Mascherino)",
+    "header_image_thumbnail_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.620x620x1.jpg",
+    "id": 2407480,
+    "instrumental": false,
+    "lyrics_owner_id": 321054,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1637311626,
+    "path": "/Waterparks-night-maps-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Waterparks-night-maps-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 6,
+     "day": 4
+    },
+    "release_date_for_display": "June 4, 2014",
+    "release_date_with_abbreviated_month_for_display": "Jun. 4, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.620x620x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 8035
+    },
+    "title": "Night Maps",
+    "title_with_featured": "Night Maps (Ft.\u00a0Fred\u00a0Mascherino)",
+    "updated_by_human_at": 1637311626,
+    "url": "https://genius.com/Waterparks-night-maps-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/630602",
+      "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+      "id": 630602,
+      "image_url": "https://images.genius.com/e79c4849c2400aaa50d58a3c46c76392.474x320x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Fred Mascherino",
+      "slug": "Fred-mascherino",
+      "url": "https://genius.com/artists/Fred-mascherino"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "15 ContributorsNight Maps Lyrics[Verse 1: Awsten Knight]\nI couldn\u2019t keep up\nWith watering myself down\nAnd so all that grew\nWas the high tide until I drowned\nThe oxygen had all run out\nAnd now I\u2019m left dried up and standing here\n\n[Pre-Chorus: Awsten Knight]\nLittle did you know\nI left another seed\nAnd little did you know\nThat\u2019s how it\u2019s gotta be\nIf there\u2019s a place right now\nThere\u2019s a way somehow\nAnd that\u2019s where I've gotta\nWhere I've gotta be\n\n[Chorus: Awsten Knight]\nI\u2019m teething (teething)\nTeething\nTeething (teething)\nTeething\n\n[Verse 2: Awsten Knight]\nI never would've thought that there was any correlation\nTo the people I let down by not remaking Airplane Conversations\nDown to the t\nAnd the people like me\nWho should've, could've, would've been the last ones to bleed the future, woah\nYou might also like[Pre-Chorus: Awsten Knight]\nLittle did you know\nI left another seed\nAnd little did you know\nThat\u2019s how it\u2019s gotta be\nIf there's a place right now\nThere's a way somehow\nAnd that's where I've gotta\nWhere I, I'm\n\n[Chorus: Awsten Knight]\nTeething (teething)\nTeething\nTeething (teething)\nTeething\nTeething (teething)\nTeething\nTeething (teething)\nTeething\n\n[Bridge: Fred Mascherino]\nShould've could\u2019ve been the one\nTo turn everything around\nThat\u2019s why I\u2019m here\nShould've could\u2019ve been the one\nTo turn everything around\nThat\u2019s why I\u2019m here\nShould've could\u2019ve been the one\nTo turn everything around\nThat\u2019s why I\u2019m here\nShould've could\u2019ve been the one\nTo turn everything around\nThat\u2019s why I\u2019m here\n[Pre-Chorus: Fred Mascherino and Awsten Knight]\nIf there's a place right now\nThere's a way somehow\nAnd that's where I've gotta\nWhere I've gotta\nIf there's a place right now\nThere's a way somehow\nAnd that's where I've gotta\nI swear to God I\u2019m\n\n[Chorus: Awsten Knight]\nTeething (teething)\nTeething\nTeething (teething)\nTeething\n\n[Outro]\nThese daydreams are day seeds\nFor what I've been planning\nThese daydreams are day seeds\nAnd worth it, so hold on\nThese daydreams are day seeds\nFor what I've been planning\nThese daydreams are day seeds\nAnd worth it, so hold on2Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/2407478",
+    "artist_names": "Waterparks",
+    "full_title": "I'm a Natural Blue by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.620x620x1.jpg",
+    "id": 2407478,
+    "instrumental": false,
+    "lyrics_owner_id": 321054,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1675386295,
+    "path": "/Waterparks-im-a-natural-blue-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Waterparks-im-a-natural-blue-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 6,
+     "day": 5
+    },
+    "release_date_for_display": "June 5, 2014",
+    "release_date_with_abbreviated_month_for_display": "Jun. 5, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b2c7d59f1d278becb223fe9bead1d01f.620x620x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 27152
+    },
+    "title": "I\u2019m a Natural Blue",
+    "title_with_featured": "I'm a Natural Blue",
+    "updated_by_human_at": 1715025466,
+    "url": "https://genius.com/Waterparks-im-a-natural-blue-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "14 ContributorsI\u2019m a Natural Blue Lyrics[Chorus]\nBreak me\nCause I'm just not used to\nDigging\nDeep through all my idols' graves\nI'm starting to think\nThis isn't all, this isn't all that it's cracked up to be\n\n[Verse 1]\nI feel like\nMy ideas\nHave lost their\nGlow somehow\n\n[Pre-Chorus 1]\nEveryone wants someone else\nTo wear their skin until it's out\nLike, \"Hey thanks, music needs your help\nThe way it needs to rot in hell\"\nOriginality's a ghost\nI \"see\" it when I \"hear\" the most\nI'm thinking there's a better way\nBut better ways are gems today so\n\n[Chorus]\nBreak me\nCause I'm just not used to\nDigging\nDeep through all my idols graves\nI'm starting to think\nThis isn't all, this isn't all it's cracked up to\nBreak me\nCause I'm just not used to\nDigging\nDeep through all my idols graves\nI'm starting to think\nThis isn't all, this isn't all it's cracked up to be\nYou might also like[Verse 2]\nI can see a crumbling scene of mockingbirds\nBreaking their teeth eating golden words\nThe last thing kids need is you\nThe best time for truth is soon\n\n[Pre-Chorus 2]\nSo break me cause I've got the feeling\nNothing here is as appealing\nAs my heart wants to believe\nIt is and that's the other reason\nWhy I can't stop pushing deeper\nDown the rabbit hole to see the\nOther side and what I need\nAnd what I need is trying to\n\n[Chorus]\nBreak me\nCause I'm just not used to\nDigging\nDeep through all my idols graves\nI'm starting to think\nThis isn't all, this isn't all it's cracked up to\nBreak me\nCause I'm just not used to\nDigging\nDeep through all my idols graves\nI'm starting to think\nThis isn't all, this isn't all it's cracked up to be\n[Bridge]\nThere will come a day when I will make things different\nThrow down everything and make it futuristic\nI know that not everybody wants to be different\nBut this is getting ridiculous, oh\nAnd I almost understand\nI almost understand\nI almost understand, oh\n\n[Chorus/Outro]\nBreak me\nCause I'm just not used to\nDigging\nDeep through all my idols graves\nI'm starting to think\nThis isn't all, this isn't all it's cracked up to\nBreak me\nCause I'm just not used to\nDigging\nDeep through all my idols graves\nI'm starting to think\nThis isn't all, this isn't all it's cracked up to\nBreak me\nCause I'm just not used to\nDigging\nDeep through all my idols graves\nI'm starting to think\nThis isn't all, this isn't all it's cracked up to be8Embed"
+   }
+  }
+ ]
+}

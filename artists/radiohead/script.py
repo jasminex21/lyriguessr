@@ -1,14 +1,18 @@
-from lyriguessr.lyrics import save_album_lyrics
+import os
+from lyriguessr.lyrics import Lyrigetter
 
-API_KEY = "sFB433-aPPAH8VpsfF9ETSr-9SQYsbxFBGMTd_XvqF6ED84O-fMYiGf_ENUtNLRn"
-radiohead_albums = ["Pablo Honey", 
-                    "The Bends",
-                    "OK Computer",
-                    "Kid A",
-                    "Amnesiac",
-                    "Hail To the Thief",
-                    "In Rainbows",
-                    "The King Of Limbs", 
-                    "A Moon Shaped Pool"]
+if __name__ == "__main__":
+    API_KEY = os.environ["GENIUS_API_KEY"]
+    radiohead_albums = ["Pablo Honey", 
+                        "The Bends",
+                        "OK Computer",
+                        "Kid A",
+                        "Amnesiac",
+                        "Hail To the Thief",
+                        "In Rainbows",
+                        "The King Of Limbs", 
+                        "A Moon Shaped Pool"]
 
-save_album_lyrics(API_KEY, radiohead_albums, "Radiohead")
+    radiohead = Lyrigetter(API_KEY, album_names=radiohead_albums, artist_name="Radiohead")
+    radiohead.store_album_data()
+    radiohead.save_songs_df()

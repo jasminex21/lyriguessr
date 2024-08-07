@@ -1,0 +1,769 @@
+{
+ "_type": "album",
+ "api_path": "/albums/375542",
+ "cover_art_thumbnail_url": "https://images.genius.com/7047f6889752cf5b98023601dcbcca57.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/7047f6889752cf5b98023601dcbcca57.1000x1000x1.jpg",
+ "full_title": "Entertainment by Waterparks",
+ "id": 375542,
+ "name": "Entertainment",
+ "name_with_artist": "Entertainment (artist: Waterparks)",
+ "release_date_components": {
+  "year": 2018,
+  "month": 1,
+  "day": 26
+ },
+ "release_date_for_display": "January 26, 2018",
+ "url": "https://genius.com/albums/Waterparks/Entertainment",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/608075",
+  "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+  "id": 608075,
+  "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Waterparks",
+  "slug": "Waterparks",
+  "url": "https://genius.com/artists/Waterparks",
+  "iq": 112
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/608075",
+   "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+   "id": 608075,
+   "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+   "index_character": "w",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Waterparks",
+   "slug": "Waterparks",
+   "url": "https://genius.com/artists/Waterparks",
+   "iq": 112
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/3300178",
+    "artist_names": "Waterparks",
+    "full_title": "11:11 by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "id": 3300178,
+    "instrumental": false,
+    "lyrics_owner_id": 3240144,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1705717265,
+    "path": "/Waterparks-11-11-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Waterparks-11-11-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 26
+    },
+    "release_date_for_display": "January 26, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 26, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 63343
+    },
+    "title": "11:11",
+    "title_with_featured": "11:11",
+    "updated_by_human_at": 1705717265,
+    "url": "https://genius.com/Waterparks-11-11-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "20 Contributors11:11 Lyrics[Verse]\nYou're the beach on Christmas Eve\nWrong place, good time, consistently\nI feel like a walking love song\nWhen you do me like that can you tell my brain turns off?\n\n[Pre-Chorus]\nMy favorite set of stairs is the one up to your room\nAnd my heavy set of cares evaporates all around you\nEvil comes in pairs and we like what we do\nYou've got me feeling like a walking love song\n\n[Chorus]\nI must've caught you from 11:11\nMy lucky number seven\nI try to hide with my words\nBut you just find me clever\nI found a million places\nYou'd be worth the chases to go-oh-oh\n\nFrom 7-Elevens to California Heavens\nI try to hide with my words\nBut you just find me clever\nI found a million places\nYou'd be worth the chases to go-oh-oh\nYou might also like[Verse 2]\nClick your heels, I'll take you home\nI found your slipper in the cold\nI feel like a played-out love song\nSince when's it hurt so bad?\nCan you help me turn this off?\n\n[Pre-Chorus]\nMy favorite set of stairs is the one up to your room\nAnd my heavy set of cares evaporates all around you\nEvil comes in pairs and we like what we do\nYou've got me feeling like a walking love song\n\n[Chorus]\nI must've caught you from 11:11\nThe lucky number seven\nI try to hide with my words\nBut you just find me clever\nI found a million places\nYou'd be worth the chases to go-oh-oh\n\nFrom 7-Elevens to California Heavens\nI try to hide with my words\nBut you just find me clever\nI found a million places\nYou'd be worth the chases to go-oh-oh\nTo go-oh-oh\n[Bridge]\nLet's tangle our legs again\nThe world doesn't need us to leave our heads\nLet's tie our breath in knots again\nNothing's complicated if we pretend\n\n[Pre-Chorus]\nMy favorite set of stairs is the one up to your room\nAnd my empty set of cares evaporates all around you\nMy favorite time to stare's when my eyes are on you\nYou've got me feeling like a walking love song\n\n[Chorus]\nI must've caught you from 11:11\nThe lucky number seven\nI try to hide with my words\nBut you just find me clever\nI found a million places\nYou'd be worth the chases to go-oh-oh\n\nFrom 7-Elevens to California Heavens\nI try to hide with my words\nBut you just find me clever\nI found a million places\nYou'd be worth the chases to go-oh-oh\nTo go-oh-oh, go-oh-oh, go-oh-oh\n[Outro]\nMy favorite set of stairs is the one up to your room\nAnd my empty set of cares evaporates all around you\nEvil comes in pairs and we like what we do\nYou've got me feeling like a walking love song10Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/3281138",
+    "artist_names": "Waterparks",
+    "full_title": "Blonde by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "id": 3281138,
+    "instrumental": false,
+    "lyrics_owner_id": 5351374,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1637311852,
+    "path": "/Waterparks-blonde-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Waterparks-blonde-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 10,
+     "day": 20
+    },
+    "release_date_for_display": "October 20, 2017",
+    "release_date_with_abbreviated_month_for_display": "Oct. 20, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/43c8120da4aa27d77ba73d219dfc897d.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/43c8120da4aa27d77ba73d219dfc897d.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 92789
+    },
+    "title": "Blonde",
+    "title_with_featured": "Blonde",
+    "updated_by_human_at": 1637311852,
+    "url": "https://genius.com/Waterparks-blonde-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "41 ContributorsBlonde Lyrics[Intro Chorus]\nAt least it's all about you\nI think the blondes are done with fun\nAt least it's all about you\nI think the blondes are done, we're all too cool for fun\n\n[Verse 1]\nI go blonde when I'm sad\nBlew motivation I had\nTo make my still-beating something\nNot hurt that bad\nHaven't been home in some months\nI haven't loved myself\nJust watching friends online\nLook like they need some help\n\n[Pre-Chorus]\nI never wanted to be thinking this loud\nI never asked about the when, why or how\nI wanted privacy, routine and everything between\nWhile they're just finding me out\nI never wanted to be thinking this loud\n\n[Chorus]\nAt least it's all about you\nI think the blondes are done with fun\nAt least it's all about you\nI think the blondes are done\nWe're all too cool for fun\nNo plastic or paper can take her or make her\nShake from the fact she's my world devastator\nYou...\nI think the blondes are done\nWe're all too cool for fun\nYou might also like[Verse 2]\nI go blue when I've had\nA break at home to breathe\nI used to, to crave a getaway\nNow I don't wanna leave\nI was stuck at home for some months\nI didn't love myself\nBefore we sold out shows\nBefore I needed help\n\n[Pre-Chorus]\nI never wanted to be thinking this loud\nI never asked about the when, why or how\nI wanted privacy, routine and everything between\nWhile they're just finding me out\nI never wanted to be thinking this loud\n\n[Chorus]\nAt least it's all about you\nI think the blondes are done with fun\nAt least it's all about you\nI think the blondes are done\nWe're all too cool for fun\nNo plastic or paper can take her or make her\nShake from the fact she's my world devastator\nYou...\nI think the blondes are done\nWe're all too cool for fun\n[Bridge]\nI'm falling from my couch across these states for you\nI feel trapped in contracts, I'm depressed, tied in gift wrap\nI'm seconds from bottles when these seconds feel awful now\nBut I don't for you (you)\n\n[Chorus]\nAt least it's all about you\nI think the blondes are done\n(We're all too cool for fun)\nAt least it's all about you\nI think the blondes are done with fun\nAt least it's all about you\nI think the blondes are done\nWe're all too cool for fun\nNo plastic or paper can take her or make her\nShake from the fact she's my world devastator\nYou...\nI think the blondes are done\nWe're all too cool for fun18Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/3300180",
+    "artist_names": "Waterparks",
+    "full_title": "Peach (Lobotomy) by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "id": 3300180,
+    "instrumental": false,
+    "lyrics_owner_id": 2553734,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1685031546,
+    "path": "/Waterparks-peach-lobotomy-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Waterparks-peach-lobotomy-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 26
+    },
+    "release_date_for_display": "January 26, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 26, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 56684
+    },
+    "title": "Peach (Lobotomy)",
+    "title_with_featured": "Peach (Lobotomy)",
+    "updated_by_human_at": 1685031546,
+    "url": "https://genius.com/Waterparks-peach-lobotomy-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "25 ContributorsPeach (Lobotomy) Lyrics[Verse 1]\nPardon me, summer scene\nYou found me and finders keep\nYou're why I'm sitting here making up songs in my room\nAd-libbing around like bum bum bum bum\nYou're why I keep my Texas sleep hours on tour\nInstead of sleeping around like bum bum-\n\n[Chorus]\nMind your head, I've lost my mind\nFrom thinking about, thinking about you all the time\nMind your head, has lost its sight\nFrom thinking about, thinking about you all the time\nThe la-la-la-lobotomy\nHas taken all of, all of me\nThe la-la-la-lobotomy\nTook all but you\nSo let me go, let me go down\nSo let me go, let me go down\nSo let me go, let me go down\n\n[Verse 2]\nPardon me, cutting sleep\nI'm taking up grinding teeth\nYou're why I'm sitting here, hating myself for needing someone so bad and feeling dumb dumb dumb dumb\nIf why I'm sitting here all goes wrong\nJust push me back to Texas walking bum bum- God damn\nYou might also like[Chorus]\nMind your head, I've lost my mind\nFrom thinking about, thinking about you all the time\nMind, your head, has lost its sight\nFrom thinking about, thinking about you all the time\nThe la-la-la-lobotomy\nHas taken all of, all of me\nThe la-la-la-lobotomy\nIt took all but you\nSo let me go, let me go down\nSo let me go, let me go down\nSo let me go, let me go down\n\n[Bridge]\nSo let me go, let me go down\nLet me go, let me go down\nLet me go, let me go\nSo let me go, let me go down\nLet me go, let me go down\nLet me go, let me go down, down, down, down\nSo let me go, let me go down\n(Let's both talk in circles like infinity signs)\nLet me go, let me go down\n('Cause this won't last forever if we both want to die, right?)\nLet me go, let me go\n[Chorus]\nMind your head, I lost my mind\nFrom thinking about, thinking about you all the time\nMind, your head, has lost its sight\nFrom thinking about, thinking about you all the time\nThe lo-lo-lo-lobotomy\nHas taken all, all of me\nThe lo-lo-lo-lobotomy\nIt took all but you\nSo let me go, let me go down\nSo let me go, let me go down\nSo let me go, let me go down\nSo let me go, let me go down\nSo let me go, let me go down5Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/3300181",
+    "artist_names": "Waterparks",
+    "full_title": "We Need to Talk by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "id": 3300181,
+    "instrumental": false,
+    "lyrics_owner_id": 2553734,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1715696009,
+    "path": "/Waterparks-we-need-to-talk-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 14,
+    "relationships_index_url": "https://genius.com/Waterparks-we-need-to-talk-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 26
+    },
+    "release_date_for_display": "January 26, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 26, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 70276
+    },
+    "title": "We Need to Talk",
+    "title_with_featured": "We Need to Talk",
+    "updated_by_human_at": 1715696009,
+    "url": "https://genius.com/Waterparks-we-need-to-talk-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "35 ContributorsWe Need to Talk Lyrics[Verse 1]\nYour mama likes me and she doesn't like anyone\nYour dumb, drunk friends don't care for me and I always told you so\n\n[Pre-Chorus]\nI wish you didn't tell me I was special\n'Cause now it's far too hard to see through\n'Cause you shine brighter than morning\nAt least I thought you did\n\n[Chorus]\nI really thought you were my four-leaf clover\nI know I'm lonely but I won't come over\nI really thought you were my four-leaf clover\nI really thought that I was lucky (I was lucky)\nI really thought you were my four-leaf clover\nI know I'm lonely but I won't come over\nI really thought you were my four-leaf clover\nI really thought that I was lucky, fuck me\n\n[Verse 2]\nI'm apathetic from this year-long deficit\nYou don't like drama, so why you wanna live on top of it?\nI'm sorry I don't hack your phone like he did\nAnd when you need space to breathe, I'll leave it\nBut who needs space from across the country\nI'm accustomed to feel like nothing, fuck me\nYou might also like[Pre-Chorus]\nI wish you didn't tell me I was special\n'Cause now it's far too hard to see through\n'Cause you shine brighter than morning\nAt least I thought you did\n\n[Chorus]\nI really thought you were my four-leaf clover\nI know I'm lonely but I won't come over\nI really thought you were my four-leaf clover\nI really thought that I was lucky (I was lucky)\nI really thought you were my four-leaf clover\nI know I'm lonely but I won't come over\nI really thought you were my four-leaf clover\nI really thought that I was lucky, fuck me\n\n[Bridge]\nThis line's here to make you think of Burbank\nAnd all our firsts that we lived in LA\nI carried you down the stairs every day\nAnd this line's here to say fuck The 100\nNow out of state plates make me think of something\nThis line's here to make you think of your nose twitch\nThe one I always loved but you were so self-conscious\nI'm haunted\n[Verse 3]\nYour mama likes me and she doesn't like anyone\nYour dumb, drunk friends don't care for me, and I always told you so\n\n[Chorus]\nI really thought you were my four-leaf clover\nI know I'm lonely but I won't come over\nI really thought you were my four-leaf clover\nI really thought that I was lucky (I was lucky)\nI really thought you were my four-leaf clover\nI know I'm lonely but I won't come over\nI really thought you were my four-leaf clover\nI really thought that I was lucky, fuck me\n\n[Outro]\n'Cause you shine brighter than morning\nAt least I thought you did\nI carried you down the stairs every day14Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/3300183",
+    "artist_names": "Waterparks",
+    "full_title": "Not Warriors by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "id": 3300183,
+    "instrumental": false,
+    "lyrics_owner_id": 3920571,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1706688918,
+    "path": "/Waterparks-not-warriors-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 9,
+    "relationships_index_url": "https://genius.com/Waterparks-not-warriors-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 16
+    },
+    "release_date_for_display": "January 16, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 16, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ed12e08fba9372ba81ce605923c5e64c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ed12e08fba9372ba81ce605923c5e64c.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 67341
+    },
+    "title": "Not Warriors",
+    "title_with_featured": "Not Warriors",
+    "updated_by_human_at": 1706678367,
+    "url": "https://genius.com/Waterparks-not-warriors-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "29 ContributorsNot Warriors Lyrics[Verse 1]\nWe tore our phones to shreds\nWe didn't answer nothing\nTo all friends and family: lost or dead\nI couldn't get much sleep\nYou lost yourself in mine\nIt couldn't get much worse\nThan the best time of life\n\n[Chorus]\nThere's nothing in my system\nSo I'm feeling what I feel for you\nI'm sweating out potential\nBut I'm nervous at my central for you\nThere's nothing in my system\nSo I'm feeling what I feel for you\nThere's nothing left to miss\nExcept the shots I take and phone calls from you\nAnd I just need you to feel it too\n\n[Verse 2]\nOur residence is in this bed\nAll I want's The Office\nAnd what's awful is-\n\"Don't think like that\"\nYou couldn't get much sleep\nI found you just in time\nBut hey, for what it's worth\nI think you saved my life\nYou might also like[Chorus]\nThere's nothing in my system\nSo I'm feeling what I feel for you\nI'm sweating out potential\nBut I'm nervous at my central for you\nThere's nothing in my system\nSo I'm feeling what I feel for you\nThere's nothing left to miss\nExcept the shots I take and phone calls from you\nAnd I just need you to feel it too\n\n[Bridge]\nOh-oh, oh-oh\nI think I'll die obsessed\nOh-oh, oh-oh\nLet's give up fighting back\nOh-oh, oh-oh\nYou don't need to grip the best (oh-oh, oh-oh)\nBecause we're lucky people\nAnd you'll never have to sleep alone\n\n(I couldn't get much sleep\nI found you just in time\nI couldn't get much sleep\nI found you just in time\nHey, for what it's worth)\nI think you saved my life\n[Chorus]\nThere's nothing in my system\nSo I'm feeling what I feel for you\nI'm sweating out potential\nBut I'm nervous at my central for you\nThere's nothing in my system\nSo I'm feeling what I feel for you\n(There's nothing in my system\nSo I'm feeling what I feel for you)\nThere's nothing left to miss\nExcept the shots I take and phone calls from you\n(There's nothing left to miss\nExcept the shots I take and phone calls from you)\nAnd I just need you to feel it too\n(I'm sweating out potential\nBut I'm nervous at my central for you)\nAnd I just need you to feel it too9Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/3300185",
+    "artist_names": "Waterparks",
+    "full_title": "Lucky People by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "id": 3300185,
+    "instrumental": false,
+    "lyrics_owner_id": 3920571,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721022811,
+    "path": "/Waterparks-lucky-people-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Waterparks-lucky-people-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 12,
+     "day": 13
+    },
+    "release_date_for_display": "December 13, 2017",
+    "release_date_with_abbreviated_month_for_display": "Dec. 13, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/081f1cce09d24a44089f33ccd2050da5.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/081f1cce09d24a44089f33ccd2050da5.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 84114
+    },
+    "title": "Lucky People",
+    "title_with_featured": "Lucky People",
+    "updated_by_human_at": 1721022811,
+    "url": "https://genius.com/Waterparks-lucky-people-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "28 ContributorsLucky People Lyrics[Verse 1]\nLight us up until we pop\nI wanna burn bright 'til we're not\nLet's keep each other safe from the world\nI'll be your optimistic black hole\nFull of love I can't control\nLet's keep each other safe from the world\nFrom the world\n\n[Chorus]\nHappy birthday, Merry Christmas\nTo the one I call my missus\nI'm leaving you love notes in the kitchen that say it all\nI know you said to mind my business\nBut Cupid sent me on a mission\nThat's got me sitting, wishing, waiting for your call\nLet's be lucky people, you and me\nOoh, ooh, ooh\n\n[Verse 2]\nMy hourglass is in your hands\nYou've got my time, you are my plans\nLet's keep each other safe from the world\nYou've got me writing sappy songs\nI used to laugh at on my own\nLet's keep each other safe from the world\nYou might also like[Pre-Chorus]\n'Cause I know it's hard to let yourself be fine\nWhen we carry 'round our worried flurried minds\nBut I'll let go if you do too\n\n[Chorus]\nHappy birthday, Merry Christmas\nTo the one I call my missus\nI'm leaving you love notes in the kitchen that say it all\nI know you said to mind my business\nBut Cupid sent me on a mission\nThat's got me sitting, wishing, waiting for your call\nLet's be lucky people, you and me\nOoh, ooh, ooh\n\n[Bridge]\nMy common sense is powerless\nAnd I'm convinced that you\nHave caught me, luck is just the half of it\nThe better half of me that I couldn't quit\n'Cause now I'm flying 'cross the country\nMore than monthly for you\nYou've got me more than clumsy\nBut you're my yellow, lovely\n\n[Chorus]\nHappy birthday, Merry Christmas\nTo the one I call my missus\nI'm leaving you love notes in the kitchen that say it all\nI know you said to mind my business\nBut Cupid sent me on a mission\nThat's got me sitting, wishing, waiting for your call18Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/3300186",
+    "artist_names": "Waterparks",
+    "full_title": "Rare by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "id": 3300186,
+    "instrumental": false,
+    "lyrics_owner_id": 2553734,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1675386324,
+    "path": "/Waterparks-rare-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/Waterparks-rare-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 26
+    },
+    "release_date_for_display": "January 26, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 26, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 45520
+    },
+    "title": "Rare",
+    "title_with_featured": "Rare",
+    "updated_by_human_at": 1675386325,
+    "url": "https://genius.com/Waterparks-rare-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "17 ContributorsRare Lyrics[Verse 1]\nI save my metaphors for rainy days\nWhen I'm too phased, but that's not here or there so I'll give you the phrase that pays\n'Cause we're not seventeen, but you're my teenage dream\nIf there's a chance we'll sink then I don't even wanna try\nTo sleep or dream\nTo sleep or dream\n\n[Chorus]\nI just hope it's nicer where you are\n'Cause I only want to lift you up\nI guess I never really said enough\nFor you to hear me where you are\n'Cause I only want to lift you up\nI guess I never really said enough\nSo let me tell you now\n\nMy tired thoughts don't take vacations, oh no\nYou float up in conversations, oh no\nYou're my final destination, I know\nYou're probably fine there\nJust know I think you're rare\n(Just know I think you're rare\nJust know I think you're-)\n\n[Verse 2]\nLet's make some plans for time to waste\nYour Cali gaze has stuck me spinning, dripping sweetness hidden in my face\n'Cause we're not seventeen, but you're my teenage dream\nIf there's a chance we'll sink then I don't even wanna try\nTo sleep or dream\nTo sleep or dream\nYou might also like[Chorus]\nI just hope it's nicer where you are\n'Cause I only want to lift you up\nI guess I never really said enough\nFor you to hear me where you are\n'Cause I only want to lift you up\nI guess I never really said enough\nSo let me tell you now\n\nMy tired thoughts don't take vacations, oh no\nYou float up in conversations, oh no\nYou're my final destination, I know\nYou're probably fine there\nJust know I think you're rare\n\n[Bridge]\nYou know I think you're rare\nI wasn't prepared\nI\u2019ve got to say\nI think it's weird I need your love\nI\u2019ve clocked 300 ways\nYou know I think you're rare\nI wasn't prepared\nAnd now my stomach's cold\n\n[Chorus]\nAnd I hope it's nicer where you are\n'Cause I only want to lift you up\nI guess I never really said enough\nFor you to hear me where you are\n'Cause I only want to lift you up\nI guess I never really said enough\nSo let me tell you now\nMy tired thoughts don't take vacations, oh no\nYou float up in conversations, oh no\nYou're my final destination, I know\nYou're probably fine there\nJust know I think you're rare\n(Just know I think you're rare)7Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/3300187",
+    "artist_names": "Waterparks",
+    "full_title": "TANTRUM by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "id": 3300187,
+    "instrumental": false,
+    "lyrics_owner_id": 5169910,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1692800135,
+    "path": "/Waterparks-tantrum-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 12,
+    "relationships_index_url": "https://genius.com/Waterparks-tantrum-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 26
+    },
+    "release_date_for_display": "January 26, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 26, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 106378
+    },
+    "title": "TANTRUM",
+    "title_with_featured": "TANTRUM",
+    "updated_by_human_at": 1692790863,
+    "url": "https://genius.com/Waterparks-tantrum-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "59 ContributorsTANTRUM Lyrics[Intro]\nFuck these fuckboy bands that can't think for themselves\nLet's put away our black clothes and start cutting up our voices. That's what's cool now, right?\n\n[Verse 1]\nIf I wasn't thin and white with blue hair would I be here?\nMaybe if I kill myself you'll know I'm sincere\nI'll shave my blue hair\nBurn the rest of two dares\nDrop from 'parks\nLike \"fuck it, who cares?\"\nBut I'll tell you:\n\n[Pre-Chorus 1]\nI resent the party scene\nWith a part of me that's hard to see\nIt's turned my starry friends\nTo uninspired's lacking symmetry\n\n[Chorus]\nHey, look what you've done now\nI'm fucked and hope you're proud\nWhile you follow around, around round round round\nHey, look what you've done now\nI'm fucked and hope you're proud\nWhile you follow around, around round round round\nYou might also likeSo, excuse my tantrum\nCan't you see I've got my hands full?\n\n[Verse 2]\nI'm getting texts from idols I've looked up to since 15\nBut now people use my friends to try to get to me (Fuck you)\nBut we don't know you, you don't know we\nWe're freaked out and fragile\nIt's become more than a hassle\nBut I'll tell you:\n\n[Pre-Chorus 2]\nI resent the party scene\nWith a part of me that's hard to see\nIt's turned my starry friends\nTo uninspired's lacking symmetry\nI resent the party scene\nWith a part of me that's hard to see\nIt's turned my starry friends\nTo uninspired's lacking symmetry\n\n[Chorus]\nHey, look what you've done now\nI'm fucked and hope you're proud\nWhile you follow around, around round round round\nHey, look what you've done now\nI'm fucked and hope you're proud\nWhile you follow around, around round round round\n[Bridge]\nLoud gets lonely\nLoud gets lonely\nLoud gets lonely\n\nBut I've just got a couple more things to say really quick\n\nTo a certain married mister\nThat tried to move on my missus (Cam)\nTry to come around again\nYou'll catch some swings and no misses\nAnd to the rest\nI'll keep them nameless\n-Nah fuck it, here we go:\n\nIt's Richard and Clayton\nAnd John-shit Will, yeah, y'all made it\nAnd if I see you in person\nI'm taking teeth\nTrust, you've earned this\n\n[Outro]\nThank you for coming by, today was a really good day12Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/3300188",
+    "artist_names": "Waterparks",
+    "full_title": "Crybaby by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "id": 3300188,
+    "instrumental": false,
+    "lyrics_owner_id": 5169910,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719186845,
+    "path": "/Waterparks-crybaby-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Waterparks-crybaby-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 26
+    },
+    "release_date_for_display": "January 26, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 26, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 35873
+    },
+    "title": "Crybaby",
+    "title_with_featured": "Crybaby",
+    "updated_by_human_at": 1719186846,
+    "url": "https://genius.com/Waterparks-crybaby-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "22 ContributorsCrybaby Lyrics[Verse 1]\nI just want to be invisible with you\nI drift in and out of time zones with you\nJust squeeze me until my skin turns to dark blue\nMy pity party's not the same without you\n\n[Chorus]\nI don't wanna be your crybaby\nI don't wanna be your crybaby now\nI don't wanna be your crybaby\nI don't wanna be your crybaby now\n\n[Verse 2]\nYou're the morning I can't wait to wake to\nAfter chasing you through my dreams in bloom\nI'll please you until you're sick of me in full\nMaybe I can sleep through my mood 'til June\n\n[Chorus]\nI don't wanna be your crybaby\nI don't wanna be your crybaby now\nI don't wanna be your crybaby\nI don't wanna be your crybaby now\nI don't wanna be your crybaby\nI don't wanna be your crybaby now\nI don't wanna be your crybaby\nI don't wanna be your crybaby now\nYou might also like[Bridge]\nNow I'm squinting at life through my sad, sour vision\nYour silent sting concretely left my face twisted\nYour mess in my chest has me stressed and depressed\nDo your eyes miss my name\nWhen you check on your texts, or not?\n\nNothing, nothing good comes from late night thinking\nDon't you, don't you know it's that gloom boy season?\nNothing, nothing good comes from late night thinking\nI thought I told you it's that gloom boy season?\n\n[Chorus]\nI don't wanna be your crybaby\nI don't wanna be your crybaby now\nI don't wanna be your crybaby\nI don't wanna be your crybaby now\nI don't wanna be your crybaby\nI don't wanna be your crybaby now\nI don't wanna be your crybaby\nI don't wanna be your crybaby now\nI don't wanna be your crybaby\nI don't wanna be your crybaby now6Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/3300190",
+    "artist_names": "Waterparks",
+    "full_title": "Sleep Alone by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "id": 3300190,
+    "instrumental": false,
+    "lyrics_owner_id": 5169910,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1699713463,
+    "path": "/Waterparks-sleep-alone-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Waterparks-sleep-alone-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 26
+    },
+    "release_date_for_display": "January 26, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 26, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6ae5234c89e936e16a95a9104904099e.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 32188
+    },
+    "title": "Sleep Alone",
+    "title_with_featured": "Sleep Alone",
+    "updated_by_human_at": 1699713463,
+    "url": "https://genius.com/Waterparks-sleep-alone-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "30 ContributorsSleep Alone Lyrics[Verse 1]\nYou hold me by the heart and you wear my soul\nLast week showed me I'm scared to be all alone\nI'm selling out to the dream, I'll be cool on my own\nI feel dead and a half, but you're making me laugh\n\n[Pre-Chorus]\nYou're the lucid, plain view Cupid found\nYou're the blueprint to my stupid sounds\n\n[Chorus]\nMy face feels hot and blue\nMy hands still count on you to let me down\nArticulate and lonely enough for the two of us\nIf you want, if you want, if you want to\nYou can call me on my phone, I'll run to you\nYou won't ever have to sleep alone\nYou can call me on my phone, I'll come to you\nYou won't ever have to sleep, sleep, sleep alone\n\n[Verse 2]\nLiving in the dark makes our light seem cold\nI distract myself awake, but in my dreams you're playing our song\nI'll tell my friends we made amends, tying up loose ends, they're not sold\nBut if you want it you can have it, you can have me in full\nYou might also like[Pre-Chorus]\nYou're the lucid, plain view Cupid found\nYou're the blueprint to my stupid sounds\n\n[Chorus]\nMy face feels hot and blue\nMy hands still count on you to let me down\nArticulate and lonely enough for the two of us\nIf you want, if you want, if you want to\nYou can call me on my phone, I'll run to you\nYou won't ever have to sleep alone\nYou can call me on my phone, I'll come to you\nYou won't ever have to sleep, sleep, sleep alone\n\n[Pre-Chorus]\nYou're the lucid, plain view Cupid found\nYou're the blueprint to my stupid sounds\n\n[Chorus]\nMy face feels hot and blue\nWhen I'm alone with you\nLoneliness was built for two\nDo you want, do you want, do you want to\nYou can call me on my phone, I'll run to you\nYou won't ever have to sleep alone\nYou can call me on my phone, I'll come to you\nYou won't ever have to sleep, sleep, sleep alone\n[Outro]\nMy face feels hot and blue\nWhen I'm alone with you\nMy face feels hot and blue\nWhen I'm alone with you\nMy face feels hot and blue\nWhen I'm alone with you\nMy face feels hot and blue\nWhen I'm alone with you10Embed"
+   }
+  }
+ ]
+}

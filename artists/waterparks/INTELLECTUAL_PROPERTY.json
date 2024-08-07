@@ -1,0 +1,928 @@
+{
+ "_type": "album",
+ "api_path": "/albums/875752",
+ "cover_art_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+ "full_title": "INTELLECTUAL PROPERTY by Waterparks",
+ "id": 875752,
+ "name": "INTELLECTUAL PROPERTY",
+ "name_with_artist": "INTELLECTUAL PROPERTY (artist: Waterparks)",
+ "release_date_components": {
+  "year": 2023,
+  "month": 4,
+  "day": 14
+ },
+ "release_date_for_display": "April 14, 2023",
+ "url": "https://genius.com/albums/Waterparks/Intellectual-property",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/608075",
+  "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+  "id": 608075,
+  "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Waterparks",
+  "slug": "Waterparks",
+  "url": "https://genius.com/artists/Waterparks",
+  "iq": 112
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/608075",
+   "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+   "id": 608075,
+   "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+   "index_character": "w",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Waterparks",
+   "slug": "Waterparks",
+   "url": "https://genius.com/artists/Waterparks",
+   "iq": 112
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/8209102",
+    "artist_names": "Waterparks",
+    "full_title": "ST*RFUCKER by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "id": 8209102,
+    "instrumental": false,
+    "lyrics_owner_id": 5874245,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721705112,
+    "path": "/Waterparks-strfucker-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Waterparks-strfucker-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 4,
+     "day": 14
+    },
+    "release_date_for_display": "April 14, 2023",
+    "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 11,
+     "hot": false,
+     "pageviews": 24314
+    },
+    "title": "ST*RFUCKER",
+    "title_with_featured": "ST*RFUCKER",
+    "updated_by_human_at": 1721705112,
+    "url": "https://genius.com/Waterparks-strfucker-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "30 ContributorsST*RFUCKER Lyrics[Intro]\n(Yo, imagine an album starting with this)\n(Like a big breath, close your eyes and shit)\n\n[Verse 1]\nI'm gonna move out of my loft\nAnd into a limousine\nSo I can drive you fuckin' crazy\nAnd crash out where I sleep, yeah\nJesus Christ won't text me back\nI'll always be around, in fact\nI'm climbin' up to your window now\nRunnin' back to you at the speed of sound\n\n[Chorus]\nIt's been a pleasure\nIt's nice to meet you\nIt's been a pleasure\nIt's nice to meet you\nIt's been a pleasure (So destroy my world, I'll tape the cracks)\nIt's nice to meet you ('Cause what you give out's what you get back)\nIt's been a pleasure (I'll stop the world, I'll tape the cracks)\nIt's nice to meet you (What you give out's what you get back)\n\n[Verse 2]\nMaybe I'm a soul-sucker\nBut you're just a starfucker\nI signed somebody's NDA\nI'll go away, but LA's such a fuckin' weird place (One, two, three, four)\nBet you wouldn't ask me to do that by this time next year\nYou can't hide my face but save me for a rainy day, it don't go two ways (No)\nI don't wanna be toxic, I just wanna be honest\nBut this shit hits like a comet and it just hurts 'cause I want it\nYeah, it just hurts 'cause I want it\nYou might also like[Chorus]\nIt's been a pleasure\nIt's nice to meet you\nIt's been a pleasure\nIt's nice to meet you\nIt's been a pleasure (So destroy my world, I'll tape the cracks)\nIt's nice to meet you ('Cause what you give out's what you get back)\nIt's been a pleasure (I'll stop the world, I'll tape the cracks)\nIt's nice to meet you (What you give out's what you get back)\n(That's the law of attract\u2014)\n\n[Outro]\nI'm saying picture that but, like, right before things go darkEmbed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/8342137",
+    "artist_names": "Waterparks",
+    "full_title": "REAL SUPER DARK by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "id": 8342137,
+    "instrumental": false,
+    "lyrics_owner_id": 5874245,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1682165570,
+    "path": "/Waterparks-real-super-dark-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Waterparks-real-super-dark-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 1,
+     "day": 26
+    },
+    "release_date_for_display": "January 26, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jan. 26, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 10,
+     "hot": false,
+     "pageviews": 32141
+    },
+    "title": "REAL SUPER DARK",
+    "title_with_featured": "REAL SUPER DARK",
+    "updated_by_human_at": 1682165570,
+    "url": "https://genius.com/Waterparks-real-super-dark-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "50 ContributorsREAL SUPER DARK Lyrics[Intro]\nLet me speak to your manager\n\n[Verse 1]\nOh, you mean Benji? He's fuckin' busy\n'Cause I just drove through AP on my brand-new jet ski\nSo leave some tears after the **** if you're feelin'\u205fsilly\nI'll\u205fcall\u205fyou, beep you\u205flater if Otto\u205fdoesn't serial kill me (Otto, I'm sorry, stop)\n\n[Verse 2]\nI'm out of my cage and I'm on the stage\nI'm dyin' to give you a show\nI'm alienated, way overrated\nHere are a few of the notes\nMy fans are the best, they'd love me more dead\nBut, man, I can't die 'til I finish the album\n'Cause if I could time it right, shit could go Platinum\nBut, baby, it's gettin' too loud\n\n[Pre-Chorus]\nDa-da-da, da-da, da-da, da-da\nDa-da-da, da-da, da-da\n\n[Chorus]\nAnd everyone's freakin' me out (Woo)\nI wake up and I'm up and I'm down (Up, up, up)\nYo, shut the fuck out of your mouth\nBite tongue 'til there's blood in my mouth (Bleh)\nIt freaks me out\nYou might also like[Interlude]\n(Otto, where are you going?)\n(Otto, get in the car, get back in the car)\n\n[Verse 3]\nI'm Miss Congeniality, everybody's proud of me\nBut when they try and tell me, volume's muted like they're sound asleep\nTherapy's not working, I don't understand so\nI kill time playin' tennis with your favorite band, we're singin'\n\n[Pre-Chorus]\nDa-da-da, da-da, da-da, da-da (Woo)\nDa-da-da, da-da, da-da (One more fuckin' time)\n\n[Chorus]\nAnd everyone's freakin' me out (Woo)\nI wake up and I'm up and I'm down (Up, up, up)\nYo, shut the fuck out of your mouth\nBite tongue till there's blood in my mouth (Bleh)\nIt freaks me out\nIt freaks me out\n(Where the fuck are you going?)\n\n[Bridge]\nIt gets real super dark\nAround the edge of my heart\nAround the edge of my heart\nIt gets real fuckin' dark\nAround the edge of my heart\nAround the edge of my heart (Go)\nGets real super dark\nAround the edge of my heart\nAround the edge of my heart\nIt gets real fuckin' dark\nAround the edge of my heart\nAround the edge of my heart\n[Outro]\n(Otto, don't be mad at this)\n(Woo, yeah! Otto! Otto!)\n(Oh, man, you don't look so good)2Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/7880708",
+    "artist_names": "Waterparks",
+    "full_title": "FUNERAL GREY by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/e82255573f1f612d395aff94f3a8c6ae.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/e82255573f1f612d395aff94f3a8c6ae.1000x1000x1.jpg",
+    "id": 7880708,
+    "instrumental": false,
+    "lyrics_owner_id": 6241968,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1693880151,
+    "path": "/Waterparks-funeral-grey-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Waterparks-funeral-grey-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 5,
+     "day": 13
+    },
+    "release_date_for_display": "May 13, 2022",
+    "release_date_with_abbreviated_month_for_display": "May. 13, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2132f08af5ef0ae060458510cfdbecf9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/2132f08af5ef0ae060458510cfdbecf9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 40734
+    },
+    "title": "FUNERAL GREY",
+    "title_with_featured": "FUNERAL GREY",
+    "updated_by_human_at": 1693872787,
+    "url": "https://genius.com/Waterparks-funeral-grey-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "44 ContributorsFUNERAL GREY Lyrics[Verse 1]\n11 PM, she walked in with her friends\nAnd now I'm trippin' off the deep end (Deep end)\nSo call me a Lyft or a black hearse\n'Cause I know you'll make my head spin, yeah\nAnd I said, \"What's your favorite color?\"\nShe pointed at her waist\nAnd I said, \"That's not a color, it's a shade\"\nShe said, \"Don't disagree with me\"\n\n[Chorus]\nAnd then she walked away, I didn't get her name\nI can't explain the look on her face (Woo)\nShe wore a sweater in summer weather, yeah\nShe wore a sweat\u0435r, it was funeral grey\nAnd now it's killing me\nI just want you to b\u0435 my next mistake that I'm gonna make (Oh)\nShe wore a sweater in summer weather, yeah\nShe wore a sweater, it was funeral grey\n\n[Verse 2]\n3 AM, she walked in, took a hit\nI said, ''That shit is gonna kill you'' (kill you)\nShe kinda smiled and she blew it in my face\nAnd said ''Well, now you're gonna die too''\nI said that you can call me, beep me if you want my skin\nShe rolled her eyes, and then she said\n\"I know your dying wish is to be baptized in my spit\"\nYou might also like[Chorus]\nAnd then she walked away, I didn't get her name\nI can't explain the look on her face\nShe wore a sweater in summer weather, yeah\nShe wore a sweater, it was funeral grey\nAnd now it's killing me\nI just want you to be my next mistake that I'm gonna make (Oh)\nShe wore a sweater in summer weather, yeah\nShe wore a sweater, it was funeral grey\n\n[Post-Chorus]\nFloat my way, I'm melting for you\nFloat my way, I'm melting for you\n\n[Chorus]\nShe walked away, I didn't get her name\nI can't explain the look on her face\nShe wore a sweater in summer weather, yeah\nShe wore a sweater, it was funeral grey\nAnd now it's killing me\nI just want you to be my next mistake that I'm gonna make (Oh)\nShe wore a sweater in summer weather, yeah\nShe wore a sweater, it was funeral grey\n\n[Post-Chorus]\nFloat my way, I'm melting for you\nFloat my way, I'm melting for you8Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/8071482",
+    "artist_names": "Waterparks",
+    "full_title": "BRAINWASHED by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "id": 8071482,
+    "instrumental": false,
+    "lyrics_owner_id": 13022163,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1715559017,
+    "path": "/Waterparks-brainwashed-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Waterparks-brainwashed-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 10
+    },
+    "release_date_for_display": "March 10, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 10, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 13,
+     "hot": false,
+     "pageviews": 31822
+    },
+    "title": "BRAINWASHED",
+    "title_with_featured": "BRAINWASHED",
+    "updated_by_human_at": 1721001937,
+    "url": "https://genius.com/Waterparks-brainwashed-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "43 ContributorsBRAINWASHED Lyrics[Verse 1]\nWhat's up? Hello, I'm tryna meet ya\nShocked at the words comin' from my tongue\nA language that I'm not familiar, oh\nDon't take it away, I wanna play, where did the time fly?\nWhat if I pray? Hopin' you'll stay into the daylight\nWait, what am I sayin'? I feel insane\nIt's only been a couple days\n\n[Chorus]\nI'm havin' the same thoughts, can't stop\nThinkin' you've got me brainwashed\nI'm see-through, need you\nWhy do I think you're so cool?\nEverything's clean except for my thoughts (Yeah)\nThinkin' about me gettin' you off\nIt's been a week, I'm still at your house\nI don't wanna leave, it's freakin' me out\n\n[Post-Chorus]\nOh, I don't wanna leave, it's freakin' me out\nOh, oh\n\n[Verse 2]\nWhy am I actin' like that?\nMy day's fucked 'til you finally wanna text back\nI put some extra on my laugh when you say things\nAre you really that funny or am I hallucinatin'? Like\nI'm slippin' away, livin' the life, opened the floodgates\nGive me my space, give me your face at the same time\nIt's like my brain isn't mine, you moved into my mind\nDropped your bags, drew the blinds\nYou might also like[Chorus]\nNow I'm havin' the same thoughts, can't stop\nThinkin' you've got me brainwashed\nI'm see-through, need you\nWhy do I think you're so cool? (One, two, one, two, three, four)\nEverything's clean except for my thoughts (Yeah)\nThinkin' about me gettin' you off\nIt's been a week, I'm still at your house\nI don't wanna leave, it's freakin' me out\n\n[Post-Chorus]\nOh, I don't wanna leave, it's freakin' me out\nOh, oh\n\n[Bridge]\nThe syndrome feels Stockholm\nI'm like, \"Do you wanna keep me on lock though?\" Yeah\nSymmetrical feelings\nMatch best when we're starin' at the ceilin' (Yeah)\nThe syndrome feels Stockholm\nI'm like, \"Do you wanna keep me on lock though?\" Yeah\nSymmetrical feelings\nMatch best when we're starin' at the ceilin'\n\n[Chorus]\nI'm havin' the same thoughts, can't stop\nThinkin' you've got me brainwashed\nI'm see-through, need you\nWhy do I think you're so cool?\nEverything's clean except for my thoughts (Yeah)\nThinkin' about me gettin' you off (Gettin' you off)\nIt's been a week, I'm still at your house\nI don't wanna leave, it's freakin' me out\n[Post-Chorus]\nOh, I don't wanna leave, it's freakin' me out\nOh, oh3Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/8064098",
+    "artist_names": "Waterparks",
+    "full_title": "2 BEST FRIENDS by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "id": 8064098,
+    "instrumental": false,
+    "lyrics_owner_id": 5874245,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1687827189,
+    "path": "/Waterparks-2-best-friends-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Waterparks-2-best-friends-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 4,
+     "day": 14
+    },
+    "release_date_for_display": "April 14, 2023",
+    "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 17956
+    },
+    "title": "2 BEST FRIENDS",
+    "title_with_featured": "2 BEST FRIENDS",
+    "updated_by_human_at": 1687827189,
+    "url": "https://genius.com/Waterparks-2-best-friends-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "29 Contributors2 BEST FRIENDS Lyrics[Verse 1]\nI'm tryin' to turn my mind off\nBut I don't know where to go when the night's long\nYeah, with the blinds drawn and the lights off\nI coulda picked your body in a lineup\n\n[Pre-Chorus]\nNow I'm sick of waitin' on you\nTo call when you're out every night\nYeah, I'm sick of playin' it cool\nWhen, baby, really I, I wanna die\n\n[Chorus]\nSo I went out with my two best friends\nTried anything not to think of ya\nIt didn't work and I feel like shit\nWake up tomorrow and try again\nI went out with my two best friends\nTried anything not to think of ya\nIt didn't work and I feel like shit\nWake up tomorrow and try again, yeah\n\n[Verse 2]\nYou hit back with the syntax\nYou treated my heart like a handbag\nSo now I'm solo when the night's cold\nYeah, I kissed a couple people, but they taste wrong\nYou might also like[Pre-Chorus]\nYou know I'm sick of waitin' on you\nTo call when you're out every night\nYeah, I'm sick of playin' it cool\nWhen, baby, really I, I wanna die\n\n[Chorus]\nSo I went out with my two best friends\nTried anything not to think of ya\nIt didn't work and I feel like shit\nWake up tomorrow and try again\nI went out with my two best friends\nTried anything not to think of ya\nIt didn't work and I feel like shit\nWake up tomorrow and try again, yeah\n\n[Chorus]\nI went out with my two best friends\nTried anything not to think of ya\nIt didn't work and I feel like shit\nWake up tomorrow and try again (Woo)\nI went out with my two best friends\nTried anything not to think of ya\nIt didn't work and I feel like shit\nWake up tomorrow and try again1Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/8568759",
+    "artist_names": "Waterparks",
+    "full_title": "END OF THE WATER (FEEL) by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "id": 8568759,
+    "instrumental": false,
+    "lyrics_owner_id": 5874245,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1693343428,
+    "path": "/Waterparks-end-of-the-water-feel-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Waterparks-end-of-the-water-feel-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 4,
+     "day": 14
+    },
+    "release_date_for_display": "April 14, 2023",
+    "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 16865
+    },
+    "title": "END OF THE WATER (FEEL)",
+    "title_with_featured": "END OF THE WATER (FEEL)",
+    "updated_by_human_at": 1693343428,
+    "url": "https://genius.com/Waterparks-end-of-the-water-feel-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "30 ContributorsEND OF THE WATER (FEEL) Lyrics[Chorus]\nIf you feel it, then I feel it too\nIf you believe me, I could be your truth\nIf you feel it, then I feel it too\nIf you need me, all I need\u205fis\u205fyou\u205f(Wait)\n\n[Verse 1]\nWhy we ghost\u205feach other for\u205fa week at a time?\nBoth waitin' for each other to reply\nMake plans and let 'em fall through\nI can't even call you, let alone call you mine\nI can be nonchalant\nIf that's what you really want\nBut I'm just glad you and I\nAre alive at the same time\n\n[Chorus]\nIf you feel it, then I feel it too\nIf you believe me, I could be your truth\nIf you feel it, then I feel it too\nIf you need me, all I need is you\n\n[Verse 2]\nWe can't take back what we nev\u0435r gave\nAnd that distance keeps us safe\nBut nobody told m\u0435 that safe is so lonely\nNow I'm checkin' DMs again\n'Til I'm thinkin' 'bout your face instead\nIt's d-d-d-d-decorated in my head\nWhy can't we act like you and I\nAre alive at the same time? (Alive at the same time)\nYou might also like[Chorus]\nIf you feel it, then I feel it too\nIf you believe me, I could be your truth\nIf you feel it, then I feel it too\nIf you need me, all I need is you\n\n[Bridge]\nDo you feel it? 'Cause I feel it too\nDo you need it? 'Cause I need it too\nDo you feel it? 'Cause I feel it too\nAnd do you need it? 'Cause I need it too\nDo you feel it, do you feel it, do you feel it too?\n\n[Outro: Kurtis Conner]\nYou know, a little bit of livin', a little bit of lovin'\nA little bit of kissin', a little bit of huggin', you know?\nThat's what I'm feelin'Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/8172269",
+    "artist_names": "Waterparks",
+    "full_title": "SELF-SABOTAGE by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/e82255573f1f612d395aff94f3a8c6ae.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/e82255573f1f612d395aff94f3a8c6ae.1000x1000x1.jpg",
+    "id": 8172269,
+    "instrumental": false,
+    "lyrics_owner_id": 12243531,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1713419315,
+    "path": "/Waterparks-self-sabotage-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Waterparks-self-sabotage-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 7,
+     "day": 7
+    },
+    "release_date_for_display": "July 7, 2022",
+    "release_date_with_abbreviated_month_for_display": "Jul. 7, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6e3bab555b93febd36981d3367bf167c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6e3bab555b93febd36981d3367bf167c.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 25429
+    },
+    "title": "SELF-SABOTAGE",
+    "title_with_featured": "SELF-SABOTAGE",
+    "updated_by_human_at": 1713419315,
+    "url": "https://genius.com/Waterparks-self-sabotage-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "24 ContributorsSELF-SABOTAGE Lyrics[Verse 1]\nWhen we talk, I'm never wrong\nAnd if we don't fight, it won't last long\nMight unplug my phone at night\nWhen you need me most, I'll miss that flight\n\n[Pre-Chorus]\nIt's avoidable, I'll destroy chances to be\nBetter than I was before you and me\nNow we're at the part where you'll hate what you see\nWhat the fuck is wrong with me?\n\n[Chorus]\nI'm on my way to you, but I self-sabotage\nSo I might drive my car and crash into your garage, ooh\nTo get away from you, I'll self-sabotage\nIf you like when we talk, I'll dislocate my jaw, ooh\n\n[Post-Chorus]\nWhat the fuck is wrong with me? (Yeah, yeah)\nWhat the fuck is wrong with me? (Y\u0435ah, yeah)\n\n[Verse 2]\nI'll piss you off and ask what's wrong\nAnd your reason's not good enough, no, no\nI want this to work so bad\nBut I want what I can't hav\u0435, no\nYou might also like[Pre-Chorus]\nMake plans and break them to see what you say\nAnd then I'll be upset when you're mad for the day\n'Cause you put on makeup and I'm still in bed\nWhat the fuck is wrong with me?\n\n[Chorus]\nI'm on my way to you, but I self-sabotage\nSo I might drive my car and crash into your garage, ooh\nTo get away from you, I'll self-sabotage\nIf you like when we talk, I'll dislocate my jaw, ooh\n\n[Post-Chorus]\nWhat the fuck is wrong with me? (Yeah, yeah)\nWhat the fuck is wrong with me? (Yeah, yeah)\n\n[Chorus]\nI'm on my way to you, but I self-sabotage\nSo I might drive my car and crash into your garage, ooh\nTo get away from you, I'll self-sabotage\nIf you like when we talk, I'll dislocate my jaw, ooh\n\n[Post-Chorus]\nWhat the fuck is wrong with me? (Yeah, yeah)\nWhat the fuck is wrong with me? (Yeah, yeah)\nWhat the fuck is wrong with me? (Yeah, yeah)\nWhat the fuck is wrong with me?5Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/8087611",
+    "artist_names": "Waterparks",
+    "full_title": "RITUAL by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "id": 8087611,
+    "instrumental": false,
+    "lyrics_owner_id": 13523373,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1697432135,
+    "path": "/Waterparks-ritual-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Waterparks-ritual-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 4,
+     "day": 14
+    },
+    "release_date_for_display": "April 14, 2023",
+    "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 26693
+    },
+    "title": "RITUAL",
+    "title_with_featured": "RITUAL",
+    "updated_by_human_at": 1697432135,
+    "url": "https://genius.com/Waterparks-ritual-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "33 ContributorsRITUAL Lyrics[Intro]\nWhat if I want to have sex before I get married?\nWell, I guess you just have to be prepared to die\n\n[Verse]\nMy inner child needs a bulletproof vest and a phone that can't text\nAnd twenty years rest\nBuild a bomb shelter, bite a belt for the stress\nNever know what's next, next\nSleepin' with my clothes on in case shit goes wrong\nGotta clear my front lawn off\nSleepin' with my clothes on in case shit goes wrong\nGotta clear my front lawn off\n\n[Pre-Chorus]\nMelatonin eyes feel h\u0435avy tonight\nI could sleep for weeks and speak in Z's\nDon't look for me, don't look for me\n\n[Chorus]\nTh\u0435y're killin' me when I'm fast asleep\nAre you hearin' me when I say you're bleedin' me out?\nWith all the things you don't say, I'm livin' fuckin' betrayed\nLivin' like I'm dead and on my own\nYou're killin' me when I'm fast asleep\nLike a ritual (Yeah)\nYou might also like[Verse]\nMy inner child needs a bulletproof vest and a phone that can't text\nAnd twenty years rest\nBuild a bomb shelter, bite a belt for the stress\nNever know what's next, next\nSleepin' with my clothes on in case shit goes wrong\nGotta clear my front lawn off\nSleepin' with my clothes on in case shit goes wrong\nGotta clear my front lawn off\n\n[Pre-Chorus]\nMelatonin eyes feel heavy tonight\nI could sleep for weeks and speak in Z's\nDon't look for me, don't look for me\n\n[Chorus]\nThey're killin' me when I'm fast asleep\nAre you hearin' me when I say you're bleedin' me out?\nWith all the things you don't say, I'm livin' fuckin' betrayed\nLivin' like I'm dead and on my own\nYou're killin' me when I'm fast asleep\nLike a ritual\n\n[Interlude]\n(Eight, seven, six, five, four, three)\n[Verse]\nMy inner child needs a bulletproof vest and a phone that can't text\nAnd twenty years rest\nBuild a bomb shelter, bite a belt for the stress\nNever know what's next\nSleepin' with my clothes on in case shit goes wrong\nGotta clear my front lawn off\nSleepin' with my clothes on in case shit goes wrong\nGotta clear my front lawn off\n\n[Outro]\nYeah, woo\n(Shut the fuck up)1Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/8390610",
+    "artist_names": "Waterparks (Ft. \u200bblackbear)",
+    "full_title": "FUCK ABOUT IT by\u00a0Waterparks (Ft.\u00a0\u200bblackbear)",
+    "header_image_thumbnail_url": "https://images.genius.com/e82255573f1f612d395aff94f3a8c6ae.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/e82255573f1f612d395aff94f3a8c6ae.1000x1000x1.jpg",
+    "id": 8390610,
+    "instrumental": false,
+    "lyrics_owner_id": 5874245,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1682016332,
+    "path": "/Waterparks-fuck-about-it-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Waterparks-fuck-about-it-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 10,
+     "day": 14
+    },
+    "release_date_for_display": "October 14, 2022",
+    "release_date_with_abbreviated_month_for_display": "Oct. 14, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8969dc9f52cd55cc66ac266091aa498f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/8969dc9f52cd55cc66ac266091aa498f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 18592
+    },
+    "title": "FUCK ABOUT IT",
+    "title_with_featured": "FUCK ABOUT IT (Ft.\u00a0\u200bblackbear)",
+    "updated_by_human_at": 1687453396,
+    "url": "https://genius.com/Waterparks-fuck-about-it-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/25680",
+      "header_image_url": "https://images.genius.com/2056d229b9903674009a72345485287b.1000x647x1.png",
+      "id": 25680,
+      "image_url": "https://images.genius.com/159c4e568053f758de61f18cbb7c74e7.1000x1000x1.png",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "\u200bblackbear",
+      "slug": "Blackbear",
+      "url": "https://genius.com/artists/Blackbear",
+      "iq": 6145
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "28 ContributorsFUCK ABOUT IT Lyrics[Verse 1: Awsten Knight]\nI like you, but I need some space\nI like you kinda far away\nIt's not hard to kill a day\nLookin' at your face\nI like you, but I need some room\nBeen givin' me your attitude\nIt doesn't always stay that way\nI hate the aftertaste\n\n[Pre-Chorus: Awsten Knight]\nI don't wanna leave you hangin' on\nBut when we fight, it's like a marathon\nGive me three days, three days alone, yeah\n\n[Chorus: Awsten Knight]\nWe can fuck about it later if you want\nIt's all we ever really do when something's wrong\n'Cause you, you don't seem to like it when we talk\nI guess I'll see you later, see you later\nWe can fuck about it later if you want\nBecause we never fix the problems that we've got\nBaby, you don't seem to like it when we talk\nI guess I'll see you later, see you later, yeah\n\n[Verse 2: blackbear]\nYou've been at my crib for like the seventh day up in a row\nYou've been doin' silly things like checkin' who I follow\nI know you waitin' by the phone, but I just wanna be all alone tonight\nAnd it's all right, I won't lie to you\nBut sometimes, when we fight\nIt's like scars on my wrist when I think about the shit\nThat we did to one another, baby\nYou might also like[Chorus: Awsten Knight, Awsten Knight & blackbear]\nWe can fuck about it later if you want\nIt's all we ever really do when something's wrong\n'Cause you, you don't seem to like it when we talk\nI guess I'll see you later, see you later, yeah\nWe can fuck about it later if you want\nBecause we never fix the problems that we've got\nBaby, you don't seem to like it when we talk\nI guess I'll see you later, see you later, yeah\n\n[Post-Chorus: Awsten Knight]\nYeah\n\n[Bridge: Awsten Knight & blackbear, Awsten Knight]\nI don't wanna leave you hangin' on\nBut it's kinda hard to miss who's never gone\nGive me three days, three days alone, yeah\n\n[Chorus: Awsten Knight, Awsten Knight & blackbear]\nWe can fuck about it later if you want\nIt's all we ever really do when something's wrong (When something's wrong)\n'Cause you, you don't seem to like it when we talk\nI guess I'll see you later, see you later (Yeah)\nWe can fuck about it later if you want\nBecause we never fix the problems that we've got\nBaby, you don't seem like it when we talk\nI guess I'll see you later, see you later, yeah\n[Outro: Awsten Knight]\nWe can fuck about it later if you want\nIt's all we ever really do when something's wrong\n'Cause you, you don't seem to like it when we talk\nI guess I'll see you later, see you later1Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/8220524",
+    "artist_names": "Waterparks",
+    "full_title": "CLOSER by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "id": 8220524,
+    "instrumental": false,
+    "lyrics_owner_id": 5874245,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1713039590,
+    "path": "/Waterparks-closer-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Waterparks-closer-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 4,
+     "day": 14
+    },
+    "release_date_for_display": "April 14, 2023",
+    "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 12,
+     "hot": false,
+     "pageviews": 22333
+    },
+    "title": "CLOSER",
+    "title_with_featured": "CLOSER",
+    "updated_by_human_at": 1713039590,
+    "url": "https://genius.com/Waterparks-closer-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "32 ContributorsCLOSER Lyrics[Verse 1]\nNothin' stays the same\nI feel love a different way, yeah\nSo I contemplate the change\nI got my space, but what did I pay for you?\n\n[Pre-Chorus]\n'Cause I love you or I want to\nBut I don't know how\nBecause I need to really feel you\nBut we're runnin' around\nBecause I love you or I want to\nIs it easy now?\nYou only hit me in the evenin'\nWhen I'm all stressed out\n\n[Chorus]\nI need you closer\nOr I need it over\nEither need you closer\nOr I need it over, yeah\n\n[Verse 2]\nThere's nothin' left to let go\nIt's the darkest afterglow, mm\nMaybe in another life (In ano\u2014, in another life, ooh)\nWe can try to get us right\nNo, no, no\nYou might also like[Pre-Chorus]\nBecause I love you or I want to\nBut I don't know how\nBecause I need to really feel you\nBut we're runnin' around\nBecause I love you or I want to\nIs it easy now?\nYou only hit me in the evenin'\nWhen I'm all stressed out\n\n[Chorus]\nI need you closer\nOr I need it over\nEither need you closer\nOr I need it over\n\n[Bridge]\n'Cause you're the holiday I celebrate too late\nYou're the eyes I gave up tryin' to captivate\nYou're the song that I loved but then overplayed\nAnd I'm the B-side throwaway\nI hope you never rain on my charade\nThe lonely one I let myself create\nI got my space, but what'd I pay?\nI've been fucked so much that I no longer wait\nI sabotage and break my own heart\nJust in case\n[Pre-Chorus]\nSo, yeah, I loved you or I tried to\nBut I don't know how\nUsed to need you and feel you\nBut we ran it all down\n'Cause I loved you or I tried to\nCan it be easy now?\nOr will it kill me on the evenin'\nThat I let you down?\n\n[Chorus]\nI need you closer\nOr I need it over\nEither need you closer\nOr I need it over, yeah2Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 20,
+    "api_path": "/songs/8568760",
+    "artist_names": "Waterparks",
+    "full_title": "A NIGHT OUT ON EARTH by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "id": 8568760,
+    "instrumental": false,
+    "lyrics_owner_id": 13523373,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1712842141,
+    "path": "/Waterparks-a-night-out-on-earth-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Waterparks-a-night-out-on-earth-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 4,
+     "day": 14
+    },
+    "release_date_for_display": "April 14, 2023",
+    "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 19,
+     "hot": false,
+     "pageviews": 25022
+    },
+    "title": "A NIGHT OUT ON EARTH",
+    "title_with_featured": "A NIGHT OUT ON EARTH",
+    "updated_by_human_at": 1712842141,
+    "url": "https://genius.com/Waterparks-a-night-out-on-earth-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "34 ContributorsA NIGHT OUT ON EARTH Lyrics[Verse 1]\nAm I missin' out? Am I havin' fun?\nIs it just me or is it everyone?\nDesensitized, the love I get is virtual\nNow Jesus hates my guts, it's gettin' personal (Yeah)\n\n[Chorus]\nIt's a night out on Earth\nThe last one for a while, can't get worse (Uh-huh)\nA night out on Earth\nA night out on Earth\n\n[Verse 2]\nNow if I ever feel jealous (What?)\nI just turn it into lyrics and I fuckin' sell it\nAnd now when I get depressed and make songs\nI turn pain into rent and sing along\nSo I get hit by Houston friends like, \"Do you remember me?\"\nSome version, I guess (Dude, oh my god, just, just fuckin')\nT\u0435ll me what you want about your brand, band\nWill I make a post shoutin' out your lemonad\u0435 stand? Nah\n\"Oh, come on man, we're bros\nLike, I've known you forever, watched your little band grow\"\nBut now it's fuck you and everyone you know\nAnd I'm gonna make sure you get it through your head before you go (Asshole)\nSee, now I wear my red flags like a cape\nGot superhuman strength when I'm fuckin' up your day\nI'm comin' in first, so pour the Gatorade\nLife gave me lemons, now I bleed lemonade (Yeah, yeah, yeah)\nNow I wear my red flags like a cape\nGets so fuckin' hot under all this shade\nEverywhere I walk's a toxic parade (Let's go)\nThe glove don't fit, but I wear it anyway, yeah, yeah (Let's go, yeah)\nYou might also like[Chorus]\nIt's a night out on Earth\nThe last one for a while, can't get worse\nA night out on Earth\nA night out on Earth\n\n[Post-Chorus]\n(Fuck)\n\n[Bridge]\n(What I'm saying, the bottom line is)\nI could drive my Lexus overnight back home to Texas\nI could fall asleep in my old bed\n'Cause life got kinda hectic on the day I got my necklace\nNow I just wanna fall asleep in my own\nIt's a hell of a time, was I loved or was I right?\nI kissed a couple people in a week\nAm I gonna go to Hell in my sleep or will God forgive me?\nI gotta hide everybody that I like\nDid therapy four times this week from my bike\nBorn January 17th, I'm overthinkin' everything\nA Capricorn with double horns\nLike triple six but, babe, I'm fuckin' dyin' for you\nIf it was up to me, no one I know would know anyone I know\n'Cause everyone I know knows another me\nIt's gettin' hard to keep track of\nEverything I keep locked behind my back (Let's go)\n[Chorus]\n'Cause it's a night out on Earth\nJust another night out on Earth\nA night out on Earth\nIt's just another night out on Earth\n\n[Post-Chorus]\n(Woo, woo, woo, woo)\n\n[Outro]\nI ain't jumpin' out the window\nI'm leavin' when the night goes\nI ain't gonna let go\nStay jumpin' at the tempo\n'Cause that's just how this shit goes\nI ain't jumpin' out the window\nStay livin' at the tempo\n\n[Sample]\nWith \"I'm a Natural Blue\"\nAnd I'm very stoked to have them on the phone right now, what's up?\nHey, how's it goin'?\nGoin' good, how are you?\nHey, I'm doin', not doin' too bad\nNo complaints on this beautiful day\nNope, not at all\nEveryone, get stoked, check out Waterparks\nThank you so much to Otto and Awsten for calling in\nOnce again, this is WaterparksEmbed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/9539708",
+    "artist_names": "Waterparks",
+    "full_title": "SNEAKING OUT OF HEAVEN by\u00a0Waterparks",
+    "header_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "id": 9539708,
+    "instrumental": false,
+    "lyrics_owner_id": 7163947,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722207046,
+    "path": "/Waterparks-sneaking-out-of-heaven-lyrics",
+    "primary_artist_names": "Waterparks",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Waterparks-sneaking-out-of-heaven-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 10,
+     "day": 11
+    },
+    "release_date_for_display": "October 11, 2023",
+    "release_date_with_abbreviated_month_for_display": "Oct. 11, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2762a46ec8066312036c84cb4efa70c8.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 18985
+    },
+    "title": "SNEAKING OUT OF HEAVEN",
+    "title_with_featured": "SNEAKING OUT OF HEAVEN",
+    "updated_by_human_at": 1722207046,
+    "url": "https://genius.com/Waterparks-sneaking-out-of-heaven-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/608075",
+     "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+     "id": 608075,
+     "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Waterparks",
+     "slug": "Waterparks",
+     "url": "https://genius.com/artists/Waterparks",
+     "iq": 112
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/608075",
+      "header_image_url": "https://images.genius.com/35c0f21741df375513906a95bd400aac.1000x510x1.jpg",
+      "id": 608075,
+      "image_url": "https://images.genius.com/a2e3fd3e85cb2b6e63b09d769b8ed9e3.675x675x1.png",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Waterparks",
+      "slug": "Waterparks",
+      "url": "https://genius.com/artists/Waterparks",
+      "iq": 112
+     }
+    ],
+    "artist": "Waterparks",
+    "lyrics": "21 ContributorsSNEAKING OUT OF HEAVEN Lyrics[Spoken]\n\"And I said like a million vocal things in my head for it\"\n\"But like...\"\n*Awsten vocalizing*\n\"Whatever, fuck it, here\"\n\n[Verse 1]\nHighkey, when we fuck\nI feel like I'm struck\nBy your lightning\nThey say I'm brainwashed\nYeah, I might be, 'cause I\nI built a secret room for you\nJust one more chance to adore you\n\"Love you\" in all caps, you know that\nIf you're toxic, I'll wear a hazmat\n(Yeah-ah-ah-ah)\n(Yeah-ah-ah)\n\n[Chorus]\nDo you think God knows?\nYou\u2019ve been sneaking out of heaven\nLike were his eyes closed?\n\u2018Cause there\u2019s no way he\u2019s just letting\nYou fall from the stars\nAnd get in my car\nGo to my place\nAnd you put away your halo\nDo you think God knows?\nYou\u2019ve been sneaking out of heaven?\n'Cause-\nYou might also like[Verse 2]\nHighkey, I swear to God my heart's gonna pop\nIt's beating, light speed\nIf I'm not brainwashed, man, I'm trying to be\nI built a secret room for you\nJust one more chance to adore you\nSwallow my shoes and my car keys\nI don't need those 'cause I won't leave\n(Yeah-ah-ah-ah)\n(Yeah-ah-ah)\n(Go)\n\n[Chorus]\nDo you think God knows?\nYou\u2019ve been sneaking out of heaven\nLike were his eyes closed?\n\u2018Cause there\u2019s no way he\u2019s just letting\nYou fall from the stars\nAnd get in my car\nGo to my place\nAnd you put away your halo\nDo you think God knows?\nYou\u2019ve been sneaking out of heaven?\n\n[Bridge]\nI'll have to jump the gates when I die\n'Cause they won't let me inside\nI'll have to jump the gates when I-\nOh, oh, oh\n[Chorus]\nDo you think God knows?\nYou\u2019ve been sneaking out of heaven\nLike were his eyes closed?\n\u2018Cause there\u2019s no way he\u2019s just letting\nYou fall from the stars\nAnd get in my car\nGo to my place\nAnd you put away your halo\nDo you think God knows?\nYou\u2019ve been sneaking out of heaven?\n\n[Outro]\nYeah-ah-ah-ah, you've been sneaking out of heaven\nYeah-ah-ah-ah, you've been sneaking out of heaven\nYeah-ah-ah-ah, you've been sneaking out of heaven3Embed"
+   }
+  }
+ ]
+}
