@@ -1,5 +1,5 @@
 import os
-from lyriguessr.lyrics import Lyrigetter
+from lyriguessr.Lyrigetter import Lyrigetter
 
 if __name__ == "__main__":
     API_KEY = os.environ["GENIUS_API_KEY"]
@@ -15,4 +15,4 @@ if __name__ == "__main__":
 
     radiohead = Lyrigetter(API_KEY, album_names=radiohead_albums, artist_name="Radiohead")
     radiohead.store_album_data()
-    radiohead.save_songs_df()
+    radiohead.save_songs()

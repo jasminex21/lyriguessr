@@ -51,13 +51,13 @@ class Lyrigetter:
             sections.append({
                 'track_name': row["track_name"],
                 'element': section,
-                'album': row["album_name"],
+                'album_name': row["album_name"],
                 'section_lyrics': section_lyrics
             })
 
         return sections
     
-    def save_songs_df(self):
+    def save_songs(self):
         # TODO: this is very messy, clean it up!! Works tho.
 
         all_songs = []
@@ -81,12 +81,17 @@ class Lyrigetter:
             all_sections.append(song_sections)
         
         lyrics_by_section = pd.DataFrame([x for xs in all_sections for x in xs])
-        full_lyrics = lyrics_by_section.assign(lyrics=lyrics_by_section["section_lyrics"].str.split("\n")).explode("lyrics").drop(columns=["section_lyrics"])
-        full_lyrics = full_lyrics[full_lyrics['lyrics'].str.strip() != '']
+        full_lyrics = lyrics_by_section.assign(lyric=lyrics_by_section["section_lyrics"].str.split("\n")).explode("lyric").drop(columns=["section_lyrics"])
+        full_lyrics = full_lyrics[full_lyrics['lyric'].str.strip() != '']
         full_lyrics['element'] = full_lyrics['element'].str.strip('[]')
+
+        full_lyrics = full_lyrics[full_lyrics['lyric'] != "You might also like"]
+        full_lyrics["lyric"] = full_lyrics["lyric"].replace(r'^You might also like(?=\S)', "", regex=True)
+        full_lyrics["lyric"] = full_lyrics["lyric"].replace(r"(?<=\S)You might also like$", "", regex=True)
+
         full_lyrics = full_lyrics.reset_index()
         full_lyrics['line'] = full_lyrics.groupby('track_name').cumcount() + 1
 
-        full_lyrics = full_lyrics[["track_name", "element", "album", "lyrics", "line"]]
+        full_lyrics = full_lyrics[["track_name", "element", "album_name", "lyric", "line"]]
         full_lyrics.to_csv(f"{self.artist_name.lower()}_lyrics.csv", index=False)
         print(f"Lyrics written to {self.artist_name.lower()}_lyrics.csv.")

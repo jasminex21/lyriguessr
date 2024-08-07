@@ -1,4 +1,4 @@
-track_name,element,album,lyrics,line
+track_name,element,album_name,lyric,line
 You,Verse 1,Pablo Honey,You are the sun and moon and stars are you,1
 You,Verse 1,Pablo Honey,And I could never run away from you,2
 You,Verse 2,Pablo Honey,You try at working out chaotic things,3
@@ -13,7 +13,7 @@ You,Outro,Pablo Honey,Caught in the fire,11
 You,Outro,Pablo Honey,"You, me and everything",12
 You,Outro,Pablo Honey,Caught in the fire,13
 You,Outro,Pablo Honey,I can see me drowning,14
-You,Outro,Pablo Honey,Caught in the fireYou might also like,15
+You,Outro,Pablo Honey,Caught in the fire,15
 Creep,Verse 1,Pablo Honey,When you were here before,1
 Creep,Verse 1,Pablo Honey,Couldn't look you in the eye,2
 Creep,Verse 1,Pablo Honey,You're just like an angel,3
@@ -37,19 +37,18 @@ Creep,Chorus,Pablo Honey,"But I'm a creep, I'm a weirdo",20
 Creep,Chorus,Pablo Honey,What the hell am I doing here?,21
 Creep,Chorus,Pablo Honey,I don't belong here,22
 Creep,Chorus,Pablo Honey,"Oh-oh, oh-oh",23
-Creep,Chorus,Pablo Honey,You might also like,24
-Creep,Bridge,Pablo Honey,She's running out the door,25
-Creep,Bridge,Pablo Honey,She's running,26
-Creep,Bridge,Pablo Honey,"She run, run, run, run",27
-Creep,Bridge,Pablo Honey,Run,28
-Creep,Outro,Pablo Honey,Whatever makes you happy,29
-Creep,Outro,Pablo Honey,Whatever you want,30
-Creep,Outro,Pablo Honey,You're so fuckin' special,31
-Creep,Outro,Pablo Honey,I wish I was special,32
-Creep,Outro,Pablo Honey,"But I'm a creep, I'm a weirdo",33
-Creep,Outro,Pablo Honey,What the hell am I doing here?,34
+Creep,Bridge,Pablo Honey,She's running out the door,24
+Creep,Bridge,Pablo Honey,She's running,25
+Creep,Bridge,Pablo Honey,"She run, run, run, run",26
+Creep,Bridge,Pablo Honey,Run,27
+Creep,Outro,Pablo Honey,Whatever makes you happy,28
+Creep,Outro,Pablo Honey,Whatever you want,29
+Creep,Outro,Pablo Honey,You're so fuckin' special,30
+Creep,Outro,Pablo Honey,I wish I was special,31
+Creep,Outro,Pablo Honey,"But I'm a creep, I'm a weirdo",32
+Creep,Outro,Pablo Honey,What the hell am I doing here?,33
+Creep,Outro,Pablo Honey,I don't belong here,34
 Creep,Outro,Pablo Honey,I don't belong here,35
-Creep,Outro,Pablo Honey,I don't belong here,36
 How Do You?,Verse 1,Pablo Honey,He's bitter and twisted,1
 How Do You?,Verse 1,Pablo Honey,He knows what he wants,2
 How Do You?,Verse 1,Pablo Honey,He wants to be loved and,3
@@ -70,7 +69,7 @@ How Do You?,Verse 2,Pablo Honey,And he steals and he bullies,17
 How Do You?,Verse 2,Pablo Honey,Anyway that he can,18
 How Do You?,Chorus,Pablo Honey,But how do you?,19
 How Do You?,Chorus,Pablo Honey,How do you?,20
-How Do You?,Chorus,Pablo Honey,How do you?You might also like,21
+How Do You?,Chorus,Pablo Honey,How do you?,21
 Stop Whispering,Verse 1,Pablo Honey,And the wise man said I don't want to hear your voice,1
 Stop Whispering,Verse 1,Pablo Honey,And the thin man said I don't want to hear your voice,2
 Stop Whispering,Verse 1,Pablo Honey,And they're cursing me and they won't let me be,3
@@ -88,10 +87,9 @@ Stop Whispering,Bridge,Pablo Honey,"Dear Sir, I have a complaint",14
 Stop Whispering,Bridge,Pablo Honey,Can't remember what it is,15
 Stop Whispering,Bridge,Pablo Honey,It doesn't matter anyway,16
 Stop Whispering,Bridge,Pablo Honey,It doesn't matter anyway,17
-Stop Whispering,Bridge,Pablo Honey,You might also like,18
+Stop Whispering,Outro,Pablo Honey,"Stop whispering, stop whispering",18
 Stop Whispering,Outro,Pablo Honey,"Stop whispering, stop whispering",19
-Stop Whispering,Outro,Pablo Honey,"Stop whispering, stop whispering",20
-Stop Whispering,Outro,Pablo Honey,"Stop, stop",21
+Stop Whispering,Outro,Pablo Honey,"Stop, stop",20
 Thinking About You,Verse 1,Pablo Honey,Been thinking about you,1
 Thinking About You,Verse 1,Pablo Honey,Your records are here,2
 Thinking About You,Verse 1,Pablo Honey,Your eyes are on my wall,3
@@ -117,19 +115,18 @@ Thinking About You,Verse 3,Pablo Honey,They're paid to kiss your feet,22
 Thinking About You,Verse 3,Pablo Honey,They don't know what I know,23
 Thinking About You,Verse 3,Pablo Honey,And why should you care,24
 Thinking About You,Verse 3,Pablo Honey,When I'm not there?,25
-Thinking About You,Verse 3,Pablo Honey,You might also like,26
-Thinking About You,Verse 4,Pablo Honey,Been thinking about you,27
-Thinking About You,Verse 4,Pablo Honey,And there's no rest,28
-Thinking About You,Verse 4,Pablo Honey,Should I still love you?,29
-Thinking About You,Verse 4,Pablo Honey,Still see you in bed?,30
-Thinking About You,Verse 4,Pablo Honey,But I'm playing with myself,31
-Thinking About You,Verse 4,Pablo Honey,And what do you care,32
-Thinking About You,Verse 4,Pablo Honey,When I'm not there?,33
-Thinking About You,Bridge,Pablo Honey,All the things you've got,34
-Thinking About You,Bridge,Pablo Honey,That you'll never need,35
-Thinking About You,Bridge,Pablo Honey,All the things you've got,36
-Thinking About You,Bridge,Pablo Honey,I've bled and I bleed to please you,37
-Thinking About You,Outro,Pablo Honey,Been thinking about you,38
+Thinking About You,Verse 4,Pablo Honey,Been thinking about you,26
+Thinking About You,Verse 4,Pablo Honey,And there's no rest,27
+Thinking About You,Verse 4,Pablo Honey,Should I still love you?,28
+Thinking About You,Verse 4,Pablo Honey,Still see you in bed?,29
+Thinking About You,Verse 4,Pablo Honey,But I'm playing with myself,30
+Thinking About You,Verse 4,Pablo Honey,And what do you care,31
+Thinking About You,Verse 4,Pablo Honey,When I'm not there?,32
+Thinking About You,Bridge,Pablo Honey,All the things you've got,33
+Thinking About You,Bridge,Pablo Honey,That you'll never need,34
+Thinking About You,Bridge,Pablo Honey,All the things you've got,35
+Thinking About You,Bridge,Pablo Honey,I've bled and I bleed to please you,36
+Thinking About You,Outro,Pablo Honey,Been thinking about you,37
 Anyone Can Play Guitar,Verse 1,Pablo Honey,"Destiny, destiny, protect me from the world",1
 Anyone Can Play Guitar,Verse 1,Pablo Honey,"Destiny, hold my hand, protect me from the world",2
 Anyone Can Play Guitar,Pre-Chorus,Pablo Honey,"Here we are, with our running and confusion",3
@@ -147,7 +144,7 @@ Anyone Can Play Guitar,Pre-Chorus,Pablo Honey,And I don't see no confusion anywh
 Anyone Can Play Guitar,Chorus,Pablo Honey,"And if the world does turn, and if London burns",15
 Anyone Can Play Guitar,Chorus,Pablo Honey,I'll be standing on the beach with my guitar,16
 Anyone Can Play Guitar,Chorus,Pablo Honey,I wanna be in a band when I get to heaven,17
-Anyone Can Play Guitar,Chorus,Pablo Honey,Anyone can play guitar and they won't be a nothing anymoreYou might also like,18
+Anyone Can Play Guitar,Chorus,Pablo Honey,Anyone can play guitar and they won't be a nothing anymore,18
 Ripcord,Verse 1,Pablo Honey,Soul destroyed with clever toys for little boys,1
 Ripcord,Verse 1,Pablo Honey,"It's inevitable, inevitable, it's a soul destroyed",2
 Ripcord,Chorus,Pablo Honey,You're free until you drop,3
@@ -167,7 +164,7 @@ Ripcord,Chorus,Pablo Honey,The answer to your prayers,16
 Ripcord,Chorus,Pablo Honey,We'll drop you anywhere,17
 Ripcord,Chorus,Pablo Honey,"With no ripcord, no ripcord",18
 Ripcord,Chorus,Pablo Honey,"No ripcord, n-n-no ripcord",19
-Ripcord,Chorus,Pablo Honey,YeahYou might also like,20
+Ripcord,Chorus,Pablo Honey,Yeah,20
 Vegetable,Verse 1,Pablo Honey,I never wanted anything but this,1
 Vegetable,Verse 1,Pablo Honey,"I worked hard, tried hard",2
 Vegetable,Verse 1,Pablo Honey,I ran around in domestic bliss,3
@@ -184,14 +181,13 @@ Vegetable,Chorus,Pablo Honey,I'm not a vegetable,13
 Vegetable,Chorus,Pablo Honey,I will not control myself,14
 Vegetable,Chorus,Pablo Honey,I spit on the hand that feeds me,15
 Vegetable,Chorus,Pablo Honey,I will not control myself,16
-Vegetable,Chorus,Pablo Honey,You might also like,17
-Vegetable,Bridge,Pablo Honey,"The waters spray, the waters run all over me",18
-Vegetable,Bridge,Pablo Honey,"The waters spray, the waters run",19
-Vegetable,Bridge,Pablo Honey,And this time you're gonna pay,20
-Vegetable,Chorus,Pablo Honey,I'm not a vegetable,21
-Vegetable,Chorus,Pablo Honey,I will not control myself,22
-Vegetable,Chorus,Pablo Honey,I spit on the hand that feeds me,23
-Vegetable,Chorus,Pablo Honey,I will not control myself,24
+Vegetable,Bridge,Pablo Honey,"The waters spray, the waters run all over me",17
+Vegetable,Bridge,Pablo Honey,"The waters spray, the waters run",18
+Vegetable,Bridge,Pablo Honey,And this time you're gonna pay,19
+Vegetable,Chorus,Pablo Honey,I'm not a vegetable,20
+Vegetable,Chorus,Pablo Honey,I will not control myself,21
+Vegetable,Chorus,Pablo Honey,I spit on the hand that feeds me,22
+Vegetable,Chorus,Pablo Honey,I will not control myself,23
 Prove Yourself,Verse 1,Pablo Honey,I can't afford to breathe in this town,1
 Prove Yourself,Verse 1,Pablo Honey,Nowhere to sit without a gun in my hand,2
 Prove Yourself,Verse 1,Pablo Honey,Hooked back up to the cathode ray,3
@@ -208,17 +204,16 @@ Prove Yourself,Pre-Chorus,Pablo Honey,I'm better off...,13
 Prove Yourself,Chorus,Pablo Honey,Prove yourself,14
 Prove Yourself,Chorus,Pablo Honey,Prove yourself,15
 Prove Yourself,Chorus,Pablo Honey,Prove yourself,16
-Prove Yourself,Chorus,Pablo Honey,You might also like,17
-Prove Yourself,Pre-Chorus,Pablo Honey,"I'm better off dead, I'm better off dead",18
-Prove Yourself,Pre-Chorus,Pablo Honey,I'm better off...,19
+Prove Yourself,Pre-Chorus,Pablo Honey,"I'm better off dead, I'm better off dead",17
+Prove Yourself,Pre-Chorus,Pablo Honey,I'm better off...,18
+Prove Yourself,Chorus,Pablo Honey,Prove yourself,19
 Prove Yourself,Chorus,Pablo Honey,Prove yourself,20
 Prove Yourself,Chorus,Pablo Honey,Prove yourself,21
 Prove Yourself,Chorus,Pablo Honey,Prove yourself,22
-Prove Yourself,Chorus,Pablo Honey,Prove yourself,23
-Prove Yourself,Chorus,Pablo Honey,Why?,24
+Prove Yourself,Chorus,Pablo Honey,Why?,23
+Prove Yourself,Chorus,Pablo Honey,Prove yourself,24
 Prove Yourself,Chorus,Pablo Honey,Prove yourself,25
 Prove Yourself,Chorus,Pablo Honey,Prove yourself,26
-Prove Yourself,Chorus,Pablo Honey,Prove yourself,27
 I Can’t,Verse 1,Pablo Honey,Please forget the words that I just blurted out,1
 I Can’t,Verse 1,Pablo Honey,"It wasn't me, it was my strange and creeping doubt",2
 I Can’t,Verse 1,Pablo Honey,It keeps rattling my cage and there's nothing in this world will keep it down,3
@@ -234,7 +229,6 @@ I Can’t,Chorus,Pablo Honey,"Even though I might, even though I try, I can't",1
 I Can’t,Chorus,Pablo Honey,"Even though I might, even though I try, I can't",13
 I Can’t,Chorus,Pablo Honey,"Even though I might, even though I try, I can't",14
 I Can’t,Chorus,Pablo Honey,"Even though I might, even though I try, I can't",15
-I Can’t,Chorus,Pablo Honey,You might also like,16
 Lurgee,Verse 1,Pablo Honey,I feel better,1
 Lurgee,Verse 1,Pablo Honey,I feel better now you've gone,2
 Lurgee,Verse 1,Pablo Honey,I got better,3
@@ -251,7 +245,6 @@ Lurgee,Verse 2,Pablo Honey,I got something,13
 Lurgee,Verse 2,Pablo Honey,"I got something, heaven knows",14
 Lurgee,Verse 2,Pablo Honey,I got something,15
 Lurgee,Verse 2,Pablo Honey,I got something I don't know,16
-Lurgee,Instrumental Outro,Pablo Honey,You might also like,17
 Blow Out,Verse 1,Pablo Honey,In my mind,1
 Blow Out,Verse 1,Pablo Honey,And nailed into my heels,2
 Blow Out,Verse 1,Pablo Honey,All the time,3
@@ -274,7 +267,6 @@ Blow Out,Chorus,Pablo Honey,Everything I touch,19
 Blow Out,Chorus,Pablo Honey,(All wrapped up in cotton wool),20
 Blow Out,Chorus,Pablo Honey,(All wrapped up and sugar-coated),21
 Blow Out,Chorus,Pablo Honey,Turns to...,22
-Blow Out,Chorus,Pablo Honey,You might also like,23
 Planet Telex,Verse 1,The Bends,You can force it but it will not come,1
 Planet Telex,Verse 1,The Bends,You can taste it but it will not form,2
 Planet Telex,Verse 1,The Bends,You can crush it but it's always here,3
@@ -299,10 +291,9 @@ Planet Telex,Chorus,The Bends,Everyone is,21
 Planet Telex,Chorus,The Bends,Everyone is broken,22
 Planet Telex,Chorus,The Bends,Everyone is,23
 Planet Telex,Chorus,The Bends,Everything is broken,24
-Planet Telex,Chorus,The Bends,You might also like,25
+Planet Telex,Outro,The Bends,Why can't you forget?,25
 Planet Telex,Outro,The Bends,Why can't you forget?,26
 Planet Telex,Outro,The Bends,Why can't you forget?,27
-Planet Telex,Outro,The Bends,Why can't you forget?,28
 The Bends,Intro,The Bends,"(Turn it up, loud!)",1
 The Bends,Intro,The Bends,(Bring it up!),2
 The Bends,Verse 1,The Bends,Where do we go from here?,3
@@ -324,26 +315,25 @@ The Bends,Post-Chorus,The Bends,Just lying in a bar with my drip feed on,18
 The Bends,Post-Chorus,The Bends,"Talking to my girlfriend, waiting for something to happen",19
 The Bends,Post-Chorus,The Bends,"I wish it was the '60s, I wish we could be happy",20
 The Bends,Post-Chorus,The Bends,"I wish, I wish, I wish that something would happen",21
-The Bends,Post-Chorus,The Bends,You might also like,22
-The Bends,Verse 3,The Bends,Where do we go from here?,23
-The Bends,Verse 3,The Bends,The planet is a gunboat in a sea of fear,24
-The Bends,Verse 3,The Bends,And where are you?,25
-The Bends,Verse 3,The Bends,They brought in the CIA,26
-The Bends,Verse 3,The Bends,The tanks and the whole marines,27
-The Bends,Verse 3,The Bends,"To blow me away, to blow me sky high",28
-The Bends,Chorus,The Bends,My baby's got the bends,29
-The Bends,Chorus,The Bends,We don't have any real friends,30
-The Bends,Post-Chorus,The Bends,Just lying in a bar with my drip feed on,31
-The Bends,Post-Chorus,The Bends,"Talking to my girlfriend, waiting for something to happen",32
-The Bends,Post-Chorus,The Bends,"I wish it was the '60s, I wish we could be happy",33
-The Bends,Post-Chorus,The Bends,"I wish, I wish, I wish that something would...",34
-The Bends,Bridge,The Bends,"I wanna live, breathe",35
-The Bends,Bridge,The Bends,I wanna be a part of the human race,36
-The Bends,Bridge,The Bends,"I wanna live, breathe",37
-The Bends,Bridge,The Bends,"I wanna be a part of the human race, race, race, race",38
-The Bends,Outro,The Bends,Where do we go from here?,39
-The Bends,Outro,The Bends,The words are coming out all weird,40
-The Bends,Outro,The Bends,Where are you now when I need you?,41
+The Bends,Verse 3,The Bends,Where do we go from here?,22
+The Bends,Verse 3,The Bends,The planet is a gunboat in a sea of fear,23
+The Bends,Verse 3,The Bends,And where are you?,24
+The Bends,Verse 3,The Bends,They brought in the CIA,25
+The Bends,Verse 3,The Bends,The tanks and the whole marines,26
+The Bends,Verse 3,The Bends,"To blow me away, to blow me sky high",27
+The Bends,Chorus,The Bends,My baby's got the bends,28
+The Bends,Chorus,The Bends,We don't have any real friends,29
+The Bends,Post-Chorus,The Bends,Just lying in a bar with my drip feed on,30
+The Bends,Post-Chorus,The Bends,"Talking to my girlfriend, waiting for something to happen",31
+The Bends,Post-Chorus,The Bends,"I wish it was the '60s, I wish we could be happy",32
+The Bends,Post-Chorus,The Bends,"I wish, I wish, I wish that something would...",33
+The Bends,Bridge,The Bends,"I wanna live, breathe",34
+The Bends,Bridge,The Bends,I wanna be a part of the human race,35
+The Bends,Bridge,The Bends,"I wanna live, breathe",36
+The Bends,Bridge,The Bends,"I wanna be a part of the human race, race, race, race",37
+The Bends,Outro,The Bends,Where do we go from here?,38
+The Bends,Outro,The Bends,The words are coming out all weird,39
+The Bends,Outro,The Bends,Where are you now when I need you?,40
 High and Dry,Verse 1,The Bends,"Two jumps in a week, I bet you",1
 High and Dry,Verse 1,The Bends,"Think that's pretty clever, don't you, boy",2
 High and Dry,Verse 1,The Bends,Flying on your motorcycle,3
@@ -364,22 +354,21 @@ High and Dry,Verse 2,The Bends,They're the ones who'll hate you,17
 High and Dry,Verse 2,The Bends,When you think you've got the world all sussed out,18
 High and Dry,Verse 2,The Bends,They're the ones who'll spit at you,19
 High and Dry,Verse 2,The Bends,You will be the one screaming out,20
-High and Dry,Verse 2,The Bends,You might also like,21
-High and Dry,Chorus,The Bends,Don't leave me high,22
-High and Dry,Chorus,The Bends,Don't leave me dry,23
-High and Dry,Chorus,The Bends,Don't leave me high,24
-High and Dry,Chorus,The Bends,Don't leave me dry,25
-High and Dry,Bridge,The Bends,"Oh, it's the best thing that you've ever had",26
-High and Dry,Bridge,The Bends,"The best thing that you've ever, ever had",27
-High and Dry,Bridge,The Bends,It's the best thing that you've ever had,28
-High and Dry,Bridge,The Bends,The best thing you've had has gone away,29
-High and Dry,Chorus,The Bends,So don't leave me high,30
-High and Dry,Chorus,The Bends,Don't leave me dry,31
-High and Dry,Chorus,The Bends,Don't leave me high,32
-High and Dry,Chorus,The Bends,Don't leave me dry,33
+High and Dry,Chorus,The Bends,Don't leave me high,21
+High and Dry,Chorus,The Bends,Don't leave me dry,22
+High and Dry,Chorus,The Bends,Don't leave me high,23
+High and Dry,Chorus,The Bends,Don't leave me dry,24
+High and Dry,Bridge,The Bends,"Oh, it's the best thing that you've ever had",25
+High and Dry,Bridge,The Bends,"The best thing that you've ever, ever had",26
+High and Dry,Bridge,The Bends,It's the best thing that you've ever had,27
+High and Dry,Bridge,The Bends,The best thing you've had has gone away,28
+High and Dry,Chorus,The Bends,So don't leave me high,29
+High and Dry,Chorus,The Bends,Don't leave me dry,30
+High and Dry,Chorus,The Bends,Don't leave me high,31
+High and Dry,Chorus,The Bends,Don't leave me dry,32
+High and Dry,Chorus,The Bends,Don't leave me high,33
 High and Dry,Chorus,The Bends,Don't leave me high,34
-High and Dry,Chorus,The Bends,Don't leave me high,35
-High and Dry,Chorus,The Bends,Don't leave me dry,36
+High and Dry,Chorus,The Bends,Don't leave me dry,35
 Fake Plastic Trees,Verse 1,The Bends,A green plastic watering can,1
 Fake Plastic Trees,Verse 1,The Bends,For a fake Chinese rubber plant,2
 Fake Plastic Trees,Verse 1,The Bends,In a fake plastic earth,3
@@ -400,21 +389,20 @@ Fake Plastic Trees,Chorus,The Bends,And it wears him out,17
 Fake Plastic Trees,Chorus,The Bends,It wears him out,18
 Fake Plastic Trees,Chorus,The Bends,It wears him out,19
 Fake Plastic Trees,Chorus,The Bends,It wears,20
-Fake Plastic Trees,Chorus,The Bends,You might also like,21
-Fake Plastic Trees,Verse 3,The Bends,She looks like the real thing,22
-Fake Plastic Trees,Verse 3,The Bends,She tastes like the real thing,23
-Fake Plastic Trees,Verse 3,The Bends,My fake plastic love,24
-Fake Plastic Trees,Verse 3,The Bends,But I can't help the feeling,25
-Fake Plastic Trees,Verse 3,The Bends,I could blow through the ceiling,26
-Fake Plastic Trees,Verse 3,The Bends,If I just turn and run,27
-Fake Plastic Trees,Chorus,The Bends,And it wears me out,28
+Fake Plastic Trees,Verse 3,The Bends,She looks like the real thing,21
+Fake Plastic Trees,Verse 3,The Bends,She tastes like the real thing,22
+Fake Plastic Trees,Verse 3,The Bends,My fake plastic love,23
+Fake Plastic Trees,Verse 3,The Bends,But I can't help the feeling,24
+Fake Plastic Trees,Verse 3,The Bends,I could blow through the ceiling,25
+Fake Plastic Trees,Verse 3,The Bends,If I just turn and run,26
+Fake Plastic Trees,Chorus,The Bends,And it wears me out,27
+Fake Plastic Trees,Chorus,The Bends,It wears me out,28
 Fake Plastic Trees,Chorus,The Bends,It wears me out,29
 Fake Plastic Trees,Chorus,The Bends,It wears me out,30
-Fake Plastic Trees,Chorus,The Bends,It wears me out,31
-Fake Plastic Trees,Outro,The Bends,And if I could be who you wanted,32
-Fake Plastic Trees,Outro,The Bends,If I could be who you wanted,33
+Fake Plastic Trees,Outro,The Bends,And if I could be who you wanted,31
+Fake Plastic Trees,Outro,The Bends,If I could be who you wanted,32
+Fake Plastic Trees,Outro,The Bends,All the time,33
 Fake Plastic Trees,Outro,The Bends,All the time,34
-Fake Plastic Trees,Outro,The Bends,All the time,35
 Bones,Verse 1,The Bends,I don't want to be crippled and cracked,1
 Bones,Verse 1,The Bends,"Shoulders, wrists, knees, and back",2
 Bones,Verse 1,The Bends,Ground to dust and ash,3
@@ -430,7 +418,7 @@ Bones,Bridge,The Bends,And I used to fly like Peter Pan,12
 Bones,Bridge,The Bends,All the children flew when I touched their hands,13
 Bones,Outro,The Bends,"Listen, you've got to feel it in your bones",14
 Bones,Outro,The Bends,"Listen, you've got to feel it in your bones",15
-Bones,Outro,The Bends,"Ah, ah, ahYou might also like",16
+Bones,Outro,The Bends,"Ah, ah, ah",16
 (Nice Dream),Verse 1,The Bends,They love me like I was a brother,1
 (Nice Dream),Verse 1,The Bends,"They protect me, listen to me",2
 (Nice Dream),Verse 1,The Bends,They dug me my very own garden,3
@@ -452,15 +440,14 @@ Bones,Outro,The Bends,"Ah, ah, ahYou might also like",16
 (Nice Dream),Chorus,The Bends,Nice dream (If you think you belong enough),19
 (Nice Dream),Chorus,The Bends,Nice dream (If you think that you're strong enough),20
 (Nice Dream),Chorus,The Bends,Nice dream (If you think you belong enough),21
-(Nice Dream),Chorus,The Bends,You might also like,22
+(Nice Dream),Bridge,The Bends,Now come home,22
 (Nice Dream),Bridge,The Bends,Now come home,23
 (Nice Dream),Bridge,The Bends,Now come home,24
 (Nice Dream),Bridge,The Bends,Now come home,25
-(Nice Dream),Bridge,The Bends,Now come home,26
+(Nice Dream),Chorus,The Bends,Nice dream,26
 (Nice Dream),Chorus,The Bends,Nice dream,27
 (Nice Dream),Chorus,The Bends,Nice dream,28
 (Nice Dream),Chorus,The Bends,Nice dream,29
-(Nice Dream),Chorus,The Bends,Nice dream,30
 Just,Verse 1,The Bends,Can't get the stink off,1
 Just,Verse 1,The Bends,He's been hanging 'round for days,2
 Just,Verse 1,The Bends,Comes like a comet,3
@@ -479,24 +466,23 @@ Just,Verse 2,The Bends,You've changed the locks three times,15
 Just,Verse 2,The Bends,He still comes reeling through the door,16
 Just,Pre-Chorus 2,The Bends,One day I'll get to you,17
 Just,Pre-Chorus 2,The Bends,And teach you how to get to purest hell,18
-Just,Pre-Chorus 2,The Bends,You might also like,19
-Just,Chorus,The Bends,"You do it to yourself, you do",20
-Just,Chorus,The Bends,And that's why it really hurts,21
-Just,Chorus,The Bends,"Is that you do it to yourself, just you",22
-Just,Chorus,The Bends,You and no one else,23
+Just,Chorus,The Bends,"You do it to yourself, you do",19
+Just,Chorus,The Bends,And that's why it really hurts,20
+Just,Chorus,The Bends,"Is that you do it to yourself, just you",21
+Just,Chorus,The Bends,You and no one else,22
+Just,Chorus,The Bends,You do it to yourself,23
 Just,Chorus,The Bends,You do it to yourself,24
-Just,Chorus,The Bends,You do it to yourself,25
-Just,Chorus,The Bends,"You do it to yourself, you do",26
-Just,Chorus,The Bends,And that's why it really hurts,27
-Just,Chorus,The Bends,"Is that you do it to yourself, just you",28
-Just,Chorus,The Bends,You and no one else,29
+Just,Chorus,The Bends,"You do it to yourself, you do",25
+Just,Chorus,The Bends,And that's why it really hurts,26
+Just,Chorus,The Bends,"Is that you do it to yourself, just you",27
+Just,Chorus,The Bends,You and no one else,28
+Just,Chorus,The Bends,You do it to yourself,29
 Just,Chorus,The Bends,You do it to yourself,30
-Just,Chorus,The Bends,You do it to yourself,31
-Just,Chorus,The Bends,Self,32
+Just,Chorus,The Bends,Self,31
+Just,Outro,The Bends,(You do it to yourself!),32
 Just,Outro,The Bends,(You do it to yourself!),33
-Just,Outro,The Bends,(You do it to yourself!),34
+Just,Outro,The Bends,"(Oh, you do it to yourself!)",34
 Just,Outro,The Bends,"(Oh, you do it to yourself!)",35
-Just,Outro,The Bends,"(Oh, you do it to yourself!)",36
 My Iron Lung,Verse 1,The Bends,"Faith, you're driving me away",1
 My Iron Lung,Verse 1,The Bends,You do it every day,2
 My Iron Lung,Verse 1,The Bends,"You don't mean it, but it hurts like hell",3
@@ -519,19 +505,18 @@ My Iron Lung,Verse 3,The Bends,"When the power runs out, we'll just hum",19
 My Iron Lung,Verse 3,The Bends,"This, this is our new song",20
 My Iron Lung,Verse 3,The Bends,Just like the last one,21
 My Iron Lung,Verse 3,The Bends,"A total waste of time, my iron lung",22
-My Iron Lung,Verse 3,The Bends,You might also like,23
-My Iron Lung,Chorus,The Bends,"The headshrinkers, they want my everything",24
-My Iron Lung,Chorus,The Bends,"My uncle Bill, my Belisha beacon",25
-My Iron Lung,Chorus,The Bends,"The headshrinkers, they want my everything",26
-My Iron Lung,Chorus,The Bends,"My uncle Bill, my Belisha beacon",27
-My Iron Lung,Bridge,The Bends,"And if you're frightened, you can be frightened",28
-My Iron Lung,Bridge,The Bends,"You can be, it's okay",29
-My Iron Lung,Bridge,The Bends,"And if you're frightened, you can be frightened",30
-My Iron Lung,Bridge,The Bends,"You can be, it's okay",31
-My Iron Lung,Chorus,The Bends,"The headshrinkers, they want my everything",32
-My Iron Lung,Chorus,The Bends,"My uncle Bill, my Belisha beacon",33
-My Iron Lung,Chorus,The Bends,"The headshrinkers, they want my everything",34
-My Iron Lung,Chorus,The Bends,"My uncle Bill, my Belisha beacon",35
+My Iron Lung,Chorus,The Bends,"The headshrinkers, they want my everything",23
+My Iron Lung,Chorus,The Bends,"My uncle Bill, my Belisha beacon",24
+My Iron Lung,Chorus,The Bends,"The headshrinkers, they want my everything",25
+My Iron Lung,Chorus,The Bends,"My uncle Bill, my Belisha beacon",26
+My Iron Lung,Bridge,The Bends,"And if you're frightened, you can be frightened",27
+My Iron Lung,Bridge,The Bends,"You can be, it's okay",28
+My Iron Lung,Bridge,The Bends,"And if you're frightened, you can be frightened",29
+My Iron Lung,Bridge,The Bends,"You can be, it's okay",30
+My Iron Lung,Chorus,The Bends,"The headshrinkers, they want my everything",31
+My Iron Lung,Chorus,The Bends,"My uncle Bill, my Belisha beacon",32
+My Iron Lung,Chorus,The Bends,"The headshrinkers, they want my everything",33
+My Iron Lung,Chorus,The Bends,"My uncle Bill, my Belisha beacon",34
 Bullet Proof... I Wish I Was,Verse 1,The Bends,Limb by limb and tooth by tooth,1
 Bullet Proof... I Wish I Was,Verse 1,The Bends,Stirring up inside of me,2
 Bullet Proof... I Wish I Was,Verse 1,The Bends,"Every day, every hour",3
@@ -549,7 +534,7 @@ Bullet Proof... I Wish I Was,Verse 3,The Bends,All surrogate,14
 Bullet Proof... I Wish I Was,Chorus,The Bends,And bulletproof,15
 Bullet Proof... I Wish I Was,Chorus,The Bends,And bulletproof,16
 Bullet Proof... I Wish I Was,Chorus,The Bends,And bulletproof,17
-Bullet Proof... I Wish I Was,Chorus,The Bends,BulletproofYou might also like,18
+Bullet Proof... I Wish I Was,Chorus,The Bends,Bulletproof,18
 Black Star,Verse 1,The Bends,I get home from work,1
 Black Star,Verse 1,The Bends,And you're still standing in your dressing gown,2
 Black Star,Verse 1,The Bends,"Well, what am I to do?",3
@@ -567,23 +552,22 @@ Black Star,Verse 2,The Bends,"I try to stay awake, but it's fifty-eight hours",1
 Black Star,Verse 2,The Bends,Since that I last slept with you,15
 Black Star,Pre-Chorus 2,The Bends,What are we coming to?,16
 Black Star,Pre-Chorus 2,The Bends,I just don't know anymore,17
-Black Star,Pre-Chorus 2,The Bends,You might also like,18
-Black Star,Chorus,The Bends,Blame it on the black star,19
-Black Star,Chorus,The Bends,Blame it on the falling sky,20
-Black Star,Chorus,The Bends,Blame it on the satellite,21
-Black Star,Chorus,The Bends,That beams me home,22
-Black Star,Verse 3,The Bends,I get on the train and I just stand about,23
-Black Star,Verse 3,The Bends,Now that I don't think of you,24
-Black Star,Verse 3,The Bends,"I keep falling over, I keep passing out",25
-Black Star,Verse 3,The Bends,When I see a face like you,26
-Black Star,Pre-Chorus 3,The Bends,What am I coming to?,27
-Black Star,Pre-Chorus 3,The Bends,I'm gonna melt down,28
-Black Star,Chorus,The Bends,Blame it on the black star,29
-Black Star,Chorus,The Bends,Blame it on the falling sky,30
-Black Star,Chorus,The Bends,Blame it on the satellite,31
-Black Star,Chorus,The Bends,That beams me home,32
+Black Star,Chorus,The Bends,Blame it on the black star,18
+Black Star,Chorus,The Bends,Blame it on the falling sky,19
+Black Star,Chorus,The Bends,Blame it on the satellite,20
+Black Star,Chorus,The Bends,That beams me home,21
+Black Star,Verse 3,The Bends,I get on the train and I just stand about,22
+Black Star,Verse 3,The Bends,Now that I don't think of you,23
+Black Star,Verse 3,The Bends,"I keep falling over, I keep passing out",24
+Black Star,Verse 3,The Bends,When I see a face like you,25
+Black Star,Pre-Chorus 3,The Bends,What am I coming to?,26
+Black Star,Pre-Chorus 3,The Bends,I'm gonna melt down,27
+Black Star,Chorus,The Bends,Blame it on the black star,28
+Black Star,Chorus,The Bends,Blame it on the falling sky,29
+Black Star,Chorus,The Bends,Blame it on the satellite,30
+Black Star,Chorus,The Bends,That beams me home,31
+Black Star,Outro,The Bends,"Ah, this is killing me",32
 Black Star,Outro,The Bends,"Ah, this is killing me",33
-Black Star,Outro,The Bends,"Ah, this is killing me",34
 Sulk,Verse 1,The Bends,"You bite through the big wall, the big wall bites back",1
 Sulk,Verse 1,The Bends,"You sit there and sulk, you sit there and bawl",2
 Sulk,Verse 1,The Bends,You look so pretty when you're on your knees,3
@@ -602,12 +586,11 @@ Sulk,Chorus,The Bends,Sometimes you burn,15
 Sulk,Chorus,The Bends,God rest your soul,16
 Sulk,Chorus,The Bends,When the loving comes but we're already gone,17
 Sulk,Chorus,The Bends,"Just like your dad, you'll never change",18
-Sulk,Chorus,The Bends,You might also like,19
-Sulk,Chorus,The Bends,Sometimes you sulk,20
-Sulk,Chorus,The Bends,Sometimes you burn,21
-Sulk,Chorus,The Bends,God rest your soul,22
-Sulk,Chorus,The Bends,When the loving comes but we're already gone,23
-Sulk,Chorus,The Bends,"Just like your dad, you'll never change",24
+Sulk,Chorus,The Bends,Sometimes you sulk,19
+Sulk,Chorus,The Bends,Sometimes you burn,20
+Sulk,Chorus,The Bends,God rest your soul,21
+Sulk,Chorus,The Bends,When the loving comes but we're already gone,22
+Sulk,Chorus,The Bends,"Just like your dad, you'll never change",23
 Street Spirit (Fade Out),Verse 1,The Bends,Rows of houses all bearing down on me,1
 Street Spirit (Fade Out),Verse 1,The Bends,I can feel their blue hands touching me,2
 Street Spirit (Fade Out),Verse 1,The Bends,All these things into position,3
@@ -624,20 +607,19 @@ Street Spirit (Fade Out),Bridge,The Bends,"Ah-na-na, ah-na-na",13
 Street Spirit (Fade Out),Bridge,The Bends,"Ah-na-na, ah-na-na",14
 Street Spirit (Fade Out),Bridge,The Bends,"Ah-na-na, ah-na-na",15
 Street Spirit (Fade Out),Bridge,The Bends,"Ah-na-na, ah-na-na",16
-Street Spirit (Fade Out),Bridge,The Bends,You might also like,17
-Street Spirit (Fade Out),Verse 3,The Bends,"Cracked eggs, dead birds, scream as they fight for life",18
-Street Spirit (Fade Out),Verse 3,The Bends,"I can feel death, can see its beady eyes",19
-Street Spirit (Fade Out),Verse 3,The Bends,All these things into position,20
-Street Spirit (Fade Out),Verse 3,The Bends,All these things we'll one day swallow whole,21
+Street Spirit (Fade Out),Verse 3,The Bends,"Cracked eggs, dead birds, scream as they fight for life",17
+Street Spirit (Fade Out),Verse 3,The Bends,"I can feel death, can see its beady eyes",18
+Street Spirit (Fade Out),Verse 3,The Bends,All these things into position,19
+Street Spirit (Fade Out),Verse 3,The Bends,All these things we'll one day swallow whole,20
+Street Spirit (Fade Out),Chorus,The Bends,And fade out again,21
 Street Spirit (Fade Out),Chorus,The Bends,And fade out again,22
-Street Spirit (Fade Out),Chorus,The Bends,And fade out again,23
+Street Spirit (Fade Out),Outro,The Bends,"Ah-na-na, ah-na-na",23
 Street Spirit (Fade Out),Outro,The Bends,"Ah-na-na, ah-na-na",24
 Street Spirit (Fade Out),Outro,The Bends,"Ah-na-na, ah-na-na",25
 Street Spirit (Fade Out),Outro,The Bends,"Ah-na-na, ah-na-na",26
-Street Spirit (Fade Out),Outro,The Bends,"Ah-na-na, ah-na-na",27
-Street Spirit (Fade Out),Outro,The Bends,"Immerse your soul in love (Ah-na-na, ah-na-na)",28
-Street Spirit (Fade Out),Outro,The Bends,"(Ah-na-na, ah-na-na)",29
-Street Spirit (Fade Out),Outro,The Bends,"Immerse your soul in love (Ah-na-na, ah-na-na)",30
+Street Spirit (Fade Out),Outro,The Bends,"Immerse your soul in love (Ah-na-na, ah-na-na)",27
+Street Spirit (Fade Out),Outro,The Bends,"(Ah-na-na, ah-na-na)",28
+Street Spirit (Fade Out),Outro,The Bends,"Immerse your soul in love (Ah-na-na, ah-na-na)",29
 Airbag,Verse 1,OK Computer,In the next world war,1
 Airbag,Verse 1,OK Computer,In a jackknifed juggernaut,2
 Airbag,Verse 1,OK Computer,I am born again,3
@@ -654,11 +636,10 @@ Airbag,Verse 2,OK Computer,I'm amazed that I survived,13
 Airbag,Verse 2,OK Computer,An airbag saved my life,14
 Airbag,Chorus,OK Computer,In an interstellar burst,15
 Airbag,Chorus,OK Computer,I am back to save the universe,16
-Airbag,Instrumental Break,OK Computer,You might also like,17
-Airbag,Chorus,OK Computer,In an interstellar burst,18
-Airbag,Chorus,OK Computer,I am back to save the universe,19
-Airbag,Chorus,OK Computer,In an interstellar burst,20
-Airbag,Chorus,OK Computer,I am back to save the universe,21
+Airbag,Chorus,OK Computer,In an interstellar burst,17
+Airbag,Chorus,OK Computer,I am back to save the universe,18
+Airbag,Chorus,OK Computer,In an interstellar burst,19
+Airbag,Chorus,OK Computer,I am back to save the universe,20
 Paranoid Android,Verse 1,OK Computer,"Please, could you stop the noise?",1
 Paranoid Android,Verse 1,OK Computer,I'm trying to get some rest,2
 Paranoid Android,Verse 1,OK Computer,From all the unborn chicken voices,3
@@ -682,23 +663,22 @@ Paranoid Android,Bridge 1,OK Computer,Why don't you remember my name?,20
 Paranoid Android,Bridge 1,OK Computer,"Off with his head, man, off with his head, man",21
 Paranoid Android,Bridge 1,OK Computer,Why don't you remember my name?,22
 Paranoid Android,Bridge 1,OK Computer,I guess he does,23
-Paranoid Android,Bridge 1,OK Computer,You might also like,24
-Paranoid Android,Bridge 2,OK Computer,"Rain down, rain down",25
-Paranoid Android,Bridge 2,OK Computer,"Come on, rain down on me",26
-Paranoid Android,Bridge 2,OK Computer,From a great height,27
-Paranoid Android,Bridge 2,OK Computer,"From a great height, height",28
-Paranoid Android,Bridge 2,OK Computer,"Rain down, rain down",29
-Paranoid Android,Bridge 2,OK Computer,"Come on, rain down on me",30
-Paranoid Android,Bridge 2,OK Computer,From a great height,31
-Paranoid Android,Bridge 2,OK Computer,"From a great height, height",32
-Paranoid Android,Bridge 2,OK Computer,"That's it, sir, you're leaving (Rain down)",33
-Paranoid Android,Bridge 2,OK Computer,The crackle of pigskin (Rain down),34
-Paranoid Android,Bridge 2,OK Computer,"The dust and the screaming (Come on, rain down)",35
-Paranoid Android,Bridge 2,OK Computer,The yuppies networking (On me),36
+Paranoid Android,Bridge 2,OK Computer,"Rain down, rain down",24
+Paranoid Android,Bridge 2,OK Computer,"Come on, rain down on me",25
+Paranoid Android,Bridge 2,OK Computer,From a great height,26
+Paranoid Android,Bridge 2,OK Computer,"From a great height, height",27
+Paranoid Android,Bridge 2,OK Computer,"Rain down, rain down",28
+Paranoid Android,Bridge 2,OK Computer,"Come on, rain down on me",29
+Paranoid Android,Bridge 2,OK Computer,From a great height,30
+Paranoid Android,Bridge 2,OK Computer,"From a great height, height",31
+Paranoid Android,Bridge 2,OK Computer,"That's it, sir, you're leaving (Rain down)",32
+Paranoid Android,Bridge 2,OK Computer,The crackle of pigskin (Rain down),33
+Paranoid Android,Bridge 2,OK Computer,"The dust and the screaming (Come on, rain down)",34
+Paranoid Android,Bridge 2,OK Computer,The yuppies networking (On me),35
+Paranoid Android,Bridge 2,OK Computer,"The panic, the vomit (From a great height)",36
 Paranoid Android,Bridge 2,OK Computer,"The panic, the vomit (From a great height)",37
-Paranoid Android,Bridge 2,OK Computer,"The panic, the vomit (From a great height)",38
-Paranoid Android,Bridge 2,OK Computer,God loves his children,39
-Paranoid Android,Bridge 2,OK Computer,"God loves his children, yeah",40
+Paranoid Android,Bridge 2,OK Computer,God loves his children,38
+Paranoid Android,Bridge 2,OK Computer,"God loves his children, yeah",39
 Subterranean Homesick Alien,Verse 1,OK Computer,The breath of the morning I keep forgetting,1
 Subterranean Homesick Alien,Verse 1,OK Computer,The smell of the warm summer air,2
 Subterranean Homesick Alien,Verse 1,OK Computer,I live in a town where you can't smell a thing,3
@@ -720,12 +700,11 @@ Subterranean Homesick Alien,Verse 2,OK Computer,I'd show them the stars and the 
 Subterranean Homesick Alien,Verse 2,OK Computer,They'd shut me away,19
 Subterranean Homesick Alien,Bridge,OK Computer,"But I'd be alright, alright",20
 Subterranean Homesick Alien,Bridge,OK Computer,"Mom, I'm alright, alright",21
-Subterranean Homesick Alien,Bridge,OK Computer,You might also like,22
-Subterranean Homesick Alien,Chorus,OK Computer,"I'm just uptight, uptight",23
+Subterranean Homesick Alien,Chorus,OK Computer,"I'm just uptight, uptight",22
+Subterranean Homesick Alien,Chorus,OK Computer,"Uptight, uptight",23
 Subterranean Homesick Alien,Chorus,OK Computer,"Uptight, uptight",24
 Subterranean Homesick Alien,Chorus,OK Computer,"Uptight, uptight",25
-Subterranean Homesick Alien,Chorus,OK Computer,"Uptight, uptight",26
-Subterranean Homesick Alien,Chorus,OK Computer,Uptight,27
+Subterranean Homesick Alien,Chorus,OK Computer,Uptight,26
 Exit Music (For A Film),Verse 1,OK Computer,Wake from your sleep,1
 Exit Music (For A Film),Verse 1,OK Computer,The drying of your tears,2
 Exit Music (For A Film),Verse 1,OK Computer,"Today we escape, we escape",3
@@ -744,11 +723,10 @@ Exit Music (For A Film),Verse 5,OK Computer,And you can laugh a spineless laugh,
 Exit Music (For A Film),Verse 5,OK Computer,We hope your rules and wisdom choke you,16
 Exit Music (For A Film),Verse 5,OK Computer,Now we are one in everlasting peace,17
 Exit Music (For A Film),Verse 5,OK Computer,"We hope that you choke, that you choke",18
-Exit Music (For A Film),Verse 5,OK Computer,You might also like,19
-Exit Music (For A Film),Outro,OK Computer,We hope that you choke,20
-Exit Music (For A Film),Outro,OK Computer,That you choke,21
-Exit Music (For A Film),Outro,OK Computer,We hope that you choke,22
-Exit Music (For A Film),Outro,OK Computer,That you choke,23
+Exit Music (For A Film),Outro,OK Computer,We hope that you choke,19
+Exit Music (For A Film),Outro,OK Computer,That you choke,20
+Exit Music (For A Film),Outro,OK Computer,We hope that you choke,21
+Exit Music (For A Film),Outro,OK Computer,That you choke,22
 Let Down,Verse 1,OK Computer,"Transport, motorways and tramlines",1
 Let Down,Verse 1,OK Computer,Starting and then stopping,2
 Let Down,Verse 1,OK Computer,Taking off and landing,3
@@ -767,28 +745,27 @@ Let Down,Pre-Chorus,OK Computer,One day I am gonna grow wings,15
 Let Down,Pre-Chorus,OK Computer,A chemical reaction,16
 Let Down,Pre-Chorus,OK Computer,Hysterical and useless,17
 Let Down,Pre-Chorus,OK Computer,Hysterical and,18
-Let Down,Pre-Chorus,OK Computer,You might also like,19
-Let Down,Chorus,OK Computer,Let down and hanging around,20
-Let Down,Chorus,OK Computer,Crushed like a bug in the ground,21
-Let Down,Chorus,OK Computer,Let down and hanging around,22
+Let Down,Chorus,OK Computer,Let down and hanging around,19
+Let Down,Chorus,OK Computer,Crushed like a bug in the ground,20
+Let Down,Chorus,OK Computer,Let down and hanging around,21
+Let Down,Bridge,OK Computer,Let down again,22
 Let Down,Bridge,OK Computer,Let down again,23
 Let Down,Bridge,OK Computer,Let down again,24
-Let Down,Bridge,OK Computer,Let down again,25
-Let Down,Verse 3,OK Computer,"You know, you know where you are with",26
-Let Down,Verse 3,OK Computer,You know where you are with,27
-Let Down,Verse 3,OK Computer,Floor collapsing,28
-Let Down,Verse 3,OK Computer,"Floating, bouncing back",29
-Let Down,Pre-Chorus,OK Computer,And one day,30
-Let Down,Pre-Chorus,OK Computer,I am gonna grow wings,31
-Let Down,Pre-Chorus,OK Computer,A chemical reaction,32
-Let Down,Pre-Chorus,OK Computer,(You know where you are),33
-Let Down,Pre-Chorus,OK Computer,Hysterical and useless,34
-Let Down,Pre-Chorus,OK Computer,(You know where you are),35
-Let Down,Pre-Chorus,OK Computer,Hysterical and,36
-Let Down,Pre-Chorus,OK Computer,(You know where you are),37
-Let Down,Chorus,OK Computer,Let down and hanging around,38
-Let Down,Chorus,OK Computer,Crushed like a bug in the ground,39
-Let Down,Chorus,OK Computer,Let down and hanging around,40
+Let Down,Verse 3,OK Computer,"You know, you know where you are with",25
+Let Down,Verse 3,OK Computer,You know where you are with,26
+Let Down,Verse 3,OK Computer,Floor collapsing,27
+Let Down,Verse 3,OK Computer,"Floating, bouncing back",28
+Let Down,Pre-Chorus,OK Computer,And one day,29
+Let Down,Pre-Chorus,OK Computer,I am gonna grow wings,30
+Let Down,Pre-Chorus,OK Computer,A chemical reaction,31
+Let Down,Pre-Chorus,OK Computer,(You know where you are),32
+Let Down,Pre-Chorus,OK Computer,Hysterical and useless,33
+Let Down,Pre-Chorus,OK Computer,(You know where you are),34
+Let Down,Pre-Chorus,OK Computer,Hysterical and,35
+Let Down,Pre-Chorus,OK Computer,(You know where you are),36
+Let Down,Chorus,OK Computer,Let down and hanging around,37
+Let Down,Chorus,OK Computer,Crushed like a bug in the ground,38
+Let Down,Chorus,OK Computer,Let down and hanging around,39
 Karma Police,Verse 1,OK Computer,"Karma police, arrest this man",1
 Karma Police,Verse 1,OK Computer,He talks in maths,2
 Karma Police,Verse 1,OK Computer,He buzzes like a fridge,3
@@ -806,15 +783,14 @@ Karma Police,Chorus,OK Computer,This is what you get,14
 Karma Police,Chorus,OK Computer,This is what you get,15
 Karma Police,Chorus,OK Computer,This is what you get,16
 Karma Police,Chorus,OK Computer,When you mess with us,17
-Karma Police,Chorus,OK Computer,You might also like,18
-Karma Police,Outro,OK Computer,For a minute there,19
-Karma Police,Outro,OK Computer,"I lost myself, I lost myself",20
-Karma Police,Outro,OK Computer,"Phew, for a minute there",21
-Karma Police,Outro,OK Computer,"I lost myself, I lost myself",22
-Karma Police,Outro,OK Computer,For a minute there,23
-Karma Police,Outro,OK Computer,"I lost myself, I lost myself",24
-Karma Police,Outro,OK Computer,"Phew, for a minute there",25
-Karma Police,Outro,OK Computer,"I lost myself, I lost myself",26
+Karma Police,Outro,OK Computer,For a minute there,18
+Karma Police,Outro,OK Computer,"I lost myself, I lost myself",19
+Karma Police,Outro,OK Computer,"Phew, for a minute there",20
+Karma Police,Outro,OK Computer,"I lost myself, I lost myself",21
+Karma Police,Outro,OK Computer,For a minute there,22
+Karma Police,Outro,OK Computer,"I lost myself, I lost myself",23
+Karma Police,Outro,OK Computer,"Phew, for a minute there",24
+Karma Police,Outro,OK Computer,"I lost myself, I lost myself",25
 Fitter Happier,Spoken Verse,OK Computer,"Fitter, happier, more productive",1
 Fitter Happier,Spoken Verse,OK Computer,"Comfortable, not drinking too much",2
 Fitter Happier,Spoken Verse,OK Computer,Regular exercise at the gym three days a week,3
@@ -865,7 +841,7 @@ Fitter Happier,Spoken Verse,OK Computer,Calm,47
 Fitter Happier,Spoken Verse,OK Computer,"Fitter, healthier and more productive",48
 Fitter Happier,Spoken Verse,OK Computer,A pig,49
 Fitter Happier,Spoken Verse,OK Computer,In a cage,50
-Fitter Happier,Spoken Verse,OK Computer,On antibioticsYou might also like,51
+Fitter Happier,Spoken Verse,OK Computer,On antibiotics,51
 Electioneering,Verse 1,OK Computer,"I will stop, I will stop at nothing",1
 Electioneering,Verse 1,OK Computer,Say the right things when electioneering,2
 Electioneering,Verse 1,OK Computer,I trust I can rely on your vote,3
@@ -884,7 +860,6 @@ Electioneering,Chorus,OK Computer,And somewhere we will meet,15
 Electioneering,Chorus,OK Computer,When I go forwards,16
 Electioneering,Chorus,OK Computer,You go backwards,17
 Electioneering,Chorus,OK Computer,And somewhere we will meet,18
-Electioneering,Chorus,OK Computer,You might also like,19
 Climbing Up the Walls,Verse 1,OK Computer,I am the key to the lock in your house,1
 Climbing Up the Walls,Verse 1,OK Computer,That keeps your toys in the basement,2
 Climbing Up the Walls,Verse 1,OK Computer,But if you get too far inside,3
@@ -907,9 +882,8 @@ Climbing Up the Walls,Verse 2,OK Computer,Who's got the loneliest feeling,19
 Climbing Up the Walls,Chorus,OK Computer,"That either way he turns, I'll be there",20
 Climbing Up the Walls,Chorus,OK Computer,"Open up your skull, I'll be there",21
 Climbing Up the Walls,Chorus,OK Computer,Climbing up the walls,22
-Climbing Up the Walls,Chorus,OK Computer,You might also like,23
+Climbing Up the Walls,Outro,OK Computer,Climbing up the walls,23
 Climbing Up the Walls,Outro,OK Computer,Climbing up the walls,24
-Climbing Up the Walls,Outro,OK Computer,Climbing up the walls,25
 No Surprises,Verse 1,OK Computer,A heart that's full up like a landfill,1
 No Surprises,Verse 1,OK Computer,A job that slowly kills you,2
 No Surprises,Verse 1,OK Computer,Bruises that won't heal,3
@@ -929,13 +903,12 @@ No Surprises,Chorus,OK Computer,No alarms and no surprises,16
 No Surprises,Chorus,OK Computer,"No alarms and no surprises, please",17
 No Surprises,Verse 3,OK Computer,Such a pretty house,18
 No Surprises,Verse 3,OK Computer,And such a pretty garden,19
-No Surprises,Verse 3,OK Computer,You might also like,20
-No Surprises,Chorus,OK Computer,No alarms and no surprises,21
-No Surprises,Chorus,OK Computer,(Get me out of here),22
-No Surprises,Chorus,OK Computer,No alarms and no surprises,23
-No Surprises,Chorus,OK Computer,(Get me out of here),24
-No Surprises,Chorus,OK Computer,"No alarms and no surprises, please",25
-No Surprises,Chorus,OK Computer,(Get me out of here),26
+No Surprises,Chorus,OK Computer,No alarms and no surprises,20
+No Surprises,Chorus,OK Computer,(Get me out of here),21
+No Surprises,Chorus,OK Computer,No alarms and no surprises,22
+No Surprises,Chorus,OK Computer,(Get me out of here),23
+No Surprises,Chorus,OK Computer,"No alarms and no surprises, please",24
+No Surprises,Chorus,OK Computer,(Get me out of here),25
 Lucky,Verse 1,OK Computer,I'm on a roll,1
 Lucky,Verse 1,OK Computer,I'm on a roll this time,2
 Lucky,Verse 1,OK Computer,I feel my luck could change,3
@@ -955,8 +928,7 @@ Lucky,Chorus,OK Computer,Pull me out of the aircrash,16
 Lucky,Chorus,OK Computer,Pull me out of the lake,17
 Lucky,Chorus,OK Computer,'Cause I'm your superhero,18
 Lucky,Chorus,OK Computer,We are standing on the edge,19
-Lucky,Chorus,OK Computer,You might also like,20
-Lucky,Outro,OK Computer,We are standing on the edge,21
+Lucky,Outro,OK Computer,We are standing on the edge,20
 The Tourist,Verse 1,OK Computer,It barks at no one else but me,1
 The Tourist,Verse 1,OK Computer,Like it's seen a ghost,2
 The Tourist,Verse 1,OK Computer,I guess it's seen the sparks a-flowin,3
@@ -970,7 +942,7 @@ The Tourist,Verse 2,OK Computer,At a thousand feet per second,10
 The Tourist,Chorus,OK Computer,"Hey man, slow down, slow down",11
 The Tourist,Chorus,OK Computer,"Idiot, slow down, slow down",12
 The Tourist,Chorus,OK Computer,"Hey man, slow down, slow down",13
-The Tourist,Chorus,OK Computer,"Idiot, slow down, slow downYou might also like",14
+The Tourist,Chorus,OK Computer,"Idiot, slow down, slow down",14
 Everything in Its Right Place,Intro,Kid A,"(Kid A, Kid A)",1
 Everything in Its Right Place,Intro,Kid A,"(Kid A, Kid A)",2
 Everything in Its Right Place,Chorus,Kid A,Everything,3
@@ -992,17 +964,16 @@ Everything in Its Right Place,Chorus,Kid A,In its right place,18
 Everything in Its Right Place,Chorus,Kid A,In its right place,19
 Everything in Its Right Place,Chorus,Kid A,In its right place,20
 Everything in Its Right Place,Chorus,Kid A,Right place,21
-Everything in Its Right Place,Chorus,Kid A,You might also like,22
+Everything in Its Right Place,Verse 2,Kid A,There are two colours in my head,22
 Everything in Its Right Place,Verse 2,Kid A,There are two colours in my head,23
-Everything in Its Right Place,Verse 2,Kid A,There are two colours in my head,24
-Everything in Its Right Place,Verse 2,Kid A,"What, what is that you tried to say?",25
-Everything in Its Right Place,Verse 2,Kid A,"What, what was that you tried to say?",26
+Everything in Its Right Place,Verse 2,Kid A,"What, what is that you tried to say?",24
+Everything in Its Right Place,Verse 2,Kid A,"What, what was that you tried to say?",25
+Everything in Its Right Place,Verse 2,Kid A,"Tried to say, tried to say?",26
 Everything in Its Right Place,Verse 2,Kid A,"Tried to say, tried to say?",27
-Everything in Its Right Place,Verse 2,Kid A,"Tried to say, tried to say?",28
+Everything in Its Right Place,Outro,Kid A,Everything,28
 Everything in Its Right Place,Outro,Kid A,Everything,29
 Everything in Its Right Place,Outro,Kid A,Everything,30
 Everything in Its Right Place,Outro,Kid A,Everything,31
-Everything in Its Right Place,Outro,Kid A,Everything,32
 Kid A,Verse 1,Kid A,I slip away,1
 Kid A,Verse 1,Kid A,I slipped on a little white lie,2
 Kid A,Verse 2,Kid A,We've got heads on sticks,3
@@ -1015,7 +986,7 @@ Kid A,Verse 3,Kid A,Standing in the shadows at the end of my bed,9
 Kid A,Verse 3,Kid A,Standing in the shadows at the end of my bed,10
 Kid A,Outro,Kid A,The rats and the children will follow me out of town,11
 Kid A,Outro,Kid A,Rats and children follow me out of town,12
-Kid A,Outro,Kid A,"Come on, kidsYou might also like",13
+Kid A,Outro,Kid A,"Come on, kids",13
 The National Anthem,Verse 1,Kid A,Everyone,1
 The National Anthem,Verse 1,Kid A,Everyone around here,2
 The National Anthem,Verse 1,Kid A,Everyone is so near,3
@@ -1029,7 +1000,7 @@ The National Anthem,Verse 2,Kid A,It's holdin' on,10
 The National Anthem,Interlude,Kid A,It's holdin' on,11
 The National Anthem,Interlude,Kid A,It's holdin' on,12
 The National Anthem,Interlude,Kid A,Holdin' on,13
-The National Anthem,Outro,Kid A,(Smile)You might also like,14
+The National Anthem,Outro,Kid A,(Smile),14
 How to Disappear Completely,Verse 1,Kid A,That there,1
 How to Disappear Completely,Verse 1,Kid A,That's not me,2
 How to Disappear Completely,Verse 1,Kid A,I go,3
@@ -1048,22 +1019,21 @@ How to Disappear Completely,Chorus,Kid A,And I'm not here,15
 How to Disappear Completely,Chorus,Kid A,This isn't happening,16
 How to Disappear Completely,Chorus,Kid A,I'm not here,17
 How to Disappear Completely,Chorus,Kid A,I'm not here,18
-How to Disappear Completely,Chorus,Kid A,You might also like,19
-How to Disappear Completely,Bridge,Kid A,Strobe lights,20
-How to Disappear Completely,Bridge,Kid A,And blowing speakers,21
-How to Disappear Completely,Bridge,Kid A,Fireworks,22
-How to Disappear Completely,Bridge,Kid A,And hurricanes,23
-How to Disappear Completely,Chorus,Kid A,I'm not here,24
-How to Disappear Completely,Chorus,Kid A,This isn't happenin',25
+How to Disappear Completely,Bridge,Kid A,Strobe lights,19
+How to Disappear Completely,Bridge,Kid A,And blowing speakers,20
+How to Disappear Completely,Bridge,Kid A,Fireworks,21
+How to Disappear Completely,Bridge,Kid A,And hurricanes,22
+How to Disappear Completely,Chorus,Kid A,I'm not here,23
+How to Disappear Completely,Chorus,Kid A,This isn't happenin',24
+How to Disappear Completely,Chorus,Kid A,I'm not here,25
 How to Disappear Completely,Chorus,Kid A,I'm not here,26
-How to Disappear Completely,Chorus,Kid A,I'm not here,27
+How to Disappear Completely,Outro,Kid A,"Ah-ah, ah-ah",27
 How to Disappear Completely,Outro,Kid A,"Ah-ah, ah-ah",28
-How to Disappear Completely,Outro,Kid A,"Ah-ah, ah-ah",29
-How to Disappear Completely,Outro,Kid A,Ah-ah,30
-How to Disappear Completely,Outro,Kid A,"Ah-ah, ah-ah-ah",31
+How to Disappear Completely,Outro,Kid A,Ah-ah,29
+How to Disappear Completely,Outro,Kid A,"Ah-ah, ah-ah-ah",30
+How to Disappear Completely,Outro,Kid A,Ah-ah-ah,31
 How to Disappear Completely,Outro,Kid A,Ah-ah-ah,32
-How to Disappear Completely,Outro,Kid A,Ah-ah-ah,33
-How to Disappear Completely,Outro,Kid A,"Ah-ah-ah, ah-ah",34
+How to Disappear Completely,Outro,Kid A,"Ah-ah-ah, ah-ah",33
 Optimistic,Verse 1,Kid A,Flies are buzzing 'round my head,1
 Optimistic,Verse 1,Kid A,Vultures circling the dead,2
 Optimistic,Verse 1,Kid A,Picking up every last crumb,3
@@ -1088,19 +1058,18 @@ Optimistic,Chorus,Kid A,The best you can is good enough,21
 Optimistic,Chorus,Kid A,You can try the best you can,22
 Optimistic,Chorus,Kid A,You can try the best you can,23
 Optimistic,Chorus,Kid A,The best you can is good enough,24
-Optimistic,Chorus,Kid A,You might also like,25
+Optimistic,Bridge,Kid A,"I'd really like to help you, man",25
 Optimistic,Bridge,Kid A,"I'd really like to help you, man",26
-Optimistic,Bridge,Kid A,"I'd really like to help you, man",27
-Optimistic,Bridge,Kid A,Nervous messed up marionette,28
-Optimistic,Bridge,Kid A,Floating 'round on a prison ship,29
+Optimistic,Bridge,Kid A,Nervous messed up marionette,27
+Optimistic,Bridge,Kid A,Floating 'round on a prison ship,28
+Optimistic,Chorus,Kid A,You can try the best you can,29
 Optimistic,Chorus,Kid A,You can try the best you can,30
-Optimistic,Chorus,Kid A,You can try the best you can,31
-Optimistic,Chorus,Kid A,The best you can is good enough,32
+Optimistic,Chorus,Kid A,The best you can is good enough,31
+Optimistic,Chorus,Kid A,You can try the best you can,32
 Optimistic,Chorus,Kid A,You can try the best you can,33
-Optimistic,Chorus,Kid A,You can try the best you can,34
+Optimistic,Outro,Kid A,Dinosaurs roaming the earth,34
 Optimistic,Outro,Kid A,Dinosaurs roaming the earth,35
 Optimistic,Outro,Kid A,Dinosaurs roaming the earth,36
-Optimistic,Outro,Kid A,Dinosaurs roaming the earth,37
 In Limbo,Intro,Kid A,"Lundy, Fastnet, Irish Sea",1
 In Limbo,Intro,Kid A,I got a message I can't read,2
 In Limbo,Intro,Kid A,Another message I can't read,3
@@ -1121,19 +1090,18 @@ In Limbo,Chorus,Kid A,You're livin' in a fantasy world,17
 In Limbo,Chorus,Kid A,You're livin' in a fantasy world,18
 In Limbo,Chorus,Kid A,You're livin' in a fantasy world,19
 In Limbo,Chorus,Kid A,This beautiful world,20
-In Limbo,Chorus,Kid A,You might also like,21
-In Limbo,Outro,Kid A,Come back,22
-In Limbo,Outro,Kid A,"Lundy, Fastnet, Irish Sea",23
+In Limbo,Outro,Kid A,Come back,21
+In Limbo,Outro,Kid A,"Lundy, Fastnet, Irish Sea",22
+In Limbo,Outro,Kid A,I got a message I can't read,23
 In Limbo,Outro,Kid A,I got a message I can't read,24
 In Limbo,Outro,Kid A,I got a message I can't read,25
-In Limbo,Outro,Kid A,I got a message I can't read,26
-In Limbo,Outro,Kid A,Come back,27
-In Limbo,Outro,Kid A,"Lundy, Fastnet, Irish Sea",28
+In Limbo,Outro,Kid A,Come back,26
+In Limbo,Outro,Kid A,"Lundy, Fastnet, Irish Sea",27
+In Limbo,Outro,Kid A,Another message I can't read,28
 In Limbo,Outro,Kid A,Another message I can't read,29
 In Limbo,Outro,Kid A,Another message I can't read,30
-In Limbo,Outro,Kid A,Another message I can't read,31
-In Limbo,Outro,Kid A,Come back,32
-In Limbo,Outro,Kid A,"Lundy, Fastnet",33
+In Limbo,Outro,Kid A,Come back,31
+In Limbo,Outro,Kid A,"Lundy, Fastnet",32
 Idioteque,Verse 1,Kid A,Who's in a bunker? Who's in a bunker?,1
 Idioteque,Verse 1,Kid A,"Women and children first, and the children first, and the children",2
 Idioteque,Verse 1,Kid A,I'll laugh until my head comes off,3
@@ -1156,22 +1124,21 @@ Idioteque,Verse 2,Kid A,We're not scaremongerin',19
 Idioteque,Verse 2,Kid A,"This is really happenin', happenin'",20
 Idioteque,Verse 2,Kid A,"Mobiles skwerking, mobiles chirping",21
 Idioteque,Verse 2,Kid A,"Take the money and run, take the money and run, take the money",22
-Idioteque,Verse 2,Kid A,You might also like,23
-Idioteque,Chorus,Kid A,Here I'm alive,24
-Idioteque,Chorus,Kid A,Everything all of the time,25
-Idioteque,Chorus,Kid A,Here I'm alive,26
-Idioteque,Chorus,Kid A,Everything all of the time,27
-Idioteque,Chorus,Kid A,Here I'm alive,28
-Idioteque,Chorus,Kid A,Everything all of the time,29
-Idioteque,Chorus,Kid A,Here I'm alive,30
-Idioteque,Chorus,Kid A,Everything all of the time,31
-Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the childre-),32
-Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the ch-) (first),33
-Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the childre-),34
-Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the ch-) (first),35
-Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the childre-),36
-Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the ch-) (first),37
-Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the childre-),38
+Idioteque,Chorus,Kid A,Here I'm alive,23
+Idioteque,Chorus,Kid A,Everything all of the time,24
+Idioteque,Chorus,Kid A,Here I'm alive,25
+Idioteque,Chorus,Kid A,Everything all of the time,26
+Idioteque,Chorus,Kid A,Here I'm alive,27
+Idioteque,Chorus,Kid A,Everything all of the time,28
+Idioteque,Chorus,Kid A,Here I'm alive,29
+Idioteque,Chorus,Kid A,Everything all of the time,30
+Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the childre-),31
+Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the ch-) (first),32
+Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the childre-),33
+Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the ch-) (first),34
+Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the childre-),35
+Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the ch-) (first),36
+Idioteque,Outro,Kid A,(-n first) (And the childre-) (-n first) (And the childre-),37
 Morning Bell,Verse 1,Kid A,The morning bell,1
 Morning Bell,Verse 1,Kid A,The morning bell,2
 Morning Bell,Verse 1,Kid A,Light another candle and,3
@@ -1194,18 +1161,17 @@ Morning Bell,Verse 3,Kid A,I might as well,19
 Morning Bell,Verse 3,Kid A,Sleepy jack the fire drill,20
 Morning Bell,Verse 3,Kid A,Round and round and round and round and round and round and round,21
 Morning Bell,Verse 3,Kid A,And round,22
-Morning Bell,Verse 3,Kid A,You might also like,23
+Morning Bell,Bridge,Kid A,Cut the kids in half,23
 Morning Bell,Bridge,Kid A,Cut the kids in half,24
 Morning Bell,Bridge,Kid A,Cut the kids in half,25
-Morning Bell,Bridge,Kid A,Cut the kids in half,26
-Morning Bell,Outro,Kid A,The lights are on but nobody's home,27
-Morning Bell,Outro,Kid A,Everybody wants to be a friend,28
-Morning Bell,Outro,Kid A,The lights are on but nobody's home,29
-Morning Bell,Outro,Kid A,Nobody wants to be a slave,30
+Morning Bell,Outro,Kid A,The lights are on but nobody's home,26
+Morning Bell,Outro,Kid A,Everybody wants to be a friend,27
+Morning Bell,Outro,Kid A,The lights are on but nobody's home,28
+Morning Bell,Outro,Kid A,Nobody wants to be a slave,29
+Morning Bell,Outro,Kid A,"Walkin', walkin', walkin', walkin'",30
 Morning Bell,Outro,Kid A,"Walkin', walkin', walkin', walkin'",31
 Morning Bell,Outro,Kid A,"Walkin', walkin', walkin', walkin'",32
 Morning Bell,Outro,Kid A,"Walkin', walkin', walkin', walkin'",33
-Morning Bell,Outro,Kid A,"Walkin', walkin', walkin', walkin'",34
 Motion Picture Soundtrack,Verse 1,Kid A,Red wine and sleeping pills,1
 Motion Picture Soundtrack,Verse 1,Kid A,Help me get back to your arms,2
 Motion Picture Soundtrack,Verse 1,Kid A,Cheap sex and sad films,3
@@ -1218,7 +1184,7 @@ Motion Picture Soundtrack,Verse 2,Kid A,It's not like the movies,9
 Motion Picture Soundtrack,Verse 2,Kid A,They fed us on little white lies,10
 Motion Picture Soundtrack,Chorus,Kid A,"I think you're crazy, maybe",11
 Motion Picture Soundtrack,Chorus,Kid A,"I think you're crazy, maybe",12
-Motion Picture Soundtrack,Outro,Kid A,I will see you in the next lifeYou might also like,13
+Motion Picture Soundtrack,Outro,Kid A,I will see you in the next life,13
 Packt Like Sardines in a Crushd Tin Box,Verse 1,Amnesiac,After years of waiting,1
 Packt Like Sardines in a Crushd Tin Box,Verse 1,Amnesiac,Nothing came,2
 Packt Like Sardines in a Crushd Tin Box,Verse 1,Amnesiac,As your life flashed before your eyes,3
@@ -1236,17 +1202,16 @@ Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,I'm a reasonable man,14
 Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,"Get off my case, get off my case, get off my case",15
 Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,I'm a reasonable man,16
 Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,"Get off my case, get off my case, get off my case",17
-Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,You might also like,18
-Packt Like Sardines in a Crushd Tin Box,Interlude,Amnesiac,(I'mma try for...),19
-Packt Like Sardines in a Crushd Tin Box,Interlude,Amnesiac,After years of waiting,20
-Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,I'm a reasonable man,21
-Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,"Get off my case, get off my case, get off my case",22
-Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,I'm a reasonable man,23
-Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,"Get off my case, get off my case, get off my case",24
-Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,I'm a reasonable man,25
-Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,"Get off my case, get off my case, get off my case",26
-Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,I'm a reasonable man,27
-Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,"Get off my case, get off my case, get off my case",28
+Packt Like Sardines in a Crushd Tin Box,Interlude,Amnesiac,(I'mma try for...),18
+Packt Like Sardines in a Crushd Tin Box,Interlude,Amnesiac,After years of waiting,19
+Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,I'm a reasonable man,20
+Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,"Get off my case, get off my case, get off my case",21
+Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,I'm a reasonable man,22
+Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,"Get off my case, get off my case, get off my case",23
+Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,I'm a reasonable man,24
+Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,"Get off my case, get off my case, get off my case",25
+Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,I'm a reasonable man,26
+Packt Like Sardines in a Crushd Tin Box,Chorus,Amnesiac,"Get off my case, get off my case, get off my case",27
 Pyramid Song,Verse,Amnesiac,I jumped in the river and what did I see?,1
 Pyramid Song,Verse,Amnesiac,Black-eyed angels swam with me,2
 Pyramid Song,Verse,Amnesiac,A moon full of stars and astral cars,3
@@ -1264,7 +1229,7 @@ Pyramid Song,Verse,Amnesiac,All my past and futures,14
 Pyramid Song,Verse,Amnesiac,And we all went to heaven in a little row boat,15
 Pyramid Song,Refrain,Amnesiac,There was nothing to fear and nothing to doubt,16
 Pyramid Song,Refrain,Amnesiac,There was nothing to fear and nothing to doubt,17
-Pyramid Song,Refrain,Amnesiac,There was nothing to fear and nothing to doubtYou might also like,18
+Pyramid Song,Refrain,Amnesiac,There was nothing to fear and nothing to doubt,18
 Pulk/Pull Revolving Doors,Verse 1,Amnesiac,There are barn doors,1
 Pulk/Pull Revolving Doors,Verse 1,Amnesiac,And there are revolving doors,2
 Pulk/Pull Revolving Doors,Verse 1,Amnesiac,Doors in the rudders of big ships and there are revolving doors,3
@@ -1273,7 +1238,7 @@ Pulk/Pull Revolving Doors,Verse 2,Amnesiac,"There are sliding doors and, and the
 Pulk/Pull Revolving Doors,Verse 3,Amnesiac,There are doors that lock and doors that don't,6
 Pulk/Pull Revolving Doors,Verse 3,Amnesiac,There are doors that let you in and out but never open,7
 Pulk/Pull Revolving Doors,Verse 3,Amnesiac,And there are trapdoors,8
-Pulk/Pull Revolving Doors,Verse 3,Amnesiac,That you can't come back fromYou might also like,9
+Pulk/Pull Revolving Doors,Verse 3,Amnesiac,That you can't come back from,9
 You and Whose Army?,Verse 1,Amnesiac,"Come on, come on",1
 You and Whose Army?,Verse 1,Amnesiac,You think you drive me crazy?,2
 You and Whose Army?,Verse 1,Amnesiac,"Well, come on, come on",3
@@ -1296,7 +1261,7 @@ You and Whose Army?,Outro,Amnesiac,We ride tonight,19
 You and Whose Army?,Outro,Amnesiac,We ride tonight,20
 You and Whose Army?,Outro,Amnesiac,Ghost horses,21
 You and Whose Army?,Outro,Amnesiac,Ghost horses,22
-You and Whose Army?,Outro,Amnesiac,Ghost horsesYou might also like,23
+You and Whose Army?,Outro,Amnesiac,Ghost horses,23
 I Might Be Wrong,Verse 1,Amnesiac,"I might be wrong, I might be wrong",1
 I Might Be Wrong,Verse 1,Amnesiac,I could have sworn I saw a light coming on,2
 I Might Be Wrong,Verse 1,Amnesiac,"I used to think, I used to think",3
@@ -1312,11 +1277,10 @@ I Might Be Wrong,Pre-Chorus,Amnesiac,Open up and let me in,12
 I Might Be Wrong,Chorus,Amnesiac,Let's go down the waterfall,13
 I Might Be Wrong,Chorus,Amnesiac,"Have ourselves a good time, it's nothing at all",14
 I Might Be Wrong,Chorus,Amnesiac,"It's nothing at all, nothing at all",15
-I Might Be Wrong,Chorus,Amnesiac,You might also like,16
+I Might Be Wrong,Outro,Amnesiac,Keep it moving,16
 I Might Be Wrong,Outro,Amnesiac,Keep it moving,17
-I Might Be Wrong,Outro,Amnesiac,Keep it moving,18
-I Might Be Wrong,Outro,Amnesiac,"Ah, ah",19
-I Might Be Wrong,Outro,Amnesiac,Ah,20
+I Might Be Wrong,Outro,Amnesiac,"Ah, ah",18
+I Might Be Wrong,Outro,Amnesiac,Ah,19
 Knives Out,Verse 1,Amnesiac,I want you to know,1
 Knives Out,Verse 1,Amnesiac,He's not coming back,2
 Knives Out,Verse 1,Amnesiac,Look into my eyes,3
@@ -1337,11 +1301,10 @@ Knives Out,Verse 3,Amnesiac,I want you to know,17
 Knives Out,Verse 3,Amnesiac,He's not coming back,18
 Knives Out,Verse 3,Amnesiac,He's bloated and frozen,19
 Knives Out,Verse 3,Amnesiac,Still there's no point in letting it go to waste,20
-Knives Out,Verse 3,Amnesiac,You might also like,21
-Knives Out,Chorus,Amnesiac,So knives out,22
-Knives Out,Chorus,Amnesiac,Catch the mouse,23
-Knives Out,Chorus,Amnesiac,Squash his head,24
-Knives Out,Chorus,Amnesiac,Put him in the pot,25
+Knives Out,Chorus,Amnesiac,So knives out,21
+Knives Out,Chorus,Amnesiac,Catch the mouse,22
+Knives Out,Chorus,Amnesiac,Squash his head,23
+Knives Out,Chorus,Amnesiac,Put him in the pot,24
 Morning Bell / Amnesiac,Verse 1,Amnesiac,The morning bell,1
 Morning Bell / Amnesiac,Verse 1,Amnesiac,The morning bell,2
 Morning Bell / Amnesiac,Verse 1,Amnesiac,Light another candle and,3
@@ -1363,14 +1326,13 @@ Morning Bell / Amnesiac,Verse 3,Amnesiac,I might as well,18
 Morning Bell / Amnesiac,Verse 3,Amnesiac,Sleepy jack the fire drill,19
 Morning Bell / Amnesiac,Verse 3,Amnesiac,"Run around, around, around, around",20
 Morning Bell / Amnesiac,Verse 3,Amnesiac,And round,21
-Morning Bell / Amnesiac,Verse 3,Amnesiac,You might also like,22
+Morning Bell / Amnesiac,Bridge,Amnesiac,Cut the kids in half,22
 Morning Bell / Amnesiac,Bridge,Amnesiac,Cut the kids in half,23
 Morning Bell / Amnesiac,Bridge,Amnesiac,Cut the kids in half,24
-Morning Bell / Amnesiac,Bridge,Amnesiac,Cut the kids in half,25
+Morning Bell / Amnesiac,Outro,Amnesiac,Release me,25
 Morning Bell / Amnesiac,Outro,Amnesiac,Release me,26
 Morning Bell / Amnesiac,Outro,Amnesiac,Release me,27
 Morning Bell / Amnesiac,Outro,Amnesiac,Release me,28
-Morning Bell / Amnesiac,Outro,Amnesiac,Release me,29
 Dollars and Cents,Verse 1,Amnesiac,There are better things to talk about,1
 Dollars and Cents,Verse 1,Amnesiac,Be constructive,2
 Dollars and Cents,Verse 1,Amnesiac,There are weapons we can use,3
@@ -1393,7 +1355,7 @@ Dollars and Cents,Verse 2,Amnesiac,You don't live in a business world and,19
 Dollars and Cents,Verse 2,Amnesiac,He never goes and you never stay,20
 Dollars and Cents,Verse 2,Amnesiac,We all have goals in a liberal world,21
 Dollars and Cents,Verse 2,Amnesiac,"Living in times when I could stand it, babe",22
-Dollars and Cents,Verse 2,Amnesiac,"You might also likeAll over, baby's crying",23
+Dollars and Cents,Verse 2,Amnesiac,"All over, baby's crying",23
 Dollars and Cents,Verse 2,Amnesiac,"It'll all be, baby, I can see out of here",24
 Dollars and Cents,Verse 2,Amnesiac,All over the planet's dead,25
 Dollars and Cents,Verse 2,Amnesiac,"All over the planet, so let me out of here",26
@@ -1418,7 +1380,7 @@ Like Spinning Plates,Verse,Amnesiac,A delicate balance,4
 Like Spinning Plates,Chorus,Amnesiac,When this just feels like spinning plates,5
 Like Spinning Plates,Chorus,Amnesiac,I'm living in Cloud Cuckoo Land,6
 Like Spinning Plates,Chorus,Amnesiac,And this just feels like spinning plates,7
-Like Spinning Plates,Chorus,Amnesiac,My body's floating down the muddy riverYou might also like,8
+Like Spinning Plates,Chorus,Amnesiac,My body's floating down the muddy river,8
 Life in a Glasshouse,Verse 1,Amnesiac,"Once again, I'm in trouble with my only friend",1
 Life in a Glasshouse,Verse 1,Amnesiac,She is papering the windowpanes,2
 Life in a Glasshouse,Verse 1,Amnesiac,She is putting on a smile,3
@@ -1438,12 +1400,11 @@ Life in a Glasshouse,Verse 3,Amnesiac,Living in a glasshouse,16
 Life in a Glasshouse,Chorus,Amnesiac,Well of course I'd like to sit around and chat,17
 Life in a Glasshouse,Chorus,Amnesiac,Well of course I'd like to stay and chew the fat,18
 Life in a Glasshouse,Chorus,Amnesiac,Well of course I'd like to sit around and chat,19
-Life in a Glasshouse,Chorus,Amnesiac,You might also like,20
+Life in a Glasshouse,Bridge,Amnesiac,Only only only only,20
 Life in a Glasshouse,Bridge,Amnesiac,Only only only only,21
 Life in a Glasshouse,Bridge,Amnesiac,Only only only only,22
 Life in a Glasshouse,Bridge,Amnesiac,Only only only only,23
-Life in a Glasshouse,Bridge,Amnesiac,Only only only only,24
-Life in a Glasshouse,Outro,Amnesiac,There's someone listening in,25
+Life in a Glasshouse,Outro,Amnesiac,There's someone listening in,24
 2 + 2 = 5,Intro,Hail To the Thief,"We're on, that's a nice way to start, Jonny",1
 2 + 2 = 5,Verse 1,Hail To the Thief,Are you such a dreamer,2
 2 + 2 = 5,Verse 1,Hail To the Thief,To put the world to rights?,3
@@ -1478,23 +1439,22 @@ Life in a Glasshouse,Outro,Amnesiac,There's someone listening in,25
 2 + 2 = 5,Chorus,Hail To the Thief,Paying attention,32
 2 + 2 = 5,Chorus,Hail To the Thief,Paying attention,33
 2 + 2 = 5,Chorus,Hail To the Thief,Paying attention,34
-2 + 2 = 5,Chorus,Hail To the Thief,You might also like,35
-2 + 2 = 5,Outro,Hail To the Thief,I try to sing along,36
-2 + 2 = 5,Outro,Hail To the Thief,But I get it all wrong,37
-2 + 2 = 5,Outro,Hail To the Thief,"'Cause I'm not, 'cause I'm not",38
-2 + 2 = 5,Outro,Hail To the Thief,I swat 'em like flies,39
-2 + 2 = 5,Outro,Hail To the Thief,"But like flies, the bugs keep coming back",40
-2 + 2 = 5,Outro,Hail To the Thief,"Not, but I'm not",41
+2 + 2 = 5,Outro,Hail To the Thief,I try to sing along,35
+2 + 2 = 5,Outro,Hail To the Thief,But I get it all wrong,36
+2 + 2 = 5,Outro,Hail To the Thief,"'Cause I'm not, 'cause I'm not",37
+2 + 2 = 5,Outro,Hail To the Thief,I swat 'em like flies,38
+2 + 2 = 5,Outro,Hail To the Thief,"But like flies, the bugs keep coming back",39
+2 + 2 = 5,Outro,Hail To the Thief,"Not, but I'm not",40
+2 + 2 = 5,Outro,Hail To the Thief,All hail to the thief,41
 2 + 2 = 5,Outro,Hail To the Thief,All hail to the thief,42
-2 + 2 = 5,Outro,Hail To the Thief,All hail to the thief,43
+2 + 2 = 5,Outro,Hail To the Thief,"But I'm not, but I'm not",43
 2 + 2 = 5,Outro,Hail To the Thief,"But I'm not, but I'm not",44
-2 + 2 = 5,Outro,Hail To the Thief,"But I'm not, but I'm not",45
-2 + 2 = 5,Outro,Hail To the Thief,Don't question my authority or put me in a box,46
-2 + 2 = 5,Outro,Hail To the Thief,"'Cause I'm not, 'cause I'm not",47
-2 + 2 = 5,Outro,Hail To the Thief,"Oh, go and tell the king",48
-2 + 2 = 5,Outro,Hail To the Thief,That the sky is falling in,49
-2 + 2 = 5,Outro,Hail To the Thief,"But it's not, but it's not, but it's not",50
-2 + 2 = 5,Outro,Hail To the Thief,"Maybe not, maybe not",51
+2 + 2 = 5,Outro,Hail To the Thief,Don't question my authority or put me in a box,45
+2 + 2 = 5,Outro,Hail To the Thief,"'Cause I'm not, 'cause I'm not",46
+2 + 2 = 5,Outro,Hail To the Thief,"Oh, go and tell the king",47
+2 + 2 = 5,Outro,Hail To the Thief,That the sky is falling in,48
+2 + 2 = 5,Outro,Hail To the Thief,"But it's not, but it's not, but it's not",49
+2 + 2 = 5,Outro,Hail To the Thief,"Maybe not, maybe not",50
 Sit Down. Stand Up.,Chorus,Hail To the Thief,"Sit down, stand up",1
 Sit Down. Stand Up.,Chorus,Hail To the Thief,"Sit down, stand up",2
 Sit Down. Stand Up.,Verse 1,Hail To the Thief,Walk into the jaws of hell (Sit down),3
@@ -1532,7 +1492,7 @@ Sit Down. Stand Up.,Outro,Hail To the Thief,"The raindrops, the raindrops",34
 Sit Down. Stand Up.,Outro,Hail To the Thief,"The raindrops, the raindrops",35
 Sit Down. Stand Up.,Outro,Hail To the Thief,"The raindrops, the raindrops",36
 Sit Down. Stand Up.,Outro,Hail To the Thief,"The raindrops, the raindrops",37
-Sit Down. Stand Up.,Outro,Hail To the Thief,"The raindrops, the raindropsYou might also like",38
+Sit Down. Stand Up.,Outro,Hail To the Thief,"The raindrops, the raindrops",38
 Sail to the Moon,Verse 1,Hail To the Thief,I sucked the moon,1
 Sail to the Moon,Verse 1,Hail To the Thief,I spoke too soon,2
 Sail to the Moon,Verse 1,Hail To the Thief,And how much did it cost?,3
@@ -1543,7 +1503,7 @@ Sail to the Moon,Verse 2,Hail To the Thief,But know right from wrong,7
 Sail to the Moon,Verse 2,Hail To the Thief,Or in the flood you'll build an ark,8
 Sail to the Moon,Verse 2,Hail To the Thief,And sail us to the moon,9
 Sail to the Moon,Outro,Hail To the Thief,Sail us to (to) the moon,10
-Sail to the Moon,Outro,Hail To the Thief,Sail toYou might also like,11
+Sail to the Moon,Outro,Hail To the Thief,Sail to,11
 Backdrifts,Verse 1,Hail To the Thief,"We're rotten fruit, we're damaged goods",1
 Backdrifts,Verse 1,Hail To the Thief,"What the hell, we've got nothing more to lose",2
 Backdrifts,Verse 1,Hail To the Thief,One gust and we will probably crumble,3
@@ -1566,12 +1526,11 @@ Backdrifts,Chorus,Hail To the Thief,You fell into our arms,19
 Backdrifts,Chorus,Hail To the Thief,You fell into our arms,20
 Backdrifts,Chorus,Hail To the Thief,We tried but there was nothing we could do,21
 Backdrifts,Chorus,Hail To the Thief,Nothing we could do,22
-Backdrifts,Chorus,Hail To the Thief,You might also like,23
-Backdrifts,Post-Chorus,Hail To the Thief,"You fell into our, you fell into our...",24
-Backdrifts,Verse 1,Hail To the Thief,"We're rotten fruit, we're damaged goods",25
-Backdrifts,Verse 1,Hail To the Thief,"What the hell, we've got nothing more to lose",26
-Backdrifts,Verse 1,Hail To the Thief,One gust and we will probably crumble,27
-Backdrifts,Verse 1,Hail To the Thief,We're backdrifters,28
+Backdrifts,Post-Chorus,Hail To the Thief,"You fell into our, you fell into our...",23
+Backdrifts,Verse 1,Hail To the Thief,"We're rotten fruit, we're damaged goods",24
+Backdrifts,Verse 1,Hail To the Thief,"What the hell, we've got nothing more to lose",25
+Backdrifts,Verse 1,Hail To the Thief,One gust and we will probably crumble,26
+Backdrifts,Verse 1,Hail To the Thief,We're backdrifters,27
 Go to Sleep,Verse 1,Hail To the Thief,Something for the rag and bone man,1
 Go to Sleep,Verse 1,Hail To the Thief,Over my dead body,2
 Go to Sleep,Verse 1,Hail To the Thief,Something big is gonna happen,3
@@ -1589,7 +1548,7 @@ Go to Sleep,Bridge,Hail To the Thief,"Tiptoe 'round, tie him down",14
 Go to Sleep,Chorus 2,Hail To the Thief,May pretty horses,15
 Go to Sleep,Chorus 2,Hail To the Thief,Come to you as you sleep,16
 Go to Sleep,Chorus 2,Hail To the Thief,I'm gonna go to sleep,17
-Go to Sleep,Chorus 2,Hail To the Thief,And let this wash all over meYou might also like,18
+Go to Sleep,Chorus 2,Hail To the Thief,And let this wash all over me,18
 Where I End and You Begin,Verse 1,Hail To the Thief,There's a gap in between,1
 Where I End and You Begin,Verse 1,Hail To the Thief,There's a gap where we meet,2
 Where I End and You Begin,Verse 1,Hail To the Thief,Where I end and you begin,3
@@ -1609,34 +1568,33 @@ Where I End and You Begin,Bridge,Hail To the Thief,X will mark the place,16
 Where I End and You Begin,Bridge,Hail To the Thief,Like the parting of the waves,17
 Where I End and You Begin,Bridge,Hail To the Thief,Like a house falling in the sea,18
 Where I End and You Begin,Bridge,Hail To the Thief,In the sea,19
-Where I End and You Begin,Bridge,Hail To the Thief,You might also like,20
+Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,20
 Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,21
 Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,22
 Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,23
-Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,24
+Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,24
 Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,25
 Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,26
 Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,27
-Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,28
+Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,28
 Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,29
 Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,30
 Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,31
-Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,32
+Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,32
 Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,33
 Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,34
 Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,35
-Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,36
+Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,36
 Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,37
 Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,38
 Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,39
-Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,40
+Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,40
 Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,41
 Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,42
 Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,43
-Where I End and You Begin,Outro,Hail To the Thief,There'll be no more lies,44
+Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,44
 Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,45
 Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,46
-Where I End and You Begin,Outro,Hail To the Thief,I will eat you alive,47
 We Suck Young Blood,Verse 1,Hail To the Thief,"Are you hungry, are you sick?",1
 We Suck Young Blood,Verse 1,Hail To the Thief,Are you begging for a break?,2
 We Suck Young Blood,Verse 1,Hail To the Thief,"Are you sweet, are you fresh?",3
@@ -1653,7 +1611,7 @@ We Suck Young Blood,Verse 3,Hail To the Thief,Won't let the nervous bury me,13
 We Suck Young Blood,Verse 3,Hail To the Thief,Our veins are thin,14
 We Suck Young Blood,Verse 3,Hail To the Thief,Our rivers poisoned,15
 We Suck Young Blood,Hook 3,Hail To the Thief,We want the sweet meats,16
-We Suck Young Blood,Hook 3,Hail To the Thief,We want the young bloodYou might also like,17
+We Suck Young Blood,Hook 3,Hail To the Thief,We want the young blood,17
 The Gloaming,Verse 1,Hail To the Thief,Genie let out of the bottle,1
 The Gloaming,Verse 1,Hail To the Thief,It is now the witching hour,2
 The Gloaming,Verse 1,Hail To the Thief,Genie let out of the bottle,3
@@ -1675,14 +1633,13 @@ The Gloaming,Verse 2,Hail To the Thief,"To the shadows blue and red, shadows blu
 The Gloaming,Verse 2,Hail To the Thief,"Your alarm bells, your alarm bells",19
 The Gloaming,Verse 2,Hail To the Thief,"Shadows blue and red, shadows blue and red",20
 The Gloaming,Verse 2,Hail To the Thief,"Your alarm bells, your alarm",21
-The Gloaming,Verse 2,Hail To the Thief,You might also like,22
+The Gloaming,Hook 2,Hail To the Thief,"They should be ringing, they should be ringing",22
 The Gloaming,Hook 2,Hail To the Thief,"They should be ringing, they should be ringing",23
 The Gloaming,Hook 2,Hail To the Thief,"They should be ringing, they should be ringing",24
 The Gloaming,Hook 2,Hail To the Thief,"They should be ringing, they should be ringing",25
-The Gloaming,Hook 2,Hail To the Thief,"They should be ringing, they should be ringing",26
+The Gloaming,Outro,Hail To the Thief,"They should be ringing, they should be ringing",26
 The Gloaming,Outro,Hail To the Thief,"They should be ringing, they should be ringing",27
-The Gloaming,Outro,Hail To the Thief,"They should be ringing, they should be ringing",28
-The Gloaming,Outro,Hail To the Thief,This is the gloaming,29
+The Gloaming,Outro,Hail To the Thief,This is the gloaming,28
 "There, There",Verse 1,Hail To the Thief,In pitch dark,1
 "There, There",Verse 1,Hail To the Thief,I go walking in your landscape,2
 "There, There",Verse 1,Hail To the Thief,Broken branches,3
@@ -1707,16 +1664,15 @@ The Gloaming,Outro,Hail To the Thief,This is the gloaming,29
 "There, There",Refrain,Hail To the Thief,Doesn't mean it's there,22
 "There, There",Refrain,Hail To the Thief,(Someone on your shoulder),23
 "There, There",Refrain,Hail To the Thief,(Someone on your shoulder),24
-"There, There",Refrain,Hail To the Thief,You might also like,25
-"There, There",Interlude,Hail To the Thief,"There, there",26
-"There, There",Bridge,Hail To the Thief,"Why so green and lonely, and lonely",27
-"There, There",Bridge,Hail To the Thief,And lonely?,28
-"There, There",Bridge,Hail To the Thief,"Heaven sent you to me, to me",29
-"There, There",Bridge,Hail To the Thief,To me,30
-"There, There",Outro,Hail To the Thief,"We are accidents waiting, waiting",31
-"There, There",Outro,Hail To the Thief,To happen,32
-"There, There",Outro,Hail To the Thief,"We are accidents waiting, waiting",33
-"There, There",Outro,Hail To the Thief,To happen,34
+"There, There",Interlude,Hail To the Thief,"There, there",25
+"There, There",Bridge,Hail To the Thief,"Why so green and lonely, and lonely",26
+"There, There",Bridge,Hail To the Thief,And lonely?,27
+"There, There",Bridge,Hail To the Thief,"Heaven sent you to me, to me",28
+"There, There",Bridge,Hail To the Thief,To me,29
+"There, There",Outro,Hail To the Thief,"We are accidents waiting, waiting",30
+"There, There",Outro,Hail To the Thief,To happen,31
+"There, There",Outro,Hail To the Thief,"We are accidents waiting, waiting",32
+"There, There",Outro,Hail To the Thief,To happen,33
 I Will,Verse,Hail To the Thief,I will lay me down,1
 I Will,Verse,Hail To the Thief,In a bunker underground,2
 I Will,Verse,Hail To the Thief,I won't let this happen to my children,3
@@ -1725,7 +1681,7 @@ I Will,Verse,Hail To the Thief,"With white elephants, sitting ducks",5
 I Will,Verse,Hail To the Thief,I will rise up,6
 I Will,Outro,Hail To the Thief,"Little baby's eyes, eyes, eyes, eyes",7
 I Will,Outro,Hail To the Thief,"Little baby's eyes, eyes, eyes, eyes",8
-I Will,Outro,Hail To the Thief,"Little baby's eyes, eyes eyesYou might also like",9
+I Will,Outro,Hail To the Thief,"Little baby's eyes, eyes eyes",9
 A Punchup at a Wedding,Intro,Hail To the Thief,"No, no, no, no, no, no",1
 A Punchup at a Wedding,Intro,Hail To the Thief,"No, no, no, no, no, no",2
 A Punchup at a Wedding,Intro,Hail To the Thief,"No, no, no, no, no, no",3
@@ -1745,16 +1701,15 @@ A Punchup at a Wedding,Verse 2,Hail To the Thief,"Hypocrite, opportunist",16
 A Punchup at a Wedding,Verse 2,Hail To the Thief,Don't infect me with your poison,17
 A Punchup at a Wedding,Verse 2,Hail To the Thief,A bully in a china shop,18
 A Punchup at a Wedding,Verse 2,Hail To the Thief,"When I turn 'round, you stay frozen to the spot",19
-A Punchup at a Wedding,Verse 2,Hail To the Thief,You might also like,20
-A Punchup at a Wedding,Chorus,Hail To the Thief,The pointless snide remarks,21
-A Punchup at a Wedding,Chorus,Hail To the Thief,Of hammerheaded sharks,22
-A Punchup at a Wedding,Chorus,Hail To the Thief,The pot will call the kettle black,23
-A Punchup at a Wedding,Chorus,Hail To the Thief,"It's a drunken punch-up at a wedding, yeah",24
-A Punchup at a Wedding,Outro,Hail To the Thief,"No, no, no, no, no, no, no, no, no",25
+A Punchup at a Wedding,Chorus,Hail To the Thief,The pointless snide remarks,20
+A Punchup at a Wedding,Chorus,Hail To the Thief,Of hammerheaded sharks,21
+A Punchup at a Wedding,Chorus,Hail To the Thief,The pot will call the kettle black,22
+A Punchup at a Wedding,Chorus,Hail To the Thief,"It's a drunken punch-up at a wedding, yeah",23
+A Punchup at a Wedding,Outro,Hail To the Thief,"No, no, no, no, no, no, no, no, no",24
+A Punchup at a Wedding,Outro,Hail To the Thief,"No, no, no, no, no, no, no, no, no, no, no, no, no, no",25
 A Punchup at a Wedding,Outro,Hail To the Thief,"No, no, no, no, no, no, no, no, no, no, no, no, no, no",26
 A Punchup at a Wedding,Outro,Hail To the Thief,"No, no, no, no, no, no, no, no, no, no, no, no, no, no",27
 A Punchup at a Wedding,Outro,Hail To the Thief,"No, no, no, no, no, no, no, no, no, no, no, no, no, no",28
-A Punchup at a Wedding,Outro,Hail To the Thief,"No, no, no, no, no, no, no, no, no, no, no, no, no, no",29
 Myxomatosis,Verse 1,Hail To the Thief,The mongrel cat came home,1
 Myxomatosis,Verse 1,Hail To the Thief,Holding half a head,2
 Myxomatosis,Verse 1,Hail To the Thief,Proceeded to show it off,3
@@ -1778,17 +1733,16 @@ Myxomatosis,Chorus,Hail To the Thief,I don't know why I,20
 Myxomatosis,Chorus,Hail To the Thief,Feel so tongue tied,21
 Myxomatosis,Chorus,Hail To the Thief,Don't know why I,22
 Myxomatosis,Chorus,Hail To the Thief,Feel so skinned alive,23
-Myxomatosis,Chorus,Hail To the Thief,You might also like,24
-Myxomatosis,Verse 3,Hail To the Thief,My thoughts are misguided and a little naïve,25
-Myxomatosis,Verse 3,Hail To the Thief,I twitch and I salivate like with myxomatosis,26
-Myxomatosis,Verse 3,Hail To the Thief,You should put me in a home or you should put me down,27
-Myxomatosis,Verse 3,Hail To the Thief,"I got myxomatosis, I got myxomatosis",28
-Myxomatosis,Verse 3,Hail To the Thief,"Yeah, no one likes a smartass, but we all like stars",29
-Myxomatosis,Verse 3,Hail To the Thief,"Wait, that wasn't my intention, I did it for a reason",30
-Myxomatosis,Verse 3,Hail To the Thief,"It must have got mixed up, strangled, beaten up",31
-Myxomatosis,Verse 3,Hail To the Thief,"I got myxomatosis, I got myxomatosis",32
-Myxomatosis,Chorus,Hail To the Thief,I don't know why I,33
-Myxomatosis,Chorus,Hail To the Thief,Feel so tongue tied,34
+Myxomatosis,Verse 3,Hail To the Thief,My thoughts are misguided and a little naïve,24
+Myxomatosis,Verse 3,Hail To the Thief,I twitch and I salivate like with myxomatosis,25
+Myxomatosis,Verse 3,Hail To the Thief,You should put me in a home or you should put me down,26
+Myxomatosis,Verse 3,Hail To the Thief,"I got myxomatosis, I got myxomatosis",27
+Myxomatosis,Verse 3,Hail To the Thief,"Yeah, no one likes a smartass, but we all like stars",28
+Myxomatosis,Verse 3,Hail To the Thief,"Wait, that wasn't my intention, I did it for a reason",29
+Myxomatosis,Verse 3,Hail To the Thief,"It must have got mixed up, strangled, beaten up",30
+Myxomatosis,Verse 3,Hail To the Thief,"I got myxomatosis, I got myxomatosis",31
+Myxomatosis,Chorus,Hail To the Thief,I don't know why I,32
+Myxomatosis,Chorus,Hail To the Thief,Feel so tongue tied,33
 Scatterbrain,Verse 1,Hail To the Thief,I'm walking out in a force ten gale,1
 Scatterbrain,Verse 1,Hail To the Thief,"Birds thrown around, bullets for hail",2
 Scatterbrain,Verse 1,Hail To the Thief,The roof is pulling off by its fingernails,3
@@ -1802,7 +1756,7 @@ Scatterbrain,Outro,Hail To the Thief,Scatterbrain,10
 Scatterbrain,Outro,Hail To the Thief,Somewhere I'm not,11
 Scatterbrain,Outro,Hail To the Thief,Scatterbrain,12
 Scatterbrain,Outro,Hail To the Thief,"Lightning fuse, powercut",13
-Scatterbrain,Outro,Hail To the Thief,ScatterbrainYou might also like,14
+Scatterbrain,Outro,Hail To the Thief,Scatterbrain,14
 A Wolf at the Door,Verse 1,Hail To the Thief,Drag him out your window,1
 A Wolf at the Door,Verse 1,Hail To the Thief,Dragging out the dead,2
 A Wolf at the Door,Verse 1,Hail To the Thief,"Singing ""I miss you""",3
@@ -1832,38 +1786,37 @@ A Wolf at the Door,Verse 1,Hail To the Thief,At the face you don't recognize,26
 A Wolf at the Door,Verse 1,Hail To the Thief,"Help me, call the doctor, put me inside",27
 A Wolf at the Door,Verse 1,Hail To the Thief,"Put me inside, put me inside",28
 A Wolf at the Door,Verse 1,Hail To the Thief,"Put me inside, put me inside",29
-A Wolf at the Door,Verse 1,Hail To the Thief,You might also like,30
-A Wolf at the Door,Chorus,Hail To the Thief,I keep the wolf from the door but he calls me up,31
-A Wolf at the Door,Chorus,Hail To the Thief,"Calls me on the phone, tells me all the ways that he's gonna mess me up",32
-A Wolf at the Door,Chorus,Hail To the Thief,Steal all my children if I don't pay the ransom,33
-A Wolf at the Door,Chorus,Hail To the Thief,And I'll never see them again if I squeal to the cops,34
+A Wolf at the Door,Chorus,Hail To the Thief,I keep the wolf from the door but he calls me up,30
+A Wolf at the Door,Chorus,Hail To the Thief,"Calls me on the phone, tells me all the ways that he's gonna mess me up",31
+A Wolf at the Door,Chorus,Hail To the Thief,Steal all my children if I don't pay the ransom,32
+A Wolf at the Door,Chorus,Hail To the Thief,And I'll never see them again if I squeal to the cops,33
+A Wolf at the Door,Bridge,Hail To the Thief,No no no no no no no no no no no no no,34
 A Wolf at the Door,Bridge,Hail To the Thief,No no no no no no no no no no no no no,35
 A Wolf at the Door,Bridge,Hail To the Thief,No no no no no no no no no no no no no,36
 A Wolf at the Door,Bridge,Hail To the Thief,No no no no no no no no no no no no no,37
 A Wolf at the Door,Bridge,Hail To the Thief,No no no no no no no no no no no no no,38
 A Wolf at the Door,Bridge,Hail To the Thief,No no no no no no no no no no no no no,39
 A Wolf at the Door,Bridge,Hail To the Thief,No no no no no no no no no no no no no,40
-A Wolf at the Door,Bridge,Hail To the Thief,No no no no no no no no no no no no no,41
-A Wolf at the Door,Bridge,Hail To the Thief,No no no no no no no no no no no no no no,42
-A Wolf at the Door,Verse 2,Hail To the Thief,Walking like giant cranes and,43
-A Wolf at the Door,Verse 2,Hail To the Thief,"With my X-ray eyes, I strip you naked",44
-A Wolf at the Door,Verse 2,Hail To the Thief,In a tight little world and are you on the list?,45
-A Wolf at the Door,Verse 2,Hail To the Thief,"Stepford wives, who are we to complain?",46
-A Wolf at the Door,Verse 2,Hail To the Thief,"Investments and dealers, investments and dealers",47
-A Wolf at the Door,Verse 2,Hail To the Thief,Cold wives and mistresses,48
-A Wolf at the Door,Verse 2,Hail To the Thief,Cold wives and Sunday papers,49
-A Wolf at the Door,Verse 2,Hail To the Thief,City boys in first class,50
-A Wolf at the Door,Verse 2,Hail To the Thief,Don't know we're born at all,51
-A Wolf at the Door,Verse 2,Hail To the Thief,Just know someone else is gonna come and clean it up,52
-A Wolf at the Door,Verse 2,Hail To the Thief,Born and raised for the job,53
-A Wolf at the Door,Verse 2,Hail To the Thief,Someone always does,54
-A Wolf at the Door,Verse 2,Hail To the Thief,"Oh, I wish you'd get up",55
-A Wolf at the Door,Verse 2,Hail To the Thief,"Get over, get up, get over, turn your tape off",56
-A Wolf at the Door,Chorus,Hail To the Thief,I keep the wolf from the door but he calls me up,57
-A Wolf at the Door,Chorus,Hail To the Thief,"Calls me on the phone, tells me all the ways that he's gonna mess me up",58
-A Wolf at the Door,Chorus,Hail To the Thief,Steal all my children if I don't pay the ransom,59
-A Wolf at the Door,Chorus,Hail To the Thief,And I'll never see them again if I squeal to the cops,60
-A Wolf at the Door,Chorus,Hail To the Thief,So I'm just gonna...,61
+A Wolf at the Door,Bridge,Hail To the Thief,No no no no no no no no no no no no no no,41
+A Wolf at the Door,Verse 2,Hail To the Thief,Walking like giant cranes and,42
+A Wolf at the Door,Verse 2,Hail To the Thief,"With my X-ray eyes, I strip you naked",43
+A Wolf at the Door,Verse 2,Hail To the Thief,In a tight little world and are you on the list?,44
+A Wolf at the Door,Verse 2,Hail To the Thief,"Stepford wives, who are we to complain?",45
+A Wolf at the Door,Verse 2,Hail To the Thief,"Investments and dealers, investments and dealers",46
+A Wolf at the Door,Verse 2,Hail To the Thief,Cold wives and mistresses,47
+A Wolf at the Door,Verse 2,Hail To the Thief,Cold wives and Sunday papers,48
+A Wolf at the Door,Verse 2,Hail To the Thief,City boys in first class,49
+A Wolf at the Door,Verse 2,Hail To the Thief,Don't know we're born at all,50
+A Wolf at the Door,Verse 2,Hail To the Thief,Just know someone else is gonna come and clean it up,51
+A Wolf at the Door,Verse 2,Hail To the Thief,Born and raised for the job,52
+A Wolf at the Door,Verse 2,Hail To the Thief,Someone always does,53
+A Wolf at the Door,Verse 2,Hail To the Thief,"Oh, I wish you'd get up",54
+A Wolf at the Door,Verse 2,Hail To the Thief,"Get over, get up, get over, turn your tape off",55
+A Wolf at the Door,Chorus,Hail To the Thief,I keep the wolf from the door but he calls me up,56
+A Wolf at the Door,Chorus,Hail To the Thief,"Calls me on the phone, tells me all the ways that he's gonna mess me up",57
+A Wolf at the Door,Chorus,Hail To the Thief,Steal all my children if I don't pay the ransom,58
+A Wolf at the Door,Chorus,Hail To the Thief,And I'll never see them again if I squeal to the cops,59
+A Wolf at the Door,Chorus,Hail To the Thief,So I'm just gonna...,60
 15 Step,Chorus,In Rainbows,How come I end up where I started?,1
 15 Step,Chorus,In Rainbows,How come I end up where I went wrong?,2
 15 Step,Chorus,In Rainbows,Won't take my eyes off the ball again,3
@@ -1885,11 +1838,10 @@ A Wolf at the Door,Chorus,Hail To the Thief,So I'm just gonna...,61
 15 Step,Verse 2,In Rainbows,"Et cetera, et cetera",19
 15 Step,Verse 2,In Rainbows,Fads for whatever,20
 15 Step,Verse 2,In Rainbows,"Fifteen steps, then a sheer drop",21
-15 Step,Verse 2,In Rainbows,You might also like,22
-15 Step,Chorus,In Rainbows,How come I end up where I started?,23
-15 Step,Chorus,In Rainbows,How come I end up where I went wrong?,24
-15 Step,Chorus,In Rainbows,Won't take my eyes off the ball again,25
-15 Step,Chorus,In Rainbows,"You reel me out, then you cut the string",26
+15 Step,Chorus,In Rainbows,How come I end up where I started?,22
+15 Step,Chorus,In Rainbows,How come I end up where I went wrong?,23
+15 Step,Chorus,In Rainbows,Won't take my eyes off the ball again,24
+15 Step,Chorus,In Rainbows,"You reel me out, then you cut the string",25
 Bodysnatchers,Verse 1,In Rainbows,I do not,1
 Bodysnatchers,Verse 1,In Rainbows,Understand,2
 Bodysnatchers,Verse 1,In Rainbows,What it is,3
@@ -1920,11 +1872,10 @@ Bodysnatchers,Bridge,In Rainbows,On the lines wrapped 'round my face,27
 Bodysnatchers,Bridge,In Rainbows,And for anyone else to see,28
 Bodysnatchers,Bridge,In Rainbows,And for anyone else to see,29
 Bodysnatchers,Bridge,In Rainbows,I'm a lie,30
-Bodysnatchers,Bridge,In Rainbows,You might also like,31
-Bodysnatchers,Outro,In Rainbows,I've seen it coming,32
+Bodysnatchers,Outro,In Rainbows,I've seen it coming,31
+Bodysnatchers,Outro,In Rainbows,They've seen it coming,32
 Bodysnatchers,Outro,In Rainbows,They've seen it coming,33
 Bodysnatchers,Outro,In Rainbows,They've seen it coming,34
-Bodysnatchers,Outro,In Rainbows,They've seen it coming,35
 Nude,Verse 1,In Rainbows,Don't get any big ideas,1
 Nude,Verse 1,In Rainbows,They're not gonna happen,2
 Nude,Verse 1,In Rainbows,You paint yourself white,3
@@ -1936,7 +1887,7 @@ Nude,Chorus,In Rainbows,You've gone off the rails,8
 Nude,Verse 2,In Rainbows,So don't get any big ideas,9
 Nude,Verse 2,In Rainbows,They're not gonna happen,10
 Nude,Verse 2,In Rainbows,You'll go to hell,11
-Nude,Verse 2,In Rainbows,For what your dirty mind is thinkingYou might also like,12
+Nude,Verse 2,In Rainbows,For what your dirty mind is thinking,12
 Weird Fishes/Arpeggi,Verse 1,In Rainbows,In the deepest ocean,1
 Weird Fishes/Arpeggi,Verse 1,In Rainbows,The bottom of the sea,2
 Weird Fishes/Arpeggi,Verse 1,In Rainbows,Your eyes,3
@@ -1961,15 +1912,14 @@ Weird Fishes/Arpeggi,Chorus,In Rainbows,Picked over by the worms,21
 Weird Fishes/Arpeggi,Chorus,In Rainbows,And weird fishes,22
 Weird Fishes/Arpeggi,Chorus,In Rainbows,Weird fishes,23
 Weird Fishes/Arpeggi,Chorus,In Rainbows,Weird fishes,24
-Weird Fishes/Arpeggi,Chorus,In Rainbows,You might also like,25
-Weird Fishes/Arpeggi,Outro,In Rainbows,"Yeah, I",26
-Weird Fishes/Arpeggi,Outro,In Rainbows,I hit the bottom,27
-Weird Fishes/Arpeggi,Outro,In Rainbows,Hit the bottom and escape,28
-Weird Fishes/Arpeggi,Outro,In Rainbows,Escape,29
-Weird Fishes/Arpeggi,Outro,In Rainbows,I,30
-Weird Fishes/Arpeggi,Outro,In Rainbows,I hit the bottom,31
-Weird Fishes/Arpeggi,Outro,In Rainbows,Hit the bottom and escape,32
-Weird Fishes/Arpeggi,Outro,In Rainbows,Escape,33
+Weird Fishes/Arpeggi,Outro,In Rainbows,"Yeah, I",25
+Weird Fishes/Arpeggi,Outro,In Rainbows,I hit the bottom,26
+Weird Fishes/Arpeggi,Outro,In Rainbows,Hit the bottom and escape,27
+Weird Fishes/Arpeggi,Outro,In Rainbows,Escape,28
+Weird Fishes/Arpeggi,Outro,In Rainbows,I,29
+Weird Fishes/Arpeggi,Outro,In Rainbows,I hit the bottom,30
+Weird Fishes/Arpeggi,Outro,In Rainbows,Hit the bottom and escape,31
+Weird Fishes/Arpeggi,Outro,In Rainbows,Escape,32
 All I Need,Verse 1,In Rainbows,I'm the next act waiting in the wings,1
 All I Need,Verse 1,In Rainbows,I'm an animal trapped in your hot car,2
 All I Need,Verse 1,In Rainbows,I am all the days that you choose to ignore,3
@@ -1987,7 +1937,7 @@ All I Need,Chorus,In Rainbows,Lying in the reeds,14
 All I Need,Outro,In Rainbows,"It's all wrong, it's all wrong, it's all wrong",15
 All I Need,Outro,In Rainbows,"It's alright, it's alright, it's alright",16
 All I Need,Outro,In Rainbows,"It's all wrong, it's alright",17
-All I Need,Outro,In Rainbows,"It's alright, it's alrightYou might also like",18
+All I Need,Outro,In Rainbows,"It's alright, it's alright",18
 Faust Arp,Intro,In Rainbows,"One, two, three, four",1
 Faust Arp,Verse 1,In Rainbows,"Wakey wakey, rise and shine",2
 Faust Arp,Verse 1,In Rainbows,"It's on again, off again, on again",3
@@ -2012,18 +1962,17 @@ Faust Arp,Verse 2,In Rainbows,"Is tumbling, tumbling, tumbling",21
 Faust Arp,Verse 2,In Rainbows,In duplicate and triplicate and,22
 Faust Arp,Verse 2,In Rainbows,Plastic bags,23
 Faust Arp,Verse 2,In Rainbows,In duplicate and triplicate,24
-Faust Arp,Verse 2,In Rainbows,You might also like,25
-Faust Arp,Chorus,In Rainbows,Dead from the neck up,26
-Faust Arp,Chorus,In Rainbows,"I guess I'm stuffed, stuffed, stuffed",27
-Faust Arp,Chorus,In Rainbows,We thought you had it in you,28
-Faust Arp,Chorus,In Rainbows,"But not, not, not",29
-Faust Arp,Chorus,In Rainbows,Exactly where do you get off,30
-Faust Arp,Chorus,In Rainbows,"Is enough, is enough?",31
-Faust Arp,Chorus,In Rainbows,I love you but enough is enough,32
-Faust Arp,Chorus,In Rainbows,Enough of that stuff,33
-Faust Arp,Chorus,In Rainbows,There's no real reason,34
-Faust Arp,Outro,In Rainbows,You've got a head full of feathers,35
-Faust Arp,Outro,In Rainbows,You got melted to butter,36
+Faust Arp,Chorus,In Rainbows,Dead from the neck up,25
+Faust Arp,Chorus,In Rainbows,"I guess I'm stuffed, stuffed, stuffed",26
+Faust Arp,Chorus,In Rainbows,We thought you had it in you,27
+Faust Arp,Chorus,In Rainbows,"But not, not, not",28
+Faust Arp,Chorus,In Rainbows,Exactly where do you get off,29
+Faust Arp,Chorus,In Rainbows,"Is enough, is enough?",30
+Faust Arp,Chorus,In Rainbows,I love you but enough is enough,31
+Faust Arp,Chorus,In Rainbows,Enough of that stuff,32
+Faust Arp,Chorus,In Rainbows,There's no real reason,33
+Faust Arp,Outro,In Rainbows,You've got a head full of feathers,34
+Faust Arp,Outro,In Rainbows,You got melted to butter,35
 Reckoner,Verse 1,In Rainbows,Reckoner,1
 Reckoner,Verse 1,In Rainbows,You can't take it with you,2
 Reckoner,Verse 1,In Rainbows,Dancing for your pleasure,3
@@ -2039,7 +1988,7 @@ Reckoner,Chorus,In Rainbows,(In rainbows),12
 Reckoner,Verse 3,In Rainbows,Reckoner,13
 Reckoner,Verse 3,In Rainbows,Take me with you,14
 Reckoner,Verse 3,In Rainbows,Dedicated to all hu–,15
-Reckoner,Verse 3,In Rainbows,All human beingsYou might also like,16
+Reckoner,Verse 3,In Rainbows,All human beings,16
 House of Cards,Verse 1,In Rainbows,I don't want to be your friend,1
 House of Cards,Verse 1,In Rainbows,I just want to be your lover,2
 House of Cards,Verse 1,In Rainbows,No matter how it ends,3
@@ -2063,7 +2012,7 @@ House of Cards,Chorus,In Rainbows,"Denial, denial",20
 House of Cards,Chorus,In Rainbows,"Denial, denial",21
 House of Cards,Chorus,In Rainbows,(Your ears should be burning),22
 House of Cards,Chorus,In Rainbows,"Denial, denial",23
-House of Cards,Chorus,In Rainbows,(Your ears should be burning)You might also like,24
+House of Cards,Chorus,In Rainbows,(Your ears should be burning),24
 Jigsaw Falling into Place,Verse 1,In Rainbows,Just as you take my hand,1
 Jigsaw Falling into Place,Verse 1,In Rainbows,Just as you write my number down,2
 Jigsaw Falling into Place,Verse 1,In Rainbows,Just as the drinks arrive,3
@@ -2096,17 +2045,16 @@ Jigsaw Falling into Place,Verse 2,In Rainbows,Before you run away from me,29
 Jigsaw Falling into Place,Verse 2,In Rainbows,Before you're lost between the notes,30
 Jigsaw Falling into Place,Verse 2,In Rainbows,Just as you take the mic,31
 Jigsaw Falling into Place,Verse 2,In Rainbows,"Just as you dance, dance, dance",32
-Jigsaw Falling into Place,Verse 2,In Rainbows,You might also like,33
-Jigsaw Falling into Place,Chorus,In Rainbows,A jigsaw falling into place,34
-Jigsaw Falling into Place,Chorus,In Rainbows,So there is nothing to explain,35
-Jigsaw Falling into Place,Chorus,In Rainbows,You eye each other as you pass,36
-Jigsaw Falling into Place,Chorus,In Rainbows,"She looks back, and you look back",37
-Jigsaw Falling into Place,Chorus,In Rainbows,"Not just once, and not just twice",38
-Jigsaw Falling into Place,Chorus,In Rainbows,Wish away your nightmare,39
-Jigsaw Falling into Place,Chorus,In Rainbows,Wish away the nightmare,40
-Jigsaw Falling into Place,Chorus,In Rainbows,"You got the light, you can feel it on your back",41
-Jigsaw Falling into Place,Chorus,In Rainbows,"A light, you can feel it on your back",42
-Jigsaw Falling into Place,Chorus,In Rainbows,Your jigsaw falling into place,43
+Jigsaw Falling into Place,Chorus,In Rainbows,A jigsaw falling into place,33
+Jigsaw Falling into Place,Chorus,In Rainbows,So there is nothing to explain,34
+Jigsaw Falling into Place,Chorus,In Rainbows,You eye each other as you pass,35
+Jigsaw Falling into Place,Chorus,In Rainbows,"She looks back, and you look back",36
+Jigsaw Falling into Place,Chorus,In Rainbows,"Not just once, and not just twice",37
+Jigsaw Falling into Place,Chorus,In Rainbows,Wish away your nightmare,38
+Jigsaw Falling into Place,Chorus,In Rainbows,Wish away the nightmare,39
+Jigsaw Falling into Place,Chorus,In Rainbows,"You got the light, you can feel it on your back",40
+Jigsaw Falling into Place,Chorus,In Rainbows,"A light, you can feel it on your back",41
+Jigsaw Falling into Place,Chorus,In Rainbows,Your jigsaw falling into place,42
 Videotape,Verse 1,In Rainbows,When I'm at the pearly gates,1
 Videotape,Verse 1,In Rainbows,"This'll be on my videotape, my videotape",2
 Videotape,Verse 1,In Rainbows,When Mephistopheles is just beneath,3
@@ -2126,7 +2074,7 @@ Videotape,Verse 2,In Rainbows,No matter what happens now,16
 Videotape,Verse 2,In Rainbows,You shouldn't be afraid,17
 Videotape,Verse 2,In Rainbows,Because I know today has been,18
 Videotape,Verse 2,In Rainbows,The most perfect day,19
-Videotape,Verse 2,In Rainbows,I've ever seenYou might also like,20
+Videotape,Verse 2,In Rainbows,I've ever seen,20
 Bloom,Verse 1,The King Of Limbs,Open your mouth wide,1
 Bloom,Verse 1,The King Of Limbs,A universal sigh,2
 Bloom,Verse 1,The King Of Limbs,And while the ocean blooms,3
@@ -2140,7 +2088,7 @@ Bloom,Verse 2,The King Of Limbs,(A giant turtle's eyes),10
 Bloom,Verse 2,The King Of Limbs,A giant turtle's eyes,11
 Bloom,Verse 2,The King Of Limbs,(Jellyfish float by),12
 Bloom,Verse 2,The King Of Limbs,Jellyfish float by,13
-Bloom,Outro,The King Of Limbs,It's what keeps me aliveYou might also like,14
+Bloom,Outro,The King Of Limbs,It's what keeps me alive,14
 Morning Mr. Magpie,Verse 1,The King Of Limbs,You got some nerve comin' here,1
 Morning Mr. Magpie,Verse 1,The King Of Limbs,You got some nerve comin' here,2
 Morning Mr. Magpie,Verse 1,The King Of Limbs,"You stole it off, give it back",3
@@ -2158,7 +2106,7 @@ Morning Mr. Magpie,Verse 2,The King Of Limbs,"You know you should, but you don't
 Morning Mr. Magpie,Chorus,The King Of Limbs,"Good morning, Mr. Magpie",15
 Morning Mr. Magpie,Chorus,The King Of Limbs,How are we today?,16
 Morning Mr. Magpie,Chorus,The King Of Limbs,Now you've stolen all my magic,17
-Morning Mr. Magpie,Chorus,The King Of Limbs,Took my melodyYou might also like,18
+Morning Mr. Magpie,Chorus,The King Of Limbs,Took my melody,18
 Little by Little,Verse 1,The King Of Limbs,"Don't turn nasty now, the dusts of Hell",1
 Little by Little,Verse 1,The King Of Limbs,A pillar of my salt,2
 Little by Little,Verse 1,The King Of Limbs,The last one out of the box,3
@@ -2181,19 +2129,18 @@ Little by Little,Bridge,The King Of Limbs,Routines and schedules,19
 Little by Little,Bridge,The King Of Limbs,The drug that will kill you,20
 Little by Little,Bridge,The King Of Limbs,Kill you,21
 Little by Little,Bridge,The King Of Limbs,"Oh-oh-oh-oh, you",22
-Little by Little,Bridge,The King Of Limbs,You might also like,23
-Little by Little,Chorus 2,The King Of Limbs,"Little by little, by hook or by crook",24
-Little by Little,Chorus 2,The King Of Limbs,"Never in earnest, never get judged",25
-Little by Little,Chorus 2,The King Of Limbs,"I'm no idiot, I should look",26
-Little by Little,Chorus 2,The King Of Limbs,"Little by little, by hook or by crook",27
-Little by Little,Chorus 2,The King Of Limbs,I'm such a tease and you're such a flirt,28
+Little by Little,Chorus 2,The King Of Limbs,"Little by little, by hook or by crook",23
+Little by Little,Chorus 2,The King Of Limbs,"Never in earnest, never get judged",24
+Little by Little,Chorus 2,The King Of Limbs,"I'm no idiot, I should look",25
+Little by Little,Chorus 2,The King Of Limbs,"Little by little, by hook or by crook",26
+Little by Little,Chorus 2,The King Of Limbs,I'm such a tease and you're such a flirt,27
 Feral,Verse,The King Of Limbs,(You're not),1
 Feral,Verse,The King Of Limbs,You're not mine,2
 Feral,Verse,The King Of Limbs,I'm not yours,3
 Feral,Verse,The King Of Limbs,It's all fine,4
 Feral,Verse,The King Of Limbs,"Please don't judge, judge",5
 Feral,Verse,The King Of Limbs,(You're not mine),6
-Feral,Repeated Infinitum,The King Of Limbs,JudgeYou might also like,7
+Feral,Repeated Infinitum,The King Of Limbs,Judge,7
 Lotus Flower,Verse 1,The King Of Limbs,I will shape myself into your pocket,1
 Lotus Flower,Verse 1,The King Of Limbs,Invisible,2
 Lotus Flower,Verse 1,The King Of Limbs,Do what you want,3
@@ -2218,27 +2165,26 @@ Lotus Flower,Chorus 1,The King Of Limbs,Just to see what is,21
 Lotus Flower,Chorus 1,The King Of Limbs,I can't kick your habit,22
 Lotus Flower,Chorus 1,The King Of Limbs,Just to feed your fast balloonin' head,23
 Lotus Flower,Chorus 1,The King Of Limbs,Listen to your heart,24
-Lotus Flower,Chorus 1,The King Of Limbs,You might also like,25
-Lotus Flower,Verse 2,The King Of Limbs,We will shrink and then be quiet as mice,26
-Lotus Flower,Verse 2,The King Of Limbs,And while the cat is away,27
+Lotus Flower,Verse 2,The King Of Limbs,We will shrink and then be quiet as mice,25
+Lotus Flower,Verse 2,The King Of Limbs,And while the cat is away,26
+Lotus Flower,Verse 2,The King Of Limbs,Do what we want,27
 Lotus Flower,Verse 2,The King Of Limbs,Do what we want,28
-Lotus Flower,Verse 2,The King Of Limbs,Do what we want,29
-Lotus Flower,Refrain,The King Of Limbs,There's an empty space inside my heart,30
-Lotus Flower,Refrain,The King Of Limbs,Where the weeds take root,31
-Lotus Flower,Refrain,The King Of Limbs,So now I'll set you free,32
-Lotus Flower,Refrain,The King Of Limbs,I'll set you free,33
-Lotus Flower,Bridge,The King Of Limbs,'Cause all I want is the moon upon a stick,34
-Lotus Flower,Bridge,The King Of Limbs,Just to see what if,35
-Lotus Flower,Bridge,The King Of Limbs,Just to see what is,36
-Lotus Flower,Bridge,The King Of Limbs,"Oh, the bird that's flown into my room",37
-Lotus Flower,Chorus 2,The King Of Limbs,Slowly we unfurl,38
-Lotus Flower,Chorus 2,The King Of Limbs,As lotus flowers,39
-Lotus Flower,Chorus 2,The King Of Limbs,'Cause all I want is the moon upon a stick,40
-Lotus Flower,Chorus 2,The King Of Limbs,I dance around the pit,41
-Lotus Flower,Chorus 2,The King Of Limbs,The darkness is beneath,42
-Lotus Flower,Chorus 2,The King Of Limbs,I can't kick your habit,43
-Lotus Flower,Chorus 2,The King Of Limbs,Just to feed your fast balloonin' head,44
-Lotus Flower,Chorus 2,The King Of Limbs,Listen to your heart,45
+Lotus Flower,Refrain,The King Of Limbs,There's an empty space inside my heart,29
+Lotus Flower,Refrain,The King Of Limbs,Where the weeds take root,30
+Lotus Flower,Refrain,The King Of Limbs,So now I'll set you free,31
+Lotus Flower,Refrain,The King Of Limbs,I'll set you free,32
+Lotus Flower,Bridge,The King Of Limbs,'Cause all I want is the moon upon a stick,33
+Lotus Flower,Bridge,The King Of Limbs,Just to see what if,34
+Lotus Flower,Bridge,The King Of Limbs,Just to see what is,35
+Lotus Flower,Bridge,The King Of Limbs,"Oh, the bird that's flown into my room",36
+Lotus Flower,Chorus 2,The King Of Limbs,Slowly we unfurl,37
+Lotus Flower,Chorus 2,The King Of Limbs,As lotus flowers,38
+Lotus Flower,Chorus 2,The King Of Limbs,'Cause all I want is the moon upon a stick,39
+Lotus Flower,Chorus 2,The King Of Limbs,I dance around the pit,40
+Lotus Flower,Chorus 2,The King Of Limbs,The darkness is beneath,41
+Lotus Flower,Chorus 2,The King Of Limbs,I can't kick your habit,42
+Lotus Flower,Chorus 2,The King Of Limbs,Just to feed your fast balloonin' head,43
+Lotus Flower,Chorus 2,The King Of Limbs,Listen to your heart,44
 Codex,Verse 1,The King Of Limbs,Sleight of hand,1
 Codex,Verse 1,The King Of Limbs,Jump off the end,2
 Codex,Verse 1,The King Of Limbs,Into a clear lake,3
@@ -2255,7 +2201,6 @@ Codex,Verse 2,The King Of Limbs,The water's clear,13
 Codex,Verse 2,The King Of Limbs,And innocent,14
 Codex,Verse 2,The King Of Limbs,The water's clear,15
 Codex,Verse 2,The King Of Limbs,And innocent,16
-Codex,Instrumental,The King Of Limbs,You might also like,17
 Give Up the Ghost,Intro,The King Of Limbs,"Don't hurt me, don't hurt me",1
 Give Up the Ghost,Intro,The King Of Limbs,"Don't hurt me, don't hurt me",2
 Give Up the Ghost,Intro,The King Of Limbs,Don't hurt me,3
@@ -2279,7 +2224,7 @@ Give Up the Ghost,Verse 2,The King Of Limbs,Into your arms (Don't hurt me),20
 Give Up the Ghost,Verse 2,The King Of Limbs,Into your arms (Don't hurt me),21
 Give Up the Ghost,Verse 2,The King Of Limbs,"I think I should give up the ghost (Don't hurt me, don't hurt me)",22
 Give Up the Ghost,Verse 2,The King Of Limbs,"Into your arms (Into your arms) (Don't hurt me, don't hurt me)",23
-Give Up the Ghost,Verse 2,The King Of Limbs,You might also like,24
+Give Up the Ghost,Outro,The King Of Limbs,Into your arms (Don't hurt me),24
 Give Up the Ghost,Outro,The King Of Limbs,Into your arms (Don't hurt me),25
 Give Up the Ghost,Outro,The King Of Limbs,Into your arms (Don't hurt me),26
 Give Up the Ghost,Outro,The King Of Limbs,Into your arms (Don't hurt me),27
@@ -2289,7 +2234,6 @@ Give Up the Ghost,Outro,The King Of Limbs,Into your arms (Don't hurt me),30
 Give Up the Ghost,Outro,The King Of Limbs,Into your arms (Don't hurt me),31
 Give Up the Ghost,Outro,The King Of Limbs,Into your arms (Don't hurt me),32
 Give Up the Ghost,Outro,The King Of Limbs,Into your arms (Don't hurt me),33
-Give Up the Ghost,Outro,The King Of Limbs,Into your arms (Don't hurt me),34
 Separator,Chorus 1,The King Of Limbs,It's like I've fallen out of bed from a long and vivid dream,1
 Separator,Chorus 1,The King Of Limbs,The sweetest flowered fruits were hangin' from the trees,2
 Separator,Chorus 1,The King Of Limbs,Fallin' off the giant bird that's been carryin' me,3
@@ -2307,19 +2251,18 @@ Separator,Chorus 3,The King Of Limbs,Fallen off a giant bird that's been carryin
 Separator,Verse 3,The King Of Limbs,"I fell open, I lay under",15
 Separator,Verse 3,The King Of Limbs,"At the tip off, lost your number",16
 Separator,Verse 3,The King Of Limbs,I wanna slip over and get back under,17
-Separator,Verse 3,The King Of Limbs,You might also like,18
-Separator,Bridge,The King Of Limbs,"And if you think this is over, then you're wrong",19
-Separator,Bridge,The King Of Limbs,"If you think this is over, then you're wrong",20
+Separator,Bridge,The King Of Limbs,"And if you think this is over, then you're wrong",18
+Separator,Bridge,The King Of Limbs,"If you think this is over, then you're wrong",19
+Separator,Bridge,The King Of Limbs,"(Wake me up, will you wake me up?) If you think this is over, then you're wrong",20
 Separator,Bridge,The King Of Limbs,"(Wake me up, will you wake me up?) If you think this is over, then you're wrong",21
-Separator,Bridge,The King Of Limbs,"(Wake me up, will you wake me up?) If you think this is over, then you're wrong",22
-Separator,Chorus 2,The King Of Limbs,"(Wake me up, will you wake me up?) Like I've fallen out of bed from a long and vivid dream",23
-Separator,Chorus 2,The King Of Limbs,"(Wake me up, will you wake me up?) Finally I'm free of all the weight I've been carryin'",24
+Separator,Chorus 2,The King Of Limbs,"(Wake me up, will you wake me up?) Like I've fallen out of bed from a long and vivid dream",22
+Separator,Chorus 2,The King Of Limbs,"(Wake me up, will you wake me up?) Finally I'm free of all the weight I've been carryin'",23
+Separator,Outro,The King Of Limbs,"When at last, you give in",24
 Separator,Outro,The King Of Limbs,"When at last, you give in",25
-Separator,Outro,The King Of Limbs,"When at last, you give in",26
+Separator,Outro,The King Of Limbs,"Wake me up, will you wake me up?",26
 Separator,Outro,The King Of Limbs,"Wake me up, will you wake me up?",27
 Separator,Outro,The King Of Limbs,"Wake me up, will you wake me up?",28
 Separator,Outro,The King Of Limbs,"Wake me up, will you wake me up?",29
-Separator,Outro,The King Of Limbs,"Wake me up, will you wake me up?",30
 Burn the Witch,Verse 1,A Moon Shaped Pool,Stay in the shadows,1
 Burn the Witch,Verse 1,A Moon Shaped Pool,Cheer at the gallows,2
 Burn the Witch,Verse 1,A Moon Shaped Pool,This is a round-up,3
@@ -2337,11 +2280,10 @@ Burn the Witch,Verse 2,A Moon Shaped Pool,Do not react,14
 Burn the Witch,Verse 2,A Moon Shaped Pool,Shoot the messengers,15
 Burn the Witch,Pre-Chorus,A Moon Shaped Pool,This is a low-flying panic attack,16
 Burn the Witch,Pre-Chorus,A Moon Shaped Pool,Sing the song of sixpence that goes,17
-Burn the Witch,Pre-Chorus,A Moon Shaped Pool,You might also like,18
+Burn the Witch,Chorus,A Moon Shaped Pool,Burn the witch,18
 Burn the Witch,Chorus,A Moon Shaped Pool,Burn the witch,19
-Burn the Witch,Chorus,A Moon Shaped Pool,Burn the witch,20
+Burn the Witch,Chorus,A Moon Shaped Pool,We know where you live,20
 Burn the Witch,Chorus,A Moon Shaped Pool,We know where you live,21
-Burn the Witch,Chorus,A Moon Shaped Pool,We know where you live,22
 Daydreaming,Verse 1,A Moon Shaped Pool,Dreamers,1
 Daydreaming,Verse 1,A Moon Shaped Pool,They never learn,2
 Daydreaming,Verse 1,A Moon Shaped Pool,They never learn,3
@@ -2377,7 +2319,7 @@ Daydreaming,Outro,A Moon Shaped Pool,​efil ym fo flaH,32
 Daydreaming,Outro,A Moon Shaped Pool,​efil ym fo flaH,33
 Daydreaming,Outro,A Moon Shaped Pool,​efil ym fo flaH,34
 Daydreaming,Outro,A Moon Shaped Pool,​efil ym fo flaH,35
-Daydreaming,Outro,A Moon Shaped Pool,​efil ym fo flaH​​You might also like,36
+Daydreaming,Outro,A Moon Shaped Pool,​efil ym fo flaH​​,36
 Decks Dark,Chorus,A Moon Shaped Pool,"Then into your life, there comes a darkness",1
 Decks Dark,Chorus,A Moon Shaped Pool,There's a spacecraft blocking out the sky,2
 Decks Dark,Chorus,A Moon Shaped Pool,And there's nowhere to hide,3
@@ -2398,16 +2340,15 @@ Decks Dark,Chorus,A Moon Shaped Pool,And there's nowhere to hide,17
 Decks Dark,Chorus,A Moon Shaped Pool,You run to the back and you cover your ears,18
 Decks Dark,Chorus,A Moon Shaped Pool,But it's the loudest sound you've ever heard,19
 Decks Dark,Chorus,A Moon Shaped Pool,Into your darkest hour,20
-Decks Dark,Chorus,A Moon Shaped Pool,You might also like,21
+Decks Dark,Outro,A Moon Shaped Pool,When you've had enough of me,21
 Decks Dark,Outro,A Moon Shaped Pool,When you've had enough of me,22
-Decks Dark,Outro,A Moon Shaped Pool,When you've had enough of me,23
-Decks Dark,Outro,A Moon Shaped Pool,Sweet darling,24
+Decks Dark,Outro,A Moon Shaped Pool,Sweet darling,23
+Decks Dark,Outro,A Moon Shaped Pool,When you've had enough of me,24
 Decks Dark,Outro,A Moon Shaped Pool,When you've had enough of me,25
-Decks Dark,Outro,A Moon Shaped Pool,When you've had enough of me,26
-Decks Dark,Outro,A Moon Shaped Pool,Sweet darling,27
-Decks Dark,Outro,A Moon Shaped Pool,Sweet times,28
-Decks Dark,Outro,A Moon Shaped Pool,Sweet darling,29
-Decks Dark,Outro,A Moon Shaped Pool,Sweet times,30
+Decks Dark,Outro,A Moon Shaped Pool,Sweet darling,26
+Decks Dark,Outro,A Moon Shaped Pool,Sweet times,27
+Decks Dark,Outro,A Moon Shaped Pool,Sweet darling,28
+Decks Dark,Outro,A Moon Shaped Pool,Sweet times,29
 Desert Island Disk,Verse 1,A Moon Shaped Pool,Now as I go upon my way,1
 Desert Island Disk,Verse 1,A Moon Shaped Pool,So let me go upon my way,2
 Desert Island Disk,Verse 1,A Moon Shaped Pool,"Born of a light, born of a light",3
@@ -2434,7 +2375,7 @@ Desert Island Disk,Outro,A Moon Shaped Pool,Different types of love,23
 Desert Island Disk,Outro,A Moon Shaped Pool,Are possible,24
 Desert Island Disk,Outro,A Moon Shaped Pool,Are possible,25
 Desert Island Disk,Outro,A Moon Shaped Pool,Are possible,26
-Desert Island Disk,Outro,A Moon Shaped Pool,Are possibleYou might also like,27
+Desert Island Disk,Outro,A Moon Shaped Pool,Are possible,27
 Ful Stop,Verse 1,A Moon Shaped Pool,You really messed up everything,1
 Ful Stop,Verse 1,A Moon Shaped Pool,You really messed up everything,2
 Ful Stop,Verse 1,A Moon Shaped Pool,If you could take it all back again,3
@@ -2462,23 +2403,22 @@ Ful Stop,Refrain,A Moon Shaped Pool,Truth will mess you up,24
 Ful Stop,Refrain,A Moon Shaped Pool,Truth will mess you up (All the good times),25
 Ful Stop,Refrain,A Moon Shaped Pool,Truth will mess you up,26
 Ful Stop,Refrain,A Moon Shaped Pool,Truth will mess you up (All the good times),27
-Ful Stop,Refrain,A Moon Shaped Pool,You might also like,28
-Ful Stop,Verse 2,A Moon Shaped Pool,When you take me back,29
-Ful Stop,Verse 2,A Moon Shaped Pool,Take me back again,30
-Ful Stop,Verse 2,A Moon Shaped Pool,Will you take me back,31
-Ful Stop,Verse 2,A Moon Shaped Pool,Take me back again,32
+Ful Stop,Verse 2,A Moon Shaped Pool,When you take me back,28
+Ful Stop,Verse 2,A Moon Shaped Pool,Take me back again,29
+Ful Stop,Verse 2,A Moon Shaped Pool,Will you take me back,30
+Ful Stop,Verse 2,A Moon Shaped Pool,Take me back again,31
+Ful Stop,Outro,A Moon Shaped Pool,You really messed up,32
 Ful Stop,Outro,A Moon Shaped Pool,You really messed up,33
 Ful Stop,Outro,A Moon Shaped Pool,You really messed up,34
-Ful Stop,Outro,A Moon Shaped Pool,You really messed up,35
-Ful Stop,Outro,A Moon Shaped Pool,You really messed up this time,36
+Ful Stop,Outro,A Moon Shaped Pool,You really messed up this time,35
+Ful Stop,Outro,A Moon Shaped Pool,You really messed up,36
 Ful Stop,Outro,A Moon Shaped Pool,You really messed up,37
 Ful Stop,Outro,A Moon Shaped Pool,You really messed up,38
-Ful Stop,Outro,A Moon Shaped Pool,You really messed up,39
-Ful Stop,Outro,A Moon Shaped Pool,You really messed up this time,40
+Ful Stop,Outro,A Moon Shaped Pool,You really messed up this time,39
+Ful Stop,Outro,A Moon Shaped Pool,You really messed up,40
 Ful Stop,Outro,A Moon Shaped Pool,You really messed up,41
 Ful Stop,Outro,A Moon Shaped Pool,You really messed up,42
-Ful Stop,Outro,A Moon Shaped Pool,You really messed up,43
-Ful Stop,Outro,A Moon Shaped Pool,You really messed up this time,44
+Ful Stop,Outro,A Moon Shaped Pool,You really messed up this time,43
 Glass Eyes,Verse 1,A Moon Shaped Pool,"Hey, it's me, I just got off the train",1
 Glass Eyes,Verse 1,A Moon Shaped Pool,"A frightening place, the faces are concrete grey",2
 Glass Eyes,Verse 1,A Moon Shaped Pool,"And I'm wondering, should I turn around?",3
@@ -2494,7 +2434,7 @@ Glass Eyes,Verse 2,A Moon Shaped Pool,Where the path trails off and heads down t
 Glass Eyes,Verse 2,A Moon Shaped Pool,"Through the dry bush, I don't know where it leads",13
 Glass Eyes,Verse 2,A Moon Shaped Pool,And I don't really care,14
 Glass Eyes,Outro,A Moon Shaped Pool,I feel this love to the core,15
-Glass Eyes,Outro,A Moon Shaped Pool,I feel this love turn coldYou might also like,16
+Glass Eyes,Outro,A Moon Shaped Pool,I feel this love turn cold,16
 Identikit,Repeated Background Refrain,A Moon Shaped Pool,A moon shaped pool,1
 Identikit,Repeated Background Refrain,A Moon Shaped Pool,Dancing clothes won't let me in,2
 Identikit,Repeated Background Refrain,A Moon Shaped Pool,And now I know it's never gonna be,3
@@ -2515,24 +2455,23 @@ Identikit,Chorus,A Moon Shaped Pool,But now I see you messing me around,17
 Identikit,Chorus,A Moon Shaped Pool,"I don't want to know, I don't want to know, I don't want",18
 Identikit,Chorus,A Moon Shaped Pool,When I see you messing me around,19
 Identikit,Chorus,A Moon Shaped Pool,"I don't want to know, I don't want to know, I don't want to know",20
-Identikit,Chorus,A Moon Shaped Pool,You might also like,21
+Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts make it rain",21
 Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts make it rain",22
 Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts make it rain",23
 Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts make it rain",24
-Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts make it rain",25
-Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts",26
+Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts",25
+Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts make it rain",26
 Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts make it rain",27
 Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts make it rain",28
 Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts make it rain",29
-Identikit,Bridge,A Moon Shaped Pool,"Broken hearts make it rain, broken hearts make it rain",30
-Identikit,Verse 2,A Moon Shaped Pool,The pieces of a ragdoll mankind,31
-Identikit,Verse 2,A Moon Shaped Pool,"That we can create, that we can create, that we can",32
-Identikit,Verse 2,A Moon Shaped Pool,The pieces of a ragdoll mankind,33
-Identikit,Verse 2,A Moon Shaped Pool,"That we can create, that we can create",34
-Identikit,Chorus,A Moon Shaped Pool,But when I see you messing me around,35
-Identikit,Chorus,A Moon Shaped Pool,"I don't want to know, I don't want to know, I don't want",36
-Identikit,Chorus,A Moon Shaped Pool,When I see you messing me around,37
-Identikit,Chorus,A Moon Shaped Pool,"I don't want to know, I don't want to know, I don't want to know",38
+Identikit,Verse 2,A Moon Shaped Pool,The pieces of a ragdoll mankind,30
+Identikit,Verse 2,A Moon Shaped Pool,"That we can create, that we can create, that we can",31
+Identikit,Verse 2,A Moon Shaped Pool,The pieces of a ragdoll mankind,32
+Identikit,Verse 2,A Moon Shaped Pool,"That we can create, that we can create",33
+Identikit,Chorus,A Moon Shaped Pool,But when I see you messing me around,34
+Identikit,Chorus,A Moon Shaped Pool,"I don't want to know, I don't want to know, I don't want",35
+Identikit,Chorus,A Moon Shaped Pool,When I see you messing me around,36
+Identikit,Chorus,A Moon Shaped Pool,"I don't want to know, I don't want to know, I don't want to know",37
 The Numbers,Verse 1,A Moon Shaped Pool,It holds us like a phantom,1
 The Numbers,Verse 1,A Moon Shaped Pool,It touches  like a breeze,2
 The Numbers,Verse 1,A Moon Shaped Pool,It shines its understanding,3
@@ -2561,8 +2500,7 @@ The Numbers,Verse 2,A Moon Shaped Pool,And you may pour us away like soup,25
 The Numbers,Verse 2,A Moon Shaped Pool,Like we're pretty broken flowers,26
 The Numbers,Verse 2,A Moon Shaped Pool,We'll take back what is ours,27
 The Numbers,Verse 2,A Moon Shaped Pool,Take back what is ours,28
-The Numbers,Verse 2,A Moon Shaped Pool,You might also like,29
-The Numbers,Chorus,A Moon Shaped Pool,One day at a time,30
+The Numbers,Chorus,A Moon Shaped Pool,One day at a time,29
 Present Tense,Verse 1,A Moon Shaped Pool,"This dance, this dance",1
 Present Tense,Verse 1,A Moon Shaped Pool,"Is like a weapon, is like a weapon",2
 Present Tense,Verse 1,A Moon Shaped Pool,"Of self-defence, of self-defence",3
@@ -2585,7 +2523,7 @@ Present Tense,Verse 2,A Moon Shaped Pool,Where all this love has been in vain,19
 Present Tense,Chorus,A Moon Shaped Pool,"In you, I'm lost",20
 Present Tense,Chorus,A Moon Shaped Pool,"In you, I'm lost",21
 Present Tense,Chorus,A Moon Shaped Pool,"In you, I'm lost",22
-Present Tense,Chorus,A Moon Shaped Pool,"In you, I'm lostYou might also like",23
+Present Tense,Chorus,A Moon Shaped Pool,"In you, I'm lost",23
 Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,Verse 1,A Moon Shaped Pool,All the holes at once,1
 Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,Verse 1,A Moon Shaped Pool,"Are comin' alive, set free",2
 Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,Verse 1,A Moon Shaped Pool,Out of sight and out of mind,3
@@ -2600,7 +2538,6 @@ Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,Verse 2,A Moon S
 Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,Chorus,A Moon Shaped Pool,The one you light your fires to keep away,12
 Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,Chorus,A Moon Shaped Pool,Is crawling out upon its belly,13
 Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,Chorus,A Moon Shaped Pool,"All you have to do is say ""Yes""",14
-Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,Instrumental Outro,A Moon Shaped Pool,You might also like,15
 True Love Waits,Verse 1,A Moon Shaped Pool,I'll drown my beliefs,1
 True Love Waits,Verse 1,A Moon Shaped Pool,To have your babies,2
 True Love Waits,Verse 1,A Moon Shaped Pool,I'll dress like your niece,3
@@ -2617,9 +2554,8 @@ True Love Waits,Verse 3,A Moon Shaped Pool,And true love waits,13
 True Love Waits,Verse 3,A Moon Shaped Pool,In haunted attics,14
 True Love Waits,Verse 3,A Moon Shaped Pool,And true love lives,15
 True Love Waits,Verse 3,A Moon Shaped Pool,On lollipops and crisps,16
-True Love Waits,Verse 3,A Moon Shaped Pool,You might also like,17
-True Love Waits,Chorus,A Moon Shaped Pool,Just don't leave,18
-True Love Waits,Chorus,A Moon Shaped Pool,Don't leave,19
+True Love Waits,Chorus,A Moon Shaped Pool,Just don't leave,17
+True Love Waits,Chorus,A Moon Shaped Pool,Don't leave,18
 Ill Wind,Verse 1,A Moon Shaped Pool,Keep your distance,1
 Ill Wind,Verse 1,A Moon Shaped Pool,Then no harm will come,2
 Ill Wind,Chorus,A Moon Shaped Pool,No ill wind,3
@@ -2634,7 +2570,7 @@ Ill Wind,Verse 3,A Moon Shaped Pool,Keep your cool,11
 Ill Wind,Verse 3,A Moon Shaped Pool,Do not give into emotion,12
 Ill Wind,Chorus,A Moon Shaped Pool,No ill wind,13
 Ill Wind,Chorus,A Moon Shaped Pool,Will blow,14
-Ill Wind,Chorus,A Moon Shaped Pool,Will blowYou might also like,15
+Ill Wind,Chorus,A Moon Shaped Pool,Will blow,15
 Spectre,Verse 1,A Moon Shaped Pool,"I'm lost, I'm a ghost",1
 Spectre,Verse 1,A Moon Shaped Pool,"Dispossessed, taken host",2
 Spectre,Verse 1,A Moon Shaped Pool,My hunger burns a bullet hole,3
@@ -2650,4 +2586,4 @@ Spectre,Chorus 2,A Moon Shaped Pool,Always second-guessing love,12
 Spectre,Verse 3,A Moon Shaped Pool,My hunger burns a bullet hole,13
 Spectre,Verse 3,A Moon Shaped Pool,A spectre of my mortal soul,14
 Spectre,Verse 3,A Moon Shaped Pool,The only truth that I can see,15
-Spectre,Verse 3,A Moon Shaped Pool,Spectre has come for meYou might also like,16
+Spectre,Verse 3,A Moon Shaped Pool,Spectre has come for me,16
