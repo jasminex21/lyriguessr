@@ -1,0 +1,1027 @@
+{
+ "_type": "album",
+ "api_path": "/albums/19640",
+ "cover_art_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+ "full_title": "Hail to the Thief by Radiohead",
+ "id": 19640,
+ "name": "Hail to the Thief",
+ "name_with_artist": "Hail to the Thief (artist: Radiohead)",
+ "release_date_components": {
+  "year": 2003,
+  "month": 6,
+  "day": 9
+ },
+ "release_date_for_display": "June 9, 2003",
+ "url": "https://genius.com/albums/Radiohead/Hail-to-the-thief",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/115453",
+    "artist_names": "Radiohead",
+    "full_title": "2 + 2 = 5 by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/e0fc93919470842ed4e188e3dea024c8.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/e0fc93919470842ed4e188e3dea024c8.1000x1000x1.jpg",
+    "id": 115453,
+    "instrumental": false,
+    "lyrics_owner_id": 116340,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721676754,
+    "path": "/Radiohead-2-2-5-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 28,
+    "relationships_index_url": "https://genius.com/Radiohead-2-2-5-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 11,
+     "day": 17
+    },
+    "release_date_for_display": "November 17, 2003",
+    "release_date_with_abbreviated_month_for_display": "Nov. 17, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/454225af5aece416ebdfa8c0e7323cf1.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/454225af5aece416ebdfa8c0e7323cf1.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 263463
+    },
+    "title": "2 + 2 = 5",
+    "title_with_featured": "2 + 2 = 5",
+    "updated_by_human_at": 1721676754,
+    "url": "https://genius.com/Radiohead-2-2-5-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "73 ContributorsTranslationsEspa\u00f1ol\u0641\u0627\u0631\u0633\u06ccFran\u00e7ais2 + 2 = 5 Lyrics[Intro]\nWe're on, that's a nice way to start, Jonny\n\n[Verse 1]\nAre you such a dreamer\nTo put the world to rights?\nI'll stay home forever\nWhere two and two always makes a five\n\n[Verse 2]\nI'll lay down the tracks\nSandbag and hide\nJanuary has April showers\nAnd two and two always makes a five\n\n[Bridge]\nIt's the devil's way now\nThere is no way out\nYou can scream and you can shout\nIt is too late now\nBecause\n\n[Chorus]\nYou have not been\nPaying attention\nPaying attention\nPaying attention\nPaying attention\nYou have not been\nPaying attention\nPaying attention\nPaying attention\nPaying attention\nYou have not been\nPaying attention\nPaying attention\nPaying attention\nPaying attention\nYou have not been\nPaying attention\nPaying attention\nPaying attention\nPaying attention\nYou might also like[Outro]\nI try to sing along\nBut I get it all wrong\n'Cause I'm not, 'cause I'm not\nI swat 'em like flies\nBut like flies, the bugs keep coming back\nNot, but I'm not\nAll hail to the thief\nAll hail to the thief\nBut I'm not, but I'm not\nBut I'm not, but I'm not\nDon't question my authority or put me in a box\n'Cause I'm not, 'cause I'm not\nOh, go and tell the king\nThat the sky is falling in\nBut it's not, but it's not, but it's not\nMaybe not, maybe not28Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/115471",
+    "artist_names": "Radiohead",
+    "full_title": "Sit Down. Stand Up. by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "id": 115471,
+    "instrumental": false,
+    "lyrics_owner_id": 4753197,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1711682187,
+    "path": "/Radiohead-sit-down-stand-up-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Radiohead-sit-down-stand-up-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 6,
+     "day": 9
+    },
+    "release_date_for_display": "June 9, 2003",
+    "release_date_with_abbreviated_month_for_display": "Jun. 9, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 67700
+    },
+    "title": "Sit Down. Stand Up.",
+    "title_with_featured": "Sit Down. Stand Up.",
+    "updated_by_human_at": 1712866150,
+    "url": "https://genius.com/Radiohead-sit-down-stand-up-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "46 ContributorsTranslationsEspa\u00f1olEnglishFran\u00e7aisSit Down. Stand Up. Lyrics[Chorus]\nSit down, stand up\nSit down, stand up\n\n[Verse 1]\nWalk into the jaws of hell (Sit down)\nWalk into the jaws of hell (Stand up)\nAnytime (Sit down)\nAnytime (Stand up)\n\n[Chorus]\nSit down, stand up\nSit down\n\n[Verse 2]\nHey, we can wipe you out anytime (Stand up)\nWe can wipe you out (Sit down)\nAnytime\nAnytime\n[Interlude]\nStand up\nSit down\n\n[Outro]\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindrops\nThe raindrops, the raindropsYou might also like2Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/115482",
+    "artist_names": "Radiohead",
+    "full_title": "Sail to the Moon by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "id": 115482,
+    "instrumental": false,
+    "lyrics_owner_id": 116340,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1688832608,
+    "path": "/Radiohead-sail-to-the-moon-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 9,
+    "relationships_index_url": "https://genius.com/Radiohead-sail-to-the-moon-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 6,
+     "day": 9
+    },
+    "release_date_for_display": "June 9, 2003",
+    "release_date_with_abbreviated_month_for_display": "Jun. 9, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 88428
+    },
+    "title": "Sail to the Moon",
+    "title_with_featured": "Sail to the Moon",
+    "updated_by_human_at": 1712866353,
+    "url": "https://genius.com/Radiohead-sail-to-the-moon-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "36 ContributorsTranslationsEspa\u00f1ol\u0641\u0627\u0631\u0633\u06ccFran\u00e7aisSail to the Moon Lyrics[Verse 1]\nI sucked the moon\nI spoke too soon\nAnd how much did it cost?\nI was dropped from moonbeams\nAnd sailed on shootin' stars\n\n[Verse 2]\nMaybe you'll be president\nBut know right from wrong\nOr in the flood you'll build an ark\nAnd sail us to the moon\n\n[Outro]\nSail us to (to) the moon\nSail toYou might also like9Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/115490",
+    "artist_names": "Radiohead",
+    "full_title": "Backdrifts by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "id": 115490,
+    "instrumental": false,
+    "lyrics_owner_id": 116340,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1711780048,
+    "path": "/Radiohead-backdrifts-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Radiohead-backdrifts-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 6,
+     "day": 9
+    },
+    "release_date_for_display": "June 9, 2003",
+    "release_date_with_abbreviated_month_for_display": "Jun. 9, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 43132
+    },
+    "title": "Backdrifts",
+    "title_with_featured": "Backdrifts",
+    "updated_by_human_at": 1712866614,
+    "url": "https://genius.com/Radiohead-backdrifts-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "25 ContributorsTranslationsEspa\u00f1olEnglishBackdrifts Lyrics[Verse 1]\nWe're rotten fruit, we're damaged goods\nWhat the hell, we've got nothing more to lose\nOne gust and we will probably crumble\nWe're backdrifting\n\n[Verse 2]\nThis far, but no further\nI'm hanging off a branch\nI'm teetering on the brink of\nHoney sweets, so full of sleep\nI'm backsliding\n\n[Chorus]\nYou fell into our arms\nYou fell into our arms\nWe tried but there was nothing we could do\nNothing we could do\n\n[Verse 3]\nAll evidence has been buried\nAll tapes have been erased\nBut your footsteps give you away\nSo you're backtracking\n\n[Chorus]\nAh-ah-ah\nYou fell into our arms\nYou fell into our arms\nWe tried but there was nothing we could do\nNothing we could do\nYou might also like[Post-Chorus]\nYou fell into our, you fell into our...\n\n[Verse 1]\nWe're rotten fruit, we're damaged goods\nWhat the hell, we've got nothing more to lose\nOne gust and we will probably crumble\nWe're backdrifters6Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/82986",
+    "artist_names": "Radiohead",
+    "full_title": "Go to Sleep by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/e0fc93919470842ed4e188e3dea024c8.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/e0fc93919470842ed4e188e3dea024c8.1000x1000x1.jpg",
+    "id": 82986,
+    "instrumental": false,
+    "lyrics_owner_id": 46705,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1708698863,
+    "path": "/Radiohead-go-to-sleep-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 16,
+    "relationships_index_url": "https://genius.com/Radiohead-go-to-sleep-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 8,
+     "day": 18
+    },
+    "release_date_for_display": "August 18, 2003",
+    "release_date_with_abbreviated_month_for_display": "Aug. 18, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2a08af5129b8f53fab1b051337700d8f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/2a08af5129b8f53fab1b051337700d8f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 57436
+    },
+    "title": "Go to Sleep",
+    "title_with_featured": "Go to Sleep",
+    "updated_by_human_at": 1712866808,
+    "url": "https://genius.com/Radiohead-go-to-sleep-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "35 ContributorsTranslationsEspa\u00f1ol\u0641\u0627\u0631\u0633\u06ccGo to Sleep Lyrics[Verse 1]\nSomething for the rag and bone man\nOver my dead body\nSomething big is gonna happen\nOver my dead body\n\n[Verse 2]\nSomeone's son or someone's daughter\nOver my dead body\nThis is how I end up sucked in\nOver my dead body\n\n[Chorus 1]\nI'm gonna go to sleep\nAnd let this wash all over me\n\n[Bridge]\nWe don't really want a monster taking over\nTiptoe 'round, tie him down\nWe don't want the loonies taking over\nTiptoe 'round, tie him down\n\n[Chorus 2]\nMay pretty horses\nCome to you as you sleep\nI'm gonna go to sleep\nAnd let this wash all over meYou might also like16Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/115809",
+    "artist_names": "Radiohead",
+    "full_title": "Where I End and You Begin by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "id": 115809,
+    "instrumental": false,
+    "lyrics_owner_id": 2726776,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1683145732,
+    "path": "/Radiohead-where-i-end-and-you-begin-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 16,
+    "relationships_index_url": "https://genius.com/Radiohead-where-i-end-and-you-begin-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 6,
+     "day": 9
+    },
+    "release_date_for_display": "June 9, 2003",
+    "release_date_with_abbreviated_month_for_display": "Jun. 9, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 101973
+    },
+    "title": "Where I End and You Begin",
+    "title_with_featured": "Where I End and You Begin",
+    "updated_by_human_at": 1712867063,
+    "url": "https://genius.com/Radiohead-where-i-end-and-you-begin-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "44 ContributorsTranslationsEspa\u00f1ol\u0641\u0627\u0631\u0633\u06ccWhere I End and You Begin Lyrics[Verse 1]\nThere's a gap in between\nThere's a gap where we meet\nWhere I end and you begin\nAnd I'm sorry for us\nThe dinosaurs roam the earth\nThe sky turns green\nWhere I end and you begin\n\n[Bridge]\nFour, five, six, seven\n\n[Verse 2]\nI am up in the clouds\nI am up in the clouds\nAnd I can't, and I can't come down\nI can watch but not take part\nWhere I end and where you start\nWhere you, you left me alone\nYou left me alone\n\n[Bridge]\nX will mark the place\nLike the parting of the waves\nLike a house falling in the sea\nIn the sea\nYou might also like[Outro]\nI will eat you alive\nI will eat you alive\nI will eat you alive\nI will eat you alive\nThere'll be no more lies\nThere'll be no more lies\nThere'll be no more lies\nThere'll be no more lies\nI will eat you alive\nI will eat you alive\nI will eat you alive\nI will eat you alive\nThere'll be no more lies\nThere'll be no more lies\nThere'll be no more lies\nThere'll be no more lies\nI will eat you alive\nI will eat you alive\nI will eat you alive\nI will eat you alive\nThere'll be no more lies\nThere'll be no more lies\nThere'll be no more lies\nThere'll be no more lies\nI will eat you alive\nI will eat you alive\nI will eat you alive16Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/116065",
+    "artist_names": "Radiohead",
+    "full_title": "We Suck Young Blood by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "id": 116065,
+    "instrumental": false,
+    "lyrics_owner_id": 116340,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1694960531,
+    "path": "/Radiohead-we-suck-young-blood-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Radiohead-we-suck-young-blood-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 6,
+     "day": 9
+    },
+    "release_date_for_display": "June 9, 2003",
+    "release_date_with_abbreviated_month_for_display": "Jun. 9, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 47106
+    },
+    "title": "We Suck Young Blood",
+    "title_with_featured": "We Suck Young Blood",
+    "updated_by_human_at": 1712867222,
+    "url": "https://genius.com/Radiohead-we-suck-young-blood-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "29 ContributorsTranslationsEspa\u00f1olEnglishWe Suck Young Blood Lyrics[Verse 1]\nAre you hungry, are you sick?\nAre you begging for a break?\nAre you sweet, are you fresh?\nAre you strung up by the wrists?\n\n[Hook 1]\nWe want the young blood\n[Verse 2]\nAre you fracturing?\nAre you torn at the seams?\nWould you do anything?\nFlea-bitten, moth eaten?\n\n[Hook 2]\nWe suck young blood\nWe suck young blood\n\n[Verse 3]\nWon't let the creeping ivy\nWon't let the nervous bury me\nOur veins are thin\nOur rivers poisoned\n\n[Hook 3]\nWe want the sweet meats\nWe want the young bloodYou might also like8Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/116066",
+    "artist_names": "Radiohead",
+    "full_title": "The Gloaming by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "id": 116066,
+    "instrumental": false,
+    "lyrics_owner_id": 116340,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1716414048,
+    "path": "/Radiohead-the-gloaming-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Radiohead-the-gloaming-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 6,
+     "day": 9
+    },
+    "release_date_for_display": "June 9, 2003",
+    "release_date_with_abbreviated_month_for_display": "Jun. 9, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 49182
+    },
+    "title": "The Gloaming",
+    "title_with_featured": "The Gloaming",
+    "updated_by_human_at": 1716414048,
+    "url": "https://genius.com/Radiohead-the-gloaming-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "40 ContributorsTranslationsEspa\u00f1olEnglishThe Gloaming Lyrics[Verse 1]\nGenie let out of the bottle\nIt is now the witching hour\nGenie let out of the bottle\nIt is now the witching hour\nMurderers, you're murderers\nWe are not the same as you\nGenie let out of the bottle\nFunny, ha-ha, funny how\n\n[Hook 1]\nWhen the walls bend, when the walls bend\nWith your breathing, with your breathing\nWhen the walls bend, when the walls bend\nWith your breathing, with your breathing\nWith your breathing\n\n[Verse 2]\nThey will suck you down to the other side\nThey will suck you down to the other side\nThey will suck you down to the other side\nThey will suck you down to the other side\nTo the shadows blue and red, shadows blue and red\nYour alarm bells, your alarm bells\nShadows blue and red, shadows blue and red\nYour alarm bells, your alarm\nYou might also like[Hook 2]\nThey should be ringing, they should be ringing\nThey should be ringing, they should be ringing\nThey should be ringing, they should be ringing\nThey should be ringing, they should be ringing\n\n[Outro]\nThey should be ringing, they should be ringing\nThey should be ringing, they should be ringing\nThis is the gloaming8Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/172481",
+    "artist_names": "Radiohead",
+    "full_title": "There, There by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/e0fc93919470842ed4e188e3dea024c8.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/e0fc93919470842ed4e188e3dea024c8.1000x1000x1.jpg",
+    "id": 172481,
+    "instrumental": false,
+    "lyrics_owner_id": 1850,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1717359336,
+    "path": "/Radiohead-there-there-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 29,
+    "relationships_index_url": "https://genius.com/Radiohead-there-there-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 5,
+     "day": 26
+    },
+    "release_date_for_display": "May 26, 2003",
+    "release_date_with_abbreviated_month_for_display": "May. 26, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/4f87b61f00584571b21817f478f81ba6.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/4f87b61f00584571b21817f478f81ba6.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 200737
+    },
+    "title": "There, There",
+    "title_with_featured": "There, There",
+    "updated_by_human_at": 1721036153,
+    "url": "https://genius.com/Radiohead-there-there-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "73 ContributorsTranslationsEspa\u00f1olEnglishFran\u00e7aisThere, There Lyrics[Verse 1]\nIn pitch dark\nI go walking in your landscape\nBroken branches\nTrip me as I speak\n\n[Refrain]\nJust 'cause you feel it\nDoesn't mean it's there\nJust 'cause you feel it\nDoesn't mean it's there\n\n[Verse 2]\nThere's always a siren\nSinging you to shipwreck\n(Ooh-ah, don't reach out, don't reach out)\n(Ooh-ah, don't reach out, don't reach out)\nSteer away from these rocks\nWe'd be a walking disaster\n(Ooh-ah, don't reach out, don't reach out)\n(Ooh-ah, don't reach out, don't reach out)\n\n[Refrain]\nJust 'cause you feel it\nDoesn't mean it's there\n(Someone on your shoulder)\n(Someone on your shoulder)\nJust 'cause you feel it\nDoesn't mean it's there\n(Someone on your shoulder)\n(Someone on your shoulder)\nYou might also like[Interlude]\nThere, there\n\n[Bridge]\nWhy so green and lonely, and lonely\nAnd lonely?\nHeaven sent you to me, to me\nTo me\n\n[Outro]\nWe are accidents waiting, waiting\nTo happen\nWe are accidents waiting, waiting\nTo happen29Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/100887",
+    "artist_names": "Radiohead",
+    "full_title": "I Will by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "id": 100887,
+    "instrumental": false,
+    "lyrics_owner_id": 132337,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1694939878,
+    "path": "/Radiohead-i-will-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Radiohead-i-will-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 6,
+     "day": 9
+    },
+    "release_date_for_display": "June 9, 2003",
+    "release_date_with_abbreviated_month_for_display": "Jun. 9, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 69182
+    },
+    "title": "I Will",
+    "title_with_featured": "I Will",
+    "updated_by_human_at": 1712867975,
+    "url": "https://genius.com/Radiohead-i-will-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "42 ContributorsTranslationsFran\u00e7aisT\u00fcrk\u00e7eEspa\u00f1ol\u0641\u0627\u0631\u0633\u06ccI Will Lyrics[Verse]\nI will lay me down\nIn a bunker underground\nI won't let this happen to my children\nMeet the real world coming out of your shell\nWith white elephants, sitting ducks\nI will rise up\n\n[Outro]\nLittle baby's eyes, eyes, eyes, eyes\nLittle baby's eyes, eyes, eyes, eyes\nLittle baby's eyes, eyes eyesYou might also like10Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/172482",
+    "artist_names": "Radiohead",
+    "full_title": "A Punchup at a Wedding by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/e0fc93919470842ed4e188e3dea024c8.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/e0fc93919470842ed4e188e3dea024c8.1000x1000x1.jpg",
+    "id": 172482,
+    "instrumental": false,
+    "lyrics_owner_id": 1850,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721675018,
+    "path": "/Radiohead-a-punchup-at-a-wedding-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Radiohead-a-punchup-at-a-wedding-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 6,
+     "day": 9
+    },
+    "release_date_for_display": "June 9, 2003",
+    "release_date_with_abbreviated_month_for_display": "Jun. 9, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/742bcc72ce80b26813badf3ed940ff89.300x299x1.jpg",
+    "song_art_image_url": "https://images.genius.com/742bcc72ce80b26813badf3ed940ff89.1000x995x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 78451
+    },
+    "title": "A Punchup at a Wedding",
+    "title_with_featured": "A Punchup at a Wedding",
+    "updated_by_human_at": 1721675019,
+    "url": "https://genius.com/Radiohead-a-punchup-at-a-wedding-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "56 ContributorsTranslationsEspa\u00f1ol\u0641\u0627\u0631\u0633\u06ccA Punchup at a Wedding Lyrics[Intro]\nNo, no, no, no, no, no\nNo, no, no, no, no, no\nNo, no, no, no, no, no\nNo, no, no, no, no, no\nNo, no, no, no, no, no\nNo, no, no, no, no, no\nNo, no, no, no, no, no\n\n[Verse 1]\nI don't know why you bother\nNothing's ever good enough for you\nI was there, it wasn't like that\nYou've come here just to start a fight\n\n[Chorus]\nYou had to piss on our parade\nYou had to shred our big day\nYou had to ruin it for all concerned\nIn a drunken punch-up at a wedding, yeah\n\n[Verse 2]\nHypocrite, opportunist\nDon't infect me with your poison\nA bully in a china shop\nWhen I turn 'round, you stay frozen to the spot\nYou might also like[Chorus]\nThe pointless snide remarks\nOf hammerheaded sharks\nThe pot will call the kettle black\nIt's a drunken punch-up at a wedding, yeah\n\n[Outro]\nNo, no, no, no, no, no, no, no, no\nNo, no, no, no, no, no, no, no, no, no, no, no, no, no\nNo, no, no, no, no, no, no, no, no, no, no, no, no, no\nNo, no, no, no, no, no, no, no, no, no, no, no, no, no\nNo, no, no, no, no, no, no, no, no, no, no, no, no, no10Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/172484",
+    "artist_names": "Radiohead",
+    "full_title": "Myxomatosis by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "id": 172484,
+    "instrumental": false,
+    "lyrics_owner_id": 1850,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721305497,
+    "path": "/Radiohead-myxomatosis-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 13,
+    "relationships_index_url": "https://genius.com/Radiohead-myxomatosis-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 6,
+     "day": 9
+    },
+    "release_date_for_display": "June 9, 2003",
+    "release_date_with_abbreviated_month_for_display": "Jun. 9, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 107635
+    },
+    "title": "Myxomatosis",
+    "title_with_featured": "Myxomatosis",
+    "updated_by_human_at": 1721305497,
+    "url": "https://genius.com/Radiohead-myxomatosis-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "48 ContributorsTranslationsDeutsch\u0641\u0627\u0631\u0633\u06ccEspa\u00f1olFran\u00e7aisMyxomatosis Lyrics[Verse 1]\nThe mongrel cat came home\nHolding half a head\nProceeded to show it off\nTo all his newfound friends\nHe said, I been where I liked\nI slept with who I like\nShe ate me up for breakfast\nShe screwed me in a vice\nBut now\n\n[Chorus]\nI don't know why I\nFeel so tongue tied\n\n[Verse 2]\nI sat in the cupboard\nAnd wrote it down in neat\nThey were cheering and waving, cheering and waving\nTwitching and salivating like with myxomatosis\nBut it got edited, fucked up\nStrangled, beaten up\nUsed in a photo in Time magazine\nBuried in a burning black hole in Devon\n\n[Chorus]\nI don't know why I\nFeel so tongue tied\nDon't know why I\nFeel so skinned alive\nYou might also like[Verse 3]\nMy thoughts are misguided and a little na\u00efve\nI twitch and I salivate like with myxomatosis\nYou should put me in a home or you should put me down\nI got myxomatosis, I got myxomatosis\nYeah, no one likes a smartass, but we all like stars\nWait, that wasn't my intention, I did it for a reason\nIt must have got mixed up, strangled, beaten up\nI got myxomatosis, I got myxomatosis\n\n[Chorus]\nI don't know why I\nFeel so tongue tied13Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/172485",
+    "artist_names": "Radiohead",
+    "full_title": "Scatterbrain by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "id": 172485,
+    "instrumental": false,
+    "lyrics_owner_id": 1850,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1694500948,
+    "path": "/Radiohead-scatterbrain-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 13,
+    "relationships_index_url": "https://genius.com/Radiohead-scatterbrain-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 6,
+     "day": 9
+    },
+    "release_date_for_display": "June 9, 2003",
+    "release_date_with_abbreviated_month_for_display": "Jun. 9, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 57324
+    },
+    "title": "Scatterbrain",
+    "title_with_featured": "Scatterbrain",
+    "updated_by_human_at": 1712868370,
+    "url": "https://genius.com/Radiohead-scatterbrain-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "32 ContributorsTranslationsEspa\u00f1ol\u0641\u0627\u0631\u0633\u06ccScatterbrain Lyrics[Verse 1]\nI'm walking out in a force ten gale\nBirds thrown around, bullets for hail\nThe roof is pulling off by its fingernails\nYour voice is rapping on my windowsill\n\n[Verse 2]\nYesterday's headlines blown by the wind\nYesterday's people end up scatterbrain there\nAny fool can easy pick a hole, I only wish I could fall in\nA moving target in a firing range\n\n[Outro]\nSomewhere I'm not\nScatterbrain\nSomewhere I'm not\nScatterbrain\nLightning fuse, powercut\nScatterbrainYou might also like13Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 22,
+    "api_path": "/songs/49885",
+    "artist_names": "Radiohead",
+    "full_title": "A Wolf at the Door by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "id": 49885,
+    "instrumental": false,
+    "lyrics_owner_id": 14372,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1716551948,
+    "path": "/Radiohead-a-wolf-at-the-door-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 22,
+    "relationships_index_url": "https://genius.com/Radiohead-a-wolf-at-the-door-sample",
+    "release_date_components": {
+     "year": 2003,
+     "month": 6,
+     "day": 9
+    },
+    "release_date_for_display": "June 9, 2003",
+    "release_date_with_abbreviated_month_for_display": "Jun. 9, 2003",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 183112
+    },
+    "title": "A Wolf at the Door",
+    "title_with_featured": "A Wolf at the Door",
+    "updated_by_human_at": 1716551948,
+    "url": "https://genius.com/Radiohead-a-wolf-at-the-door-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "89 ContributorsA Wolf at the Door Lyrics[Verse 1]\nDrag him out your window\nDragging out the dead\nSinging \"I miss you\"\nSnakes and ladders\nFlip the lid\nOut pops the cracker\nSmacks you in the head\nKnifes you in the neck\nKicks you in the teeth\nSteel toe caps\nTakes all your credit cards\nGet up, get the gunge\nGet the eggs\nGet the flan in the face\nThe flan in the face\nThe flan in the face\nDance, you fucker, dance, you fucker\nDon't you dare, don't you dare\nDon't you, flan in the face\nTake it with the love it's given\nTake it with a pinch of salt\nTake it to the taxman\nLet me back, let me back\nI promise to be good\nDon't look in the mirror\nAt the face you don't recognize\nHelp me, call the doctor, put me inside\nPut me inside, put me inside\nPut me inside, put me inside\nYou might also like[Chorus]\nI keep the wolf from the door but he calls me up\nCalls me on the phone, tells me all the ways that he's gonna mess me up\nSteal all my children if I don't pay the ransom\nAnd I'll never see them again if I squeal to the cops\n\n[Bridge]\nNo no no no no no no no no no no no no\nNo no no no no no no no no no no no no\nNo no no no no no no no no no no no no\nNo no no no no no no no no no no no no\nNo no no no no no no no no no no no no\nNo no no no no no no no no no no no no\nNo no no no no no no no no no no no no\nNo no no no no no no no no no no no no no\n\n[Verse 2]\nWalking like giant cranes and\nWith my X-ray eyes, I strip you naked\nIn a tight little world and are you on the list?\nStepford wives, who are we to complain?\nInvestments and dealers, investments and dealers\nCold wives and mistresses\nCold wives and Sunday papers\nCity boys in first class\nDon't know we're born at all\nJust know someone else is gonna come and clean it up\nBorn and raised for the job\nSomeone always does\nOh, I wish you'd get up\nGet over, get up, get over, turn your tape off\n[Chorus]\nI keep the wolf from the door but he calls me up\nCalls me on the phone, tells me all the ways that he's gonna mess me up\nSteal all my children if I don't pay the ransom\nAnd I'll never see them again if I squeal to the cops\nSo I'm just gonna...22Embed"
+   }
+  }
+ ]
+}

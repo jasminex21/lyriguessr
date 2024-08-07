@@ -1,0 +1,817 @@
+{
+ "_type": "album",
+ "api_path": "/albums/10781",
+ "cover_art_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+ "full_title": "Kid A by Radiohead",
+ "id": 10781,
+ "name": "Kid A",
+ "name_with_artist": "Kid A (artist: Radiohead)",
+ "release_date_components": {
+  "year": 2000,
+  "month": 10,
+  "day": 2
+ },
+ "release_date_for_display": "October 2, 2000",
+ "url": "https://genius.com/albums/Radiohead/Kid-a",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/63104",
+    "artist_names": "Radiohead",
+    "full_title": "Everything in Its Right Place by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "id": 63104,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1688214557,
+    "path": "/Radiohead-everything-in-its-right-place-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 43,
+    "relationships_index_url": "https://genius.com/Radiohead-everything-in-its-right-place-sample",
+    "release_date_components": {
+     "year": 2000,
+     "month": 10,
+     "day": 2
+    },
+    "release_date_for_display": "October 2, 2000",
+    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 374881
+    },
+    "title": "Everything in Its Right Place",
+    "title_with_featured": "Everything in Its Right Place",
+    "updated_by_human_at": 1712361139,
+    "url": "https://genius.com/Radiohead-everything-in-its-right-place-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "97 ContributorsTranslationsPortugu\u00easT\u00fcrk\u00e7eEspa\u00f1olFran\u00e7aisEverything in Its Right Place Lyrics[Intro]\n(Kid A, Kid A)\n(Kid A, Kid A)\n\n[Chorus]\nEverything\nEverything\nEverything\nEverything\nIn its right place\nIn its right place\nIn its right place\nIn its right place\n\n[Verse 1]\nYesterday, I woke up sucking a lemon\nYesterday, I woke up sucking a lemon\nYesterday, I woke up sucking a lemon\nYesterday, I woke up sucking a lemon\n\n[Chorus]\nEverything\nEverything\nEverything\nIn its right place\nIn its right place\nIn its right place\nRight place\nYou might also like[Verse 2]\nThere are two colours in my head\nThere are two colours in my head\nWhat, what is that you tried to say?\nWhat, what was that you tried to say?\nTried to say, tried to say?\nTried to say, tried to say?\n\n[Outro]\nEverything\nEverything\nEverything\nEverything43Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/67772",
+    "artist_names": "Radiohead",
+    "full_title": "Kid A by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "id": 67772,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718054123,
+    "path": "/Radiohead-kid-a-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 32,
+    "relationships_index_url": "https://genius.com/Radiohead-kid-a-sample",
+    "release_date_components": {
+     "year": 2000,
+     "month": 10,
+     "day": 2
+    },
+    "release_date_for_display": "October 2, 2000",
+    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 258341
+    },
+    "title": "Kid A",
+    "title_with_featured": "Kid A",
+    "updated_by_human_at": 1718043534,
+    "url": "https://genius.com/Radiohead-kid-a-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "69 ContributorsTranslationsPortugu\u00easT\u00fcrk\u00e7eEspa\u00f1olFran\u00e7aisKid A Lyrics[Verse 1]\nI slip away\nI slipped on a little white lie\n\n[Verse 2]\nWe've got heads on sticks\nAnd you've got ventriloquists\nWe've got heads on sticks\nAnd you've got ventriloquists\n\n[Verse 3]\nStanding in the shadows at the end of my bed\nStanding in the shadows at the end of my bed\nStanding in the shadows at the end of my bed\nStanding in the shadows at the end of my bed\n\n[Instrumental Break]\n\n[Outro]\nThe rats and the children will follow me out of town\nRats and children follow me out of town\nCome on, kidsYou might also like32Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/63102",
+    "artist_names": "Radiohead",
+    "full_title": "The National Anthem by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/76b2d67f3be61ab3909381ef4f3eaa4e.300x300x1.png",
+    "header_image_url": "https://images.genius.com/76b2d67f3be61ab3909381ef4f3eaa4e.1000x1000x1.png",
+    "id": 63102,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720917386,
+    "path": "/Radiohead-the-national-anthem-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 16,
+    "relationships_index_url": "https://genius.com/Radiohead-the-national-anthem-sample",
+    "release_date_components": {
+     "year": 2000,
+     "month": 10,
+     "day": 2
+    },
+    "release_date_for_display": "October 2, 2000",
+    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+    "song_art_image_thumbnail_url": "https://images.genius.com/76b2d67f3be61ab3909381ef4f3eaa4e.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/76b2d67f3be61ab3909381ef4f3eaa4e.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 169499
+    },
+    "title": "The National Anthem",
+    "title_with_featured": "The National Anthem",
+    "updated_by_human_at": 1720917386,
+    "url": "https://genius.com/Radiohead-the-national-anthem-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "78 ContributorsTranslationsPortugu\u00easEspa\u00f1olFran\u00e7aisThe National Anthem Lyrics[Verse 1]\nEveryone\nEveryone around here\nEveryone is so near\nIt's holdin' on\nIt's holdin' on\n\n[Verse 2]\nEveryone\nEveryone is so near\nEveryone has got the fear\nIt's holdin' on\nIt's holdin' on\n\n[Instrumental Break]\n\n[Interlude]\nIt's holdin' on\nIt's holdin' on\nHoldin' on\n\n[Instrumental Break]\n\n[Outro]\n(Smile)You might also like16Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/67774",
+    "artist_names": "Radiohead",
+    "full_title": "How to Disappear Completely by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "id": 67774,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719053786,
+    "path": "/Radiohead-how-to-disappear-completely-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 107,
+    "relationships_index_url": "https://genius.com/Radiohead-how-to-disappear-completely-sample",
+    "release_date_components": {
+     "year": 2000,
+     "month": 10,
+     "day": 2
+    },
+    "release_date_for_display": "October 2, 2000",
+    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 468729
+    },
+    "title": "How to Disappear Completely",
+    "title_with_featured": "How to Disappear Completely",
+    "updated_by_human_at": 1719053786,
+    "url": "https://genius.com/Radiohead-how-to-disappear-completely-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "123 ContributorsTranslationsPortugu\u00easEspa\u00f1olFran\u00e7aisDeutschHow to Disappear Completely Lyrics[Verse 1]\nThat there\nThat's not me\nI go\nWhere I please\nI walk through walls\nI float down the Liffey\n\n[Chorus]\nI'm not here\nThis isn't happening\nI'm not here\nI'm not here\n\n[Verse 2]\nIn a little while\nI'll be gone\nThe moment's already passed\nYeah, it's gone\n\n[Chorus]\nAnd I'm not here\nThis isn't happening\nI'm not here\nI'm not here\nYou might also like[Bridge]\nStrobe lights\nAnd blowing speakers\nFireworks\nAnd hurricanes\n\n[Chorus]\nI'm not here\nThis isn't happenin'\nI'm not here\nI'm not here\n\n[Outro]\nAh-ah, ah-ah\nAh-ah, ah-ah\nAh-ah\nAh-ah, ah-ah-ah\nAh-ah-ah\nAh-ah-ah\nAh-ah-ah, ah-ah107Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/1507731",
+    "artist_names": "Radiohead",
+    "full_title": "Treefingers by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "id": 1507731,
+    "instrumental": true,
+    "lyrics_owner_id": 800896,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1700496657,
+    "path": "/Radiohead-treefingers-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Radiohead-treefingers-sample",
+    "release_date_components": {
+     "year": 2000,
+     "month": 10,
+     "day": 2
+    },
+    "release_date_for_display": "October 2, 2000",
+    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 56060
+    },
+    "title": "Treefingers",
+    "title_with_featured": "Treefingers",
+    "updated_by_human_at": 1709934266,
+    "url": "https://genius.com/Radiohead-treefingers-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": ""
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/50433",
+    "artist_names": "Radiohead",
+    "full_title": "Optimistic by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "id": 50433,
+    "instrumental": false,
+    "lyrics_owner_id": 7,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1695044862,
+    "path": "/Radiohead-optimistic-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 25,
+    "relationships_index_url": "https://genius.com/Radiohead-optimistic-sample",
+    "release_date_components": {
+     "year": 2000,
+     "month": 10,
+     "day": 2
+    },
+    "release_date_for_display": "October 2, 2000",
+    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 191417
+    },
+    "title": "Optimistic",
+    "title_with_featured": "Optimistic",
+    "updated_by_human_at": 1712362682,
+    "url": "https://genius.com/Radiohead-optimistic-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "71 ContributorsTranslationsPortugu\u00easEspa\u00f1olFran\u00e7aisOptimistic Lyrics[Verse 1]\nFlies are buzzing 'round my head\nVultures circling the dead\nPicking up every last crumb\nThe big fish eat the little ones\nBig fish eat the little ones\nNot my problem, give me some\n\n[Chorus]\nYou can try the best you can\nYou can try the best you can\nThe best you can is good enough\nYou can try the best you can\nYou can try the best you can\nThe best you can is good enough\n\n[Verse 2]\nThis one's optimistic\nThis one went to market\nThis one just came out of the swamp\nThis one drops a payload\nFodder for the animals\nLiving on an animal farm\n\n[Chorus]\nYou can try the best you can\nYou can try the best you can\nThe best you can is good enough\nYou can try the best you can\nYou can try the best you can\nThe best you can is good enough\nYou might also like[Bridge]\nI'd really like to help you, man\nI'd really like to help you, man\nNervous messed up marionette\nFloating 'round on a prison ship\n\n[Chorus]\nYou can try the best you can\nYou can try the best you can\nThe best you can is good enough\nYou can try the best you can\nYou can try the best you can\n\n[Outro]\nDinosaurs roaming the earth\nDinosaurs roaming the earth\nDinosaurs roaming the earth25Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/67775",
+    "artist_names": "Radiohead",
+    "full_title": "In Limbo by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "id": 67775,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714198043,
+    "path": "/Radiohead-in-limbo-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 13,
+    "relationships_index_url": "https://genius.com/Radiohead-in-limbo-sample",
+    "release_date_components": {
+     "year": 2000,
+     "month": 10,
+     "day": 2
+    },
+    "release_date_for_display": "October 2, 2000",
+    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 110747
+    },
+    "title": "In Limbo",
+    "title_with_featured": "In Limbo",
+    "updated_by_human_at": 1714198043,
+    "url": "https://genius.com/Radiohead-in-limbo-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "60 ContributorsTranslationsPortugu\u00easEspa\u00f1olFran\u00e7aisIn Limbo Lyrics[Intro]\nLundy, Fastnet, Irish Sea\nI got a message I can't read\nAnother message I can't read\nLundy, Fastnet, Irish Sea\nI got a message I can't read\nAnother message I can't read\n\n[Verse 1]\nI'm on your side\nNowhere to hide\nTrapdoors that open\nI spiral down\n\n[Chorus]\nYou're livin' in a fantasy world\nYou're livin' in a fantasy world\n\n[Verse 2]\nI'm lost at sea\nDon't bother me\nI've lost my way\nI've lost my way\n\n[Chorus]\nYou're livin' in a fantasy world\nYou're livin' in a fantasy world\nYou're livin' in a fantasy world\nThis beautiful world\nYou might also like[Outro]\nCome back\nLundy, Fastnet, Irish Sea\nI got a message I can't read\nI got a message I can't read\nI got a message I can't read\nCome back\nLundy, Fastnet, Irish Sea\nAnother message I can't read\nAnother message I can't read\nAnother message I can't read\nCome back\nLundy, Fastnet13Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/1187",
+    "artist_names": "Radiohead",
+    "full_title": "Idioteque by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "id": 1187,
+    "instrumental": false,
+    "lyrics_owner_id": 7,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719927049,
+    "path": "/Radiohead-idioteque-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 72,
+    "relationships_index_url": "https://genius.com/Radiohead-idioteque-sample",
+    "release_date_components": {
+     "year": 2000,
+     "month": 10,
+     "day": 2
+    },
+    "release_date_for_display": "October 2, 2000",
+    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 333329
+    },
+    "title": "Idioteque",
+    "title_with_featured": "Idioteque",
+    "updated_by_human_at": 1719927049,
+    "url": "https://genius.com/Radiohead-idioteque-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "117 ContributorsTranslationsFran\u00e7aisPortugu\u00easEspa\u00f1olIdioteque Lyrics[Verse 1]\nWho's in a bunker? Who's in a bunker?\nWomen and children first, and the children first, and the children\nI'll laugh until my head comes off\nI'll swallow 'til I burst, until I burst, until I\nWho's in a bunker? Who's in a bunker?\nI have seen too much, you haven't seen enough, you haven't seen it\nI'll laugh until my head comes off\nWomen and children first, and children first, and children\n\n[Chorus]\nHere I'm alive\nEverything all of the time\nHere I'm alive\nEverything all of the time\n\n[Verse 2]\nIce age comin', ice age comin'\nLet me hear both sides, let me hear both sides, let me hear both\nIce age comin', ice age comin'\nThrow him in the fire, throw him in the fire, throw him on the\nWe're not scaremongerin'\nThis is really happenin', happenin'\nWe're not scaremongerin'\nThis is really happenin', happenin'\nMobiles skwerking, mobiles chirping\nTake the money and run, take the money and run, take the money\nYou might also like[Chorus]\nHere I'm alive\nEverything all of the time\nHere I'm alive\nEverything all of the time\nHere I'm alive\nEverything all of the time\nHere I'm alive\nEverything all of the time\n[Outro]\n(-n first) (And the childre-) (-n first) (And the childre-)\n(-n first) (And the childre-) (-n first) (And the ch-) (first)\n(-n first) (And the childre-) (-n first) (And the childre-)\n(-n first) (And the childre-) (-n first) (And the ch-) (first)\n(-n first) (And the childre-) (-n first) (And the childre-)\n(-n first) (And the childre-) (-n first) (And the ch-) (first)\n(-n first) (And the childre-) (-n first) (And the childre-)72Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/67776",
+    "artist_names": "Radiohead",
+    "full_title": "Morning Bell by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "id": 67776,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1712102767,
+    "path": "/Radiohead-morning-bell-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 13,
+    "relationships_index_url": "https://genius.com/Radiohead-morning-bell-sample",
+    "release_date_components": {
+     "year": 2000,
+     "month": 10,
+     "day": 2
+    },
+    "release_date_for_display": "October 2, 2000",
+    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 148914
+    },
+    "title": "Morning Bell",
+    "title_with_featured": "Morning Bell",
+    "updated_by_human_at": 1712364616,
+    "url": "https://genius.com/Radiohead-morning-bell-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "66 ContributorsTranslationsPortugu\u00easFran\u00e7aisEspa\u00f1olMorning Bell Lyrics[Verse 1]\nThe morning bell\nThe morning bell\nLight another candle and\n\n[Refrain]\nRelease me\nRelease me\n\n[Verse 2]\nYou can keep the furniture\nA bump on the head\nHowlin' down the chimney\n\n[Refrain]\nRelease me\nRelease me\nPlease\nRelease me\nRelease me\n\n[Verse 3]\nWhere'd you park the car?\nWhere'd you park the car?\nClothes are on the lawn with the\nFurniture\nNow I might as well\nI might as well\nSleepy jack the fire drill\nRound and round and round and round and round and round and round\nAnd round\nYou might also like[Bridge]\nCut the kids in half\nCut the kids in half\nCut the kids in half\n\n[Outro]\nThe lights are on but nobody's home\nEverybody wants to be a friend\nThe lights are on but nobody's home\nNobody wants to be a slave\nWalkin', walkin', walkin', walkin'\nWalkin', walkin', walkin', walkin'\nWalkin', walkin', walkin', walkin'\nWalkin', walkin', walkin', walkin'13Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/67777",
+    "artist_names": "Radiohead",
+    "full_title": "Motion Picture Soundtrack by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "id": 67777,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1703107514,
+    "path": "/Radiohead-motion-picture-soundtrack-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 44,
+    "relationships_index_url": "https://genius.com/Radiohead-motion-picture-soundtrack-sample",
+    "release_date_components": {
+     "year": 2000,
+     "month": 10,
+     "day": 2
+    },
+    "release_date_for_display": "October 2, 2000",
+    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 380539
+    },
+    "title": "Motion Picture Soundtrack",
+    "title_with_featured": "Motion Picture Soundtrack",
+    "updated_by_human_at": 1712364790,
+    "url": "https://genius.com/Radiohead-motion-picture-soundtrack-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "80 ContributorsTranslationsPortugu\u00easFran\u00e7aisDeutschEspa\u00f1olMotion Picture Soundtrack Lyrics[Verse 1]\nRed wine and sleeping pills\nHelp me get back to your arms\nCheap sex and sad films\nHelp me get where I belong\n\n[Chorus]\nI think you're crazy, maybe\nI think you're crazy, maybe\n\n[Verse 2]\nStop sending letters\nLetters always get burned\nIt's not like the movies\nThey fed us on little white lies\n\n[Chorus]\nI think you're crazy, maybe\nI think you're crazy, maybe\n[Outro]\nI will see you in the next lifeYou might also like44Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/3534048",
+    "artist_names": "Radiohead",
+    "full_title": "Untitled by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "id": 3534048,
+    "instrumental": true,
+    "lyrics_owner_id": 4546814,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1519008823,
+    "path": "/Radiohead-untitled-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Radiohead-untitled-sample",
+    "release_date_components": {
+     "year": 2000,
+     "month": 10,
+     "day": 2
+    },
+    "release_date_for_display": "October 2, 2000",
+    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 33387
+    },
+    "title": "Untitled",
+    "title_with_featured": "Untitled",
+    "updated_by_human_at": 1709934829,
+    "url": "https://genius.com/Radiohead-untitled-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": ""
+   }
+  }
+ ]
+}

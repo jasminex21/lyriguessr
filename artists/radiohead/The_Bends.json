@@ -1,0 +1,887 @@
+{
+ "_type": "album",
+ "api_path": "/albums/16306",
+ "cover_art_thumbnail_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.1000x1000x1.jpg",
+ "full_title": "The Bends by Radiohead",
+ "id": 16306,
+ "name": "The Bends",
+ "name_with_artist": "The Bends (artist: Radiohead)",
+ "release_date_components": {
+  "year": 1995,
+  "month": 3,
+  "day": 13
+ },
+ "release_date_for_display": "March 13, 1995",
+ "url": "https://genius.com/albums/Radiohead/The-bends",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/71406",
+    "artist_names": "Radiohead",
+    "full_title": "Planet Telex by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.1000x1000x1.jpg",
+    "id": 71406,
+    "instrumental": false,
+    "lyrics_owner_id": 94134,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1705616352,
+    "path": "/Radiohead-planet-telex-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Radiohead-planet-telex-sample",
+    "release_date_components": {
+     "year": 1995,
+     "month": 2,
+     "day": 27
+    },
+    "release_date_for_display": "February 27, 1995",
+    "release_date_with_abbreviated_month_for_display": "Feb. 27, 1995",
+    "song_art_image_thumbnail_url": "https://images.genius.com/28b4f42356db6dd4ae6f31af1f1e25c4.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/28b4f42356db6dd4ae6f31af1f1e25c4.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 106808
+    },
+    "title": "Planet Telex",
+    "title_with_featured": "Planet Telex",
+    "updated_by_human_at": 1712856898,
+    "url": "https://genius.com/Radiohead-planet-telex-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "52 ContributorsTranslationsEspa\u00f1olFran\u00e7aisPlanet Telex Lyrics[Verse 1]\nYou can force it but it will not come\nYou can taste it but it will not form\nYou can crush it but it's always here\nYou can crush it but it's always near\nChasing you home\nSaying\n\n[Chorus]\nEverything is\nBroken\nEveryone is\nBroken\n\n[Verse 2]\nYou can force it but it will stay stone\nYou can crush it as dry as a bone\nYou can walk it home straight from school\nYou can kiss it, you can break all the rules\nAll of the rules\nBut still\n\n[Chorus]\nEverything is\nBroken\nEveryone is\nBroken\nEveryone is\nEveryone is broken\nEveryone is\nEverything is broken\nYou might also like[Outro]\nWhy can't you forget?\nWhy can't you forget?\nWhy can't you forget?18Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/71411",
+    "artist_names": "Radiohead",
+    "full_title": "The Bends by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.1000x1000x1.jpg",
+    "id": 71411,
+    "instrumental": false,
+    "lyrics_owner_id": 94134,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722777822,
+    "path": "/Radiohead-the-bends-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 30,
+    "relationships_index_url": "https://genius.com/Radiohead-the-bends-sample",
+    "release_date_components": {
+     "year": 1995,
+     "month": 3,
+     "day": 13
+    },
+    "release_date_for_display": "March 13, 1995",
+    "release_date_with_abbreviated_month_for_display": "Mar. 13, 1995",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b19e04bcb5af200e5ec60da1ce047b4c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b19e04bcb5af200e5ec60da1ce047b4c.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 179161
+    },
+    "title": "The Bends",
+    "title_with_featured": "The Bends",
+    "updated_by_human_at": 1722777823,
+    "url": "https://genius.com/Radiohead-the-bends-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "61 ContributorsTranslationsEspa\u00f1olFran\u00e7aisThe Bends Lyrics[Intro]\n(Turn it up, loud!)\n(Bring it up!)\n\n[Verse 1]\nWhere do we go from here?\nThe words are coming out all weird\nWhere are you now when I need you?\nAlone on an aeroplane\nFalling asleep against the windowpane\nMy blood'll thicken\n\n[Verse 2]\nI need to wash myself again\nTo hide all the dirt and pain\n'Cause I'd be scared that there's nothing underneath\nAnd who are my real friends?\nHave they all got the bends?\nAm I really sinking this low?\n\n[Chorus]\nMy baby's got the bends, oh no\nWe don't have any real friends\nNo, no, no\n\n[Post-Chorus]\nJust lying in a bar with my drip feed on\nTalking to my girlfriend, waiting for something to happen\nI wish it was the '60s, I wish we could be happy\nI wish, I wish, I wish that something would happen\nYou might also like[Verse 3]\nWhere do we go from here?\nThe planet is a gunboat in a sea of fear\nAnd where are you?\nThey brought in the CIA\nThe tanks and the whole marines\nTo blow me away, to blow me sky high\n\n[Chorus]\nMy baby's got the bends\nWe don't have any real friends\n\n[Post-Chorus]\nJust lying in a bar with my drip feed on\nTalking to my girlfriend, waiting for something to happen\nI wish it was the '60s, I wish we could be happy\nI wish, I wish, I wish that something would...\n\n[Bridge]\nI wanna live, breathe\nI wanna be a part of the human race\nI wanna live, breathe\nI wanna be a part of the human race, race, race, race\n\n[Outro]\nWhere do we go from here?\nThe words are coming out all weird\nWhere are you now when I need you?30Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/71416",
+    "artist_names": "Radiohead",
+    "full_title": "High and Dry by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.1000x1000x1.jpg",
+    "id": 71416,
+    "instrumental": false,
+    "lyrics_owner_id": 94134,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1707944635,
+    "path": "/Radiohead-high-and-dry-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 64,
+    "relationships_index_url": "https://genius.com/Radiohead-high-and-dry-sample",
+    "release_date_components": {
+     "year": 1995,
+     "month": 2,
+     "day": 27
+    },
+    "release_date_for_display": "February 27, 1995",
+    "release_date_with_abbreviated_month_for_display": "Feb. 27, 1995",
+    "song_art_image_thumbnail_url": "https://images.genius.com/28b4f42356db6dd4ae6f31af1f1e25c4.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/28b4f42356db6dd4ae6f31af1f1e25c4.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 464384
+    },
+    "title": "High and Dry",
+    "title_with_featured": "High and Dry",
+    "updated_by_human_at": 1712857566,
+    "url": "https://genius.com/Radiohead-high-and-dry-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "82 ContributorsTranslationsEspa\u00f1olFran\u00e7aisHigh and Dry Lyrics[Verse 1]\nTwo jumps in a week, I bet you\nThink that's pretty clever, don't you, boy\nFlying on your motorcycle\nWatching all the ground beneath you drop\nYou'd kill yourself for recognition\nKill yourself to never, ever stop\nYou broke another mirror\nYou're turning into something you are not\n\n[Chorus]\nDon't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me dry\n\n[Verse 2]\nDrying up in conversation\nYou will be the one who cannot talk\nAll your insides fall to pieces\nYou just sit there wishing you could still make love\nThey're the ones who'll hate you\nWhen you think you've got the world all sussed out\nThey're the ones who'll spit at you\nYou will be the one screaming out\nYou might also like[Chorus]\nDon't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me dry\n\n[Guitar Solo]\n\n[Bridge]\nOh, it's the best thing that you've ever had\nThe best thing that you've ever, ever had\nIt's the best thing that you've ever had\nThe best thing you've had has gone away\n\n[Chorus]\nSo don't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me high\nDon't leave me dry64Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/1188",
+    "artist_names": "Radiohead",
+    "full_title": "Fake Plastic Trees by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.1000x1000x1.jpg",
+    "id": 1188,
+    "instrumental": false,
+    "lyrics_owner_id": 7,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720379546,
+    "path": "/Radiohead-fake-plastic-trees-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 90,
+    "relationships_index_url": "https://genius.com/Radiohead-fake-plastic-trees-sample",
+    "release_date_components": {
+     "year": 1995,
+     "month": 3,
+     "day": 13
+    },
+    "release_date_for_display": "March 13, 1995",
+    "release_date_with_abbreviated_month_for_display": "Mar. 13, 1995",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0a920bfb1109876ab7b5bd8dfb47b1f7.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0a920bfb1109876ab7b5bd8dfb47b1f7.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 649485
+    },
+    "title": "Fake Plastic Trees",
+    "title_with_featured": "Fake Plastic Trees",
+    "updated_by_human_at": 1720379546,
+    "url": "https://genius.com/Radiohead-fake-plastic-trees-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "129 ContributorsTranslationsEspa\u00f1olPortugu\u00easFran\u00e7aisFake Plastic Trees Lyrics[Verse 1]\nA green plastic watering can\nFor a fake Chinese rubber plant\nIn a fake plastic earth\nThat she bought from a rubber man\nIn a town full of rubber plants\nTo get rid of itself\n\n[Chorus]\nIt wears her out\nIt wears her out\nIt wears her out\nIt wears her out\n\n[Verse 2]\nShe lives with a broken man\nA cracked polystyrene man\nWho just crumbles and burns\nHe used to do surgery\nFor girls in the eighties\nBut gravity always wins\n\n[Chorus]\nAnd it wears him out\nIt wears him out\nIt wears him out\nIt wears\nYou might also like[Verse 3]\nShe looks like the real thing\nShe tastes like the real thing\nMy fake plastic love\nBut I can't help the feeling\nI could blow through the ceiling\nIf I just turn and run\n\n[Chorus]\nAnd it wears me out\nIt wears me out\nIt wears me out\nIt wears me out\n\n[Outro]\nAnd if I could be who you wanted\nIf I could be who you wanted\nAll the time\nAll the time90Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/76795",
+    "artist_names": "Radiohead",
+    "full_title": "Bones by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.1000x1000x1.jpg",
+    "id": 76795,
+    "instrumental": false,
+    "lyrics_owner_id": 74226,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1695153515,
+    "path": "/Radiohead-bones-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 17,
+    "relationships_index_url": "https://genius.com/Radiohead-bones-sample",
+    "release_date_components": {
+     "year": 1995,
+     "month": 3,
+     "day": 13
+    },
+    "release_date_for_display": "March 13, 1995",
+    "release_date_with_abbreviated_month_for_display": "Mar. 13, 1995",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f253a86c3ffbcab1609a3db04f03b233.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f253a86c3ffbcab1609a3db04f03b233.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 66479
+    },
+    "title": "Bones",
+    "title_with_featured": "Bones",
+    "updated_by_human_at": 1712857771,
+    "url": "https://genius.com/Radiohead-bones-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "38 ContributorsTranslationsEspa\u00f1olFran\u00e7aisBones Lyrics[Verse 1]\nI don't want to be crippled and cracked\nShoulders, wrists, knees, and back\nGround to dust and ash\nCrawling on all fours\n\n[Chorus]\nWhen you've got to feel it in your bones\nWhen you've got to feel it in your bones\n\n[Verse 2]\nNow I can't climb the stairs\nPieces missing everywhere\nProzac, painkillers\n\n[Chorus]\nWhen you've got to feel it in your bones\nWhen you've got to feel it in your bones\n\n[Bridge]\nAnd I used to fly like Peter Pan\nAll the children flew when I touched their hands\n\n[Outro]\nListen, you've got to feel it in your bones\nListen, you've got to feel it in your bones\nAh, ah, ahYou might also like17Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/76796",
+    "artist_names": "Radiohead",
+    "full_title": "(Nice Dream) by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.1000x1000x1.jpg",
+    "id": 76796,
+    "instrumental": false,
+    "lyrics_owner_id": 74226,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721901818,
+    "path": "/Radiohead-nice-dream-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 22,
+    "relationships_index_url": "https://genius.com/Radiohead-nice-dream-sample",
+    "release_date_components": {
+     "year": 1995,
+     "month": 3,
+     "day": 13
+    },
+    "release_date_for_display": "March 13, 1995",
+    "release_date_with_abbreviated_month_for_display": "Mar. 13, 1995",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 210927
+    },
+    "title": "(Nice Dream)",
+    "title_with_featured": "(Nice Dream)",
+    "updated_by_human_at": 1721901818,
+    "url": "https://genius.com/Radiohead-nice-dream-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "54 ContributorsTranslationsFran\u00e7aisEspa\u00f1ol(Nice Dream) Lyrics[Verse 1]\nThey love me like I was a brother\nThey protect me, listen to me\nThey dug me my very own garden\nGave me sunshine, made me happy\n\n[Chorus]\nNice dream\nNice dream\nNice dream\n\n[Verse 2]\nI call up my friend, the good angel\nBut she's out with her answerphone\nShe said that she'd love to come help, but\nThe sea would electrocute us all\n\n[Chorus]\nNice dream\nNice dream\nNice dream\nNice dream\nNice dream\nNice dream\nNice dream (If you think that you're strong enough)\nNice dream (If you think you belong enough)\nNice dream (If you think that you're strong enough)\nNice dream (If you think you belong enough)\nYou might also like[Guitar Solo]\n\n[Bridge]\nNow come home\nNow come home\nNow come home\nNow come home\n\n[Chorus]\nNice dream\nNice dream\nNice dream\nNice dream22Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/76797",
+    "artist_names": "Radiohead",
+    "full_title": "Just by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.1000x1000x1.jpg",
+    "id": 76797,
+    "instrumental": false,
+    "lyrics_owner_id": 74226,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1702068160,
+    "path": "/Radiohead-just-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 28,
+    "relationships_index_url": "https://genius.com/Radiohead-just-sample",
+    "release_date_components": {
+     "year": 1995,
+     "month": 3,
+     "day": 13
+    },
+    "release_date_for_display": "March 13, 1995",
+    "release_date_with_abbreviated_month_for_display": "Mar. 13, 1995",
+    "song_art_image_thumbnail_url": "https://images.genius.com/9e40cba8cce27520c169623ebcfe1a86.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/9e40cba8cce27520c169623ebcfe1a86.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 262676
+    },
+    "title": "Just",
+    "title_with_featured": "Just",
+    "updated_by_human_at": 1720095744,
+    "url": "https://genius.com/Radiohead-just-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "83 ContributorsTranslationsEspa\u00f1olFran\u00e7aisJust Lyrics[Verse 1]\nCan't get the stink off\nHe's been hanging 'round for days\nComes like a comet\nSuckered you but not your friends\n\n[Pre-Chorus 1]\nOne day he'll get to you\nAnd teach you how to be a holy cow\n\n[Chorus]\nYou do it to yourself, you do\nAnd that's why it really hurts\nIs that you do it to yourself, just you\nYou and no one else\nYou do it to yourself\nYou do it to yourself\n\n[Verse 2]\nDon't get my sympathy\nHanging out the fifteenth floor\nYou've changed the locks three times\nHe still comes reeling through the door\n\n[Pre-Chorus 2]\nOne day I'll get to you\nAnd teach you how to get to purest hell\nYou might also like[Chorus]\nYou do it to yourself, you do\nAnd that's why it really hurts\nIs that you do it to yourself, just you\nYou and no one else\nYou do it to yourself\nYou do it to yourself\n\n[Guitar Solo]\n\n[Chorus]\nYou do it to yourself, you do\nAnd that's why it really hurts\nIs that you do it to yourself, just you\nYou and no one else\nYou do it to yourself\nYou do it to yourself\nSelf\n\n[Outro]\n(You do it to yourself!)\n(You do it to yourself!)\n(Oh, you do it to yourself!)\n(Oh, you do it to yourself!)28Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/71499",
+    "artist_names": "Radiohead",
+    "full_title": "My Iron Lung by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.1000x1000x1.jpg",
+    "id": 71499,
+    "instrumental": false,
+    "lyrics_owner_id": 94134,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1707703460,
+    "path": "/Radiohead-my-iron-lung-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 34,
+    "relationships_index_url": "https://genius.com/Radiohead-my-iron-lung-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 9,
+     "day": 26
+    },
+    "release_date_for_display": "September 26, 1994",
+    "release_date_with_abbreviated_month_for_display": "Sep. 26, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2696121b6f1e596571861961b5ca72c7.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/2696121b6f1e596571861961b5ca72c7.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 250827
+    },
+    "title": "My Iron Lung",
+    "title_with_featured": "My Iron Lung",
+    "updated_by_human_at": 1712859651,
+    "url": "https://genius.com/Radiohead-my-iron-lung-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "73 ContributorsTranslationsEspa\u00f1olMy Iron Lung Lyrics[Verse 1]\nFaith, you're driving me away\nYou do it every day\nYou don't mean it, but it hurts like hell\nMy brain says I'm receiving pain\nA lack of oxygen\nFrom my life support, my iron lung\n\n[Verse 2]\nWe're too young to fall asleep\nToo cynical to speak\nWe are losing it, can't you tell?\nWe scratch our eternal itch\nOur twentieth century bitch\nWe are grateful for our iron lung\n[Chorus]\nThe headshrinkers, they want my everything\nMy uncle Bill, my Belisha beacon\nThe headshrinkers, they want my everything\nMy uncle Bill, my Belisha beacon\n\n[Verse 3]\nSuck, suck your teenage thumb\nToilet trained and dumb\nWhen the power runs out, we'll just hum\nThis, this is our new song\nJust like the last one\nA total waste of time, my iron lung\nYou might also like[Chorus]\nThe headshrinkers, they want my everything\nMy uncle Bill, my Belisha beacon\nThe headshrinkers, they want my everything\nMy uncle Bill, my Belisha beacon\n\n[Bridge]\nAnd if you're frightened, you can be frightened\nYou can be, it's okay\nAnd if you're frightened, you can be frightened\nYou can be, it's okay\n\n[Guitar Solo]\n\n[Chorus]\nThe headshrinkers, they want my everything\nMy uncle Bill, my Belisha beacon\nThe headshrinkers, they want my everything\nMy uncle Bill, my Belisha beacon34Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/76798",
+    "artist_names": "Radiohead",
+    "full_title": "Bullet Proof... I Wish I Was by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.1000x1000x1.jpg",
+    "id": 76798,
+    "instrumental": false,
+    "lyrics_owner_id": 74226,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1705246473,
+    "path": "/Radiohead-bullet-proof-i-wish-i-was-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 28,
+    "relationships_index_url": "https://genius.com/Radiohead-bullet-proof-i-wish-i-was-sample",
+    "release_date_components": {
+     "year": 1995,
+     "month": 3,
+     "day": 13
+    },
+    "release_date_for_display": "March 13, 1995",
+    "release_date_with_abbreviated_month_for_display": "Mar. 13, 1995",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 143488
+    },
+    "title": "Bullet Proof... I Wish I Was",
+    "title_with_featured": "Bullet Proof... I Wish I Was",
+    "updated_by_human_at": 1712858303,
+    "url": "https://genius.com/Radiohead-bullet-proof-i-wish-i-was-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "53 ContributorsTranslationsEspa\u00f1olFran\u00e7aisBullet Proof... I Wish I Was Lyrics[Verse 1]\nLimb by limb and tooth by tooth\nStirring up inside of me\nEvery day, every hour\nWish that I... was bulletproof\n\n[Verse 2]\nWax me, mould me\nHeat the pins and stab them in\nYou have turned me into this\nJust wish that it\n\n[Chorus]\nWas bulletproof\nWas bulletproof\n\n[Verse 3]\nSo, pay me money and take a shot\nLead, fill the hole in me\nI could burst a million bubbles\nAll surrogate\n\n[Chorus]\nAnd bulletproof\nAnd bulletproof\nAnd bulletproof\nBulletproofYou might also like28Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/76799",
+    "artist_names": "Radiohead",
+    "full_title": "Black Star by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.1000x1000x1.jpg",
+    "id": 76799,
+    "instrumental": false,
+    "lyrics_owner_id": 74226,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719958233,
+    "path": "/Radiohead-black-star-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 32,
+    "relationships_index_url": "https://genius.com/Radiohead-black-star-sample",
+    "release_date_components": {
+     "year": 1995,
+     "month": 3,
+     "day": 13
+    },
+    "release_date_for_display": "March 13, 1995",
+    "release_date_with_abbreviated_month_for_display": "Mar. 13, 1995",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 174985
+    },
+    "title": "Black Star",
+    "title_with_featured": "Black Star",
+    "updated_by_human_at": 1719958233,
+    "url": "https://genius.com/Radiohead-black-star-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "59 ContributorsTranslationsEspa\u00f1olFran\u00e7aisBlack Star Lyrics[Verse 1]\nI get home from work\nAnd you're still standing in your dressing gown\nWell, what am I to do?\nI know all the things around your head\nAnd what they do to you\n\n[Pre-Chorus 1]\nWhat are we coming to?\nWhat are we gonna do?\n\n[Chorus]\nBlame it on the black star\nBlame it on the falling sky\nBlame it on the satellite\nThat beams me home\n\n[Verse 2]\nThe troubled words of a troubled mind\nI try to understand what is eating you\nI try to stay awake, but it's fifty-eight hours\nSince that I last slept with you\n\n[Pre-Chorus 2]\nWhat are we coming to?\nI just don't know anymore\nYou might also like[Chorus]\nBlame it on the black star\nBlame it on the falling sky\nBlame it on the satellite\nThat beams me home\n\n[Verse 3]\nI get on the train and I just stand about\nNow that I don't think of you\nI keep falling over, I keep passing out\nWhen I see a face like you\n\n[Pre-Chorus 3]\nWhat am I coming to?\nI'm gonna melt down\n\n[Chorus]\nBlame it on the black star\nBlame it on the falling sky\nBlame it on the satellite\nThat beams me home\n\n[Outro]\nAh, this is killing me\nAh, this is killing me32Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/76800",
+    "artist_names": "Radiohead",
+    "full_title": "Sulk by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.1000x1000x1.jpg",
+    "id": 76800,
+    "instrumental": false,
+    "lyrics_owner_id": 74226,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722595615,
+    "path": "/Radiohead-sulk-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 12,
+    "relationships_index_url": "https://genius.com/Radiohead-sulk-sample",
+    "release_date_components": {
+     "year": 1995,
+     "month": 3,
+     "day": 13
+    },
+    "release_date_for_display": "March 13, 1995",
+    "release_date_with_abbreviated_month_for_display": "Mar. 13, 1995",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/c0ac879a4bcf6a94c65b4207d8f91a96.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 68984
+    },
+    "title": "Sulk",
+    "title_with_featured": "Sulk",
+    "updated_by_human_at": 1722595616,
+    "url": "https://genius.com/Radiohead-sulk-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "41 ContributorsTranslationsFran\u00e7aisEspa\u00f1olSulk Lyrics[Verse 1]\nYou bite through the big wall, the big wall bites back\nYou sit there and sulk, you sit there and bawl\nYou look so pretty when you're on your knees\nDisinfected and eager to please\n\n[Chorus]\nSometimes you sulk\nSometimes you burn\nGod rest your soul\nWhen the loving comes but we're already gone\nJust like your dad, you'll never change\n\n[Verse 2]\nEach time it comes, it eats me alive\nI try to behave, but it eats me alive\nSo I declare a holiday\nFall asleep, drift away\n\n[Chorus]\nSometimes you sulk\nSometimes you burn\nGod rest your soul\nWhen the loving comes but we're already gone\nJust like your dad, you'll never change\nYou might also like[Guitar Solo]\n\n[Chorus]\nSometimes you sulk\nSometimes you burn\nGod rest your soul\nWhen the loving comes but we're already gone\nJust like your dad, you'll never change12Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/76803",
+    "artist_names": "Radiohead",
+    "full_title": "Street Spirit (Fade Out) by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.1000x1000x1.jpg",
+    "id": 76803,
+    "instrumental": false,
+    "lyrics_owner_id": 74226,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1717921444,
+    "path": "/Radiohead-street-spirit-fade-out-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 49,
+    "relationships_index_url": "https://genius.com/Radiohead-street-spirit-fade-out-sample",
+    "release_date_components": {
+     "year": 1995,
+     "month": 3,
+     "day": 13
+    },
+    "release_date_for_display": "March 13, 1995",
+    "release_date_with_abbreviated_month_for_display": "Mar. 13, 1995",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2e0782594e39983edfae07a73a23e1e1.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/2e0782594e39983edfae07a73a23e1e1.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 297307
+    },
+    "title": "Street Spirit (Fade Out)",
+    "title_with_featured": "Street Spirit (Fade Out)",
+    "updated_by_human_at": 1717921444,
+    "url": "https://genius.com/Radiohead-street-spirit-fade-out-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "89 ContributorsTranslationsEspa\u00f1olFran\u00e7aisStreet Spirit (Fade Out) Lyrics[Verse 1]\nRows of houses all bearing down on me\nI can feel their blue hands touching me\nAll these things into position\nAll these things we'll one day swallow whole\n\n[Chorus]\nAnd fade out again\nAnd fade out\n\n[Verse 2]\nThis machine will, will not communicate\nThese thoughts and the strain I am under\nBe a world child, form a circle\nBefore we all go under\n\n[Chorus]\nAnd fade out again\nAnd fade out again\n\n[Bridge]\nAh-na-na, ah-na-na\nAh-na-na, ah-na-na\nAh-na-na, ah-na-na\nAh-na-na, ah-na-na\nYou might also like[Verse 3]\nCracked eggs, dead birds, scream as they fight for life\nI can feel death, can see its beady eyes\nAll these things into position\nAll these things we'll one day swallow whole\n\n[Chorus]\nAnd fade out again\nAnd fade out again\n\n[Outro]\nAh-na-na, ah-na-na\nAh-na-na, ah-na-na\nAh-na-na, ah-na-na\nAh-na-na, ah-na-na\nImmerse your soul in love (Ah-na-na, ah-na-na)\n(Ah-na-na, ah-na-na)\nImmerse your soul in love (Ah-na-na, ah-na-na)49Embed"
+   }
+  }
+ ]
+}

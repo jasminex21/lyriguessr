@@ -1,0 +1,747 @@
+{
+ "_type": "album",
+ "api_path": "/albums/14959",
+ "cover_art_thumbnail_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.1000x1000x1.png",
+ "full_title": "In Rainbows by Radiohead",
+ "id": 14959,
+ "name": "In Rainbows",
+ "name_with_artist": "In Rainbows (artist: Radiohead)",
+ "release_date_components": {
+  "year": 2007,
+  "month": 10,
+  "day": 10
+ },
+ "release_date_for_display": "October 10, 2007",
+ "url": "https://genius.com/albums/Radiohead/In-rainbows",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/65921",
+    "artist_names": "Radiohead",
+    "full_title": "15 Step by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.1000x1000x1.png",
+    "id": 65921,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720708479,
+    "path": "/Radiohead-15-step-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 32,
+    "relationships_index_url": "https://genius.com/Radiohead-15-step-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 10,
+     "day": 10
+    },
+    "release_date_for_display": "October 10, 2007",
+    "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 254100
+    },
+    "title": "15 Step",
+    "title_with_featured": "15 Step",
+    "updated_by_human_at": 1720708479,
+    "url": "https://genius.com/Radiohead-15-step-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "66 ContributorsTranslations\ud55c\uad6d\uc5b4T\u00fcrk\u00e7eEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fran\u00e7ais15 Step Lyrics[Chorus]\nHow come I end up where I started?\nHow come I end up where I went wrong?\nWon't take my eyes off the ball again\nYou reel me out, then you cut the string\nHow come I end up where I started?\nHow come I end up where I went wrong?\nWon't take my eyes off the ball again\nFirst you reel me out and then you cut the string\n\n[Verse 1]\nYou used to be alright\nWhat happened?\nDid the cat get your tongue?\nDid your string come undone?\nOne by one\nOne by one\nIt comes to us all\nIt's as soft as your pillow\n\n[Verse 2]\nYou used to be alright\nWhat happened?\nEt cetera, et cetera\nFads for whatever\nFifteen steps, then a sheer drop\nYou might also like[Chorus]\nHow come I end up where I started?\nHow come I end up where I went wrong?\nWon't take my eyes off the ball again\nYou reel me out, then you cut the string32Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/65922",
+    "artist_names": "Radiohead",
+    "full_title": "Bodysnatchers by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/328e58926341fe929c85983e2038bdb9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/328e58926341fe929c85983e2038bdb9.600x600x1.jpg",
+    "id": 65922,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719264065,
+    "path": "/Radiohead-bodysnatchers-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Radiohead-bodysnatchers-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 10,
+     "day": 10
+    },
+    "release_date_for_display": "October 10, 2007",
+    "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/328e58926341fe929c85983e2038bdb9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/328e58926341fe929c85983e2038bdb9.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 213886
+    },
+    "title": "Bodysnatchers",
+    "title_with_featured": "Bodysnatchers",
+    "updated_by_human_at": 1719264065,
+    "url": "https://genius.com/Radiohead-bodysnatchers-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "94 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fran\u00e7aisBodysnatchers Lyrics[Verse 1]\nI do not\nUnderstand\nWhat it is\nI've done wrong\nFull of holes\nCheck for pulse\nBlink your eyes\nOne for yes\nTwo for no\n\n[Chorus]\nI have no idea what I am talking about\nI am trapped in this body and can't get out\n\n[Verse 2]\nYou killed the sound\nRemoved backbone\nA pale imitation\nWith the edges sawn off\n\n[Chorus]\nI have no idea what you are talking about\nYour mouth moves only with someone's hand up your arse\n\n[Bridge]\nHas the light gone out for you?\nBecause the light's gone out for me\nIt is the twenty-first century\nIt is the twenty-first century\nIt can follow you like a dog\nIt brought me to my knees\nThey got a skin and they put me in\nThey got a skin and they put me in\nOn the lines wrapped 'round my face\nOn the lines wrapped 'round my face\nAnd for anyone else to see\nAnd for anyone else to see\nI'm a lie\nYou might also like[Outro]\nI've seen it coming\nThey've seen it coming\nThey've seen it coming\nThey've seen it coming18Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/65923",
+    "artist_names": "Radiohead",
+    "full_title": "Nude by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/f9fc573a95e98a73b8456850f2653b37.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f9fc573a95e98a73b8456850f2653b37.1000x1000x1.jpg",
+    "id": 65923,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719858157,
+    "path": "/Radiohead-nude-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 51,
+    "relationships_index_url": "https://genius.com/Radiohead-nude-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 10,
+     "day": 10
+    },
+    "release_date_for_display": "October 10, 2007",
+    "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8d87b43c6162cb753195fb363d4f3af0.300x299x1.jpg",
+    "song_art_image_url": "https://images.genius.com/8d87b43c6162cb753195fb363d4f3af0.600x598x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 423922
+    },
+    "title": "Nude",
+    "title_with_featured": "Nude",
+    "updated_by_human_at": 1719858158,
+    "url": "https://genius.com/Radiohead-nude-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "91 ContributorsTranslationsT\u00fcrk\u00e7eFran\u00e7ais\u0420\u0443\u0441\u0441\u043a\u0438\u0439Nude Lyrics[Verse 1]\nDon't get any big ideas\nThey're not gonna happen\nYou paint yourself white\nAnd fill up with noise\nBut there'll be something missing\n\n[Chorus]\nNow that you've found it, it's gone\nNow that you feel it, you don't\nYou've gone off the rails\n\n[Verse 2]\nSo don't get any big ideas\nThey're not gonna happen\nYou'll go to hell\nFor what your dirty mind is thinkingYou might also like51Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/65924",
+    "artist_names": "Radiohead",
+    "full_title": "Weird Fishes/Arpeggi by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/1253052a5d3475d0c39cc953d72ec261.300x297x1.jpg",
+    "header_image_url": "https://images.genius.com/1253052a5d3475d0c39cc953d72ec261.599x594x1.jpg",
+    "id": 65924,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722598001,
+    "path": "/Radiohead-weird-fishes-arpeggi-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 84,
+    "relationships_index_url": "https://genius.com/Radiohead-weird-fishes-arpeggi-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 10,
+     "day": 10
+    },
+    "release_date_for_display": "October 10, 2007",
+    "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/1253052a5d3475d0c39cc953d72ec261.300x297x1.jpg",
+    "song_art_image_url": "https://images.genius.com/1253052a5d3475d0c39cc953d72ec261.599x594x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 482213
+    },
+    "title": "Weird Fishes/Arpeggi",
+    "title_with_featured": "Weird Fishes/Arpeggi",
+    "updated_by_human_at": 1722598001,
+    "url": "https://genius.com/Radiohead-weird-fishes-arpeggi-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "92 ContributorsTranslationsFran\u00e7ais\u0641\u0627\u0631\u0633\u06ccT\u00fcrk\u00e7e\u0e44\u0e17\u0e22 / Phasa ThaiPortugu\u00easEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Weird Fishes/Arpeggi Lyrics[Verse 1]\nIn the deepest ocean\nThe bottom of the sea\nYour eyes\nThey turn me\nWhy should I stay here?\nWhy should I stay?\n\n[Verse 2]\nI'd be crazy not to follow\nFollow where you lead\nYour eyes\nThey turn me\nTurn me into phantoms (Way out)\nI follow to the edge (Way out)\nOf the earth (Way out)\nAnd fall off\nYeah, everybody leaves (Way out)\nIf they get the chance (Way out)\nAnd this (Way out)\nIs my chance\n\n[Chorus]\nI get eaten by the worms\nAnd weird fishes\nPicked over by the worms\nAnd weird fishes\nWeird fishes\nWeird fishes\nYou might also like[Instrumental Break]\n\n[Outro]\nYeah, I\nI hit the bottom\nHit the bottom and escape\nEscape\nI\nI hit the bottom\nHit the bottom and escape\nEscape84Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/65925",
+    "artist_names": "Radiohead",
+    "full_title": "All I Need by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.1000x1000x1.png",
+    "id": 65925,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718385529,
+    "path": "/Radiohead-all-i-need-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 53,
+    "relationships_index_url": "https://genius.com/Radiohead-all-i-need-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 10,
+     "day": 10
+    },
+    "release_date_for_display": "October 10, 2007",
+    "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 466621
+    },
+    "title": "All I Need",
+    "title_with_featured": "All I Need",
+    "updated_by_human_at": 1718385529,
+    "url": "https://genius.com/Radiohead-all-i-need-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "89 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fran\u00e7aisAll I Need Lyrics[Verse 1]\nI'm the next act waiting in the wings\nI'm an animal trapped in your hot car\nI am all the days that you choose to ignore\n\n[Chorus]\nYou are all I need\nYou're all I need\nI'm in the middle of your picture\nLying in the reeds\n\n[Verse 2]\nI am a moth who just wants to share your light\nI'm just an insect trying to get out of the night\nI only stick with you because there are no others\n\n[Chorus]\nYou are all I need\nYou're all I need\nI'm in the middle of your picture\nLying in the reeds\n\n[Outro]\nIt's all wrong, it's all wrong, it's all wrong\nIt's alright, it's alright, it's alright\nIt's all wrong, it's alright\nIt's alright, it's alrightYou might also like53Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 22,
+    "api_path": "/songs/65926",
+    "artist_names": "Radiohead",
+    "full_title": "Faust Arp by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.1000x1000x1.png",
+    "id": 65926,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714350083,
+    "path": "/Radiohead-faust-arp-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Radiohead-faust-arp-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 10,
+     "day": 10
+    },
+    "release_date_for_display": "October 10, 2007",
+    "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 146779
+    },
+    "title": "Faust Arp",
+    "title_with_featured": "Faust Arp",
+    "updated_by_human_at": 1714350083,
+    "url": "https://genius.com/Radiohead-faust-arp-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "70 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fran\u00e7aisFaust Arp Lyrics[Intro]\nOne, two, three, four\n\n[Verse 1]\nWakey wakey, rise and shine\nIt's on again, off again, on again\nWatch me fall like dominoes\nIn pretty patterns\nFingers in the blackbird pie\nI'm tingling, tingling, tingling\nIt's what you feel not what you ought to\nWhat you ought to\nReasonable and sensible\n\n[Chorus]\nDead from the neck up\nI guess I'm stuffed, stuffed, stuffed\nWe thought you had it in you\nBut not, not, not\nFor no real reason\n\n[Verse 2]\nSqueeze the tubes and empty bottles\nI take a bow, take a bow, take a bow\nIt's what you feel not what you ought to\nWhat you ought to\nThe elephant that's in the room\nIs tumbling, tumbling, tumbling\nIn duplicate and triplicate and\nPlastic bags\nIn duplicate and triplicate\nYou might also like[Chorus]\nDead from the neck up\nI guess I'm stuffed, stuffed, stuffed\nWe thought you had it in you\nBut not, not, not\nExactly where do you get off\nIs enough, is enough?\nI love you but enough is enough\nEnough of that stuff\nThere's no real reason\n\n[Outro]\nYou've got a head full of feathers\nYou got melted to butter8Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/65927",
+    "artist_names": "Radiohead",
+    "full_title": "Reckoner by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/f9fc573a95e98a73b8456850f2653b37.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f9fc573a95e98a73b8456850f2653b37.1000x1000x1.jpg",
+    "id": 65927,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722523549,
+    "path": "/Radiohead-reckoner-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 41,
+    "relationships_index_url": "https://genius.com/Radiohead-reckoner-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 10,
+     "day": 10
+    },
+    "release_date_for_display": "October 10, 2007",
+    "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/82bc75f54950fbb0aaa581d73b218251.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/82bc75f54950fbb0aaa581d73b218251.600x599x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 332484
+    },
+    "title": "Reckoner",
+    "title_with_featured": "Reckoner",
+    "updated_by_human_at": 1722523549,
+    "url": "https://genius.com/Radiohead-reckoner-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "74 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fran\u00e7aisReckoner Lyrics[Verse 1]\nReckoner\nYou can't take it with you\nDancing for your pleasure\n\n[Verse 2]\nYou are not to blame for\nBittersweet distractor\nDare not speak its name\nDedicated to all hu\u2013\nAll human beings\n\n[Chorus]\nBecause we separate like ripples on a blank shore\n(In rainbows)\nBecause we separate like ripples on a blank shore\n(In rainbows)\n\n[Verse 3]\nReckoner\nTake me with you\nDedicated to all hu\u2013\nAll human beingsYou might also like41Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/65928",
+    "artist_names": "Radiohead",
+    "full_title": "House of Cards by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/328e58926341fe929c85983e2038bdb9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/328e58926341fe929c85983e2038bdb9.600x600x1.jpg",
+    "id": 65928,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1717935289,
+    "path": "/Radiohead-house-of-cards-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 24,
+    "relationships_index_url": "https://genius.com/Radiohead-house-of-cards-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 10,
+     "day": 10
+    },
+    "release_date_for_display": "October 10, 2007",
+    "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/328e58926341fe929c85983e2038bdb9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/328e58926341fe929c85983e2038bdb9.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 262824
+    },
+    "title": "House of Cards",
+    "title_with_featured": "House of Cards",
+    "updated_by_human_at": 1717935289,
+    "url": "https://genius.com/Radiohead-house-of-cards-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "55 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fran\u00e7aisHouse of Cards Lyrics[Verse 1]\nI don't want to be your friend\nI just want to be your lover\nNo matter how it ends\nNo matter how it starts\n\n[Chorus]\nForget about your house of cards\nAnd I'll do mine\nForget about your house of cards\nAnd I'll do mine\nAnd fall off the table, get swept under\nDenial, denial\n\n[Verse 2]\nThe infrastructure will collapse\nFrom voltage spikes\nThrow your keys in the bowl\nKiss your husband 'goodnight'\n\n[Chorus]\nAnd forget about your house of cards\nAnd I'll do mine\nForget about your house of cards\nAnd I'll do mine\nFall off the table, get swept under\nDenial, denial\nDenial, denial\n(Your ears should be burning)\nDenial, denial\n(Your ears should be burning)You might also like24Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/65929",
+    "artist_names": "Radiohead",
+    "full_title": "Jigsaw Falling into Place by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/f9fc573a95e98a73b8456850f2653b37.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f9fc573a95e98a73b8456850f2653b37.1000x1000x1.jpg",
+    "id": 65929,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722611721,
+    "path": "/Radiohead-jigsaw-falling-into-place-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 47,
+    "relationships_index_url": "https://genius.com/Radiohead-jigsaw-falling-into-place-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 10,
+     "day": 10
+    },
+    "release_date_for_display": "October 10, 2007",
+    "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/47bf7a8ff3ba02f1b367502306199213.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/47bf7a8ff3ba02f1b367502306199213.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 414673
+    },
+    "title": "Jigsaw Falling into Place",
+    "title_with_featured": "Jigsaw Falling into Place",
+    "updated_by_human_at": 1722600949,
+    "url": "https://genius.com/Radiohead-jigsaw-falling-into-place-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "76 ContributorsTranslations\u0641\u0627\u0631\u0633\u06ccT\u00fcrk\u00e7e\u0e44\u0e17\u0e22 / Phasa ThaiEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fran\u00e7aisJigsaw Falling into Place Lyrics[Verse 1]\nJust as you take my hand\nJust as you write my number down\nJust as the drinks arrive\nJust as they play your favourite song\nAs your bad day disappears\nNo longer wound up like a spring\nBefore you've had too much\nCome back in focus again\nThe walls are bending shape\nThey've got a Cheshire cat grin\nAll blurring into one\nThis place is on a mission\nBefore the night owl\nBefore the animal noises\nClosed circuit cameras\nBefore you're comatose\n\n[Verse 2]\nBefore you run away from me\nBefore you're lost between the notes\nThe beat goes 'round and 'round\nThe beat goes 'round and 'round\nI never really got there\nI just pretended that I had\nWords are blunt instruments\nWords are sawn-off shotguns\nCome on and let it out\nCome on and let it out\nCome on and let it out\nCome on and let it out\nBefore you run away from me\nBefore you're lost between the notes\nJust as you take the mic\nJust as you dance, dance, dance\nYou might also like[Chorus]\nA jigsaw falling into place\nSo there is nothing to explain\nYou eye each other as you pass\nShe looks back, and you look back\nNot just once, and not just twice\nWish away your nightmare\nWish away the nightmare\nYou got the light, you can feel it on your back\nA light, you can feel it on your back\nYour jigsaw falling into place47Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/65930",
+    "artist_names": "Radiohead",
+    "full_title": "Videotape by\u00a0Radiohead",
+    "header_image_thumbnail_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.300x300x1.png",
+    "header_image_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.1000x1000x1.png",
+    "id": 65930,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1713902127,
+    "path": "/Radiohead-videotape-lyrics",
+    "primary_artist_names": "Radiohead",
+    "pyongs_count": 60,
+    "relationships_index_url": "https://genius.com/Radiohead-videotape-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 10,
+     "day": 10
+    },
+    "release_date_for_display": "October 10, 2007",
+    "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2edf0b7b714d5d1084080623a49a9a85.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 268964
+    },
+    "title": "Videotape",
+    "title_with_featured": "Videotape",
+    "updated_by_human_at": 1713902127,
+    "url": "https://genius.com/Radiohead-videotape-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/604",
+     "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+     "id": 604,
+     "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radiohead",
+     "slug": "Radiohead",
+     "url": "https://genius.com/artists/Radiohead"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/604",
+      "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+      "id": 604,
+      "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Radiohead",
+      "slug": "Radiohead",
+      "url": "https://genius.com/artists/Radiohead"
+     }
+    ],
+    "artist": "Radiohead",
+    "lyrics": "76 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fran\u00e7aisVideotape Lyrics[Verse 1]\nWhen I'm at the pearly gates\nThis'll be on my videotape, my videotape\nWhen Mephistopheles is just beneath\nAnd he's reaching up to grab me\nThis is one for the good days\nAnd I have it all here\nIn red, blue, green\nIn red, blue, green\nYou are my centre when I spin away\nOut of control on videotape\nOn videotape, on videotape, on videotape\nOn videotape, on videotape, on videotape\n\n[Verse 2]\nThis is my way of saying goodbye\nBecause I can't do it face to face\nSo I'm talking to you before-\nNo matter what happens now\nYou shouldn't be afraid\nBecause I know today has been\nThe most perfect day\nI've ever seenYou might also like60Embed"
+   }
+  }
+ ]
+}
