@@ -416,7 +416,7 @@ with st.sidebar:
 apply_theme(THEME)
 buffer1, main_col, buffer2 = st.columns([1, 3, 1])
 with main_col:
-    st.title("Welcome to :guitar: Radioheadguessr :guitar:!")
+    st.title("Welcome to :guitar:radioheadGuessr:guitar:!")
     if st.session_state.game_in_progress == False: 
 
         start_tab, past_stats_tab, leaderboard_tab = st.tabs(["Start New Game", "Past Game Statistics", "Leaderboard"])
@@ -424,10 +424,9 @@ with main_col:
         with start_tab: 
 
             with st.expander(":pencil2: Instructions (click to expand)", expanded=False): 
-                # st.markdown(f"Lyrics range from debut to *{ALL_ALBUMS[-1]}*. All Taylor's Version vault tracks are included!")
+                st.markdown(f"Lyrics range from *{ALL_ALBUMS[0]}* to *{ALL_ALBUMS[-1]}*.")
                 st.markdown(f"Capitalization and minor spelling errors do NOT matter!")
-                st.markdown("### IMPORTANT GUIDELINES:")
-                # st.markdown('* Do NOT include "(Taylor\'s Version)" in your guesses; e.g. "Back to December (Taylor\'s Version)" should simply be "Back to December."\n* Answer "All Too Well" for BOTH the 5-minute and 10-minute versions of All Too Well.')
+                # st.markdown("### IMPORTANT GUIDELINES:")
             
             start_form = st.form("game_settings")
             with start_form:
