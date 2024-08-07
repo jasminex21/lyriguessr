@@ -162,7 +162,8 @@ class Lyrics():
         track_name_length = len(correct_song)
         allowed_diff = math.ceil(track_name_length * 0.33)
         print(f"DEBUG: guess = {guess}")
-        print(f"DEBUG: guess.lower = {guess.lower()}")
+        print(f"DEBUG: guess.lower = {guess.lower()}; correct_song.lower = {correct_song.lower()}")
+        print(stringdist.levenshtein(guess.lower(), correct_song.lower()))
         if stringdist.levenshtein(guess.lower(), correct_song.lower()) <= allowed_diff: 
             return True
         return False
