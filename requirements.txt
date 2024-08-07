@@ -1,4 +1,4 @@
 pandas
 streamlit
 stringdist
--e ./lyriguessr
+-e .
