@@ -3,277 +3,8 @@ import streamlit as st
 import pandas as pd
 from time import strftime, gmtime
 
-# from lyriguessr.Lyrics import Lyrics
-# from lyriguessr.Leaderboard import Leaderboards
-
-### TESTING: CLASSES ###
-import random
-import math
-import re
-import stringdist
-# import pandas as pd
-from typing import Optional, List
-
-class Lyrics(): 
-    """
-    Class to manage lyric generation.
-
-    Args:
-        data: 
-            A pandas dataframe containing artist lyrics
-    """
-    def __init__(self, data: pd.DataFrame):
-        """Constructor"""
-
-        self.data = data
-        self.rand_num = None
-        self.start_line = None
-        self.end_line = None
-
-    def generate(self, mode: str) -> str:
-        """
-        Method that returns the generated lyrics, given a game difficulty.
-
-        Args:
-            mode: 
-                A string specifying the game difficulty (i.e., whether to 
-                generate a whole section, 2 lines, or 1 line)
-        
-        Returns: 
-            An HTML-formatted string containing the generated lyrics.
-        """
-
-        self.rand_num = random.randint(0, self.data.shape[0] - 1)
-        track_name = self.data["track_name"][self.rand_num]
-
-        if mode == "Hard (1 line)": 
-            self.start_line = self.rand_num
-            self.end_line = self.rand_num
-            return self.data["lyric"][self.rand_num]
-        
-        if mode == "Medium (2 lines)": 
-            # check if next line is from same song; it not, give previous line
-            if ((self.rand_num <= self.data.shape[0] - 1) 
-                and (self.data["track_name"][self.rand_num + 1] == track_name)): 
-                self.start_line = self.rand_num
-                self.end_line = self.rand_num + 1
-            else: 
-                self.start_line = self.rand_num - 1
-                self.end_line = self.rand_num
-
-            return "<br>".join(self.data["lyric"][self.start_line:self.end_line + 1].tolist())
-        
-        else: 
-            rand_section = self.data["element"][self.rand_num]
-            # continue adding lines until section differs
-            self.start_line = self.rand_num
-            while ((self.start_line > 0) 
-                   and (self.data["element"][self.start_line - 1] == rand_section) 
-                   and (self.data["track_name"][self.start_line - 1] == track_name)): 
-                self.start_line -= 1
-
-            self.end_line = self.rand_num
-            while ((self.end_line < self.data.shape[0] - 1) 
-                   and (self.data["element"][self.end_line + 1] == rand_section)
-                   and (self.data["track_name"][self.end_line + 1] == track_name)): 
-                self.end_line += 1
-
-            return "<br>".join(self.data["lyric"][self.start_line:self.end_line + 1].tolist())
-    
-    def get_track_name(self) -> str: 
-        """
-        Method that returns the name of the track whose lyrics were returned.
-
-        Returns: 
-            The correct track name.
-        """
-        return self.data["track_name"][self.rand_num]
-    
-    def get_album_name(self) -> str: 
-        """
-        Method that returns the album of the track whose lyrics were returned.
-
-        Returns: 
-            The correct album name.
-        """
-        return self.data["album_name"][self.rand_num]
-    
-    def get_previous_line(self) -> str:
-        """
-        Method that returns the line prior to the generated lyrics.
-
-        Returns:
-            The line prior to the generated lyrics; if there is nothing prior (
-            i.e., the generated lyrics was the very beginning of the song),
-            "N/A" is returned.
-        """
-        if (self.start_line > 0) and (self.data["track_name"][self.start_line - 1] == self.get_track_name()):
-            return self.data["lyric"][self.start_line - 1]
-        return "N/A"
-
-    def get_next_line(self) -> str:
-        """
-        Method that returns the line following the generated lyrics.
-
-        Returns:
-            The line following the generated lyrics; if there is nothing 
-            following (i.e., the generated lyrics was the end of the song),
-            "N/A" is returned.
-        """
-        if (self.end_line < self.data.shape[0] - 1) and (self.data["track_name"][self.end_line + 1] == self.get_track_name()):
-            return self.data["lyric"][self.end_line + 1]
-        return "N/A"
-    
-    def get_section(self) -> str:
-        """
-        Returns the section of the generated lyrics.
-
-        Returns:
-            The section (e.g. Chorus, Verse 1, etc.) of the generated lyrics.
-        """
-        return self.data["element"][self.rand_num]
-    
-    def get_guess_feedback(self, guess: str, 
-                           remove_parentheses: Optional[bool]=False, 
-                           keep_parentheses: Optional[List]=None) -> bool: 
-        """
-        Returns a boolean indicating whether a user guess was correct or
-        incorrect. Capitalization is waived, as are minor (within 1/3 of the
-        track name's length) spelling mistakes.
-
-        Args: 
-            guess: 
-                The user's guess as a string
-
-            remove_parentheses: 
-                Optional parameter used to specify whether to remove parentheses
-                within song titles. Useful if the artist's discography has 
-                features, or if the artist is Taylor Swift
-            
-            keep_parentheses: 
-                When remove_parentheses is True, this is an optional parameter 
-                used to specify songs where the parentheses should not be removed. 
-                Useful if you want to remove incidences of (feat. x) but not
-                parentheses such as (Lobotomy) in Peach (Lobotomy) by Waterparks.
-                Ignored when remove_parentheses is False.
-
-        Returns:
-            A boolean; True if the guess is "correct," False otherwise.
-        """
-        correct_song = self.get_track_name()
-        # exceptions where the parentheses should be included in the guess
-        if remove_parentheses:
-            if correct_song not in keep_parentheses:
-                # remove parentheses (e.g. Taylor's Version) from track name
-                correct_song = re.sub(r"\([^)]*\)", "", correct_song).strip()
-        guess = guess.strip()
-        # allowing for minor typos
-        track_name_length = len(correct_song)
-        allowed_diff = math.ceil(track_name_length * 0.33)
-        if stringdist.levenshtein(guess.lower(), correct_song.lower()) <= allowed_diff: 
-            return True
-        return False
-    
-import sqlite3
-class Leaderboards:
-    """
-    A class that manages leaderboards via a SQLite database. 
-
-    Args: 
-        db_path: The path to the database.
-    """
-
-    def __init__(self, db_path="./artists/radiohead/leaderboard.db"):
-
-        """
-        Constructor
-        """
-
-        self.db_path = db_path
-        self.table_names = [f"leaderboard_{diff}" for diff in ["easy", "medium", "hard"]]
-        self.difficulty_mapping = {"Easy (an entire section, e.g. chorus)": "easy", 
-                                   "Medium (2 lines)": "medium", 
-                                   "Hard (1 line)": "hard"}
-
-    def __enter__(self):
-        """
-        Connects the database and creates the leaderboards for each
-        difficulty if they do not already exist.
-        """
-
-        self.connection = sqlite3.connect(self.db_path)
-        self.cursor = self.connection.cursor()
-        self.create_tables()
-        return self
-    
-    def __exit__(self, exc_type, exc_val, exc_tb):
-        """
-        Automatically closes the database connection.
-        """
-
-        self.connection.close()
-
-    def create_tables(self):
-        """
-        Method that creates the three leaderboards (one for each difficulty) if
-        they do not already exist.
-        """
-        
-        for table_name in self.table_names:
-            create_query = f"""CREATE TABLE IF NOT EXISTS {table_name} (
-                                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                                name TEXT NOT NULL,
-                                points INTEGER NOT NULL,
-                                rounds INTEGER NOT NULL,
-                                datetime TEXT NOT NULL)"""
-            self.cursor.execute(create_query)
-            self.connection.commit()
-    
-    def add_to_leaderboard(self, difficulty, results):
-        """
-        Method that adds a user's results to the corresponding leaderboard.
-
-        Args: 
-            difficulty: A string specifying the game difficulty; this 
-                        determines which leaderboard the results are added to.
-
-            results: A tuple (name, points, rounds, points, datetime) containing the user's 
-            game results.
-        """
-        
-        db_difficulty = self.difficulty_mapping[difficulty]
-        add_query = f"""INSERT INTO leaderboard_{db_difficulty} (name, points, rounds, datetime)
-                        VALUES (?, ?, ?, ?)"""
-        self.cursor.execute(add_query, results)
-        self.connection.commit()
-
-    def get_leaderboards(self):
-        """
-        Method that returns the most updated leaderboards, each ranked by the
-        number of points the users have earned.
-
-        Returns: 
-            A dictionary containing the leaderboards (as pandas dataframes) 
-            for each difficulty.
-        """
-
-        all_leaderboards = {}
-        columns = ["ID", "Name", "Points", "Rounds", "Datetime (UTC)"]
-        final_cols = ["Rank", "Name", "Points", "Rounds", "Datetime (UTC)"]
-
-        for table_name, long_name in zip(self.table_names, list(self.difficulty_mapping.keys())): 
-            self.cursor.execute(f"SELECT * FROM {table_name}")
-            rows = self.cursor.fetchall()
-
-            df = pd.DataFrame(rows, columns=columns)
-            df["Datetime"] = pd.to_datetime(df["Datetime (UTC)"])
-            # the primary determinator of rank is the number of points earned
-            df = df.sort_values(by=["Points", "Datetime (UTC)"], ascending=[False, True])
-            df["Rank"] = df[["Points"]].rank(method="first", ascending=False).astype(int)
-            final_df = df[final_cols].set_index("Rank")
-            all_leaderboards[long_name] = final_df
-        
-        return all_leaderboards
+from lyriguessr.Lyrics import Lyrics
+from lyriguessr.Leaderboard import Leaderboards
 
 ### GLOBAL VARS ###
 ALL_LYRICS = pd.read_csv("./artists/radiohead/radiohead_lyrics.csv")
@@ -303,6 +34,7 @@ THEME = {"background_color": "#222222",
         "button_color": "#000000",
         "inputs": "#4C4949",
         "text_color": "white"}
+LEADERBOARD = "./artists/radiohead/leaderboard.db"
 
 ### PAGE CONFIG
 st.set_page_config(layout='wide',
@@ -643,7 +375,7 @@ def name_submitted():
     st.session_state.name = st.session_state.leaderboard_name
     st.session_state.leaderboard_name = ""
 
-    with Leaderboards() as leaderboard:
+    with Leaderboards(db_path=LEADERBOARD) as leaderboard:
         leaderboard.add_to_leaderboard(st.session_state.difficulty, game_results)
         current_leaderboards = leaderboard.get_leaderboards()
 
@@ -758,7 +490,7 @@ with main_col:
             else: 
                 st.markdown(f"Your game results can only be added to the leaderboard if you played 5+ rounds in Survival mode with all albums enabled.")
 
-            with Leaderboards() as leaderboard:
+            with Leaderboards(db_path=LEADERBOARD) as leaderboard:
                 current_leaderboards = leaderboard.get_leaderboards()
             
             leaderboard_to_show = st.selectbox("Select leaderboard to display",
