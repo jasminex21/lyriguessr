@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: /home/jasmine/PROJECTS/lyriguessr/docs
 
 website:
   title: "lyriguessr"
