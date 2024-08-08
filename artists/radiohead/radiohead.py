@@ -394,7 +394,7 @@ def highlight_new_row(row):
     else:
         return [''] * len(row)
     
-def get_database(path="leaderboard.db"):
+def get_database(path=LEADERBOARD):
     with open(path, "rb") as f:
         return f.read()
 
@@ -404,7 +404,7 @@ with st.sidebar:
     st.markdown(f"Made with :heart: by Jasmine Xu")
     st.markdown(f"Contact me at <jasminexu@utexas.edu>")
 
-    if os.path.exists("leaderboard.db"):
+    if os.path.exists(LEADERBOARD):
 
         st.divider()
 
