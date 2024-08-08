@@ -1,4 +1,8 @@
 ---
 title: "Welcome to lyriguessr!"
+listing:
+  contents: artist_pages
+  type: table
+  fields: [title, date]
 ---
 

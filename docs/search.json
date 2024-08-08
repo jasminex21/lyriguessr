@@ -4,15 +4,12 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi! I’m Jasmine Xu, the developer of lyriguessr. I study Statistics and Data Science at UT Austin, and love working on fun projects such as lyriguessr in my free time.\n\nContact me at jasminexu@utexas.edu!\n\nThe idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate during my freshman year. We’re both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!\nI realized later on that tayLyrics could be generalized to fans of any artist - why not share the fun with everyone, right? So, here’s my little contribution to the music lovers of the world. Enjoy.",
-    "crumbs": [
-      "About"
-    ]
+    "text": "Hi! I’m Jasmine Xu, the developer of lyriguessr. I study Statistics and Data Science at UT Austin, and love working on fun projects such as lyriguessr in my free time.\n\nContact me at jasminexu@utexas.edu!\n\nThe idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate during my freshman year. We’re both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!\nI realized later on that tayLyrics could be generalized to fans of any artist - why not share the fun with everyone, right? So, here’s my little contribution to the music lovers of the world. Enjoy."
   },
   {
     "objectID": "taylor_swift.html",
     "href": "taylor_swift.html",
-    "title": "tayLyrics",
+    "title": "Taylor Swift",
     "section": "",
     "text": "Go to tayLyrics",
     "crumbs": [
@@ -30,5 +27,33 @@
       "Artist Games",
       "Radiohead"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to lyriguessr!",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\nRadiohead\n\n\nAug 7, 2024\n\n\n\n\nTaylor Swift\n\n\nAug 7, 2024\n\n\n\n\nWaterparks\n\n\nAug 8, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "artist_pages/radiohead.html",
+    "href": "artist_pages/radiohead.html",
+    "title": "Radiohead",
+    "section": "",
+    "text": "Go to radioheadGuessr\n\n\nDetails\nLyrics range from Pablo Honey to A Moon Shaped Pool.\n\n\nThe Dataset and Statistics\nThere are 2,588 lines in the radioheadGuessr dataset, with 1,708 of them being unique lines.\n\nYou have around a 0.039% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\nNotable single lines that show up in high frequencies:\n\n\n\n\n\n\n\n\n\n\nLyric\n# Occurrences\nSong\n% Chance\n\n\n\n\n“The raindrops, the raindrops”\n24\nSit Down. Stand Up.\n0.93\n\n\n“Into your arms (Don’t hurt me)”\n21\nGive Up the Ghost\n0.81\n\n\n“Paying attention”\n16\n2 + 2 = 5\n0.62\n\n\n“I will eat you alive”\n15\nWhere I End and You Begin\n0.58\n\n\n“efil ym fo flaH”\n15\nDaydreaming\n0.58"
+  },
+  {
+    "objectID": "artist_pages/taylor_swift.html",
+    "href": "artist_pages/taylor_swift.html",
+    "title": "Taylor Swift",
+    "section": "",
+    "text": "Go to tayLyrics\n\n\nDetails\nLyrics range from debut to THE TORTURED POETS DEPARTMENT.\n\n\nThe Dataset and Statistics\nThere are 11,551 lines in the tayLyrics dataset, with 7,996 of them being unique lines.\n\nYou have around a 0.0087% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\nNotable single lines that show up in high frequencies:\n\n\n\n\n\n\n\n\n\n\nLyric\n# Occurrences\nSong\n% Chance\n\n\n\n\n“Today was a fairytale”\n16\nToday Was A Fairytale\n0.14\n\n\n“(Red, red, red)”\n14\nRed\n0.12\n\n\n“Look what you just made me do”\n13\nLook What You Made Me Do\n0.11\n\n\n“Ooh-ah”\n12\nSoon You’ll Get Better\n0.10\n\n\n“What died didn’t stay dead”\n12\nmarjorie\n0.10"
+  },
+  {
+    "objectID": "artist_pages/waterparks.html",
+    "href": "artist_pages/waterparks.html",
+    "title": "Waterparks",
+    "section": "",
+    "text": "Haven’t deployed app yet\n\n\nDetails\nLyrics range from Airplane Conversations to INTELLECTUAL PROPERTY.\n\n\nThe Dataset and Statistics"
   }
 ]

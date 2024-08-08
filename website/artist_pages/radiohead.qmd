@@ -1,0 +1,25 @@
+---
+title: "Radiohead"
+date: "2024-08-07"
+---
+
+> #### [Go to radioheadGuessr](https://radioheadguessr.streamlit.app/)
+
+#### Details
+
+Lyrics range from *Pablo Honey* to A *Moon Shaped Pool*.
+
+#### The Dataset and Statistics
+
+There are 2,588 lines in the **radioheadGuessr** dataset, with 1,708 of them being *unique* lines.
+
+* You have around a 0.039% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+* Notable single lines that show up in high frequencies: 
+
+| Lyric | # Occurrences | Song | % Chance |
+| --------------------------------- | --------------- | ----------------------------- | ----------- |
+| "The raindrops, the raindrops "  | 24    | Sit Down. Stand Up. | 0.93 |
+| "Into your arms (Don't hurt me) " | 21     | Give Up the Ghost | 0.81 |
+| "Paying attention"   | 16    | 2 + 2 = 5 | 0.62 |
+| "I will eat you alive"   | 15    | Where I End and You Begin | 0.58 |
+| "efil ym fo flaH"   | 15    | Daydreaming | 0.58 |

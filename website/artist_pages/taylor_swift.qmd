@@ -1,0 +1,26 @@
+---
+title: "Taylor Swift"
+date: "2024-08-07"
+---
+
+> #### [Go to tayLyrics](https://taylyrics.streamlit.app/)
+
+#### Details
+
+Lyrics range from *debut* to *THE TORTURED POETS DEPARTMENT*.
+
+#### The Dataset and Statistics
+
+There are 11,551 lines in the **tayLyrics** dataset, with 7,996 of them being *unique* lines. 
+
+* You have around a 0.0087% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+* Notable single lines that show up in high frequencies: 
+
+| Lyric | # Occurrences | Song | % Chance |
+| --------------------------------- | --------------- | ----------------------------- | ----------- |
+| "Today was a fairytale"  | 16    | Today Was A Fairytale | 0.14 |
+| "(Red, red, red)" | 14     | Red | 0.12 |
+| "Look what you just made me do"   | 13    | Look What You Made Me Do | 0.11 |
+| "Ooh-ah"   | 12    | Soon You'll Get Better | 0.10 |
+| "What died didn't stay dead"   | 12    | marjorie | 0.10 |
+

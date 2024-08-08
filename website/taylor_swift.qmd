@@ -1,5 +1,0 @@
----
-title: "tayLyrics"
----
-
-#### [Go to tayLyrics](https://taylyrics.streamlit.app/)
