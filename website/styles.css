@@ -1,0 +1,11 @@
+h3, h2, h1, strong, h4 {
+    font-weight: 900 !important;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+body {
+    font-weight: bolder;
+}

@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+Hi! I'm Jasmine Xu, the developer of lyriguessr. I study Statistics and Data Science at UT Austin, and love working on fun projects such as lyriguessr in my free time. 
+
+> Contact me at <jasminexu@utexas.edu>!
+
+The idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate during my freshman year. We're both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!
+
+I realized later on that tayLyrics could be generalized to fans of any artist - why not share the fun with everyone, right? So, here's my little contribution to the music lovers of the world. Enjoy.

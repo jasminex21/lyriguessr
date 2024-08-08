@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "lyriguessr"
+  page-footer: "Copyright 2024, Jasmine Xu" 
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - section: Artist Games
+        contents:
+        - text: "Taylor Swift"
+          href: taylor_swift.qmd
+        - text: "Radiohead"
+          href: radiohead.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

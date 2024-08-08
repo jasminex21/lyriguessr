@@ -1,0 +1,34 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I’m Jasmine Xu, the developer of lyriguessr. I study Statistics and Data Science at UT Austin, and love working on fun projects such as lyriguessr in my free time.\n\nContact me at jasminexu@utexas.edu!\n\nThe idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate during my freshman year. We’re both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!\nI realized later on that tayLyrics could be generalized to fans of any artist - why not share the fun with everyone, right? So, here’s my little contribution to the music lovers of the world. Enjoy.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "taylor_swift.html",
+    "href": "taylor_swift.html",
+    "title": "tayLyrics",
+    "section": "",
+    "text": "Go to tayLyrics",
+    "crumbs": [
+      "Artist Games",
+      "Taylor Swift"
+    ]
+  },
+  {
+    "objectID": "radiohead.html",
+    "href": "radiohead.html",
+    "title": "Radiohead",
+    "section": "",
+    "text": "Go to radioheadGuessr",
+    "crumbs": [
+      "Artist Games",
+      "Radiohead"
+    ]
+  }
+]
