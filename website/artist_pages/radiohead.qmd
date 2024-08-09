@@ -16,8 +16,8 @@ There are 2,588 lines in the **radioheadGuessr** dataset, with 1,708 of them bei
 * You have around a 0.039% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
 * Notable single lines that show up in high frequencies: 
 
-| Lyric | # Occurrences | Song | % Chance |
-| --------------------------------- | --------------- | ----------------------------- | ----------- |
+| Lyric | # | Song | % Chance |
+| --------------------------------- | ------- | ----------------------------- | ----------- |
 | "The raindrops, the raindrops "  | 24    | Sit Down. Stand Up. | 0.93 |
 | "Into your arms (Don't hurt me) " | 21     | Give Up the Ghost | 0.81 |
 | "Paying attention"   | 16    | 2 + 2 = 5 | 0.62 |

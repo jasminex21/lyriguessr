@@ -9,15 +9,17 @@ date: "2024-08-07"
 
 Lyrics range from *debut* to *THE TORTURED POETS DEPARTMENT*.
 
+*Hits Different* and *You're Losing Me* are included; *All of the Girls You Loved Before* is not (yet).
+
 #### The Dataset and Statistics
 
-There are 11,551 lines in the **tayLyrics** dataset, with 7,996 of them being *unique* lines. 
+There are 11,675 lines in the **tayLyrics** dataset, with 8,085 of them being *unique* lines. 
 
-* You have around a 0.0087% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+* You have around a 0.0086% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
 * Notable single lines that show up in high frequencies: 
 
-| Lyric | # Occurrences | Song | % Chance |
-| --------------------------------- | --------------- | ----------------------------- | ----------- |
+| Lyric | # | Song | % Chance |
+| --------------------------------- | ------- | ----------------------------- | ----------- |
 | "Today was a fairytale"  | 16    | Today Was A Fairytale | 0.14 |
 | "(Red, red, red)" | 14     | Red | 0.12 |
 | "Look what you just made me do"   | 13    | Look What You Made Me Do | 0.11 |

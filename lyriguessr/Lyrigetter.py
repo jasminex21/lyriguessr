@@ -6,17 +6,27 @@ from lyricsgenius import Genius
 
 class Lyrigetter:
 
-    def __init__(self, genius_token, album_names, artist_name):
+    def __init__(self, genius_token, album_names, artist_name,
+                 filenames=None):
         
         self.genius = Genius(genius_token)
         self.album_names = album_names
         self.artist_name = artist_name
-        self.album_filenames = [f"{'_'.join(album_name.split(' '))}.json" for album_name in self.album_names]
+
+        self.album_filenames = []
+        if filenames: 
+            for fname, album_name in zip(filenames, self.album_names): 
+                if fname: 
+                    self.album_filenames.append(fname)
+                else: 
+                    self.album_filenames.append(f"{'_'.join(album_name.split(' '))}.json")
+        else:
+            self.album_filenames = [f"{'_'.join(album_name.split(' '))}.json" for album_name in self.album_names]
     
     def store_album_data(self):
         
-        for album_name in self.album_names:
-            album_filename = f"{'_'.join(album_name.split(' '))}.json"
+        for album_name, album_filename in zip(self.album_names, self.album_filenames):
+            # album_filename = f"{'_'.join(album_name.split(' '))}.json"
             if os.path.exists(album_filename):
                 print(f"File {album_filename} already exists; moving on")
                 continue
