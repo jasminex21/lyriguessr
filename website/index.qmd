@@ -3,6 +3,7 @@ title: "Welcome to lyriguessr!"
 listing:
   - id: artist_games
     contents: artist_pages
+    sort: date
     type: table
     fields: [title, date]
 ---
@@ -15,11 +16,18 @@ The gist of lyriguessr: earn as many points as possible by guessing the song tha
   * Medium correct guess: +3
   * Hard correct guess: +5
 
-If you don't have a guess, you can ask for a hint - there are three hints available for each generated lyric. These hints yield the lyric's album, next line, and previous line, respectively. Or, you could also choose to give up and move on to the next round. But keep in mind that getting hints and giving up will cost you points!
+If you don't have a guess, you can ask for a hint - there are three hints available for each generated lyric. Or, you could also choose to give up and move on to the next round. But keep in mind that getting hints and giving up will cost you points!
 
 > * Hint (each): -1
   * Giving up: -2
 
 ### 🎵 Artists
 
+> Reply to me at [@lyriguessr](https://x.com/lyriguessr) on Twitter to request new artists!
+
 ::: {#artist_games}
+:::
+
+### 🔜 Coming Soon...
+
+* Waterparks

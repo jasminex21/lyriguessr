@@ -26,7 +26,6 @@ class Lyrigetter:
     def store_album_data(self):
         
         for album_name, album_filename in zip(self.album_names, self.album_filenames):
-            # album_filename = f"{'_'.join(album_name.split(' '))}.json"
             if os.path.exists(album_filename):
                 print(f"File {album_filename} already exists; moving on")
                 continue
@@ -105,3 +104,8 @@ class Lyrigetter:
         full_lyrics = full_lyrics[["track_name", "element", "album_name", "lyric", "line"]]
         full_lyrics.to_csv(f"{self.artist_name.lower()}_lyrics.csv", index=False)
         print(f"Lyrics written to {self.artist_name.lower()}_lyrics.csv.")
+    
+    def add_song(self, song_name): 
+
+        song = self.genius.search_song(song_name, self.artist_name)
+        # conitnue after splitting and cleaning up save_songs

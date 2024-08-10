@@ -3,13 +3,17 @@ title: "Radiohead"
 date: "2024-08-07"
 ---
 
-> #### [Go to radioheadGuessr](https://radioheadguessr.streamlit.app/)
+> ### [Go to radioheadGuessr](https://radioheadguessr.streamlit.app/)
 
-#### Details
+### Details
+
+**I am taking requests for cooler/punnier names for Radiohead's game! Tweet me on [@lyriguessr](https://x.com/lyriguessr)!**
 
 Lyrics range from *Pablo Honey* to A *Moon Shaped Pool*.
 
-#### The Dataset and Statistics
+As of now, *In Rainbows (Disk 2)* is not included. 
+
+### The Dataset and Statistics
 
 There are 2,588 lines in the **radioheadGuessr** dataset, with 1,708 of them being *unique* lines.
 
@@ -23,3 +27,7 @@ There are 2,588 lines in the **radioheadGuessr** dataset, with 1,708 of them bei
 | "Paying attention"   | 16    | 2 + 2 = 5 | 0.62 |
 | "I will eat you alive"   | 15    | Where I End and You Begin | 0.58 |
 | "efil ym fo flaH"   | 15    | Daydreaming | 0.58 |
+
+### Similar Artists
+
+Nothing here yet...

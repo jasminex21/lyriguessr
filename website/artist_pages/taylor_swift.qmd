@@ -1,17 +1,17 @@
 ---
 title: "Taylor Swift"
-date: "2024-08-07"
+date: "2024-08-01"
 ---
 
-> #### [Go to tayLyrics](https://taylyrics.streamlit.app/)
+> ### [Go to tayLyrics](https://taylyrics.streamlit.app/)
 
-#### Details
+### Details
 
 Lyrics range from *debut* to *THE TORTURED POETS DEPARTMENT*.
 
 *Hits Different* and *You're Losing Me* are included; *All of the Girls You Loved Before* is not (yet).
 
-#### The Dataset and Statistics
+### The Dataset and Statistics
 
 There are 11,675 lines in the **tayLyrics** dataset, with 8,085 of them being *unique* lines. 
 
@@ -26,3 +26,6 @@ There are 11,675 lines in the **tayLyrics** dataset, with 8,085 of them being *u
 | "Ooh-ah"   | 12    | Soon You'll Get Better | 0.10 |
 | "What died didn't stay dead"   | 12    | marjorie | 0.10 |
 
+### Similar Artists
+
+Nothing here yet...

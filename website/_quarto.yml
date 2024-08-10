@@ -4,9 +4,15 @@ project:
 
 website:
   title: "lyriguessr"
-  page-footer: "Copyright 2024, Jasmine Xu" 
+  open-graph: true
+  page-footer: "Copyright 2024, Jasmine Xu"
   navbar:
     search: true
+    tools:
+      - icon: github
+        href: https://github.com/jasminex21/lyriguessr
+      - icon: twitter 
+        href: https://x.com/lyriguessr
     left:
       - text: Home
         href: index.qmd
@@ -15,7 +21,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [flatly, light.scss]
+      dark: [darkly, dark.scss]
     css: styles.css 
     toc: true
 
