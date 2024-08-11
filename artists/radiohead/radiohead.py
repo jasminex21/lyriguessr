@@ -163,6 +163,9 @@ def apply_theme(selected_theme):
         background: {selected_theme['button_color']} !important;
         color: {selected_theme["text_color"]};
     }}
+    [data-baseweb="popover"], div[data-baseweb="popover"] > div {{
+        background-color: {"grey" if selected_theme["text_color"] == "black" else "#262730"};
+    }}
     th {{
         color: {selected_theme["text_color"]} !important;
         font-weight: 900 !important;

@@ -1,15 +1,34 @@
 ---
 title: "Waterparks"
-date: "2024-08-08"
+date: "2024-08-11"
 ---
 
-> #### Haven't deployed app yet
+> ### Go to [waterparksGuessr](https://waterparksguessr.streamlit.app/)
 
-#### Details
+### Details
+
+**I am taking requests for cooler/punnier names for Waterparks' game! Tweet me on [@lyriguessr](https://x.com/lyriguessr)!**
 
 Lyrics range from *Airplane Conversations* to *INTELLECTUAL PROPERTY*.
 
-#### The Dataset and Statistics
+Demo album 1 is *not* included, and neither are *Candy* and *What We Do For Fun.*
 
+### The Dataset and Statistics
 
+There are 4,449 lines in the **waterparksGuessr** dataset, with 2,577 of them being *unique* lines. 
+
+* You have around a 0.022% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+* Notable single lines that show up in high frequencies: 
+
+| Lyric | # | Song | % Chance |
+| --------------------------------- | ------- | ----------------------------- | ----------- |
+| "Mad all the time"  | 14    | Mad All The Time | 0.31 |
+| "So let me go, let me go down" | 14     | Peach (Lobotomy) | 0.31 |
+| "Last night I had the strangest dream of all"   | 13    | Greatest Hits OR Ice Bath | 0.29 |
+| "Whoa, you’ll never know"   | 12    | I Was Hiding Under Your Porch Because I Love You | 0.27 |
+| "Do you feel it too?"   | 12    | Telephone | 0.27 |
+
+### Similar Artists
+
+Nothing here yet...
 
