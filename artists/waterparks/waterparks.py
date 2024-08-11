@@ -455,6 +455,7 @@ with main_col:
             with st.expander(":pencil2: Instructions (click to expand)", expanded=False): 
                 st.markdown(f"Lyrics range from *{ALL_ALBUMS[0]}* to *{ALL_ALBUMS[-1]}*.")
                 st.markdown(f"Candy, What We Do For Fun, and Silver (Acoustic) are not included!")
+                st.markdown(f"Return to [lyriguessr](https://jasminex21.github.io/lyriguessr/) for more artist games!")
                 st.markdown("### IMPORTANT GUIDELINES:")
                 st.markdown(f"Capitalization and minor spelling errors do NOT matter!")
             

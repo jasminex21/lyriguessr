@@ -5,6 +5,12 @@ project:
 website:
   title: "lyriguessr"
   open-graph: true
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "Interact with me at @lyriguessr on Twitter to request new artists!"
+    type: info
+    position: below-navbar
   page-footer: "Copyright 2024, Jasmine Xu"
   navbar:
     search: true
