@@ -3,19 +3,24 @@ title: "Taylor Swift"
 date: "2024-08-01"
 ---
 
-> ### [Go to tayLyrics](https://taylyrics.streamlit.app/)
+::: {.callout-tip appearance="simple"}
+## Play the game!
+::: lead
+**[Go to tayLyrics](https://taylyrics.streamlit.app/)**
+:::
+:::
 
 ### Details
 
 Lyrics range from *debut* to *THE TORTURED POETS DEPARTMENT*.
 
-*Hits Different* and *You're Losing Me* are included; *All of the Girls You Loved Before* is not (yet).
+*Hits Different*, *You're Losing Me*, and *All of the Girls You Loved Before* <u>are</u> included.
 
 ### The Dataset and Statistics
 
-There are 11,675 lines in the **tayLyrics** dataset, with 8,085 of them being *unique* lines. 
+There are 11,725 lines in the **tayLyrics** dataset, with 8,125 of them being *unique* lines. 
 
-* You have around a 0.0086% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+* You have around a 0.0085% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
 * Notable single lines that show up in high frequencies: 
 
 | Lyric | # | Song | % Chance |

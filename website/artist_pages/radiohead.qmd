@@ -3,11 +3,19 @@ title: "Radiohead"
 date: "2024-08-07"
 ---
 
-> ### [Go to radioheadGuessr](https://radioheadguessr.streamlit.app/)
+::: {.callout-tip appearance="simple"}
+## Play the game!
+::: lead
+**[Go to radioheadGuessr](https://radioheadguessr.streamlit.app/)**
+:::
+:::
 
 ### Details
 
-> I am taking requests for cooler/punnier names for Radiohead's game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr)!
+::: {.callout-note appearance="simple"}
+## Announcement
+I am taking requests for cooler/punnier names for Radiohead's game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr)!
+:::
 
 Lyrics range from *Pablo Honey* to A *Moon Shaped Pool*.
 

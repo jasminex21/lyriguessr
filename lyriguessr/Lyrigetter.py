@@ -24,6 +24,8 @@ class Lyrigetter:
             self.album_filenames = [f"{'_'.join(album_name.split(' '))}.json" for album_name in self.album_names]
     
     def store_album_data(self):
+        """Using search_album from lyricsgenius to obtain songs from each 
+           provided album"""
         
         for album_name, album_filename in zip(self.album_names, self.album_filenames):
             if os.path.exists(album_filename):
@@ -33,6 +35,7 @@ class Lyrigetter:
             album.save_lyrics(filename=album_filename)
     
     def _clean_lyrics(self, df):
+        """Preliminary cleaning of each lyrics string"""
 
         # removes everything up to the first square bracket (indicating first section)
         df["lyrics_full"] = df["lyrics_full"].replace(r"^.*?\[", "[", regex=True)
@@ -44,6 +47,9 @@ class Lyrigetter:
         return df
     
     def _split_by_section(self, row): 
+        """Splits the chunk containing all lyrics into smaller chunks determined
+           by section"""
+
         lyrics = row["lyrics_full"]
         sections = []
         pattern = re.compile(r"\[.*?\]")
@@ -66,8 +72,35 @@ class Lyrigetter:
 
         return sections
     
+    def _expand_sections(self, all_sections):
+        """Internal method that splits chunks of section lyrics into individual 
+           lines. Also does some cleaning, as scraping the lyrics results in 
+           occasional adverts."""
+
+        lyrics_by_section = pd.DataFrame([x for xs in all_sections for x in xs])
+
+        # split each whole section into lines split by \n
+        full_lyrics = lyrics_by_section.assign(lyric=lyrics_by_section["section_lyrics"].str.split("\n")).explode("lyric").drop(columns=["section_lyrics"])
+        # remove empty rows
+        full_lyrics = full_lyrics[full_lyrics['lyric'].str.strip() != '']
+        # remove square brackets from section indicator
+        full_lyrics['element'] = full_lyrics['element'].str.strip('[]')
+
+        # ads/recommendations are occasionally scraped; remove them
+        full_lyrics = full_lyrics[full_lyrics['lyric'] != "You might also like"]
+        full_lyrics["lyric"] = full_lyrics["lyric"].replace(r'^You might also like(?=\S)', "", regex=True)
+        full_lyrics["lyric"] = full_lyrics["lyric"].replace(r"(?<=\S)You might also like$", "", regex=True)
+
+        # add line number
+        full_lyrics = full_lyrics.reset_index()
+        full_lyrics['line'] = full_lyrics.groupby('track_name').cumcount() + 1
+
+        full_lyrics = full_lyrics[["track_name", "element", "album_name", "lyric", "line"]]
+
+        return full_lyrics
+    
     def save_songs(self):
-        # TODO: this is very messy, clean it up!! Works tho.
+        """Stores all album songs into a CSV file"""
 
         all_songs = []
 
@@ -89,23 +122,28 @@ class Lyrigetter:
             song_sections = self._split_by_section(row)
             all_sections.append(song_sections)
         
-        lyrics_by_section = pd.DataFrame([x for xs in all_sections for x in xs])
-        full_lyrics = lyrics_by_section.assign(lyric=lyrics_by_section["section_lyrics"].str.split("\n")).explode("lyric").drop(columns=["section_lyrics"])
-        full_lyrics = full_lyrics[full_lyrics['lyric'].str.strip() != '']
-        full_lyrics['element'] = full_lyrics['element'].str.strip('[]')
+        full_lyrics = self._expand_sections(all_sections)
 
-        full_lyrics = full_lyrics[full_lyrics['lyric'] != "You might also like"]
-        full_lyrics["lyric"] = full_lyrics["lyric"].replace(r'^You might also like(?=\S)', "", regex=True)
-        full_lyrics["lyric"] = full_lyrics["lyric"].replace(r"(?<=\S)You might also like$", "", regex=True)
-
-        full_lyrics = full_lyrics.reset_index()
-        full_lyrics['line'] = full_lyrics.groupby('track_name').cumcount() + 1
-
-        full_lyrics = full_lyrics[["track_name", "element", "album_name", "lyric", "line"]]
         full_lyrics.to_csv(f"{self.artist_name.lower()}_lyrics.csv", index=False)
         print(f"Lyrics written to {self.artist_name.lower()}_lyrics.csv.")
     
-    def add_song(self, song_name): 
+    def add_song(self, song_name, album_name): 
+        """Adds a song to the original artist dataset. Useful if adding non-album singles."""
 
         song = self.genius.search_song(song_name, self.artist_name)
-        # conitnue after splitting and cleaning up save_songs
+        lyrics = song.lyrics
+        song_dict = {
+            "track_name": [song_name],
+            "album_name": [album_name],
+            "lyrics_full": [lyrics]
+        }
+
+        song_df = self._clean_lyrics(pd.DataFrame(song_dict))
+        song_sections = [self._split_by_section(song_df.iloc[0])]
+
+        full_lyrics = self._expand_sections(song_sections)
+
+        current_lyrics = pd.read_csv(f"{self.artist_name.lower()}_lyrics.csv")
+        all_lyrics = pd.concat([current_lyrics, full_lyrics])
+        all_lyrics.to_csv(f"{self.artist_name.lower()}_lyrics.csv", index=False)
+        print(f"Song {song_name} added to {self.artist_name.lower()}_lyrics.csv")

@@ -3,11 +3,19 @@ title: "Waterparks"
 date: "2024-08-11"
 ---
 
-> ### Go to [waterparksGuessr](https://waterparksguessr.streamlit.app/)
+::: {.callout-note appearance="simple"}
+## Play the game!
+::: lead
+**Go to [waterparksGuessr](https://waterparksguessr.streamlit.app/)**
+:::
+:::
 
 ### Details
 
-> I am taking requests for cooler/punnier names for Waterparks' game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr)!
+::: {.callout-note appearance="simple"}
+## Announcement
+I am taking requests for cooler/punnier names for Waterparks' game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr)!
+:::
 
 Lyrics range from *Airplane Conversations* to *INTELLECTUAL PROPERTY*.
 

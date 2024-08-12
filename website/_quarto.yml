@@ -6,9 +6,6 @@ website:
   title: "lyriguessr"
   description: "Lyric-guessing games for your favorite artists"
 
-  repo-url: https://github.com/jasminex21/lyriguessr
-  repo-actions: [issue]
-
   open-graph: true
   page-navigation: true
 
@@ -50,5 +47,6 @@ format:
     css: styles.css 
     toc: true
 
-
+editor:
+  render-on-save: true
 
