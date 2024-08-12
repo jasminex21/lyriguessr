@@ -4,7 +4,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi! I’m Jasmine, the developer of lyriguessr. I study Statistics and Data Science at UT Austin, and love working on fun projects such as lyriguessr in my free time.\n\nBusiness inquiries: contact me at lyriguessr@gmail.com!\n\nThe idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate Hannah during my freshman year. We’re both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!\nI realized that tayLyrics could be generalized to fans of any artist - why not share the fun with everyone, right? So, here’s my little contribution to the music lovers of the world. Enjoy!\n\nMy favorite artists are Waterparks, Bad Omens, and Taylor Swift."
+    "text": "Hi! I’m Jasmine, the developer of lyriguessr. I study Statistics and Data Science at UT Austin, and love working on fun projects such as lyriguessr in my free time.\n\nBusiness inquiries: contact me at lyriguessr@gmail.com!\n\nThe idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate Hannah during my freshman year. We’re both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!\nI realized that tayLyrics could be generalized to fans of any artist - why not share the fun with everyone, right? So, here’s my little contribution to the music lovers of the world. Enjoy!\n\nMy favorite artists are Waterparks, Bad Omens, and Taylor Swift.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "coming_soon.html",
+    "href": "coming_soon.html",
+    "title": "Coming Soon…",
+    "section": "",
+    "text": "Artists\n\nInteract with me at @lyriguessr on Twitter to request new artists!\n\n\nOlivia Rodrigo",
+    "crumbs": [
+      "Coming Soon"
+    ]
+  },
+  {
+    "objectID": "artist_pages/waterparks.html",
+    "href": "artist_pages/waterparks.html",
+    "title": "Waterparks",
+    "section": "",
+    "text": "Go to waterparksGuessr\n\n\nDetails\n\nI am taking requests for cooler/punnier names for Waterparks’ game! Tweet me your ideas on Twitter @lyriguessr!\n\nLyrics range from Airplane Conversations to INTELLECTUAL PROPERTY.\nDemo album 1 is not included, and neither are Candy and What We Do For Fun.\n\n\nThe Dataset and Statistics\nThere are 4,449 lines in the waterparksGuessr dataset, with 2,577 of them being unique lines.\n\nYou have around a 0.022% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\nNotable single lines that show up in high frequencies:\n\n\n\n\n\n\n\n\n\n\nLyric\n#\nSong\n% Chance\n\n\n\n\n“Mad all the time”\n14\nMad All The Time\n0.31\n\n\n“So let me go, let me go down”\n14\nPeach (Lobotomy)\n0.31\n\n\n“Last night I had the strangest dream of all”\n13\nGreatest Hits OR Ice Bath\n0.29\n\n\n“Whoa, you’ll never know”\n12\nI Was Hiding Under Your Porch Because I Love You\n0.27\n\n\n“Do you feel it too?”\n12\nTelephone\n0.27\n\n\n\n\n\nSimilar Artists\nNothing here yet…"
+  },
+  {
+    "objectID": "artist_pages/radiohead.html",
+    "href": "artist_pages/radiohead.html",
+    "title": "Radiohead",
+    "section": "",
+    "text": "Go to radioheadGuessr\n\n\nDetails\n\nI am taking requests for cooler/punnier names for Radiohead’s game! Tweet me your ideas on Twitter @lyriguessr!\n\nLyrics range from Pablo Honey to A Moon Shaped Pool.\nAs of now, In Rainbows (Disk 2) is not included.\n\n\nThe Dataset and Statistics\nThere are 2,588 lines in the radioheadGuessr dataset, with 1,708 of them being unique lines.\n\nYou have around a 0.039% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\nNotable single lines that show up in high frequencies:\n\n\n\n\n\n\n\n\n\n\nLyric\n#\nSong\n% Chance\n\n\n\n\n“The raindrops, the raindrops”\n24\nSit Down. Stand Up.\n0.93\n\n\n“Into your arms (Don’t hurt me)”\n21\nGive Up the Ghost\n0.81\n\n\n“Paying attention”\n16\n2 + 2 = 5\n0.62\n\n\n“I will eat you alive”\n15\nWhere I End and You Begin\n0.58\n\n\n“efil ym fo flaH”\n15\nDaydreaming\n0.58\n\n\n\n\n\nSimilar Artists\nNothing here yet…"
   },
   {
     "objectID": "artist_pages/taylor_swift.html",
@@ -14,24 +41,13 @@
     "text": "Go to tayLyrics\n\n\nDetails\nLyrics range from debut to THE TORTURED POETS DEPARTMENT.\nHits Different and You’re Losing Me are included; All of the Girls You Loved Before is not (yet).\n\n\nThe Dataset and Statistics\nThere are 11,675 lines in the tayLyrics dataset, with 8,085 of them being unique lines.\n\nYou have around a 0.0086% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\nNotable single lines that show up in high frequencies:\n\n\n\n\n\n\n\n\n\n\nLyric\n#\nSong\n% Chance\n\n\n\n\n“Today was a fairytale”\n16\nToday Was A Fairytale\n0.14\n\n\n“(Red, red, red)”\n14\nRed\n0.12\n\n\n“Look what you just made me do”\n13\nLook What You Made Me Do\n0.11\n\n\n“Ooh-ah”\n12\nSoon You’ll Get Better\n0.10\n\n\n“What died didn’t stay dead”\n12\nmarjorie\n0.10\n\n\n\n\n\nSimilar Artists\nNothing here yet…"
   },
   {
-    "objectID": "artist_pages/radiohead.html",
-    "href": "artist_pages/radiohead.html",
-    "title": "Radiohead",
-    "section": "",
-    "text": "Go to radioheadGuessr\n\n\nDetails\nI am taking requests for cooler/punnier names for Radiohead’s game! Tweet me on @lyriguessr!\nLyrics range from Pablo Honey to A Moon Shaped Pool.\nAs of now, In Rainbows (Disk 2) is not included.\n\n\nThe Dataset and Statistics\nThere are 2,588 lines in the radioheadGuessr dataset, with 1,708 of them being unique lines.\n\nYou have around a 0.039% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\nNotable single lines that show up in high frequencies:\n\n\n\n\n\n\n\n\n\n\nLyric\n#\nSong\n% Chance\n\n\n\n\n“The raindrops, the raindrops”\n24\nSit Down. Stand Up.\n0.93\n\n\n“Into your arms (Don’t hurt me)”\n21\nGive Up the Ghost\n0.81\n\n\n“Paying attention”\n16\n2 + 2 = 5\n0.62\n\n\n“I will eat you alive”\n15\nWhere I End and You Begin\n0.58\n\n\n“efil ym fo flaH”\n15\nDaydreaming\n0.58\n\n\n\n\n\nSimilar Artists\nNothing here yet…"
-  },
-  {
-    "objectID": "artist_pages/waterparks.html",
-    "href": "artist_pages/waterparks.html",
-    "title": "Waterparks",
-    "section": "",
-    "text": "Go to waterparksGuessr\n\n\nDetails\nI am taking requests for cooler/punnier names for Waterparks’ game! Tweet me on @lyriguessr!\nLyrics range from Airplane Conversations to INTELLECTUAL PROPERTY.\nDemo album 1 is not included, and neither are Candy and What We Do For Fun.\n\n\nThe Dataset and Statistics\nThere are 4,449 lines in the waterparksGuessr dataset, with 2,577 of them being unique lines.\n\nYou have around a 0.022% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\nNotable single lines that show up in high frequencies:\n\n\n\n\n\n\n\n\n\n\nLyric\n#\nSong\n% Chance\n\n\n\n\n“Mad all the time”\n14\nMad All The Time\n0.31\n\n\n“So let me go, let me go down”\n14\nPeach (Lobotomy)\n0.31\n\n\n“Last night I had the strangest dream of all”\n13\nGreatest Hits OR Ice Bath\n0.29\n\n\n“Whoa, you’ll never know”\n12\nI Was Hiding Under Your Porch Because I Love You\n0.27\n\n\n“Do you feel it too?”\n12\nTelephone\n0.27\n\n\n\n\n\nSimilar Artists\nNothing here yet…"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to lyriguessr!",
     "section": "",
-    "text": "⚔️ The Game\nThe gist of lyriguessr: earn as many points as possible by guessing the song that the generated lyric(s) comes from. The higher the difficulty level, the more points you get.\n\n\nEasy correct guess: +1\nMedium correct guess: +3\nHard correct guess: +5\n\n\nIf you don’t have a guess, you can ask for a hint - there are three hints available for each generated lyric. Or, you could also choose to give up and move on to the next round. But keep in mind that getting hints and giving up will cost you points!\n\n\nHint (each): -1\nGiving up: -2\n\n\n\n\n🎵 Artists\n\nInteract with me at @lyriguessr on Twitter to request new artists!\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\nTaylor Swift\n\n\nAug 1, 2024\n\n\n\n\nRadiohead\n\n\nAug 7, 2024\n\n\n\n\nWaterparks\n\n\nAug 11, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\n🔜 Coming Soon…\n\nOlivia Rodrigo"
+    "text": "⚔️ The Game\nThe gist of lyriguessr: earn as many points as possible by guessing the song that the generated lyric(s) comes from. The higher the difficulty level, the more points you get.\n\n\nEasy correct guess: +1\nMedium correct guess: +3\nHard correct guess: +5\n\n\nIf you don’t have a guess, you can ask for a hint - there are three hints available for each generated lyric. Or, you could also choose to give up and move on to the next round. But keep in mind that getting hints and giving up will cost you points!\n\n\nHint (each): -1\nGiving up: -2\n\n\n\n\n🎵 Artists\n\nInteract with me at @lyriguessr on Twitter to request new artists!\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date Added - Oldest\n        \n         \n          Date Added - Newest\n        \n         \n          Artist\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nArtist\n\n\nDate Added\n\n\n\n\n\n\nTaylor Swift\n\n\nAug 1, 2024\n\n\n\n\nRadiohead\n\n\nAug 7, 2024\n\n\n\n\nWaterparks\n\n\nAug 11, 2024\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home"
+    ]
   }
 ]

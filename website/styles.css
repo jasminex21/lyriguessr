@@ -6,6 +6,6 @@ h1 {
     font-size: xx-large;
 }
 
-body {
+body, p {
     font-weight: bolder;
 }

@@ -4,32 +4,49 @@ project:
 
 website:
   title: "lyriguessr"
+  description: "Lyric-guessing games for your favorite artists"
+
+  repo-url: https://github.com/jasminex21/lyriguessr
+  repo-actions: [issue]
+
   open-graph: true
+  page-navigation: true
+
   announcement: 
     icon: info-circle
     dismissable: true
     content: "Interact with me at @lyriguessr on Twitter to request new artists!"
     type: info
     position: below-navbar
-  page-footer: "Copyright 2024, Jasmine Xu"
-  navbar:
-    search: true
+
+  page-footer: 
+    left: "Copyright 2024, Jasmine Xu"
+    background: "#DDDDDD"
+
+  sidebar:
+    background: "#DDDDDD"
+    pinned: true
+    align: center
     tools:
-      - icon: github
-        href: https://github.com/jasminex21/lyriguessr
-      - icon: twitter 
-        href: https://x.com/lyriguessr
-    left:
-      - text: Home
-        href: index.qmd
-      - text: About
-        href: about.qmd
+    - icon: github
+      href: https://github.com/jasminex21/lyriguessr
+    - icon: twitter 
+      href: https://x.com/lyriguessr
+    style: docked
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: coming_soon.qmd
+        text: Coming Soon
+      - href: about.qmd
+        text: About
 
 format:
   html:
     theme:
-      light: [flatly, light.scss]
-      dark: [darkly, dark.scss]
+      light: [cosmo, light.scss]
+      dark: [cosmo, dark2.scss]
     css: styles.css 
     toc: true
 

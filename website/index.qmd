@@ -1,11 +1,15 @@
 ---
 title: "Welcome to lyriguessr!"
+subtitle: "Lyric-guessing games for your favorite artists"
 listing:
   - id: artist_games
     contents: artist_pages
     sort: date
     type: table
     fields: [title, date]
+    field-display-names: 
+      title: Artist
+      date: Date Added
 ---
 
 ### ⚔️ The Game
@@ -27,7 +31,3 @@ If you don't have a guess, you can ask for a hint - there are three hints availa
 
 ::: {#artist_games}
 :::
-
-### 🔜 Coming Soon...
-
-* Olivia Rodrigo
