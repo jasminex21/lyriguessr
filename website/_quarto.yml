@@ -6,7 +6,9 @@ website:
   title: "lyriguessr"
   description: "Lyric-guessing games for your favorite artists"
 
-  open-graph: true
+  open-graph: 
+    title: "lyriguessr"
+    description: "Lyric-guessing games for your favorite artists"
   page-navigation: true
 
   announcement: 
@@ -38,6 +40,9 @@ website:
         text: Coming Soon
       - href: about.qmd
         text: About
+      - text: "---"
+      - section: Artists
+        contents: artist_pages/*
 
 format:
   html:

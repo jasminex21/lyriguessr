@@ -4,6 +4,9 @@ title: "Coming Soon..."
 
 ### Artists
 
-> Interact with me at [@lyriguessr](https://x.com/lyriguessr) on Twitter to request new artists!
+::: {.callout-tip appearance="simple"}
+## Tip
+Interact with me at [@lyriguessr](https://x.com/lyriguessr) on Twitter to request new artists!
+:::
 
 * Olivia Rodrigo
