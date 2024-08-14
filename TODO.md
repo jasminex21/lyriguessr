@@ -10,7 +10,7 @@
 
 ### Website
 * Create a logo - draw something quickly, something simple that I can draw like a music note with a face
+* Perhaps some theme colors? Colors that people can remember and associate with the game. Play around with CSS
 
 ### lyriguessr
-* Clean up Lyrigetter - it's kinda a mess since I took most of it from my old jupyter notebook. 
 * Might want to consolidate all the streamlit functions at the top of each app file. Those will not change (pay attention to paths tho).
