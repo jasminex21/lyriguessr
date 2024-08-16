@@ -27,15 +27,26 @@ Demo album 1 is *not* included, and neither are *Candy* and *What We Do For Fun.
 There are 4,449 lines in the **waterparksGuessr** dataset, with 2,577 of them being *unique* lines. 
 
 * You have around a 0.022% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
-* Notable single lines that show up in high frequencies: 
+```{r echo=FALSE}
+#| label: waterparks
+library(gt)
 
-| Lyric | # | Song | % Chance |
-| --------------------------------- | ------- | ----------------------------- | ----------- |
-| "Mad all the time"  | 14    | Mad All The Time | 0.31 |
-| "So let me go, let me go down" | 14     | Peach (Lobotomy) | 0.31 |
-| "Last night I had the strangest dream of all"   | 13    | Greatest Hits OR Ice Bath | 0.29 |
-| "Whoa, you’ll never know"   | 12    | I Was Hiding Under Your Porch Because I Love You | 0.27 |
-| "Do you feel it too?"   | 12    | Telephone | 0.27 |
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/waterparks/waterparks_counts.csv")
+
+colnames(data) <- c("Lyric", "#", "Album", "Pct.")
+
+gt(data) %>% 
+    tab_header(title=md("Top 5 Most Common Lyrics"), 
+               subtitle="And each lyric's chance of showing up in Hard mode") %>%
+    opt_table_font(stack = "rounded-sans") %>%
+    tab_options(table.background.color = "#8D9F8E",
+                table.font.weight = "bolder",
+                table.font.color = "black",
+                table.font.color.light = "black",
+                table.font.size = "90%") %>%
+    tab_style(style = cell_text(weight = "bolder"),
+              locations=list(cells_title(), cells_column_labels()))
+```
 
 ### Similar Artists
 

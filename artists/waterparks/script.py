@@ -15,3 +15,4 @@ if __name__ == "__main__":
     waterparks = Lyrigetter(API_KEY, album_names=waterparks_albums, artist_name="Waterparks")
     waterparks.store_album_data()
     waterparks.save_songs()
+    waterparks.save_counts()

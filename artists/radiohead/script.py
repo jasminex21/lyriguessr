@@ -14,5 +14,6 @@ if __name__ == "__main__":
                         "A Moon Shaped Pool"]
 
     radiohead = Lyrigetter(API_KEY, album_names=radiohead_albums, artist_name="Radiohead")
-    radiohead.store_album_data()
-    radiohead.save_songs()
+    # radiohead.store_album_data()
+    # radiohead.save_songs()
+    radiohead.save_counts()

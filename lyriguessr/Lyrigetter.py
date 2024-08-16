@@ -147,3 +147,19 @@ class Lyrigetter:
         all_lyrics = pd.concat([current_lyrics, full_lyrics])
         all_lyrics.to_csv(f"{self.artist_name.lower()}_lyrics.csv", index=False)
         print(f"Song {song_name} added to {self.artist_name.lower()}_lyrics.csv")
+
+    def save_counts(self):
+        """Creates CSV file containing counts of the top 5 most common lyrics
+           in the artist dataset"""
+        all_lyrics = pd.read_csv(f"{self.artist_name.lower()}_lyrics.csv")
+
+        counts = all_lyrics["lyric"].value_counts()
+        counts = pd.DataFrame(counts).head(5)
+
+        counts["album"] = [all_lyrics[all_lyrics["lyric"] == lyr]["album_name"].values[0] 
+                           for lyr in list(counts.index.values)]
+        row_count = all_lyrics.shape[0]
+        counts["%"] = [f"{round(num * 100 / row_count, 2)}%" for num in counts["count"].values]
+        
+        counts.to_csv(f"{self.artist_name.lower()}_counts.csv")
+        print(f"Counts added to {self.artist_name.lower()}_counts.csv")

@@ -1,0 +1,10 @@
+```{r}
+#| label: waterparks
+library(gt)
+
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/waterparks/waterparks_counts.csv")
+
+gt(data) %>% 
+    tab_header(title="Top 5 Most Common Lyrics", 
+               subtitle="And each lyric's chance of showing up in Hard mode")
+```

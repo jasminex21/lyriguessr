@@ -8,5 +8,15 @@ h1 {
 
 body, p {
     font-weight: 700;
-    font-size: 20px;
+    font-size: 18px;
+}
+
+.nav-footer-left p {
+    font-size: 15px;
+}
+
+.nav-footer {
+    align-items: center;
+    min-height: fit-content;
+    padding: 0;
 }

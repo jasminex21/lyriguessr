@@ -9,6 +9,7 @@
 * Olivia Rodrigo
 
 ### Website
+* Use source code for the tables and don't hard code them bc they are very ugly - use gt or something like that
 * Create a logo - draw something quickly, something simple that I can draw like a music note with a face
 * Perhaps some theme colors? Colors that people can remember and associate with the game. Play around with CSS
 

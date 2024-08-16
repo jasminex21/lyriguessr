@@ -14,7 +14,7 @@ listing:
 
 ### ⚔️ The Game
 
-The gist of lyriguessr: earn as many points as possible by guessing the song that the generated lyric(s) comes from. The higher the difficulty level, the more points you get.
+Earn as many points as possible by guessing the song that the generated lyric(s) comes from. The higher the difficulty level, the more points you get.
 
 > * Easy correct guess: +1
   * Medium correct guess: +3

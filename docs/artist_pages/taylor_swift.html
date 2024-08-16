@@ -243,56 +243,517 @@ Play the game!
 <p>There are 11,725 lines in the <strong>tayLyrics</strong> dataset, with 8,125 of them being <em>unique</em> lines.</p>
 <ul>
 <li>You have around a 0.0085% chance of getting each line (not factoring in repeated lyrics) in Hard mode!</li>
-<li>Notable single lines that show up in high frequencies:</li>
 </ul>
-<table class="caption-top table">
+<div class="cell">
+<div class="cell-output-display">
+<div id="nryqstfxhz" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#nryqstfxhz table {
+  font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#nryqstfxhz thead, #nryqstfxhz tbody, #nryqstfxhz tfoot, #nryqstfxhz tr, #nryqstfxhz td, #nryqstfxhz th {
+  border-style: none;
+}
+
+#nryqstfxhz p {
+  margin: 0;
+  padding: 0;
+}
+
+#nryqstfxhz .gt_table {
+  display: table;
+  border-collapse: collapse;
+  line-height: normal;
+  margin-left: auto;
+  margin-right: auto;
+  color: #000000;
+  font-size: 90%;
+  font-weight: bolder;
+  font-style: normal;
+  background-color: #8D9F8E;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#nryqstfxhz .gt_caption {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#nryqstfxhz .gt_title {
+  color: #000000;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-color: #8D9F8E;
+  border-bottom-width: 0;
+}
+
+#nryqstfxhz .gt_subtitle {
+  color: #000000;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-color: #8D9F8E;
+  border-top-width: 0;
+}
+
+#nryqstfxhz .gt_heading {
+  background-color: #8D9F8E;
+  text-align: center;
+  border-bottom-color: #8D9F8E;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#nryqstfxhz .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#nryqstfxhz .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#nryqstfxhz .gt_col_heading {
+  color: #000000;
+  background-color: #8D9F8E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#nryqstfxhz .gt_column_spanner_outer {
+  color: #000000;
+  background-color: #8D9F8E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#nryqstfxhz .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#nryqstfxhz .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#nryqstfxhz .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#nryqstfxhz .gt_spanner_row {
+  border-bottom-style: hidden;
+}
+
+#nryqstfxhz .gt_group_heading {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #000000;
+  background-color: #8D9F8E;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  text-align: left;
+}
+
+#nryqstfxhz .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #000000;
+  background-color: #8D9F8E;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#nryqstfxhz .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#nryqstfxhz .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#nryqstfxhz .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#nryqstfxhz .gt_stub {
+  color: #000000;
+  background-color: #8D9F8E;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#nryqstfxhz .gt_stub_row_group {
+  color: #000000;
+  background-color: #8D9F8E;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+  vertical-align: top;
+}
+
+#nryqstfxhz .gt_row_group_first td {
+  border-top-width: 2px;
+}
+
+#nryqstfxhz .gt_row_group_first th {
+  border-top-width: 2px;
+}
+
+#nryqstfxhz .gt_summary_row {
+  color: #000000;
+  background-color: #8D9F8E;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#nryqstfxhz .gt_first_summary_row {
+  border-top-style: solid;
+  border-top-color: #D3D3D3;
+}
+
+#nryqstfxhz .gt_first_summary_row.thick {
+  border-top-width: 2px;
+}
+
+#nryqstfxhz .gt_last_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#nryqstfxhz .gt_grand_summary_row {
+  color: #000000;
+  background-color: #8D9F8E;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#nryqstfxhz .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#nryqstfxhz .gt_last_grand_summary_row_top {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: double;
+  border-bottom-width: 6px;
+  border-bottom-color: #D3D3D3;
+}
+
+#nryqstfxhz .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#nryqstfxhz .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#nryqstfxhz .gt_footnotes {
+  color: #000000;
+  background-color: #8D9F8E;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#nryqstfxhz .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#nryqstfxhz .gt_sourcenotes {
+  color: #000000;
+  background-color: #8D9F8E;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#nryqstfxhz .gt_sourcenote {
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#nryqstfxhz .gt_left {
+  text-align: left;
+}
+
+#nryqstfxhz .gt_center {
+  text-align: center;
+}
+
+#nryqstfxhz .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#nryqstfxhz .gt_font_normal {
+  font-weight: normal;
+}
+
+#nryqstfxhz .gt_font_bold {
+  font-weight: bold;
+}
+
+#nryqstfxhz .gt_font_italic {
+  font-style: italic;
+}
+
+#nryqstfxhz .gt_super {
+  font-size: 65%;
+}
+
+#nryqstfxhz .gt_footnote_marks {
+  font-size: 75%;
+  vertical-align: 0.4em;
+  position: initial;
+}
+
+#nryqstfxhz .gt_asterisk {
+  font-size: 100%;
+  vertical-align: 0;
+}
+
+#nryqstfxhz .gt_indent_1 {
+  text-indent: 5px;
+}
+
+#nryqstfxhz .gt_indent_2 {
+  text-indent: 10px;
+}
+
+#nryqstfxhz .gt_indent_3 {
+  text-indent: 15px;
+}
+
+#nryqstfxhz .gt_indent_4 {
+  text-indent: 20px;
+}
+
+#nryqstfxhz .gt_indent_5 {
+  text-indent: 25px;
+}
+
+#nryqstfxhz .katex-display {
+  display: inline-flex !important;
+  margin-bottom: 0.75em !important;
+}
+
+#nryqstfxhz div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+  height: 0px !important;
+}
+</style>
+
+<table class="gt_table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
 <colgroup>
-<col style="width: 41%">
-<col style="width: 8%">
-<col style="width: 36%">
-<col style="width: 13%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
 </colgroup>
 <thead>
-<tr class="header">
-<th>Lyric</th>
-<th>#</th>
-<th>Song</th>
-<th>% Chance</th>
+<tr class="header gt_heading">
+<th colspan="4" class="gt_heading gt_title gt_font_normal" style="font-weight: bolder"><p>Top 5 Most Common Lyrics</p></th>
+</tr>
+<tr class="odd gt_heading">
+<th colspan="4" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style="font-weight: bolder">And each lyric's chance of showing up in Hard mode</th>
+</tr>
+<tr class="header gt_col_headings">
+<th id="Lyric" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-weight: bolder" scope="col">Lyric</th>
+<th id="#" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="font-weight: bolder" scope="col">#</th>
+<th id="Album" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-weight: bolder" scope="col">Album</th>
+<th id="Pct." class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="font-weight: bolder" scope="col">Pct.</th>
 </tr>
 </thead>
-<tbody>
+<tbody class="gt_table_body">
 <tr class="odd">
-<td>“Today was a fairytale”</td>
-<td>16</td>
-<td>Today Was A Fairytale</td>
-<td>0.14</td>
+<td class="gt_row gt_left" headers="Lyric">Today was a fairytale</td>
+<td class="gt_row gt_right" headers="#">16</td>
+<td class="gt_row gt_left" headers="Album">Fearless (Taylor's Version)</td>
+<td class="gt_row gt_right" headers="Pct.">0.14%</td>
 </tr>
 <tr class="even">
-<td>“(Red, red, red)”</td>
-<td>14</td>
-<td>Red</td>
-<td>0.12</td>
+<td class="gt_row gt_left" headers="Lyric">(Red, red, red)</td>
+<td class="gt_row gt_right" headers="#">14</td>
+<td class="gt_row gt_left" headers="Album">Red (Taylor's Version)</td>
+<td class="gt_row gt_right" headers="Pct.">0.12%</td>
 </tr>
 <tr class="odd">
-<td>“Look what you just made me do”</td>
-<td>13</td>
-<td>Look What You Made Me Do</td>
-<td>0.11</td>
+<td class="gt_row gt_left" headers="Lyric">Look what you just made me do</td>
+<td class="gt_row gt_right" headers="#">13</td>
+<td class="gt_row gt_left" headers="Album">reputation</td>
+<td class="gt_row gt_right" headers="Pct.">0.11%</td>
 </tr>
 <tr class="even">
-<td>“Ooh-ah”</td>
-<td>12</td>
-<td>Soon You’ll Get Better</td>
-<td>0.10</td>
+<td class="gt_row gt_left" headers="Lyric">I'd never walk Cornelia Street again</td>
+<td class="gt_row gt_right" headers="#">12</td>
+<td class="gt_row gt_left" headers="Album">Lover</td>
+<td class="gt_row gt_right" headers="Pct.">0.1%</td>
 </tr>
 <tr class="odd">
-<td>“What died didn’t stay dead”</td>
-<td>12</td>
-<td>marjorie</td>
-<td>0.10</td>
+<td class="gt_row gt_left" headers="Lyric">Ooh-ah</td>
+<td class="gt_row gt_right" headers="#">12</td>
+<td class="gt_row gt_left" headers="Album">Lover</td>
+<td class="gt_row gt_right" headers="Pct.">0.1%</td>
 </tr>
 </tbody>
 </table>
+
+</div>
+</div>
+</div>
 </section>
 <section id="similar-artists" class="level3">
 <h3 class="anchored" data-anchor-id="similar-artists">Similar Artists</h3>
