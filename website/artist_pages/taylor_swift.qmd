@@ -39,11 +39,19 @@ gt(data) %>%
                 table.font.weight = "bolder",
                 table.font.color = "black",
                 table.font.color.light = "black",
-                table.font.size = "90%") %>%
+                table.font.size = "90%",
+                data_row.padding = 10,
+                data_row.padding.horizontal = 10) %>%
     tab_style(style = cell_text(weight = "bolder"),
               locations=list(cells_title(), cells_column_labels())) %>%
     tab_style(style = cell_text(style = "italic"),
-              locations = cells_body(columns = Lyric))
+              locations = cells_body(columns = Lyric)) %>%
+    tab_style(style = cell_text(align = "center"),
+              locations = cells_column_labels()) %>%
+    cols_width(Lyric ~ px(800),
+               `#` ~ px(50),
+               Song ~ px(500),
+               `Pct.` ~ px(100))
 ```
 
 ### Similar Artists
