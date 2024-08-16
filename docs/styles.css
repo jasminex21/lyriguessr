@@ -11,7 +11,7 @@ body, p {
     font-size: 18px;
 }
 
-.nav-footer-left p {
+.nav-footer-left p, .nav-footer-right p {
     font-size: 15px;
 }
 

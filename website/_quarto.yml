@@ -20,6 +20,7 @@ website:
 
   page-footer: 
     left: "Copyright 2024, Jasmine Xu"
+    right: "Built with 🤍 and [Quarto](https://quarto.org/)"
     background: "#8D9F8E"
 
   sidebar:
@@ -49,7 +50,7 @@ format:
   html:
     theme: 
       light: [cosmo, theme.scss]
-      dark: [cosmo, dark2.scss]
+      dark: [cosmo, dark.scss]
     css: styles.css 
     toc: true
 

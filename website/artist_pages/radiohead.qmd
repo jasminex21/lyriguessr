@@ -15,7 +15,7 @@ date-modified: "2024-08-07"
 
 ::: {.callout-note appearance="simple"}
 ## Announcement
-I am taking requests for cooler/punnier names for Radiohead's game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr)!
+I am taking requests for cooler/punnier names for Radiohead's game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
 :::
 
 Lyrics range from *Pablo Honey* to A *Moon Shaped Pool*.
@@ -38,7 +38,7 @@ colnames(data) <- c("Lyric", "#", "Album", "Pct.")
 
 gt(data) %>% 
     tab_header(title=md("Top 5 Most Common Lyrics"), 
-               subtitle="And each lyric's chance of showing up in Hard mode") %>%
+               subtitle="And each lyric's number of occurrences, and chance of showing up in Hard mode") %>%
     opt_table_font(stack = "rounded-sans") %>%
     tab_options(table.background.color = "#8D9F8E",
                 table.font.weight = "bolder",
