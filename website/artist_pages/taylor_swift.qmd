@@ -29,7 +29,7 @@ library(gt)
 
 data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/taylor_swift/taylor_swift_counts.csv")
 
-colnames(data) <- c("Lyric", "#", "Album", "Pct.")
+colnames(data) <- c("Lyric", "#", "Song", "Pct.")
 
 gt(data) %>% 
     tab_header(title=md("Top 5 Most Common Lyrics"), 
@@ -41,7 +41,9 @@ gt(data) %>%
                 table.font.color.light = "black",
                 table.font.size = "90%") %>%
     tab_style(style = cell_text(weight = "bolder"),
-              locations=list(cells_title(), cells_column_labels()))
+              locations=list(cells_title(), cells_column_labels())) %>%
+    tab_style(style = cell_text(style = "italic"),
+              locations = cells_body(columns = Lyric))
 ```
 
 ### Similar Artists

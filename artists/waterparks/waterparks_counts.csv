@@ -1,6 +1,6 @@
-lyric,count,album,%
-Mad all the time,14,Cluster,0.31%
-"So let me go, let me go down",14,Entertainment,0.31%
-Last night I had the strangest dream of all,13,Greatest Hits,0.29%
-"Whoa, you’ll never know",12,Airplane Conversations,0.27%
-Do you feel it too?,12,FANDOM,0.27%
+lyric,count,song,%
+"""Mad all the time""",14,Mad All the Time,0.31%
+"""So let me go, let me go down""",14,Peach (Lobotomy),0.31%
+"""Last night I had the strangest dream of all""",13,Greatest Hits,0.29%
+"""Whoa, you’ll never know""",12,I Was Hiding Under Your Porch Because I Love You,0.27%
+"""Do you feel it too?""",12,Telephone,0.27%

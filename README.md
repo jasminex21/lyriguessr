@@ -10,6 +10,6 @@ I will continue to add artist games based on demand! Request new artists by inte
 
 ### Details
 
-All lyrics were taken from [Genius](genius.com), and integrated into **lyriguessr** via the [lyricsgenius](https://lyricsgenius.readthedocs.io/en/master/) Python client.
+All lyrics were taken from [Genius](https://genius.com/), and integrated into **lyriguessr** via the [lyricsgenius](https://lyricsgenius.readthedocs.io/en/master/) Python client.
 
 ### Acknowledgements

@@ -154,12 +154,14 @@ class Lyrigetter:
         all_lyrics = pd.read_csv(f"{self.artist_name.lower()}_lyrics.csv")
 
         counts = all_lyrics["lyric"].value_counts()
-        counts = pd.DataFrame(counts).head(5)
+        counts = pd.DataFrame(counts).head(5).reset_index()
+        counts.columns = ['lyric', 'count']
 
-        counts["album"] = [all_lyrics[all_lyrics["lyric"] == lyr]["album_name"].values[0] 
-                           for lyr in list(counts.index.values)]
+        counts["song"] = [all_lyrics[all_lyrics["lyric"] == lyr]["track_name"].values[0] 
+                          for lyr in counts["lyric"].values]
+        counts["lyric"] = [f'"{lyr}"' for lyr in counts["lyric"].values]
         row_count = all_lyrics.shape[0]
         counts["%"] = [f"{round(num * 100 / row_count, 2)}%" for num in counts["count"].values]
         
-        counts.to_csv(f"{self.artist_name.lower()}_counts.csv")
+        counts.to_csv(f"{self.artist_name.lower()}_counts.csv", index=False)
         print(f"Counts added to {self.artist_name.lower()}_counts.csv")
