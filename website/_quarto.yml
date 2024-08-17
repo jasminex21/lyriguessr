@@ -5,6 +5,7 @@ project:
 website:
   title: "lyriguessr"
   description: "Lyric-guessing games for your favorite artists"
+  favicon: favicon_clef.png
 
   open-graph: 
     title: "lyriguessr"
@@ -25,6 +26,7 @@ website:
 
   sidebar:
     background: "#8D9F8E"
+    logo: "logo.png"
     pinned: true
     align: center
     tools:
