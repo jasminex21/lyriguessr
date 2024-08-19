@@ -1,0 +1,818 @@
+{
+ "_type": "album",
+ "api_path": "/albums/29944",
+ "cover_art_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+ "full_title": "I Love You. by The Neighbourhood",
+ "id": 29944,
+ "name": "I Love You.",
+ "name_with_artist": "I Love You. (artist: The Neighbourhood)",
+ "release_date_components": {
+  "year": 2013,
+  "month": 4,
+  "day": 22
+ },
+ "release_date_for_display": "April 22, 2013",
+ "url": "https://genius.com/albums/The-neighbourhood/I-love-you",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/41662",
+  "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+  "id": 41662,
+  "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Neighbourhood",
+  "slug": "The-neighbourhood",
+  "url": "https://genius.com/artists/The-neighbourhood"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/41662",
+   "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+   "id": 41662,
+   "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+   "index_character": "n",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "The Neighbourhood",
+   "slug": "The-neighbourhood",
+   "url": "https://genius.com/artists/The-neighbourhood"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/141532",
+    "artist_names": "The Neighbourhood",
+    "full_title": "How by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "id": 141532,
+    "instrumental": false,
+    "lyrics_owner_id": 50988,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1616690844,
+    "path": "/The-neighbourhood-how-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 38,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-how-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 22
+    },
+    "release_date_for_display": "April 22, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 22, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 135828
+    },
+    "title": "How",
+    "title_with_featured": "How",
+    "updated_by_human_at": 1715660010,
+    "url": "https://genius.com/The-neighbourhood-how-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "32 ContributorsTranslationsT\u00fcrk\u00e7eHow Lyrics[Verse 1]\nHow could you question God's existence\nWhen you question God himself?\nWhy would you ask for God's assistance\nIf you wouldn't take the help?\n\n[Chorus 1]\nIf you're gone then I need you\nIf you're gone then how is any of this real?\nWhen I'm on I believe you\nWhen I'm not, my knees don't even seem to feel\n\n[Chorus 2]\nHow could you tell me that I'm great\nWhen they chewed me up, spit me out and pissed on me?\nWhy would you tell me that it's fate\nWhen they laughed at me, every day, in my face?\n\n[Verse 2]\nThey say the end is coming sooner\nBut the end's already here\nI said today is but a rumor\nThat we'll laugh at in a year\nOr two, or three, or four, or five, whatever\n\n[Chorus 1]\nIf you're gone then I need you\nIf you're gone then how is any of this real?\nWhen I'm on I believe you\nWhen I'm not, my knees don't even seem to feel\nYou might also like[Extended Chorus 2]\nHow could you tell me that I'm great\nWhen they chewed me up, spit me out, pissed on me?\nWhy would you tell me that it's fate\nWhen they laughed at me, every day, in my face?\nHow could you tell me that I'm great\nWhen they chewed me up, spit me out, pissed on me?\nWhy would you tell me that it's fate\nWhen they laughed at me, every day, in my face?\n\n[Outro]\nHow?\nHow could you tell me that I'm great?\nHow?\nHow could you tell me that it's fate?\nHow?38Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/141533",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Afraid by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/5aa2c0514a708d0ce7e2d0f2fcad7b51.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5aa2c0514a708d0ce7e2d0f2fcad7b51.300x300x1.png",
+    "id": 141533,
+    "instrumental": false,
+    "lyrics_owner_id": 50988,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1717406651,
+    "path": "/The-neighbourhood-afraid-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 132,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-afraid-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 7,
+     "day": 23
+    },
+    "release_date_for_display": "July 23, 2013",
+    "release_date_with_abbreviated_month_for_display": "Jul. 23, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5aa2c0514a708d0ce7e2d0f2fcad7b51.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5aa2c0514a708d0ce7e2d0f2fcad7b51.300x300x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 483302
+    },
+    "title": "Afraid",
+    "title_with_featured": "Afraid",
+    "updated_by_human_at": 1717406652,
+    "url": "https://genius.com/The-neighbourhood-afraid-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "85 ContributorsTranslationsT\u00fcrk\u00e7eDeutsch\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Afraid Lyrics[Intro]\nWhen I wake up, I'm afraid\nSomebody else might take my place\nWhen I wake up, I'm afraid\nSomebody else might take my place\n\n[Verse 1]\nMake that money, fake that dummy, ache my tummy\nOn the fence, all the time\nPaid junk honey, your face so sunny, ain't that funny?\nAll my friends always lie to me, I know they're thinking\n\n[Pre-Chorus]\nYou're too mean, I don't like you\nFuck you, anyway\nYou make me wanna scream at the top of my lungs\nIt hurts but, I won't fight you\nYou suck, anyway\nYou make me want to die, right when I\n\n[Chorus]\nWhen I wake up, I'm afraid\nSomebody else might take my place\nWhen I wake up, I'm afraid\nSomebody else might take my place\nWhen I wake up, I'm afraid\nSomebody else might take my place\nWhen I wake up, I'm afraid\nSomebody else might end up being me\n(Being me, being me)\nYou might also like[Verse 2]\nKeep on dreaming, don't stop breathing, fight those demons\nSell your soul, not your whole self\nOh, if they see it when you're sleeping, make them leave it\nAnd I can't even see if there's hope there anymore, so\n\n[Pre-Chorus]\nYou're too mean, I don't like you\nFuck you, anyway\nYou make me wanna scream at the top of my lungs\nIt hurts but, I won't fight you\nYou suck, anyway\nYou make me want to die, right when I\n\n[Chorus]\nWhen I wake up, I'm afraid\nSomebody else might take my place\nWhen I wake up, I'm afraid\nSomebody else might take my place\nWhen I wake up, I'm afraid\nSomebody else might take my place\nWhen I wake up, I'm afraid\nSomebody else might end up being me\n(Being me, being me)\n\n[Bridge]\nBeing me can only mean feeling scared to breathe\nAnd if you leave me, then I'll be afraid of everything\nThat makes me anxious, gives me patience\nCalms me down, lets me face this, let me sleep\nAnd when I wake up, let me be\n[Chorus]\nWhen I wake up, I'm afraid\nSomebody else might take my place\nWhen I wake up, I'm afraid\nSomebody else might take my place\nWhen I wake up, I'm afraid\nSomebody else might take my place\nWhen I wake up, I'm afraid\nSomebody else might end up being me\n(Being me, being me)132Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/141534",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Everybody's Watching Me (Uh Oh) by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "id": 141534,
+    "instrumental": false,
+    "lyrics_owner_id": 50988,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722698589,
+    "path": "/The-neighbourhood-everybodys-watching-me-uh-oh-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 22,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-everybodys-watching-me-uh-oh-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 22
+    },
+    "release_date_for_display": "April 22, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 22, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 64566
+    },
+    "title": "Everybody\u2019s Watching Me (Uh Oh)",
+    "title_with_featured": "Everybody's Watching Me (Uh Oh)",
+    "updated_by_human_at": 1722698589,
+    "url": "https://genius.com/The-neighbourhood-everybodys-watching-me-uh-oh-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "27 ContributorsTranslationsT\u00fcrk\u00e7eEverybody\u2019s Watching Me (Uh Oh) Lyrics[Verse 1]\nI told you I would tell you everything you wanna know\nYou want me to tell you now\nYou pressure me to shout it, need to hear about it\nThink that I would count you out\n\n[Pre-Chorus]\nI let you find it on your own\nThen I found myself alone\n\n[Chorus]\nUh-oh, where can I go?\nEverybody's watching me\nUh-oh, where can I go?\nEverybody's watching me\nOoh-ooh, what can I do\nIf you're not here to tell you?\nUh-oh, where can I go?\nEverybody's watching me\n\n[Verse 2]\nI go through all the trouble of keeping it within my walls\nTry to be as subtle as I can\nSoon enough it eats me, all I've done defeats me\nLooks like you were right again and again\nYou might also like[Pre-Chorus]\nI let you find it on your own\nThen I found myself alone\n\n[Chorus]\nUh-oh, where can I go?\nEverybody's watching me\nUh-oh, where can I go?\nEverybody's watching me\nOoh-ooh, what can I do\nIf you're not here to tell you?\nUh-oh, where can I go?\nEverybody's watching me\n\n[Bridge]\nThe more I'm wanted, the more I'm wanted\nThe less I'm home, the less I'm home\nIf I'm forgotten, if I'm forgotten\nI'll be alone, I'll be alone, I'll be alone, I'll be alone\nWith everybody watching me\n\n[Chorus]\nUh-oh, where can I go?\nEverybody's watching me\nUh-oh, where can I go?\nEverybody's watching me\nOoh-ooh, what can I do\nIf you're not here to tell you?\nUh-oh, where can I go?\nEverybody's watching me\n[Outro]\nWatching me, watching me, me, me\nThey're watching me, me, me\nWatching me, me, me\nEverybody's watching me22Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/109177",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Sweater Weather by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/e9120f25124c8512e06d5e634ae7db70.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/e9120f25124c8512e06d5e634ae7db70.1000x1000x1.jpg",
+    "id": 109177,
+    "instrumental": false,
+    "lyrics_owner_id": 6922,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723440212,
+    "path": "/The-neighbourhood-sweater-weather-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 518,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-sweater-weather-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 3,
+     "day": 28
+    },
+    "release_date_for_display": "March 28, 2012",
+    "release_date_with_abbreviated_month_for_display": "Mar. 28, 2012",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e9120f25124c8512e06d5e634ae7db70.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/e9120f25124c8512e06d5e634ae7db70.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "concurrents": 2,
+     "hot": false,
+     "pageviews": 2267378
+    },
+    "title": "Sweater Weather",
+    "title_with_featured": "Sweater Weather",
+    "updated_by_human_at": 1723440212,
+    "url": "https://genius.com/The-neighbourhood-sweater-weather-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "198 ContributorsTranslationsT\u00fcrk\u00e7ePortugu\u00easDansk\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00easFran\u00e7aisDeutsch\u0627\u0644\u0639\u0631\u0628\u064a\u0629ItalianoSweater Weather Lyrics[Verse 1]\nAnd all I am is a man\nI want the world in my hands\nI hate the beach, but I stand\nIn California with my toes in the sand\nUse the sleeves of my sweater, let's have an adventure\nHead in the clouds, but my gravity's centered\nTouch my neck and I'll touch yours\nYou in those little high-waisted shorts, oh\n\n[Pre-Chorus]\nShe knows what I think about\nAnd what I think about\nOne love, two mouths\nOne love, one house\nNo shirt, no blouse\nJust us, you find out\nNothing that I wouldn't wanna tell you about, no\n\n[Chorus]\n'Cause it's too cold for you here and now\nSo let me hold both your hands in the holes of my sweater\n\n[Verse 2]\nAnd if I may just take your breath away\nI don't mind if there's not much to say\nSometimes the silence guides a mind\nTo move to a place so far away\nThe goosebumps start to raise\nThe minute that my left hand meets your waist\nAnd then I watch your face\nPut my finger on your tongue 'cause you love the taste, yeah\nThese hearts adore\nEveryone the other beats hardest for\nInside, this place is warm\nOutside, it starts to pour\nYou might also like[Pre-Chorus]\nComin' down\nOne love, two mouths\nOne love, one house\nNo shirt, no blouse\nJust us, you find out\nNothin' that I wouldn't wanna tell you about\nNo, no, no\n\n[Chorus]\n'Cause it's too cold for you here and now\nSo let me hold both your hands in the holes of my sweater\n'Cause it's too cold for you here and now\nSo let me hold both your hands in the holes of my sweater\nWoah\n\n[Bridge]\nWoah, woah, woah\nWoah, woah, woah, woah\nWoah, woah\nWoah, woah, woah, woah\nWoah, woah\n\n[Chorus]\n'Cause it's too cold for you here and now\nSo let me hold both your hands in the holes of my sweater\n'Cause it's too cold for you here and now\nLet me hold both your hands in the holes of my sweater\n[Outro]\nAnd it's too cold, it's too cold\nThe holes of my sweater518Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/134591",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Let It Go by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/d9c0625c003faaceabaa30669dc056c6.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d9c0625c003faaceabaa30669dc056c6.600x600x1.jpg",
+    "id": 134591,
+    "instrumental": false,
+    "lyrics_owner_id": 204468,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721157112,
+    "path": "/The-neighbourhood-let-it-go-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 24,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-let-it-go-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 11,
+     "day": 22
+    },
+    "release_date_for_display": "November 22, 2012",
+    "release_date_with_abbreviated_month_for_display": "Nov. 22, 2012",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d9c0625c003faaceabaa30669dc056c6.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d9c0625c003faaceabaa30669dc056c6.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 99871
+    },
+    "title": "Let It Go",
+    "title_with_featured": "Let It Go",
+    "updated_by_human_at": 1721157112,
+    "url": "https://genius.com/The-neighbourhood-let-it-go-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "36 ContributorsTranslationsT\u00fcrk\u00e7eLet It Go Lyrics[Intro]\nOne two\nFrom a...\n\n[Verse 1]\nI'm from a little city with expensive taste\nWhere the cars don't run till the engine breaks\nWasn't spending pennies on massive things\nBut invested in mess with this recipe\nCouldn't quite see what the future held\nAnd as days went by, it would tell itself\nLet it struggle just a little bit more\nLet it struggle just a little bit more\n\n[Chorus]\nRemember what the people said\nRemember what the people said\nWhen it's said and done\nLet it go\nRemember what the people said\nRemember what the people said\nWhen it's said and done\nLet it go\n\n[Verse 2]\nShouldn't try to fix it if it keeps getting better\nJust let it go, forget it for ever and ever and ever\nDon't ever resent a letter inside a single word written\nA little change can pave lanes with the right vision\nCouldn't tell what would happen next\nBut as weeks went by, look what turned to best\nLet it struggle just a little bit more\nLet it struggle just a little bit more\nYou might also like[Chorus]\nRemember what the people said\nRemember what the people said\nWhen it's said and done\nLet it go\nRemember what the people said\nRemember what the people said\nWhen it's said and done\nLet it go\n\n[Bridge]\nIf what they said was all pretend, then it'd be different\nIf it depended on if anyone was listening\nAnd I was listening\nAnd when they said that what I wanted was a figment\nI had to turn the other cheek, but I was listening\nYeah I was listening, listening to all\n\n[Chorus]\nRemember what the people said\nRemember what the people said\nWhen it's said and done\nLet it go\nRemember what the people said\nRemember what the people said\nWhen it's said and done\nLet it go\n[Outro]\nRemember what the people said\nRemember what the people said\nI wasn't listening\nI wasn't listening, listening at all\nRemember what the people said\nRemember what the people said\nOh, I wasn't listening\nI wasn't listening, listening at all\nAt all, at all24Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/141535",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Alleyways by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "id": 141535,
+    "instrumental": false,
+    "lyrics_owner_id": 50988,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718845651,
+    "path": "/The-neighbourhood-alleyways-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 19,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-alleyways-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 22
+    },
+    "release_date_for_display": "April 22, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 22, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 86768
+    },
+    "title": "Alleyways",
+    "title_with_featured": "Alleyways",
+    "updated_by_human_at": 1718845651,
+    "url": "https://genius.com/The-neighbourhood-alleyways-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "42 ContributorsTranslationsT\u00fcrk\u00e7eAlleyways Lyrics[Intro]\nIf things were different, we were young\nSkinny dipping, having fun, I remember\nBack in 1991, when the story first begun, I remember (I remember)\n\n[Verse 1]\nAll of these shelves, holding the things I've done\nI knew myself before I knew anyone (I did, I did)\nAnd 'cause we all chew gum, we all have fun with water guns\nLa-da-da-da-da-da, da-da-dum-dum-dum\nThen we all grew up, shit got tough, shit just wasn't simple enough, no\n\n[Chorus]\nAnd whenever the sun came out, we played\n(We didn't want to get older, we didn't want to get older)\nWe would run on the block all night and day\n(We didn't want to get older)\n\n[Verse 2]\nWhat a mistake saying the way I felt\nI'd say my main influence is myself\nAnd 'cause I started young, I learned a ton, I didn't run\nLa-da-da-da-da-da-da\nI was scared as fuck and out of touch, and I was still testing my luck, oh\n\n[Chorus]\nAnd whenever the sun came out, we played\n(We didn't want to get older, we didn't want to get older)\nWe would run on the block all night and day\n(We didn't want to get older, we didn't want to get older)\nAnd whenever the sun came out, we played\n(We didn't want to get older, we didn't want to get older)\nI left myself in the alleyway\nYou might also like[Outro]\nIf things were different, we were young\nSkinny dipping, having fun, I remember\n(I left myself in the alleyway)\nAll I wanted would become everything I ever loved, I remember\n(I left myself in the alleyway)19Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/141536",
+    "artist_names": "The Neighbourhood",
+    "full_title": "W.D.Y.W.F.M.? by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "id": 141536,
+    "instrumental": false,
+    "lyrics_owner_id": 50988,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1706380428,
+    "path": "/The-neighbourhood-wdywfm-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 62,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-wdywfm-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 22
+    },
+    "release_date_for_display": "April 22, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 22, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 162581
+    },
+    "title": "W.D.Y.W.F.M.?",
+    "title_with_featured": "W.D.Y.W.F.M.?",
+    "updated_by_human_at": 1715660019,
+    "url": "https://genius.com/The-neighbourhood-wdywfm-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "39 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olW.D.Y.W.F.M.? Lyrics[Verse 1]\nTwo nights ago she got that look in her eyes\nKaleidoscope, but that's only half the time\nThree days before she told me that I don't even try\nShe's crazy, though, I guess there's something wrong inside\n\n[Hook]\nMaybe you're right, maybe this is all that I can be\nBut what if it's you, and it wasn't me?\nWhat do you want from me?\nWhat do you want from me?\n\n[Verse 2]\nFour weeks ahead, I thought that I should think some more\nI'm fucked in the head, and my mind is turning into a whore\nFive months go by, and I thought about letting her go\nShe's crazy, though, and I guess she took control\nOh no, oh no, oh no, oh no, no\n\n[Hook]\nMaybe you're right, maybe this is all that I can be\nBut what if it's you, and it wasn't me?\nWhat do you want from me?\nWhat do you want from me?\n\n[Bridge]\nMaybe she's right, maybe I'm wrong\nMaybe we'll fight 'til they move us along\nI can't deny writing a song\nHoping she'll find she's not alone\nYou might also like[Hook]\nMaybe you're right, maybe this is all that I can be\nBut what if it's you, and it wasn't me? Oh\nWhat... (What do you want from me?)\n(What do you want? What do you want?)\n...Do you want from me?\nWhat... (What do you want from me?)\n(What do you want? What do you want?)\n...Do you want from me now?62Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/141537",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Flawless by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "id": 141537,
+    "instrumental": false,
+    "lyrics_owner_id": 50988,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1713898399,
+    "path": "/The-neighbourhood-flawless-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 42,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-flawless-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 22
+    },
+    "release_date_for_display": "April 22, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 22, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 180498
+    },
+    "title": "Flawless",
+    "title_with_featured": "Flawless",
+    "updated_by_human_at": 1715660020,
+    "url": "https://genius.com/The-neighbourhood-flawless-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "37 ContributorsTranslationsT\u00fcrk\u00e7eFlawless Lyrics[Verse 1]\nShe planned ahead for a year, he said, \"Let's play it by ear\"\nShe didn't want him to run, he didn't want her to fear\nNobody said it'd be easy, they knew it was rough\nBut, tough luck\n\n[Pre-Chorus]\nI fell in love today, there aren't any words that you can say\nThat could ever get my mind to change\nShe's enough for me, she's in love with me\n\n[Chorus]\nYou're a doll, you are flawless\nBut I just can't wait for love to destroy us\nI just can't wait for love\nThe only flaw, you are flawless\nBut I just can't wait for love to destroy us\nI just can't wait for love\n\n[Verse 2]\nSo, she put his heart in a bag, he wouldn't ask for it back\nHe didn't want her to cry, she didn't wanna be sad\nShe said, \"You better not leave me\"\nThis shit'll be fucked for days and weeks and months, but\n\n[Pre-Chorus]\nI fell in love today, there aren't any words that you can say\nThat could ever get my mind to change\nShe's enough for me, she's in love with me\nYou might also like[Chorus]\nYou're a doll, you are flawless\nBut I just can't wait for love to destroy us\nI just can't wait for love\nThe only flaw, you are flawless\nBut I just can't wait for love to destroy us\nI just can't wait for love\n\n[Bridge]\nWhen I add it all up, I can find it\nThe problem with love is I'm blinded by\nIt rattles my lungs, but my mind is\nTangled between your little flaws\nYour flaws, your flaws, your flaws\n\n[Chorus]\nYou're a doll, you are flawless\nBut I just can't wait for love to destroy us\nI just can't wait for love\nThe only flaw, you are flawless\nBut I just can't wait for love to destroy us\nI just can't wait for love\n\n[Outro]\nWait for love, I won't wait for love\nWait for love, I won't wait for love\nWait for love42Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/141007",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Female Robbery by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.rapgenius.com/f4f48c2abd49d2043b2d2c4bd215b7a3.300x300x1.jpg",
+    "header_image_url": "https://images.rapgenius.com/f4f48c2abd49d2043b2d2c4bd215b7a3.600x600x1.jpg",
+    "id": 141007,
+    "instrumental": false,
+    "lyrics_owner_id": 204468,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1698790523,
+    "path": "/The-neighbourhood-female-robbery-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 69,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-female-robbery-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 10,
+     "day": 8
+    },
+    "release_date_for_display": "October 8, 2012",
+    "release_date_with_abbreviated_month_for_display": "Oct. 8, 2012",
+    "song_art_image_thumbnail_url": "https://images.rapgenius.com/f4f48c2abd49d2043b2d2c4bd215b7a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.rapgenius.com/f4f48c2abd49d2043b2d2c4bd215b7a3.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 171655
+    },
+    "title": "Female Robbery",
+    "title_with_featured": "Female Robbery",
+    "updated_by_human_at": 1715660021,
+    "url": "https://genius.com/The-neighbourhood-female-robbery-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "55 ContributorsTranslationsT\u00fcrk\u00e7eFemale Robbery Lyrics[Verse 1]\nI think I found hell\nI think I found something\nI think I found something in my TV screen\nI think I found out that I have nothing\nThat I have nothing in this place for me\nI watched it all in my head, perfect sense\nThey'll take me from my bed\nLeave everything that is worth a single cent\nAnd just take me instead\nThat TV show I saw as I fell asleep\nHad me on both my knees\nPraying to whatever is in heaven, please send me a felon\nAnd don't let the police know\n\n[Chorus]\nAnything, anything\nDon't tell them anything\nAnything, please\nAnything, anything\nDon't tell them anything\nAnything, please, oh\n\n[Verse 2]\nI think I can tell\nI think I can tell them\nTell them they were made for me\nI'm thinking they'll know, know it already\nI'm thinking they'll know just about everything\nI bet they planned it all out like the shows\nWent everywhere I go\nWalked in the store right behind me\nStood in line right beside me and followed me to my home\nI'm sure they figured it out, early on\nThat I would never run\nThat they could shoot but that's no fun\n'Cause then they're killing the stolen son\nYou might also like[Chorus]\nOh, anything, anything\nDon't tell them anything\nAnything, please\nAnything, anything\nDon't tell them anything\nAnything, please\nAnything, anything (We're going to die, die, down, die, die)\nDon't tell them anything (We're going to die, die, down, die, die)\nAnything, please\nAnything, anything (We're going to die, die, down, die, die)\nDon't tell them anything (We're going to die, die, down, die, die)\nAnything, please, oh\n\n[Outro]\nWe're going to die, die, down, die, die, down\nWe're going to die, die, down, die\nWe're going to die, die, down, die, die, down\nWe're going to die, die, down, die\n(I think I found love)69Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/141539",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Staying Up by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "id": 141539,
+    "instrumental": false,
+    "lyrics_owner_id": 50988,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1686487905,
+    "path": "/The-neighbourhood-staying-up-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 31,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-staying-up-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 22
+    },
+    "release_date_for_display": "April 22, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 22, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 65602
+    },
+    "title": "Staying Up",
+    "title_with_featured": "Staying Up",
+    "updated_by_human_at": 1715660022,
+    "url": "https://genius.com/The-neighbourhood-staying-up-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "30 ContributorsTranslationsT\u00fcrk\u00e7eStaying Up Lyrics[Verse 1]\nNo food to eat\nAll the money's been wasted from last week\nI can't even leave\nSo I sit in the basement, making up rad beats\nHot cup of tea\nIt's four o'clock in the middle of the night and I can't sleep\nIt's all on the peak\nSo bad I can taste it while it eats me\n\n[Chorus]\nHow can I sleep if I don't have dreams?\nI just have nightmares\nHow can it be?\nI still believe something is out there\n\n[Verse 2]\nSome part of me\nFeels a little bit naked and empty\nI'm stuck underneath\nA few dirty old blankets to comfort me\n\n[Chorus]\nHow can I sleep if I don't have dreams?\nI just have nightmares\nHow can it be?\nI still believe something is out there\nHow can I sleep if I don't have dreams?\nI just have nightmares\nHow can it be?\nI still believe something is out there\nYou might also like[Bridge]\nAnd then there's a light\nAnd I can see why I'm still alive\nMommy won't lie\n'Cause if she did, I would've died\nAll the time I sit and try\nYou think I'd be tired\nEvery night, I'm sippin' wine\nOhh, I'm staying up this time\n\n[Chorus]\nHow can I sleep if I don't have dreams?\nI just have nightmares\nHow can it be?\nI still believe something is out there\nHow can I sleep if I don't have dreams?\nI just have nightmares\nHow can it be?\nI still believe something is out there\n(Something is out there)31Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/141540",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Float by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "id": 141540,
+    "instrumental": false,
+    "lyrics_owner_id": 50988,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721158922,
+    "path": "/The-neighbourhood-float-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-float-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 22
+    },
+    "release_date_for_display": "April 22, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 22, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/384e89225e662195b83ade8b9165a381.660x660x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 54634
+    },
+    "title": "Float",
+    "title_with_featured": "Float",
+    "updated_by_human_at": 1721158922,
+    "url": "https://genius.com/The-neighbourhood-float-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "33 ContributorsTranslationsT\u00fcrk\u00e7eFloat Lyrics[Verse 1]\nImagine breathing in\nImagine leaving all your air behind\nWhat matters in the end\nA matter of opinion 'til you find out\n\n[Pre-Chorus]\nLife can only mean hardly anything\nAll I'll ever be is partly settled in\n\n[Chorus]\nThey show you how to swim\nThen they throw you in the deep end\nI've been learning since\nBut it doesn't mean I'll float, oh, no\nI won't float, no, no, no, no, won't float\n\n[Verse 2]\nI had a funny sleep\nI didn't have a dream 'cause I don't believe in them\n\n[Pre-Chorus]\nLife can only mean hardly anything\nAll I'll ever be is partly settled in\n\n[Chorus]\nThey show you how to swim\nThen they throw you in the deep end\nWell, I've been learning since\nBut it doesn't mean I'll float, oh, no, no, no\nI won't float, no, no, no, no, no, no\nYou might also like[Bridge]\nFloat away\nFloat away, then come right back to me\nFloat away\nFloat away, then come right back to me\n\n[Chorus]\nThey show you how to swim\nThen they throw you in the deep end\nWell, I've been learning since\nBut that doesn't mean I'll, oh\nThey show you how to swim\nThen they throw you in the deep end\nWell, I've been learning since\nBut it doesn't mean I'll float, no, no, oh, no\nI won't float\n\n[Outro]\nWhat if I, what if I don't float?\nWhat if I don't float?\nI think I'll float\nI'll float\nI'll float away18Embed"
+   }
+  }
+ ]
+}

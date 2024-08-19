@@ -1,0 +1,257 @@
+{
+ "_type": "album",
+ "api_path": "/albums/130130",
+ "cover_art_thumbnail_url": "https://images.genius.com/c13f8fa780023b6bf3d1bf37334cbd62.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/c13f8fa780023b6bf3d1bf37334cbd62.600x600x1.jpg",
+ "full_title": "The Love Collection - EP by The Neighbourhood",
+ "id": 130130,
+ "name": "The Love Collection - EP",
+ "name_with_artist": "The Love Collection - EP (artist: The Neighbourhood)",
+ "release_date_components": {
+  "year": 2013,
+  "month": 12,
+  "day": 10
+ },
+ "release_date_for_display": "December 10, 2013",
+ "url": "https://genius.com/albums/The-neighbourhood/The-love-collection-ep",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/41662",
+  "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+  "id": 41662,
+  "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Neighbourhood",
+  "slug": "The-neighbourhood",
+  "url": "https://genius.com/artists/The-neighbourhood"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/41662",
+   "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+   "id": 41662,
+   "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+   "index_character": "n",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "The Neighbourhood",
+   "slug": "The-neighbourhood",
+   "url": "https://genius.com/artists/The-neighbourhood"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/153823",
+    "artist_names": "The Neighbourhood",
+    "full_title": "West Coast by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.rapgenius.com/a8ba8a93de5f48082f43d2a4bae8a22b.300x300x1.jpg",
+    "header_image_url": "https://images.rapgenius.com/a8ba8a93de5f48082f43d2a4bae8a22b.500x500x1.jpg",
+    "id": 153823,
+    "instrumental": false,
+    "lyrics_owner_id": 204468,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1703146887,
+    "path": "/The-neighbourhood-west-coast-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 46,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-west-coast-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 12,
+     "day": 10
+    },
+    "release_date_for_display": "December 10, 2013",
+    "release_date_with_abbreviated_month_for_display": "Dec. 10, 2013",
+    "song_art_image_thumbnail_url": "https://images.rapgenius.com/a8ba8a93de5f48082f43d2a4bae8a22b.300x300x1.jpg",
+    "song_art_image_url": "https://images.rapgenius.com/a8ba8a93de5f48082f43d2a4bae8a22b.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 141466
+    },
+    "title": "West Coast",
+    "title_with_featured": "West Coast",
+    "updated_by_human_at": 1703146887,
+    "url": "https://genius.com/The-neighbourhood-west-coast-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "36 ContributorsWest Coast Lyrics[Intro]\nJump onto new streets, jump onto new streets\nJump onto new streets, jump onto new streets (Ah)\nJump onto new streets, jump onto new streets\n\n[Verse 1]\nMe, I'm from a different type of left land\nOld wild west land\nNose bleeds, palm trees and tumbleweeds rustling\nOutside they say it's happy here but it's depressing\nToo many pretty faces catching my attention\nSo I look at them\nRemind myself in this smudged glass\nThat pretty isn't everything, you punk-ass\nAlways hard to see past the surface when it looks so perfect\nBut our eyes will disguise dirt on purpose, you listening?\nI grew up here under the sun\nIn grade school, I was the odd one out of the bunch\nAnd I don't mean I was the kid to eat bugs for lunch\nI was the one who wasn't coming from where they're coming from (Uh)\nI speak poetically and never pride my ignorance\nBut this California shit is rigorous\nThey say it's happy here, happiness is figurative\nI'm happy 'cause of me, doesn't matter where I'm living\n\n[Chorus]\nIf the sun was God, I'd be covered in faith\nIf the ocean was the devil, I'd be covered in hate\nI'm so west coast, it's a goddamn shame\nI'm so west coast, it's a goddamn shame\nYou might also like[Verse 2]\nI'm waking up underneath sheets, naked, still sweating\nSlept in late so everybody else is ready\nMy friend called up, he said\n\"Hurry up, buddy, it's almost sundown already\"\nSo I hopped up, I went and washed up\nI ate some pasta then I gave my mom hugs\nAnd then I thought, uh\nIt's gonna be a pretty nice night\n(But pretty isn't everything, right?)\nGolden state mind (Mind)\nI'm taking my time (Time)\nPlain white shirt and a skinny black tie\nMy top let down when I get picked up\nPCH, so California\nMaybe they were right, happiness is a warm gun\nBut before you shoot please warn us\nLife is too fun, California, will you marry me?\nLet God be the sun and in the ocean they shall bury me\n\n[Chorus]\nIf the sun was God, I'd be covered in faith\nIf the ocean was the devil, I'd be covered in hate\nI'm so west coast, it's a goddamn shame\nI'm so west coast, it's a goddamn shame\nI'm so west coast, it's a goddamn shame\nI'm so west coast, it's a goddamn shame\n[Outro]\nI'm so west coast, it's a goddamn shame\nI'm so west coast, it's a goddamn shame46Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/253758",
+    "artist_names": "The Neighbourhood",
+    "full_title": "No Grey by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/a6d33ffb63fa504a2c3a64f676c65bb5.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/a6d33ffb63fa504a2c3a64f676c65bb5.660x660x1.jpg",
+    "id": 253758,
+    "instrumental": false,
+    "lyrics_owner_id": 149350,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1599988558,
+    "path": "/The-neighbourhood-no-grey-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 14,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-no-grey-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 12,
+     "day": 10
+    },
+    "release_date_for_display": "December 10, 2013",
+    "release_date_with_abbreviated_month_for_display": "Dec. 10, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a6d33ffb63fa504a2c3a64f676c65bb5.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/a6d33ffb63fa504a2c3a64f676c65bb5.660x660x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 39693
+    },
+    "title": "No Grey",
+    "title_with_featured": "No Grey",
+    "updated_by_human_at": 1715659987,
+    "url": "https://genius.com/The-neighbourhood-no-grey-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "21 ContributorsNo Grey Lyrics[Intro]\nMoney, money, money\n\n[Verse 1]\nFirst things first, I don't wanna be forgotten\nEven worse, I don't wanna be alone\nBut if it all stops today I'll probably say\nI didn't waste a minute, when I'm finished\nBrand new faith and I'm ready for the camera's mention\nAnd all I pay is my money and my damn attention\nDidn't get me the deal that got me to feel\nHow you would hear my sentence when I'm finished\n\n[Chorus]\nYou could do it for the money\nBut the money makes them all the same\nEverything's sunny but the sunshine fades away\nEverything's black and white, no grey\n\n[Verse 2]\nPitch black frames, you can see me when I wear my lenses\nAnd all they say is how I'm fake and I don't get offended\nAnd when push comes to shove, I'll show enough\nI didn't need to listen when I'm finished\n\"You're insane,\" what you said when I'd explain the game plan\nNothing's changed, except a little more change in my hand\nNow I don't mean to brag, life wasn't bad\nBut now with the shows and women, it's not finished\nYou might also like[Chorus]\nYou could do it for the money\nBut the money makes them all the same\nEverything's sunny but the sunshine fades away\nEverything's black and white, no grey\n\n[Bridge]\nIt ended up with gold but it started as a dream\nIf I get cold, put some honey in my tea\nI used to be broke, now there's money in my jeans\nI was broke now there's money in my jeans\nI was broke now there's money in my, huh\nI was broke now there's money in my jeans\n\n[Chorus]\nYou could do it for the money, money, money\nBut the money makes them all the same\nEverything's sunny, but the sunshine fades away\nEverything's black and white, no grey\n\n[Outro]\nEverything's black and white, no grey14Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/253757",
+    "artist_names": "The Neighbourhood",
+    "full_title": "$TING by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/c13f8fa780023b6bf3d1bf37334cbd62.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/c13f8fa780023b6bf3d1bf37334cbd62.600x600x1.jpg",
+    "id": 253757,
+    "instrumental": false,
+    "lyrics_owner_id": 149350,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1700617524,
+    "path": "/The-neighbourhood-ting-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 42,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-ting-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 12,
+     "day": 10
+    },
+    "release_date_for_display": "December 10, 2013",
+    "release_date_with_abbreviated_month_for_display": "Dec. 10, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c13f8fa780023b6bf3d1bf37334cbd62.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/c13f8fa780023b6bf3d1bf37334cbd62.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 109322
+    },
+    "title": "$TING",
+    "title_with_featured": "$TING",
+    "updated_by_human_at": 1700617524,
+    "url": "https://genius.com/The-neighbourhood-ting-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "26 ContributorsTranslationsEspa\u00f1olDeutsch$TING Lyrics[Verse 1]\nI tried to be someone\nI lied to be someone else for you\nIf I had done something a little bit differently\nWe would've moved in a better direction than this, baby\n\n[Verse 2]\nIf you were human\nIf you were who I'd assumed you were\nYou wouldn't have done this, oh, no\nI thought I did something\nBut she would do anything to bring me down\nAnd she brought me down\n\n[Chorus]\nAh-ah, ah-ah, ah-ah, ah-ah\nAh-ah, ah-ah, ah-ah, ah-ah\nAh-ah, ah-ah, ah-ah, ah-ah\n\n[Verse 3]\nYou say that you love me but you act like you don't\nYou used to adore me, laughed at all of my jokes\nDon't take this the wrong way:\nYou put me in harm's way\nWhen we had our first kiss, it was your favorite thing\nAnd you weren't lying when you said it would sting\nDon't take this the wrong way:\nYou put me in harm's way\nImagine our children, how fucked would they be?\nMommy's a psycho, daddy lives in a dream\nDon't take this the wrong way\u2014mhm\u2014mhm\u2014mhm\nI told you I'm sorry, couldn't thank you enough\nI thought that I loved you but we weren't in love\nWe weren't in love\nYou were my dream, the way that we fuck\nYou liked to think we would push through the battle\nIgnoring the problems just to hold what we had\nDon't take this the wrong way\nDon't take this the wrong wayYou might also like42Embed"
+   }
+  }
+ ]
+}

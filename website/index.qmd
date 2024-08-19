@@ -25,6 +25,8 @@ If you don't have a guess, you can ask for a hint - there are three available pe
 > * Hint (each): -1
   * Giving up: -2
 
+Note: EPs and albums (and <u>not</u> individual singles) are included in each artist's lyrics dataset.
+
 ### 🎵 Artists
 
 > Interact with me at [@lyriguessr](https://x.com/lyriguessr) on Twitter to request new artists!

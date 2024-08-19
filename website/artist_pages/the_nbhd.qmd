@@ -1,0 +1,62 @@
+---
+title: "The Neighbourhood"
+date: ""
+date-modified: ""
+---
+
+::: {.callout-tip appearance="simple"}
+## Play the game!
+::: lead
+**NOT UP YET**
+:::
+:::
+
+### Details
+
+::: {.callout-note appearance="simple"}
+## Announcement
+I am taking requests for cooler/punnier names for The Neighbourhood's game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
+:::
+
+Lyrics range from *I'm Sorry...* to *Chip Chrome & the Mono-Tones (Deluxe)*.
+
+### The Dataset and Statistics
+
+There are 3,347 lines in the **nbhdGuessr** dataset, with 2,319 of them being *unique* lines. 
+
+* You have around a 0.030% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+```{r echo=FALSE}
+#| label: nbhd
+library(gt)
+
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/the_nbhd/the neighbourhood_counts.csv")
+
+colnames(data) <- c("Lyric", "#", "Song", "Pct.")
+
+gt(data) %>% 
+    tab_header(title=md("Top 5 Most Common Lyrics"), 
+               subtitle="And each lyric's number of occurrences, and chance of showing up in Hard mode") %>%
+    opt_table_font(stack = "rounded-sans") %>%
+    tab_options(table.background.color = "#8D9F8E",
+                table.font.weight = "bolder",
+                table.font.color = "black",
+                table.font.color.light = "black",
+                table.font.size = "90%",
+                data_row.padding = 10,
+                data_row.padding.horizontal = 10) %>%
+    tab_style(style = cell_text(weight = "bolder"),
+              locations=list(cells_title(), cells_column_labels())) %>%
+    tab_style(style = cell_text(style = "italic"),
+              locations = cells_body(columns = Lyric)) %>%
+    tab_style(style = cell_text(align = "center"),
+              locations = cells_column_labels()) %>%
+    cols_width(Lyric ~ px(800),
+               `#` ~ px(50),
+               Song ~ px(500),
+               `Pct.` ~ px(100))
+```
+
+### Similar Artists
+
+Nothing here yet...
+

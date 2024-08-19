@@ -1,0 +1,1469 @@
+{
+ "_type": "album",
+ "api_path": "/albums/96386",
+ "cover_art_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+ "full_title": "#000000 & #FFFFFF by The Neighbourhood",
+ "id": 96386,
+ "name": "#000000 & #FFFFFF",
+ "name_with_artist": "#000000 & #FFFFFF (artist: The Neighbourhood)",
+ "release_date_components": {
+  "year": 2014,
+  "month": 11,
+  "day": 28
+ },
+ "release_date_for_display": "November 28, 2014",
+ "url": "https://genius.com/albums/The-neighbourhood/000000-ffffff",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/41662",
+  "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+  "id": 41662,
+  "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Neighbourhood",
+  "slug": "The-neighbourhood",
+  "url": "https://genius.com/artists/The-neighbourhood"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/41662",
+   "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+   "id": 41662,
+   "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+   "index_character": "n",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "The Neighbourhood",
+   "slug": "The-neighbourhood",
+   "url": "https://genius.com/artists/The-neighbourhood"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/598215",
+    "artist_names": "The Neighbourhood (Ft. OG Maco & Skeme)",
+    "full_title": "*NSTYNCT by\u00a0The\u00a0Neighbourhood (Ft.\u00a0OG\u00a0Maco & Skeme)",
+    "header_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "id": 598215,
+    "instrumental": false,
+    "lyrics_owner_id": 727760,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1633628154,
+    "path": "/The-neighbourhood-nstynct-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 15,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-nstynct-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 28
+    },
+    "release_date_for_display": "November 28, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 32745
+    },
+    "title": "*NSTYNCT",
+    "title_with_featured": "*NSTYNCT (Ft.\u00a0OG\u00a0Maco & Skeme)",
+    "updated_by_human_at": 1715660078,
+    "url": "https://genius.com/The-neighbourhood-nstynct-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/12939",
+      "header_image_url": "https://images.genius.com/275bab31ea50d9caa30bf6ef1e85a3f6.1000x1000x1.jpg",
+      "id": 12939,
+      "image_url": "https://images.genius.com/eb69085b6707b2690bec0fa3779c5ab8.772x772x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Skeme",
+      "slug": "Skeme",
+      "url": "https://genius.com/artists/Skeme",
+      "iq": 399
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/207474",
+      "header_image_url": "https://images.genius.com/82b607d21b4ee825f2b6d09b824cec0f.802x1000x1.jpg",
+      "id": 207474,
+      "image_url": "https://images.genius.com/7c09a9c87dc843bf4050c301caf1a4f7.822x822x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "OG Maco",
+      "slug": "Og-maco",
+      "url": "https://genius.com/artists/Og-maco",
+      "iq": 1058
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "16 Contributors*NSTYNCT Lyrics[Mixtape Intro: DJ Drama]\nYou know everything is in black and white\nLike me for example, black dad, white mom\nYou know, when TV first started it was in black and white\nSee the thing about me and Cannon\nWe love to do things first\nSo the first band to put out a mixtape\nIt would come from us\nY'all ready? Welcome to The Neighbourhood\nI tried to warn you, everything is black and white\n\n[Intro: Skeme]\nYeah, I can't be ridin' with a sucker, nigga, nah uh-uh, no sir, can't do it (No sir)\nI can't see myself going broke no time soon, no sir, can't view it (No sir)\nMy niggas in the game, all you niggas on the sidelines\nLookin' mad as hell, bitch, Jon Gruden (Goddamn)\nI take my Nikes off and put them Saint Laurents on my feet\nStill wanna come to rap? Then just do it\n\n[Verse 1: Skeme]\nYoung nigga, what your life like?\nAll my niggas ballin' round here\nReppin' players like a highlight\nAnd all my bitches out here lookin' like fine wine\nAll your bitches out here lookin' like fright night, yikes\n20 thousand dollars on a Rollie, no ice\nKnow you can't afford it if you ask 'bout the price\nSee I been gettin' played like all my damn life\nIf it ain't about no money, you just don't live right, agh!\nYou might also like[Chorus: Jesse Rutherford]\nChange all the time, can change all the time\nIf I really want to I could change all your minds\nI change in the day, I change in the night\nI paint it all black and I paint it all white\nChange all the time, can change all the time\nIf I really want to I could change all your minds\nI change in the day, I change in the night\nI paint it all black and I paint it all white\n\n[Verse 2: OG Maco]\nMargiela to offset her\nMore money under this jacket\nVersace boots for my stature\nCan't dap me, I'm too dapper, damn\nI mean I'm fleeker than the scammers on the damn ground\nVintage, trans, strange, X-Men: Last Stand\nAnd your last man shoppin' out my trash can\nRecycle bin, has-been, damn, how ya life been?\nTell us how the lights been\nTell us how your night ends\nShit, I don't fuck the groupie hoes or they hype friends\nBenjamins take 'em in, call it a night's end\nSmilin' the whole damn time thinkin' \"Nice win\"\nI remember nights when ends was the end, friends was absent\nFueled by nothing but passion\nNow it's packs of hundreds, these niggas, they done done it\nYou guessed just how they did it\nThey dumb it just so they near it\nThey payin' 'cause we amazing\nPut a penis in the Caymans\nNow you don't know if I'm playing, that's a win right there\nYou tryna celebrate, oh, that's some head right there\nI'm tryna medicate, just put the gas in the air\nAnd we don't give a fuck, throwin' money everywhere\nWelcome the lader's blessing as we add on the X's damn\n[Verse 3: Jesse Rutherford]\nI met a stranger yesterday\nShe said it would all just go away (All go)\nAnd when she put her hands on me\nI met a stranger yesterday\nShe said it would all just go away\nAnd when she put her hands on me\nIt was gone, it was gone\nIt was gone and gone and gone, gone and gone and gone\nYou're never comin' back\nOnce you go away, you're never comin' back\nOnce you go away, you're never comin' back\n'Ted it, stranger wanted it\n\n[Outro: Jesse Rutherford]\nChange all the time, can change all the time\nIf I really want to I could change all your minds\nOh, God, I can't believe I made this shit\nI change in the day, I change in the night\nI paint it all black and I paint it all white\nThis is for friends and family\nChange all the time, can change all the time\nIf I really want to I could change all your minds\nThis is for those who stand right by your side\nI change in the day, I change in the night\nI paint it all black and I paint it all white\nFriends and family\nThis is for ones I won't forget15Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/409689",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Lurk by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/b4a291b4a5378762ea2095c7b5b9e74a.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b4a291b4a5378762ea2095c7b5b9e74a.500x500x1.jpg",
+    "id": 409689,
+    "instrumental": false,
+    "lyrics_owner_id": 737580,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1709579728,
+    "path": "/The-neighbourhood-lurk-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 37,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-lurk-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 4,
+     "day": 22
+    },
+    "release_date_for_display": "April 22, 2014",
+    "release_date_with_abbreviated_month_for_display": "Apr. 22, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4a291b4a5378762ea2095c7b5b9e74a.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b4a291b4a5378762ea2095c7b5b9e74a.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 111059
+    },
+    "title": "Lurk",
+    "title_with_featured": "Lurk",
+    "updated_by_human_at": 1715660079,
+    "url": "https://genius.com/The-neighbourhood-lurk-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "28 ContributorsLurk Lyrics[Mixtape Intro: DJ Don Cannon]\nI know you read our names like:\n\"When are they ever gon' stop?\"\u2014Never!\nDon Cannon, DJ Drama, back in The Neighbourhood\nBlack and white! You should've knew better\nAnother one!\n\n[Intro]\nHey, hey, hey, hey, hey, hey, hey!\nThis is the beat that makes your mother cry\nThis is the beat that makes your mother cry\n\n[Verse 1]\nI want to be honest, I want to be bad\nI want to destroy you, I want to move fast\nI want the attention, I want all the cash\nI want all the ass, is it too much to ask?\nI want to be faithful, I want to be raw\nI want to be ignorant, I want to know all\nI want to die some day, I want to live long\nI want what I ask for, I get what I want\n\n[Chorus]\nI'm thinking we should ride\nTo a place that we don't know\nTo a place where no one's seen us before\nI'm thinking you and I\nBetter just go with the flow\nLast thing that we should do is go slow\nI'm thinking we should ride\nTo a place that we don't know\nTo a place where no one's seen us before\nI'm thinking you and I\nBetter just go with the flow\nLast thing that we should do is go slow\nYou might also like[Bridge]\nHey, hey, hey, hey, hey, hey, hey!\nThis is the beat that makes your mother cry\nThis is the beat that makes your mother cry\n\n[Verse 2]\nI think that I'm human, I think about God\nI think of the chances, I think that I'm wrong\nI think to be thoughtful, I know that I'm not\nYou think I'm a fake, and I know you're a fraud\nI fuck 'cause I need to, I fuck when I want\nI'll fuck you in love, even though it is not\nI'll fucking digest you one kiss at a time\nYou wish I was yours and I hope that you're mine\n\n[Chorus]\nI'm thinking we should ride\nTo a place that we don't know\nTo a place where no one's seen us before\nI'm thinking you and I\nBetter just go with the flow\nLast thing that we should do is go slow\nI'm thinking we should ride\nTo a place that we don't know\nTo a place where no one's seen us before\nI'm thinking you and I\nBetter just go with the flow\nLast thing that we should do is go slow\nGo fast, go fast (Hey, hey, hey, hey, hey, hey, hey!)\nGo fast, go fast (This is the beat that makes your mother cry)\n(This is the beat that makes your mother cry)\n[Outro]\nOh, no, hm-hm, da-da, da-da\nBlack and it's white\nEverything's white but it's blacker than I know\nEven blacker than the white of the snow, yeah\nAnd all that I, oh, no\nNo, no, no, no37Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/598252",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Ye Interlude by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "id": 598252,
+    "instrumental": false,
+    "lyrics_owner_id": 104344,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1549805958,
+    "path": "/The-neighbourhood-ye-interlude-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-ye-interlude-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 28
+    },
+    "release_date_for_display": "November 28, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 8087
+    },
+    "title": "Ye Interlude",
+    "title_with_featured": "Ye Interlude",
+    "updated_by_human_at": 1715660079,
+    "url": "https://genius.com/The-neighbourhood-ye-interlude-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "8 ContributorsYe Interlude Lyrics[Interlude: Kanye West]\nMike, Mike, stop it, stop it, stop it\nAight, turn this shit black and white, it's gotta be just like the projections\nAnd it's just of my face, up close\nIt's the part I take the mask off, you see my face really close\nAnd it's not solarized, it's normal, it's just black and white\nAight, Mike, drop that shitYou might also like5Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/512444",
+    "artist_names": "The Neighbourhood (Ft. Raury)",
+    "full_title": "\u200bwarm by\u00a0The\u00a0Neighbourhood (Ft.\u00a0Raury)",
+    "header_image_thumbnail_url": "https://images.genius.com/91f57820d3eaf24cb55c81517c9825db.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/91f57820d3eaf24cb55c81517c9825db.500x500x1.jpg",
+    "id": 512444,
+    "instrumental": false,
+    "lyrics_owner_id": 104344,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1669518128,
+    "path": "/The-neighbourhood-warm-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 21,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-warm-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 9,
+     "day": 2
+    },
+    "release_date_for_display": "September 2, 2014",
+    "release_date_with_abbreviated_month_for_display": "Sep. 2, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/91f57820d3eaf24cb55c81517c9825db.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/91f57820d3eaf24cb55c81517c9825db.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 69973
+    },
+    "title": "\u200bwarm",
+    "title_with_featured": "\u200bwarm (Ft.\u00a0Raury)",
+    "updated_by_human_at": 1715660081,
+    "url": "https://genius.com/The-neighbourhood-warm-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/149879",
+      "header_image_url": "https://images.genius.com/4fcbad91ca7b7af0b0e78b0ff6d24e81.426x426x1.jpg",
+      "id": 149879,
+      "image_url": "https://images.genius.com/4fcbad91ca7b7af0b0e78b0ff6d24e81.426x426x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Raury",
+      "slug": "Raury",
+      "url": "https://genius.com/artists/Raury",
+      "iq": 18850
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "23 Contributors\u200bwarm Lyrics[Mixtape Intro: DJ Don Cannon]\nShout to Casey Veggies! Shout to 100s!\nAy, what? Cannon's what up!\nBlack and white!\n\n[Intro: Jesse Rutherford]\nYou need to get off my mind\n\n[Verse 1: Jesse Rutherford]\nI'm never satisfied, it's never good enough\nI always seem to find the right formula for puttin' up, yeah\n\n[Chorus: Jesse Rutherford]\nI tried to love you, baby\nIn every way, in every way\nI tried to satisfy you, honey\nBut you wouldn't stay, I knew you wouldn't stay\n\n[Verse 2: Jesse Rutherford]\nI'm like a clothing rack, ya hang it out on me\nAnd if I really wanna find someone else, I'll find some company, eh-yeah\nI'm in a hurry, I don't wanna worry 'bout a little hiccup ('Bout a little hiccup)\nWhy can't you see? Why can't you see that I am sick of it all-all?\n\n[Chorus: Jesse Rutherford]\nI tried to love you, baby\nIn every way, in every way\nI tried to satisfy you, honey\nBut you wouldn't stay, I knew you wouldn't stay\nI tried to love you, baby\nIn every way, (Every way) in every way, yeah, yeah (Every way)\nI tried to satisfy you, honey\nBut you wouldn't stay, I knew you wouldn't stay\nYou might also like[Interlude: Jesse Rutherford]\nI knew it was wrong but I thought about you still\n\n[Verse 3: Raury]\nGirl, I do not know where you're running to\nI'm your finish line, I'm the one for you\nIf you do me wrong, if I'm cruel to you\nYou're a fool for me, I'm a fool for you\nShawty been talkin' about her new options\nBut options do not mean that they're competition\nThe master key perfectly fits your ignition\nForever under the greatest possession\nYou are not foreign at all to this sentence\nHopefully this is the first time you did this shit\nRooms full of naked and caucasian women\nRooms full of naked and caucasian women21Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/410916",
+    "artist_names": "The Neighbourhood (Ft. Casey Veggies & Kossisko)",
+    "full_title": "Jealou$y by\u00a0The\u00a0Neighbourhood (Ft.\u00a0Casey\u00a0Veggies & Kossisko)",
+    "header_image_thumbnail_url": "https://images.genius.com/58651f1cc52ba95103d6a1ead5ad40aa.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/58651f1cc52ba95103d6a1ead5ad40aa.500x500x1.jpg",
+    "id": 410916,
+    "instrumental": false,
+    "lyrics_owner_id": 111951,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1636412790,
+    "path": "/The-neighbourhood-jealou-y-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 37,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-jealou-y-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 5,
+     "day": 25
+    },
+    "release_date_for_display": "May 25, 2014",
+    "release_date_with_abbreviated_month_for_display": "May. 25, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/58651f1cc52ba95103d6a1ead5ad40aa.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/58651f1cc52ba95103d6a1ead5ad40aa.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 92081
+    },
+    "title": "Jealou$y",
+    "title_with_featured": "Jealou$y (Ft.\u00a0Casey\u00a0Veggies & Kossisko)",
+    "updated_by_human_at": 1715660082,
+    "url": "https://genius.com/The-neighbourhood-jealou-y-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/997464",
+      "header_image_url": "https://images.genius.com/baea831727f36f56d701c969baf2c21e.266x266x1.jpg",
+      "id": 997464,
+      "image_url": "https://images.genius.com/81b14a2bc62c61f4344f8070d552311d.780x780x1.png",
+      "index_character": "k",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Kossisko",
+      "slug": "Kossisko",
+      "url": "https://genius.com/artists/Kossisko",
+      "iq": 105
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/2011",
+      "header_image_url": "https://images.genius.com/480bc23707b2f875448e0af1798bd2ae.220x319x1.jpg",
+      "id": 2011,
+      "image_url": "https://images.genius.com/32b2573b26965a28ec11e81e389c7812.664x664x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Casey Veggies",
+      "slug": "Casey-veggies",
+      "url": "https://genius.com/artists/Casey-veggies",
+      "iq": 3663
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "30 ContributorsJealou$y Lyrics[Verse 1: Casey Veggies]\nI'm paranoid, I hate to sleep alone\nMy mind playin' tricks, tryna' to break my zone\nLost a lot trying to reach the throne\nMany nights I ain't make it home\nShe want me there, it's like I need a clone\nI try my best, no matter what, it's like I'm always wrong\nI guess that's why I wrote this song\nJust hopin' you would call my phone\nMoney hit my line, I'm on tour like all the time\nGirl, you know I'm on my grind\nI just need some peace of mind\nI hope she hear this shit and press rewind (Why?)\nWe went our separate ways until next time\nIt's not a race, it's a marathon\nAt times, I feel a step beyond\nI take it as a lesson learned and then we cross the finish line\nThank God I woke up in the morning\nSee the sunshine through the blinds\nAt times, I sit and reminisce on all the things I left behind\n\n[Refrain: Jesse Rutherford]\nRest in pieces, peace of mind\nSomeday we will reunite\n\n[Verse 2: Jesse Rutherford]\nThis is the shit that your baby vibes to\nPromise you that I'll make a baby with you\nMake a mama of you, ain't no drama with you\nMy baby brings heat like a mama does too\nI'll pay homage to you and college for the babies\nI'll even move your mama to the Bahamas and maybe\nI'll take you on the open road\nAnd you'll take me where the ocean goes, ooh\nI'm getting cheesy on these jungle drums\nI sound like Weezy on a million (A milli, a milli)\nThe money's comin' and I know it but\nThe money doesn't have control of us\nThis is the shit, make your mama start crying\nNot because she's sad, 'cause her baby's alright\nThat baby's her pride, that baby's her life\nAnd mama would break down if that baby did die\nYou might also like[Refrain: Jesse Rutherford]\nRest in pieces, peace of mind\nSomeday we will reunite again\nRest in peace my peace of mind\nI hope that we will reunite\n\n[Break: Jesse Rutherford]\nBreak, break\nCheck, check, hey, hey, hey, whoa, whoa, hey, hey!\nNo, no, no, no, n-n-n-n-nah-nah-nah-nah, now\n\n[Chorus: Jesse Rutherford]\nIf you go, mama, where do we go?\nAnd if you move, mama, what do we lose?\nIf we leave, mama, when do we breathe?\nHow do we eat, where do we sleep?\nIf you go, mama, where do we go?\nAnd if you move, mama, what do we lose?\nMama, how do we breathe?\nAnd how do we eat, where do I go to sleep?\nIf you move mama, oh, no, oh, no\nWhere do I go to home?\nNeed to go home\nNeed to go home\n\n[Outro: Kossisko]\nI live to party and baby you know that they stop\nI live to party but baby don't know what she got\nLike a whisper to me (Like a whisper to me)\nRather stay not care (Rather stay not care)\nBaby, listen to me\nI gotta get higher 'cause you're way up there (Like a whisper to me)37Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/598247",
+    "artist_names": "The Neighbourhood",
+    "full_title": "1 Of Those Weaks by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "id": 598247,
+    "instrumental": false,
+    "lyrics_owner_id": 727760,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1619206821,
+    "path": "/The-neighbourhood-1-of-those-weaks-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 38,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-1-of-those-weaks-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 28
+    },
+    "release_date_for_display": "November 28, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 77596
+    },
+    "title": "1 Of Those Weaks",
+    "title_with_featured": "1 Of Those Weaks",
+    "updated_by_human_at": 1715660082,
+    "url": "https://genius.com/The-neighbourhood-1-of-those-weaks-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "38 Contributors1 Of Those Weaks Lyrics[Intro: Casey Veggies & Jesse Rutherford]\nAw, man, aw, man, aw, man, aw, man, aw, man, aw, man\nThe whip black and white\nMy bitch black and white\n(On some mixtape shit like)\nMy 'fit black and white\n\n[Verse 1: Jesse Rutherford & Casey Veggies]\nI'll never decide, I've changed every week\nI won't stay in the middle, I'll kill everything\nYeah, I'm stuck in between if I'm wrong or I'm right\nI would ask for advice but I'll just do what I like\nCan't get over the fact, people living a lie\nJust to stay entertained, what a waste of a life\nWhat a waste of a space, what the fuck is your point?\nYou're a waist with no spine, you're a waste of my time\nI smoke 'cause I'm stressed, I try to get high\nBut it gets me depressed, (Oh) I'm just tryna get by\nI'm just drivin' at night, I got no music on\nI got no favorite song, it's just me and my thoughts (Aw, man)\nI've fallen in love, I've fallen behind\nI've fallen for her, more than once, only twice (Aw, man)\nI fell in the pool, (Damn) got chlorine in my eyes\nAnd it burned for a minute, but I didn't go blind\n\n[Chorus: Jesse Rutherford & Casey Veggies]\nThis is for my friends who play\nIn the old cafes and they kick it in the parking lot\n(They call me one take Jake, baby)\n(Aw, man) I been away from the scene\n(Woo) But I mean what I speak, what I feel with a broken heart\n(What that? Okay, I got that big fat snake, baby, woo, hold up)\nI've been getting money all day, so I can spend it all on us\n(Uh, they call me one take Jake, baby)\nI've been getting money all night, so I can spend it all on us\n(Haha, yeah, I got that big fat snake, baby)\nYou might also like[Verse 2: Jesse Rutherford & Casey Veggies]\nAlright, alright, alright (Talk to 'em)\nYeah, yeah, you can't get me to spit, but I'm so hard to swallow (Woah)\nMy daddy is dead, (Damn) I've got no man to follow\nAnd I know that I'm shallow, (Woah) but why shouldn't I be? (Woah)\nI don't mean to get deep, (Uh) it's just one of those weeks (Aw, man)\nCouldn't tell you the day, couldn't tell you the time (Yeah)\nTrouble falling asleep, (Yeah) for the past couple nights\nTrouble being alone, I've been losing my mind\nBut I don't want any trouble, it just chooses to find me (Aw, man)\nOhh (Oh, yeah, aw, man, aw, man, aw, man)\nIt just chooses to find me, ohh (Aw, man, aw, man, aw, man, aw, man)\nYeah, yeah, yeah, ohh (Aw, man)\n\n[Chorus: Jesse Rutherford & Casey Veggies]\nThis is for my friends who play\nIn the old cafes (It's like, yeah) and they kick it in the parking lot (The Neighbourhood, yeah)\nI been away from the scene (Just walk around)\nBut I mean what I speak, (I'm seeing these different things about The Neighbourhood) what I feel with a broken heart (I've been thinkin' about you all day, this makin' me think about)\nI've been getting money all day, (Think about life, you know what I'm sayin'?) so I can spend it all on us (I've been thinkin' 'bout you)\nI've been getting money all night, (And all the things I'm gon' do, I've been thinkin 'bout you) so I can spend it all on us (I want you right here, you know what I'm sayin', right in front of me)\n\n[Outro: Jesse Rutherford & Casey Veggies]\nSaid I've been thinkin' 'bout you, oh\nAnd what we gon' do, (Yeah, I want you right here, shawty) oh\nI've been thinkin' bout fallin' in love, (I've been thinkin' 'bout fallin' in love, you know what I'm sayin'?) fallin' in love\nWell, I've been thinkin' 'bout you\nAnd all the things we do, no, no\nI've been thinkin' 'bout fallin' in love, (Talk to 'em, Jesse, talk to 'em) fallin' in love\nAm I fallin' in love again?38Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/598260",
+    "artist_names": "The Neighbourhood (Ft. YG)",
+    "full_title": "Dangerous by\u00a0The\u00a0Neighbourhood (Ft.\u00a0YG)",
+    "header_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "id": 598260,
+    "instrumental": false,
+    "lyrics_owner_id": 727760,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1697631425,
+    "path": "/The-neighbourhood-dangerous-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 17,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-dangerous-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 28
+    },
+    "release_date_for_display": "November 28, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 56909
+    },
+    "title": "Dangerous",
+    "title_with_featured": "Dangerous (Ft.\u00a0YG)",
+    "updated_by_human_at": 1715660084,
+    "url": "https://genius.com/The-neighbourhood-dangerous-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1450",
+      "header_image_url": "https://images.genius.com/9a88f3e337dd4995d8fa964256505b46.1000x1000x1.jpg",
+      "id": 1450,
+      "image_url": "https://images.genius.com/3d62966592db27f223d4e6050790656d.1000x1000x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "YG",
+      "slug": "Yg",
+      "url": "https://genius.com/artists/Yg",
+      "iq": 13044
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "21 ContributorsDangerous Lyrics[Verse 1: Jesse Rutherford]\nRidin' round in my city, same thing I used to do\nGot a new girl with me\nI could have another one if I wanted to but no\nMight call another one this afternoon, I won't\nI did it, look who I brought with me\nRidin' round your city, vibin' out in your city\nSold out in your city, but I think you earned this\nI feel like you're worth it\nYour blue eyes and those red lips\nThat got you on my guest list\nDon't talk much, I don't say shit\nAnd you lay down and we make it up (Make it up, make it up, make it up, make)\nFuck what your mother say, let's run away\nReplay on that Goldchain\nDrivin' round in my Escalade\nDoin' 88 on PCH, let's go (Go, go)\n\n[Chorus: Jesse Rutherford]\nWe're made to love, we're made to love\nWe're made to love, we're made to love\nBut you're dangerous, you're dangerous, you're dangerous\nFor both of us, you're dangerous\n\n[Interlude: Jesse Rutherford & YG's Girlfriend]\nHmm, hmm\nAnswer the phone nigga\nNigga, answer the phone\nYou might also like[Verse 2: YG]\nTexting and calling while I'm with my bitch\nYou be puttin' me thru some shit\nBut that pussy good as shit\nNow she goin' thru my shit\nAsk me \"Who is this? Who's that?\"\nSmell my dick and asked last night where you was at\nSo if I lie now she'll probably find the truth later\nBut if I tell the truth she'll probably wanna leave the player\nAnd if she leave the player, who I'm gon' fuck with?\nCan't fuck with you cause you too comfortable being my side bitch\nBut fuck that, I told her\nDamn, that wasn't smart, damn, I fucked up\nNow that arguing 'bout to start\nShe like \"Who is this, did she suck yo dick?\nAlways that same way, YG, do you love this bitch?\nThis the same chick from last time, I saw you creepin' with\nYou took her out to eat and shit, ooh, I hate this bitch\"\nGoddamn, I gotta put an end to this triangle relationship\nI gotta stay away from you 'cause your pussy too dangerous\n\n[Chorus: Jesse Rutherford]\nWe're made to love, we're made to love\nWe're made to love, we're made to love\n(Hey, but you, babe, you're dangerous!)\nBut you're dangerous, you're dangerous, (You're danger) you're dangerous\nFor both of us, you're dangerous17Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/599362",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Phone Call Interlude by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "id": 599362,
+    "instrumental": false,
+    "lyrics_owner_id": 104344,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1549764056,
+    "path": "/The-neighbourhood-phone-call-interlude-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-phone-call-interlude-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 28
+    },
+    "release_date_for_display": "November 28, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 6268
+    },
+    "title": "Phone Call Interlude",
+    "title_with_featured": "Phone Call Interlude",
+    "updated_by_human_at": 1715660084,
+    "url": "https://genius.com/The-neighbourhood-phone-call-interlude-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "11 ContributorsPhone Call Interlude Lyrics[Interlude: Jesse Rutherford & YG]\nAlright, no problem, I'll do it\nI'm, I'm at the studio right now so I'll just do a little intro, uh...\nFuck, dude, I'm nervous, I've never done an, I've never done like an intro like that, I don't wanna sound like a fuckin' idiot, haha\nNah, you gon' sound cool, just swag it out like:\n\"Hey, this Jesse, hey, this Jesse from The Neighbourhood and we 'bout to cover \"Me & My Bitch\" from YG, too...\"\nSay it how you would like, say it\nYeah, yeah, okay, okay\nThat ain't nothin', nigga, you got that shit, you, you swagged out\nAlright, yo, hit me when you get back to California\nYep, I got you\nAlright, peaceYou might also like5Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/598194",
+    "artist_names": "The Neighbourhood (Ft. G-Eazy)",
+    "full_title": "When I Get Back by\u00a0The\u00a0Neighbourhood (Ft.\u00a0G-Eazy)",
+    "header_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "id": 598194,
+    "instrumental": false,
+    "lyrics_owner_id": 272373,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1588013777,
+    "path": "/The-neighbourhood-when-i-get-back-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 15,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-when-i-get-back-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 28
+    },
+    "release_date_for_display": "November 28, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 45334
+    },
+    "title": "When I Get Back",
+    "title_with_featured": "When I Get Back (Ft.\u00a0G-Eazy)",
+    "updated_by_human_at": 1715660085,
+    "url": "https://genius.com/The-neighbourhood-when-i-get-back-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/11395",
+      "header_image_url": "https://images.genius.com/07ecc412f22fe80d15484ffcc22b7dcd.1000x563x1.jpg",
+      "id": 11395,
+      "image_url": "https://images.genius.com/07b5f933fcadb32fc5812376cdd294ef.1000x1000x1.jpg",
+      "index_character": "g",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "G-Eazy",
+      "slug": "G-eazy",
+      "url": "https://genius.com/artists/G-eazy",
+      "iq": 16675
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "21 ContributorsWhen I Get Back Lyrics[Intro: DJ Drama & Jesse Rutherford]\nBlack and white, The Neighbourhood\nThe west coast is the best coast\nThe best smoke, the best weather\nThe best bitches, can't wait 'till my flight land, hahah\nG-Eazy, fuck with us\n\n[Chorus: Jesse Rutherford]\nI can't wait to get back to California\nI can't wait to get back to California\nI can't wait to get back to California\nI can't wait to get back to California\n\n[Verse 1: Jesse Rutherford]\nWhen I get back to California\nI'll see my sister and my momma\nI'll tell my friends about my fast life\nBecause they know me from my past life\nWhen I get back to California\nI'll smoke a pound of marijuana\nI'll sit inside and watch the sun set\nAll by myself in my apartment, oh\nI'll take the long way home\nWhen I get back to California\nI hope it puts my paranoia\nOn pause, 'cause I'm not a God, oh\nYou might also like[Pre-Chorus: Jesse Rutherford]\nI've got no time to kill\nBut when I get home, maybe I will\n\n[Chorus: Jesse Rutherford]\nI can't wait to get back to California\nI can't wait to get back to California\nI can't wait to get back to California\nI can't wait to get back to California\n\n[Verse 2: G-Eazy]\nI'll be home soon, yeah, uh\nKilling brain cells, killing time\nWhen I finally get back, I'll be feeling fine\nHope I get to chill out in my twenties while I'm still in mine\nTap right out the matrix but I'm just out here maneuvering until it's time (Yeah)\nOn the road, know my girl be goin' through it\nBut I'm a fucking star and I know I was born to do it\nSummer's gone and past, I'm always touring through it\nAnd my penthouse apartment's feeling more like an expensive storage unit (Damn)\nOh well, poor guy, in real life I'm more shy\nI just wanna hide, they just be like \"Bruh, but for why?\"\nEverybody wants a favor or a slice of your pie\nLive a fast life, I'ma either get rich or die (Yeah)\nSo I pass out, faded, then I dream of home\nThinking 'bout that time I really need a loan\nI'ma go for walks around the town, you might even see me roam\nFuck it, I don't even really need a phone\nMan, I'm just tryna chill\n[Pre-Chorus: Jesse Rutherford]\nI've got no time to kill\nBut when I get home\nMaybe I will\n\n[Chorus: Jesse Rutherford]\nI can't wait to get back to California\nI can't wait to get back to California\nI can't wait to get back to California\nI can't wait to get back to California\n\n[Outro: Jesse Rutherford]\nI know the sun's still shining\nI know the sun's still shining\nI know the sun's still shining\nI know the sun's still shining15Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/598269",
+    "artist_names": "The Neighbourhood",
+    "full_title": "To by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "id": 598269,
+    "instrumental": false,
+    "lyrics_owner_id": 263424,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718554524,
+    "path": "/The-neighbourhood-to-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 17,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-to-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 28
+    },
+    "release_date_for_display": "November 28, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 25518
+    },
+    "title": "To",
+    "title_with_featured": "To",
+    "updated_by_human_at": 1718554524,
+    "url": "https://genius.com/The-neighbourhood-to-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "13 ContributorsTo Lyrics[Mixtape Intro: DJ Drama & Jesse Rutherford]\nShout to 4e forever! Black and white!\nOn some mixtape shit, like\nNeighbourhood!\n\n[Intro: Jesse Rutherford]\nOn some mixtape shit, like\n\n[Chorus: Jesse Rutherford]\nI know a couple girls like you\nBut they don't do it like you do\nI hope we can go round two\n'Cause you know I wanna do it again\nI know a couple girls like you\nBut they don't do it like you do, yeah\nI hope we can go round two\n'Cause you know I wanna do it again, yeah\n\n[Verse: Jesse Rutherford]\nBeing away from her\nIt makes me hurt\nIt makes me sad\nI'll try to find another way\nTo make it work\nI hate to lurk\nI'll never learn\nBut I hope I learn it sometime soon because\nYou better watch your mouth\nI know everything that you're all about\nI know what to say that will make you cry\nBut I know we're gonna do it again\nI better watch my words\nI know what to say that will make you hurt\nI know what to say that will make you cry\nBut I know we're gonna do it again, oh\nYou might also like[Chorus: Jesse Rutherford]\nI know a couple girls like you\nBut they don't do it like you do\nI hope we can go round two\n'Cause you know I wanna do it again\nI know a couple girls like you\nBut they don't do it like you do, yeah\nI hope we can go round two\n'Cause you know I wanna do it again, yeah\n\n[Outro: Jesse Rutherford]\nI know a couple girls like you\nBut they don't do it like you do (No, they don't)\nI hope we can go round two (I hope we can)\n'Cause you know I wanna do it again (Come right in the morning, babe)\nI know a couple girls like you (When you're up in the morning, baby, yeah)\nBut they don't do it like you do (We can go round two)\nI hope we can go round two (Oh, no, oh, no)\n'Cause you know I wanna do it again17Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/599366",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Rain Interlude by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "id": 599366,
+    "instrumental": false,
+    "lyrics_owner_id": 3355833,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1549808299,
+    "path": "/The-neighbourhood-rain-interlude-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-rain-interlude-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 28
+    },
+    "release_date_for_display": "November 28, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 14067
+    },
+    "title": "Rain Interlude",
+    "title_with_featured": "Rain Interlude",
+    "updated_by_human_at": 1715660086,
+    "url": "https://genius.com/The-neighbourhood-rain-interlude-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "10 ContributorsRain Interlude Lyrics[Interlude: Jesse Rutherford & Devon Baldwin]\n(Rain pours)\nDon't count on your umbrella, that would be insane\nNever meant to hurt ya, no, let me be your raincoat\nRain, rain, rain, rain, rain, rain, rain, rain\nDon't count on your umbrella, that would be insane\nNever meant to hurt ya, no, let me be your raincoat\nRain, rain, rain, rain, rain, rain, rain, rain (Oh, oh)\nDon't count on your umbrella, that would be insane\nNever meant to hurt ya, no, let me be your raincoat\nRain, rain, rain, rain, rain, rainYou might also like8Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/589927",
+    "artist_names": "The Neighbourhood (Ft. French Montana)",
+    "full_title": "#icanteven by\u00a0The\u00a0Neighbourhood (Ft.\u00a0French\u00a0Montana)",
+    "header_image_thumbnail_url": "https://images.rapgenius.com/761a1d109b47d3d4b7bc532837ba1719.300x300x1.jpg",
+    "header_image_url": "https://images.rapgenius.com/761a1d109b47d3d4b7bc532837ba1719.500x500x1.jpg",
+    "id": 589927,
+    "instrumental": false,
+    "lyrics_owner_id": 727760,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1549808366,
+    "path": "/The-neighbourhood-icanteven-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 119,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-icanteven-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 21
+    },
+    "release_date_for_display": "November 21, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 21, 2014",
+    "song_art_image_thumbnail_url": "https://images.rapgenius.com/761a1d109b47d3d4b7bc532837ba1719.300x300x1.jpg",
+    "song_art_image_url": "https://images.rapgenius.com/761a1d109b47d3d4b7bc532837ba1719.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 180896
+    },
+    "title": "#icanteven",
+    "title_with_featured": "#icanteven (Ft.\u00a0French\u00a0Montana)",
+    "updated_by_human_at": 1715660087,
+    "url": "https://genius.com/The-neighbourhood-icanteven-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1583",
+      "header_image_url": "https://images.genius.com/225d559b44636f2ce45885f8bc006b5f.1000x333x1.jpg",
+      "id": 1583,
+      "image_url": "https://images.genius.com/99431503a5ae0bb0e46760c2efde9a19.581x581x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "French Montana",
+      "slug": "French-montana",
+      "url": "https://genius.com/artists/French-montana",
+      "iq": 7103
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "51 Contributors#icanteven Lyrics[Mixtape Intro: DJ Drama & French Montana]\nEver been cheated on before? (Hey)\nCan't even tell you about my experience (Montana!)\nShh, Neighbourhood, maybe you can describe it a little better for me (Ay, ay, ay, ay, ay, ay, ay)\nFrench, what up?\n\n[Verse 1: Jesse Rutherford]\nJust got cheated on, no it's not my day\nThat's not my bitch, she's not my girl, she's not my bae\nMy stomach's in pain\nI hope I don't throw up all over what you told\nBut it hurts me to know\n\n[Pre-Chorus: Jesse Rutherford]\nI can't even, I can't even believe what you did to me\nYou can't even, you can't even say I'm overreacting\nI can't even, can't even hear your side\nShame on me, you fooled me twice\nAnd you said I wasn't just like anyone, like\nBut you treated me just like everyone, like everyone else\n\n[Chorus: Jesse Rutherford]\nYou like to say that you're right\nDid it make you feel bad\nWhen you cheated on your man last night? (Whoop!)\nDid I even ever cross your mind?\nYou like to say that you're right\nDid it make you feel bad\nWhen you cheated on your man last night? (Whoop!)\nDid I even ever cross your mind?\nYou like to say that you're ri\u2014\nYou like to say that you're right\nYou might also like[Verse 2: French Montana]\n(Montana! Hey)\nDrop head, winter time, hoodie all mink (Mink)\nBought a hundred chains now the bitches all linger (Linger)\nWalk by the crib, smell the kitchen all stanky (Stank)\nFloor seats, 4 quarter, spent a quarter on the link (Woo!)\nRidin' through Philly, Meek Milly, double R (Still rich)\nStill ridin' through the strip catchin' licks with my dog\n30 for the whole, 15 for the half (Eh)\nYou could break it down, come and see me with the bag (Ay)\nShorty fell in love with a young rich nigga\nBlunt full of smoke and a cup full of liquor\nSay what I mean and I mean what I said baby\nSilk sheets, I be slippin' off the bed baby\n\n[Pre-Chorus: Jesse Rutherford]\nI can't even, I can't even believe what you did to me\nYou can't even, you can't even say I'm overreacting\nI can't even, can't even hear your side\nShame on me, you fooled me twice\nAnd you said I wasn't just like anyone, like\nBut you treated me just like everyone, like everyone else\n\n[Chorus: Jesse Rutherford]\nYou like to say that you're right\nDid it make you feel bad\nWhen you cheated on your man last night? (Whoop!)\nDid I even ever cross your mind?\nYou like to say that you're right\nDid it make you feel bad\nWhen you cheated on your man last night? (Whoop!)\nDid I even ever cross your mind?\nYou like to say that you're ri\u2014\nYou like to say that you're right119Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/598273",
+    "artist_names": "The Neighbourhood",
+    "full_title": "U&I by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "id": 598273,
+    "instrumental": false,
+    "lyrics_owner_id": 727760,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714113281,
+    "path": "/The-neighbourhood-u-i-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 21,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-u-i-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 28
+    },
+    "release_date_for_display": "November 28, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 59017
+    },
+    "title": "U&I",
+    "title_with_featured": "U&I",
+    "updated_by_human_at": 1715660088,
+    "url": "https://genius.com/The-neighbourhood-u-i-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "17 ContributorsU&I Lyrics[Chorus: Jesse Rutherford]\nIt don't matter what I'm doing, I keep thinkin' 'bout you and I\nNo matter what I'm doing, I keep thinkin' 'bout you and I\nWhat the fuck am I supposed to do about you and I?\nWhat the fuck are we supposed to do about you and I?\nIt don't matter what I'm doing, I keep thinkin' 'bout you and I\nNo matter what I'm doing, I keep thinkin' 'bout you and I\nWhat the fuck am I supposed to do about you and I?\nWhat the fuck are we supposed to do about you and I?\n\n[Verse 1: Jesse Rutherford]\nI want you to know\nI need you to be someone for me in my life, yeah\nAnd I can't let you go, but you cheated on me\nAnd now everybody thinks that you're the bad guy, yeah\nWell, guess what, I think that you are, baby\nI think you need some discipline, baby\nAnd I think about you kissing him, baby\nFuck that guy, happy I don't know his name\nI'll go ahead and let him play\nAnd I can't try to control your brain\n\n[Bridge: Jesse Rutherford]\nAll I really wanna do is think about you and I\nAll I really wanna do is think about you and I\nBut all you ever do is think about suicide\nAll I ever wanna do is think about who died\nYou might also like[Chorus: Jesse Rutherford]\nIt don't matter what I'm doing, I keep thinkin' 'bout you and I\nNo matter what I'm doing, I keep thinkin' 'bout you and I\nWhat the fuck am I supposed to do about you and I?\nWhat the fuck are we supposed to do about you and I?\nIt don't matter what I'm doing, I keep thinkin' 'bout you and I\nNo matter what I'm doing, I keep thinkin' 'bout you and I\nWhat the fuck am I supposed to do about you and I?\nWhat the fuck are we supposed to do about you and I?\n\n[Verse 2: Jesse Rutherford]\nBe honest with me, when you're asleep\nWhat do you see behind those eyes?\n'Cause I've brought some shades but when you're away\nWell, nothing ever seems to come out right\nBut it's hard to remember dreams, baby\nAnd I know you won't tell everything, baby\nBut you say I'm on your memory, baby, yeah\nAnd that's fine\nFuck, I think I know his name now\nI hope that I don't go insane now\nIf so, I'll have to blow his brains out\n\n[Chorus: Jesse Rutherford]\nIt don't matter what I'm doing, I keep thinkin' 'bout you and I\nNo matter what I'm doing, I keep thinkin' 'bout you and I, yeah\nWhat the fuck am I supposed to do about you and I?\nWhat the fuck are we supposed to do about you and I, yeah?\nIt don't matter what I'm doing, I keep thinkin' 'bout you and I\nNo matter what I'm doing, I keep thinkin' 'bout you and I, yeah\nWhat the fuck am I supposed to do about you and I?\nWhat the fuck are we supposed to do about you and I, yeah?\nIt don't matter what I'm doing, I keep thinkin' 'bout you and I\nNo matter what I'm doing, I keep thinkin' 'bout you and I, yeah\nWhat the fuck am I supposed to do about you and I?\nWhat the fuck are we supposed to do about you and I, yeah?\n[Outro: Anabel Englund]\nYou're right, I still love you\nEven though you\u2019re a fucking cunt douchebag\nAnd I'm sure you feel the same about me\nBut, whatever, that's it21Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/598165",
+    "artist_names": "The Neighbourhood (Ft. Danny Seth & DeJ Loaf)",
+    "full_title": "Givin N' Takin by\u00a0The\u00a0Neighbourhood (Ft.\u00a0Danny\u00a0Seth & DeJ\u00a0Loaf)",
+    "header_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "id": 598165,
+    "instrumental": false,
+    "lyrics_owner_id": 104344,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1597270856,
+    "path": "/The-neighbourhood-givin-n-takin-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 16,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-givin-n-takin-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 28
+    },
+    "release_date_for_display": "November 28, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 23309
+    },
+    "title": "Givin N\u2019 Takin",
+    "title_with_featured": "Givin N' Takin (Ft.\u00a0Danny\u00a0Seth & DeJ\u00a0Loaf)",
+    "updated_by_human_at": 1715660089,
+    "url": "https://genius.com/The-neighbourhood-givin-n-takin-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/222357",
+      "header_image_url": "https://images.genius.com/ea8256d97882ea54dbf85eed3326466d.1000x1000x1.jpg",
+      "id": 222357,
+      "image_url": "https://images.genius.com/ea8256d97882ea54dbf85eed3326466d.1000x1000x1.jpg",
+      "index_character": "d",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "DeJ Loaf",
+      "slug": "Dej-loaf",
+      "url": "https://genius.com/artists/Dej-loaf",
+      "iq": 2613
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/47356",
+      "header_image_url": "https://images.genius.com/200f9b1b1deae062fbe8a4bbfd7f59d2.1000x1000x1.jpg",
+      "id": 47356,
+      "image_url": "https://images.genius.com/200f9b1b1deae062fbe8a4bbfd7f59d2.1000x1000x1.jpg",
+      "index_character": "d",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Danny Seth",
+      "slug": "Danny-seth",
+      "url": "https://genius.com/artists/Danny-seth",
+      "iq": 783
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "18 ContributorsGivin N\u2019 Takin Lyrics[Part I: Givin]\n\n[Mixtape Intro: DJ Don Cannon]\nYou know one thing you can put on the record?\nMe and Drama been givin' and takin'\nShout to Danny Seth, DeJ Loaf (The British are coming)\n\n[Verse 1: Danny Seth]\nTalkin' 'bout money?\nShit, I'm about to make a lot (Uh-huh)\nSee the Rollie on my left wrist?\nIt's the reason I don't use a clock (Hah!)\nCheck the Rollie once again (Uh)\nStill I have to for the cops\nAnd if you hatin' on the low\nBetter stand up 'fore your punk ass gets dropped\nI'm a (The British) trendsetter\nTryna make bread like Mayweather (Hm)\nComparin' me to other man, I'm way better\nThis lamb skin, boy you rock fake leather (Hah!)\nI ain't got time for the beef, mothafucka\nCook it like Boyardee mothafucka\nAnd everybody wanna be me, see me\nThey'll be on my nuts like tight jeans, mothafucka\nI just checked and I got next (Next)\nI ain't talking alphabet but I'm better with your ex\nYou be hangin' with the 6s while I'm bangin' out the 10s\nAnd I'm from the UK, flow like the River Thames\nSo, come flow with me (Flow)\nWhen I'm sonning all these rappers like an ovary (Sonning)\nAnd I'm puffin' on some tree with some potent leaves\n'Cause we made it from the UK overseas and that's real\nYou might also like[Break: Jesse Rutherford]\nOn some mixtape shit, like\n\n[Verse 2: DeJ Loaf]\nIt's not givin', it's just takin', it's just takin'\nLive your life, roll your blunts and chase nathin'\nI've been out here for a minute, it's my time\nBought a watch before a crib\nI'm too important and I can't show you where I live\nWhy they think that they can stop me? I'm goin' so hard\nI'm facin' my fears, face full of tears\nI'm scarred for life, so I'ma ball for life\nDJ play my song tonight, alright (Uh)\nWoah, Russian roulette, one to the neck\nBreak you to pieces and open your flesh\nAm I in love? Am I the best?\nIt could be lust, you obsessed with the sex\nI'm obsessed with the thought of me breakin' your heart\nRollies for breakfast and APs for brunch\nWe done got rich and forgot who we was\nI think you would too if you came from the slums for life\n\n[Segue: DeJ Loaf]\nAlright\nYeah, yeah, woah\n[Part II: Takin]\n\n[Chorus: Jesse Rutherford]\nGive me the room and I'll take it\nI couldn't fake all the things that I say\nI know the rules but I'm playin'\nIn a game that'll throw you away\nGive me the room and I'll take it\nI couldn't fake all the things that I say\nI know the rules but I'm playin'\nIn a game that'll throw you away\n\n[Outro: Jesse Rutherford]\nI'm givin' and takin' (Ahh)\nI'm givin' and takin' (Ahh)\nI'm givin' and takin' (Ahh)\nI'm givin' and takin' (Ahh)\nI'm givin' and takin'16Embed"
+   }
+  },
+  {
+   "number": 15,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/572314",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Unfair by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/aae8e975f02fd047a6f281a7454a23ef.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/aae8e975f02fd047a6f281a7454a23ef.500x500x1.jpg",
+    "id": 572314,
+    "instrumental": false,
+    "lyrics_owner_id": 3355833,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1667587685,
+    "path": "/The-neighbourhood-unfair-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 15,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-unfair-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 12,
+     "day": 24
+    },
+    "release_date_for_display": "December 24, 2013",
+    "release_date_with_abbreviated_month_for_display": "Dec. 24, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/aae8e975f02fd047a6f281a7454a23ef.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/aae8e975f02fd047a6f281a7454a23ef.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 101628
+    },
+    "title": "Unfair",
+    "title_with_featured": "Unfair",
+    "updated_by_human_at": 1715660092,
+    "url": "https://genius.com/The-neighbourhood-unfair-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "18 ContributorsUnfair Lyrics[Instumental]\nUnfair, unfair, -air\nUnfair, unfair, unfair, unfair\n-air, -air\nUnfair, unfair, unfair, unfair\nUnfair, unfair, unfair, unfair\nUnfair, unfair, unfair, unfair\nUnfair, unfair, unfair, unfairYou might also like15Embed"
+   }
+  },
+  {
+   "number": 16,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/346188",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Silver by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/b666b0841f143c1556a801a2b9501a97.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b666b0841f143c1556a801a2b9501a97.500x500x1.jpg",
+    "id": 346188,
+    "instrumental": false,
+    "lyrics_owner_id": 3355833,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1610459962,
+    "path": "/The-neighbourhood-silver-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-silver-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 12,
+     "day": 13
+    },
+    "release_date_for_display": "December 13, 2013",
+    "release_date_with_abbreviated_month_for_display": "Dec. 13, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b666b0841f143c1556a801a2b9501a97.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b666b0841f143c1556a801a2b9501a97.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 32121
+    },
+    "title": "Silver",
+    "title_with_featured": "Silver",
+    "updated_by_human_at": 1715660093,
+    "url": "https://genius.com/The-neighbourhood-silver-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "13 ContributorsSilver Lyrics[Chorus]\nSilver eyes\nHoping for paradise\nI\u2019ve seen it a million times, cry\nSilver eyes\nHoping for paradise\nI\u2019ve seen it a million times, cry\n\n[Chorus]\nSilver eyes\nHoping for paradise\nI\u2019ve seen it a million times, cry\nSilver eyes\nHoping for paradise\nI\u2019ve seen it a million times, cryYou might also like18Embed"
+   }
+  },
+  {
+   "number": 17,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/598279",
+    "artist_names": "The Neighbourhood",
+    "full_title": "T$RL by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "id": 598279,
+    "instrumental": false,
+    "lyrics_owner_id": 727760,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1717963734,
+    "path": "/The-neighbourhood-t-rl-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-t-rl-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 11,
+     "day": 28
+    },
+    "release_date_for_display": "November 28, 2014",
+    "release_date_with_abbreviated_month_for_display": "Nov. 28, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d0a36216d0b9c554ea08520c7f1beadc.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 38859
+    },
+    "title": "T$RL",
+    "title_with_featured": "T$RL",
+    "updated_by_human_at": 1717963734,
+    "url": "https://genius.com/The-neighbourhood-t-rl-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "24 ContributorsT$RL Lyrics[Verse]\nYeah, yeah\nTrue story, real life\nFirst let me say this:\nI am black and white, everybody else just fakes it\nEverybody else so basic, stop tryin', please stay home\nWe don't need another band in the grey zone\nYeah, I think we need change like a payphone\nTrue story, real life, mama said I'd be a rockstar\nBut rock n' roll is dead, mama\nIt's not long before the blogs are\nUntil then I'll be a blog-star\nIf you need me, you know where I'll be\nMan, I'm either on the road or flyin' overseas\nI got a bunch of little girls cryin' over me\nTrue story, real life, we got signed to a label\nAnd we infected the internet, uh\nWe started playin' on the radio\nDo you really think we could say no?\nWith these million dollar checks on the table\nWe were working at the mall on the payroll\nAnd now it's getting kinda hard just to lay low, yeah\nTrue story, real life\nUh, the only guardian I have is me, uh\nI'll kill myself with a pitchfork\nAnd I'm my own worst enemy\nAnd when I die leave me in the streets, uh\nI want pigeons flyin' over me\nAnd I'm a vision to this whole thing\nSo I don't care if you don't got any hope for me\nTrue story, real life, yeah, I could use a little help, uh\nAnd I'm talking 'bout girls like I got 'em but I don't\nI'm upset with myself\nMan, I wish I could have sex with myself\nHm, that would solve all of my issues, huh\nYou were crazy but I miss you\nNow I'm alone with a box full of tissues, so\nTrue story, real life, I don't feel like we made it\nDidn't mean to be a mystery\nAnd we just didn't wanna say shit\nNow we're a little bit famous\nAnd I think I might hate it\nI could give a motherfuck about a plaque\nBut double platinum looks good when it's next to white and blackYou might also like18Embed"
+   }
+  },
+  {
+   "number": 18,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/508863",
+    "artist_names": "The Neighbourhood (Ft. Danny Brown)",
+    "full_title": "H8M4CH1N3 by\u00a0The\u00a0Neighbourhood (Ft.\u00a0Danny\u00a0Brown)",
+    "header_image_thumbnail_url": "https://images.genius.com/dd5fbace8f22bc48713a4b523d370827.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/dd5fbace8f22bc48713a4b523d370827.500x500x1.jpg",
+    "id": 508863,
+    "instrumental": false,
+    "lyrics_owner_id": 476801,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1549824632,
+    "path": "/The-neighbourhood-h8m4ch1n3-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 25,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-h8m4ch1n3-sample",
+    "release_date_components": {
+     "year": 2014,
+     "month": 8,
+     "day": 22
+    },
+    "release_date_for_display": "August 22, 2014",
+    "release_date_with_abbreviated_month_for_display": "Aug. 22, 2014",
+    "song_art_image_thumbnail_url": "https://images.genius.com/dd5fbace8f22bc48713a4b523d370827.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/dd5fbace8f22bc48713a4b523d370827.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 30514
+    },
+    "title": "H8M4CH1N3",
+    "title_with_featured": "H8M4CH1N3 (Ft.\u00a0Danny\u00a0Brown)",
+    "updated_by_human_at": 1715660094,
+    "url": "https://genius.com/The-neighbourhood-h8m4ch1n3-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1422",
+      "header_image_url": "https://images.genius.com/344ff4409d4b7fddb09f4bb7dde34987.965x579x1.jpg",
+      "id": 1422,
+      "image_url": "https://images.genius.com/c0563c9032200258584576466a5d6d53.395x395x1.jpg",
+      "index_character": "d",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Danny Brown",
+      "slug": "Danny-brown",
+      "url": "https://genius.com/artists/Danny-brown",
+      "iq": 12557
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "18 ContributorsH8M4CH1N3 Lyrics[Verse 1: Jesse Rutherford]\nYou are the only one, the only one, the only one for me\nYou are the only one, the only one, the only one\nI am the chosen one, the chosen one, the chosen one for you\nI am the chosen one, I froze your lungs, your breath tells me the truth\nI knew that you knew, I knew that you knew, and he knew it too\nWhen I walked in the room, well, I could have died\nI should've left, yeah I should've went, but I couldn't go\nHe was your man, but I am your lie\n\n[Chorus: Jesse Rutherford]\nI am a slave to these make believe things you say to me\nAnd I've built this hate machine of broken dreams and the wall did crumble\nI am a slave to these make believe things you say to me\nAnd I've built this hate machine of broken dreams and the wall did crumble\n\n[Verse 2: Danny Brown]\nCheck!\nCan't think, can't sleep, can't eat, can't speak\nGame so strong, thought I had a cheat sheet\nBut you got my heart beat like run around sheep\nLittle Bo-Peep can't kill my team\nStill run around beats so I slap them sheets\nLate night freak, queen black, who he?\n'Cause when we together it's like he don't exist\n'Cause it's all about you, not all about me\nSo baby girl, who you chosin'?\nFoolish how you got my mind in ruins\nCan\u2019t think straight and I\u2019m in mistake\nLooking in your eyes and lying in your face\nRather lay in bed with your head on my chest\nStrokin' yo hair when I\u2019m holdin' deep breath\nFeel so right, I ain\u2019t got nothin' left\nHeart skipping beats like a bad DJ set\nHead so gone and I can\u2019t think straight\nClose my eyes, all I see is your face\nHear your voice bring chills to my spine\nLose my mind until you\u2019re mine\nBitch I\u2019m the chosen one, I\u2019m the chosen one\nAll I can focus on, smoke and wine\nKnow I ain\u2019t sober, text you to come over\nCan\u2019t make it to that bedroom, now we on the sofa\nYou might also like[Outro: Danny Brown]\nDanny Brown and that Neighbourhood\nWhen she leave you, she staying for good\nDoing all the things that she wished she could\nDoing all the things she thought she would\nDanny Brown and that Neighbourhood\nWhen she leave you, she staying for good\nDoing everything that you wish you could\nDoing things she never thought she would25Embed"
+   }
+  }
+ ]
+}

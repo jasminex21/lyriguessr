@@ -21,7 +21,8 @@ class Lyrigetter:
                 else: 
                     self.album_filenames.append(f"{'_'.join(album_name.split(' '))}.json")
         else:
-            self.album_filenames = [f"{'_'.join(album_name.split(' '))}.json" for album_name in self.album_names]
+            filenames = [re.sub(r'[^\w\s]','', name) for name in self.album_names]
+            self.album_filenames = [f"{'_'.join(album_name.split(' '))}.json" for album_name in filenames]
     
     def store_album_data(self):
         """Using search_album from lyricsgenius to obtain songs from each 
@@ -147,6 +148,13 @@ class Lyrigetter:
         all_lyrics = pd.concat([current_lyrics, full_lyrics])
         all_lyrics.to_csv(f"{self.artist_name.lower()}_lyrics.csv", index=False)
         print(f"Song {song_name} added to {self.artist_name.lower()}_lyrics.csv")
+    
+    def remove_songs(self, song_names):
+
+        current_lyrics = pd.read_csv(f"{self.artist_name.lower()}_lyrics.csv")
+        filtered_lyrics = current_lyrics[~current_lyrics["track_name"].isin(song_names)]
+        filtered_lyrics.to_csv(f"{self.artist_name.lower()}_lyrics.csv", index=False)
+        print(f"Songs {song_names} removed from {self.artist_name.lower()}_lyrics.csv")
 
     def save_counts(self):
         """Creates CSV file containing counts of the top 5 most common lyrics

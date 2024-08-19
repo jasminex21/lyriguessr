@@ -1,0 +1,817 @@
+{
+ "_type": "album",
+ "api_path": "/albums/129372",
+ "cover_art_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+ "full_title": "Wiped Out! by The Neighbourhood",
+ "id": 129372,
+ "name": "Wiped Out!",
+ "name_with_artist": "Wiped Out! (artist: The Neighbourhood)",
+ "release_date_components": {
+  "year": 2015,
+  "month": 10,
+  "day": 30
+ },
+ "release_date_for_display": "October 30, 2015",
+ "url": "https://genius.com/albums/The-neighbourhood/Wiped-out",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/41662",
+  "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+  "id": 41662,
+  "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Neighbourhood",
+  "slug": "The-neighbourhood",
+  "url": "https://genius.com/artists/The-neighbourhood"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/41662",
+   "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+   "id": 41662,
+   "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+   "index_character": "n",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "The Neighbourhood",
+   "slug": "The-neighbourhood",
+   "url": "https://genius.com/artists/The-neighbourhood"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/2290587",
+    "artist_names": "The Neighbourhood",
+    "full_title": "A Moment of Silence by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "id": 2290587,
+    "instrumental": false,
+    "lyrics_owner_id": 104344,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1654765900,
+    "path": "/The-neighbourhood-a-moment-of-silence-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-a-moment-of-silence-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 10,
+     "day": 30
+    },
+    "release_date_for_display": "October 30, 2015",
+    "release_date_with_abbreviated_month_for_display": "Oct. 30, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 63917
+    },
+    "title": "A Moment of Silence",
+    "title_with_featured": "A Moment of Silence",
+    "updated_by_human_at": 1722966457,
+    "url": "https://genius.com/The-neighbourhood-a-moment-of-silence-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "28 ContributorsTranslationsT\u00fcrk\u00e7eA Moment of Silence Lyrics(30 seconds of silence)You might also like6Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/2290588",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Prey by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/8249b30638cf270e32e56200f3e75a65.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/8249b30638cf270e32e56200f3e75a65.1000x1000x1.jpg",
+    "id": 2290588,
+    "instrumental": false,
+    "lyrics_owner_id": 2050861,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721673214,
+    "path": "/The-neighbourhood-prey-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 46,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-prey-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 10,
+     "day": 14
+    },
+    "release_date_for_display": "October 14, 2015",
+    "release_date_with_abbreviated_month_for_display": "Oct. 14, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8249b30638cf270e32e56200f3e75a65.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/8249b30638cf270e32e56200f3e75a65.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 273020
+    },
+    "title": "Prey",
+    "title_with_featured": "Prey",
+    "updated_by_human_at": 1722966468,
+    "url": "https://genius.com/The-neighbourhood-prey-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "45 ContributorsTranslationsT\u00fcrk\u00e7ePrey Lyrics[Verse 1]\nAs long as you notice\nI'm hoping that you'll keep your heart open\nI'll keep mine open too\nIf you don't ask, I won't tell\nJust know that, just know that\nIt all hurts, it all hurts just the same\n\n[Chorus 1]\nSomething is wrong, I can't explain\nEverything changed when the birds came\nYou'll never know what they might do if they catch you too early\nWe need to fly ourselves before someone else tells us how\nSomething is off, I feel like prey, I feel like praying\n\n[Verse 2]\nAs long as you notice\nI'm hoping that you'll keep your heart open\nI'll keep mine open too\nSo, so, I'll probably take you aside\nAnd tell you what's on my mind\nBut you, you'll just keep it inside\nProbably tell me that you're alright\n\n[Chorus 1]\nSomething is wrong, I can't explain\nEverything changed when the birds came\nYou'll never know what they might do if they catch you too early\nWe need to fly ourselves before someone else tells us how\nSomething is off, I feel like prey, I feel like praying\nYou might also like[Bridge]\n(If I run) If I run away I'll never know\n(What you want)\nAnd if you go then I\u2019ll never grow\n(I'm undone)\nLet me slip, let me slide\n(If you run) I'll be sure to let you fly\n\n[Chorus 2]\nSomething is off, I can't explain\nYou know what I mean, don't you?\nSomething I saw, or something I did that made me like this\nCould you help me?\nWe need to fly ourselves before someone else tells us how\nSomething is off, I feel like prey, I feel like praying\nSomething is off, I feel like prey, I feel like praying\n\n[Verse 3]\nSo, so, I'll probably take you aside\nAnd tell you what's on my mind\nBut you, you'll just keep it inside\nProbably tell me that you're alright\nSo, so, I'll probably take you aside\nAnd tell you what's on my mind\nBut you, you'll just keep it inside\nProbably tell me that you're alright\n[Outro]\nI don't want to fight\nI don't want to fight\nI don't want to fight\nI don't want to fight46Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/2290589",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Cry Baby by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "id": 2290589,
+    "instrumental": false,
+    "lyrics_owner_id": 104344,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1716099488,
+    "path": "/The-neighbourhood-cry-baby-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 46,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-cry-baby-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 10,
+     "day": 30
+    },
+    "release_date_for_display": "October 30, 2015",
+    "release_date_with_abbreviated_month_for_display": "Oct. 30, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 406467
+    },
+    "title": "Cry Baby",
+    "title_with_featured": "Cry Baby",
+    "updated_by_human_at": 1722966482,
+    "url": "https://genius.com/The-neighbourhood-cry-baby-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "56 ContributorsTranslationsT\u00fcrk\u00e7eDeutschPortugu\u00easCry Baby Lyrics[Verse 1]\nI think I talk too much\nI need to listen, baby\nI need to listen, baby\nI need to listen good\nI think I try too hard\nHow I look, what I do, what I'm sayin'\nI spend too much time explainin' myself\nI hope there's some time to change it\n\n[Pre-Chorus]\nI can taste it, my heart's breakin', please don't say\nThat you know, when you know\nI can't take it, I'm impatient, tell me, baby\nNow I know, you should go\n\n[Chorus]\nI know I'll fall in love with you, baby\nAnd that's not what I wanna do\nI hope you won't ever lie to me\nAnd if you do, I know I won't be your cry baby\n\n[Verse 2]\nI think I worry a lot\nI need to take it easy\nI've got this anxious feeling\nBut it goes away for a minute when I'm with you, breathing\nYou might also like[Pre-Chorus]\nI can taste it, my heart's breakin', please don't say\nThat you know, when you know\nI can't take it, I'm impatient, tell me, baby\nNow I know, you should go\n\n[Chorus]\nI know I'll fall in love with you, baby\nAnd that's not what I wanna do\nI hope you won't ever lie to me\nAnd if you do, I know I won't be your cry baby\n\n[Bridge]\nThe Sun's coming out but I'm feeling colder\nI can't wait 'til the drought is over\n\n[Chorus]\nI know I'll fall in love with you, baby\nYeah, that's just what I'll do\nI hope you won't ever lie to me\nAnd if you do, I know I won't be your cry baby\nI know I'll fall in love with you, baby\nAnd that's not what I wanna do\nI hope you won't ever lie to me\nAnd if you do, I know I won't be your cry baby\n[Outro]\nCry baby, cry baby\nI need to cry, baby\nCry baby, cry baby\nYou need to cry, baby\nCry baby, cry baby\nWe need to cry\nAnd if we do, I know that would be alright46Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/2290594",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Wiped Out! by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "id": 2290594,
+    "instrumental": false,
+    "lyrics_owner_id": 104344,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1711885377,
+    "path": "/The-neighbourhood-wiped-out-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 32,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-wiped-out-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 10,
+     "day": 30
+    },
+    "release_date_for_display": "October 30, 2015",
+    "release_date_with_abbreviated_month_for_display": "Oct. 30, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 9,
+     "hot": false,
+     "pageviews": 239404
+    },
+    "title": "Wiped Out!",
+    "title_with_featured": "Wiped Out!",
+    "updated_by_human_at": 1722966493,
+    "url": "https://genius.com/The-neighbourhood-wiped-out-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "62 ContributorsTranslationsT\u00fcrk\u00e7eWiped Out! Lyrics[Verse 1]\nLost and afraid, young and innocent but getting older\nI don't wanna be alone, I don't wanna be alone\nSharper the blade is, the easier it scars your soul\nI don't wanna be alone, I don't wanna be alone\n\n[Pre-Chorus 1]\nMy current state is heavy\nHope it's a phase or something\n\n[Chorus]\nDon't let me go\n\n[Verse 2]\nUp and away, I'm an alien, I need a moment\nI don't know what to believe\nAll I wanna do is leave\nWhat can I say that would make you see, make you need me?\nMaybe I won't ever know, maybe I'll end up alone\n\n[Pre-Chorus 2]\nRunning in place (Circles, in circles with you)\nDon't mind me, out in a race (I didn't mean to be here)\n\n[Chorus]\nWatch me go\nI don't wanna let you down\nSo, promise you won\u2019t let me drown\nYou might also like[Bridge]\nHow can you feel the way that I'm feeling\nIf you're not inside of my head?\nI got the pressure, it's pushing my buttons\nAnd making me think about death\nI got some mixed emotions about how I've been getting to all these checks\nActing all funny because of the money\nIt's making my tummy upset\nHow can you feel the way that I'm feeling\nIf you're not inside of my head?\nI got the pressure, it's pushing my buttons\nAnd making me think about death\nSomebody find me a balance\nLook what I did to myself and my friends\nEmotions are paying the rent, oh\nEmotions are paying the rent, oh\n[Instrumental Interlude]\n\n[Outro]\nI'm back and forth, I think I'm going crazy\nI'm back and forth, I can't make up my mind\nI'm up and down, I'm never sad\nI'm up and down, I'm never satisfied\nI'm back and forth, I think I'm going crazy\nI'm back and forth, I can't make up my mind\nI'm up and down, I'm never sad\nI'm up and down, I'm never satisfied\nI'm back and forth, I think I'm going crazy\nI'm back and forth, I can't make up my mind\nI'm up and down, I'm never sad\nI'm up and down, I'm never satisfied\nI'm back and forth, I think I'm going crazy\nI'm back and forth, I can't make up my mind\nI'm up and down, I'm never sad\nI'm up and down, I'm never satisfied32Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/2290593",
+    "artist_names": "The Neighbourhood",
+    "full_title": "The Beach by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/5c0465a76c989207bd4cfcba86e8256d.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5c0465a76c989207bd4cfcba86e8256d.1000x1000x1.jpg",
+    "id": 2290593,
+    "instrumental": false,
+    "lyrics_owner_id": 672397,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1668442640,
+    "path": "/The-neighbourhood-the-beach-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 61,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-the-beach-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 24
+    },
+    "release_date_for_display": "September 24, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 24, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5c0465a76c989207bd4cfcba86e8256d.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5c0465a76c989207bd4cfcba86e8256d.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 447995
+    },
+    "title": "The Beach",
+    "title_with_featured": "The Beach",
+    "updated_by_human_at": 1722966525,
+    "url": "https://genius.com/The-neighbourhood-the-beach-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "64 ContributorsTranslationsT\u00fcrk\u00e7eThe Beach Lyrics[Verse 1]\nIf I told you that I loved you\nTell me, what would you say?\nIf I told you that I hated you\nWould you go away?\nNow I need your help with everything that I do\nI don't want to lie, I've been relying on you\n\n[Pre-Chorus]\nFallin' again\nI need a pick-me-up\nI've been callin' you \"friend,\"\nI might need to give it up\n\n[Chorus]\nI'm sick, and I'm tired too\nI can admit, I am not fireproof\nI feel it burning me\nI feel it burning you\nI hope I don't murder me\nI hope I don't burden you\nIf I do, If I do\n\n[Verse 2]\nIf I meet you in the middle, maybe we could agree\nYou make me feel little how you're looking at me\nAnd you can throw me shade, all it does is just cool me off\nFirst it just threw me off, now I'm just moving on\nYou might also like[Pre-Chorus]\nFallin' again\nI need a pick-me-up\nI've been callin' you \"friend,\"\nI might need to give it up\n\n[Chorus]\nI'm sick, and I'm tired too\nI can admit, I am not fireproof\nI feel it burning me\nI feel it burning you\nI hope I don't murder me\nI hope I don't burden you\n\n[Bridge]\nSwim with me\nI think I can see the beach\nI know what's underneath\nI need you here with me but we're out in the open\nSwim with me\nI think I can see the beach\nJust don't look underneath us\nI need you here with me but we're out in the open\n\n[Chorus]\nI'm sick, and I'm tired too\nI can admit, I am not fireproof\nI feel it burning me\nI feel it burning you\nI hope I don't murder me\nI hope I don't burden you\nIf I do, If I do61Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/2290592",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Daddy Issues by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "id": 2290592,
+    "instrumental": false,
+    "lyrics_owner_id": 2274987,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722992887,
+    "path": "/The-neighbourhood-daddy-issues-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 135,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-daddy-issues-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 10,
+     "day": 30
+    },
+    "release_date_for_display": "October 30, 2015",
+    "release_date_with_abbreviated_month_for_display": "Oct. 30, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 1282189
+    },
+    "title": "Daddy Issues",
+    "title_with_featured": "Daddy Issues",
+    "updated_by_human_at": 1722992887,
+    "url": "https://genius.com/The-neighbourhood-daddy-issues-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "114 ContributorsTranslationsT\u00fcrk\u00e7e\u65e5\u672c\u8a9eDaddy Issues Lyrics[Verse 1]\nTake you like a drug\nI taste you on my tongue\n\n[Pre-Chorus]\nYou ask me what I'm thinking about\nI tell you that I'm thinking about\nWhatever you're thinking about (Ah)\nTell me somethin' then I'll forget\nAnd you might have to tell me again\nIt's crazy what you do for a friend\n\n[Chorus]\nGo ahead and cry, little girl\nNobody does it like you do\nI know how much it matters to you\nI know that you got daddy issues\nAnd if you were my little girl\nI'd do whatever I could do\nI'd run away and hide with you\nI know that you got daddy issues, and I do too\n\n[Verse 2]\nI tried to write your name in the rain\nBut the rain never came\nSo I made with the sun\nThe shade\nAlways comes at the worst times (Ah)\nYou might also like[Pre-Chorus]\nYou ask me what I'm thinking about\nI tell you that I'm thinking about\nWhatever you're thinking about\nTell me somethin' then I'll forget\nAnd you might have to tell me again\nIt's crazy what you do for a friend\n\n[Chorus]\nGo ahead and cry, little girl\nNobody does it like you do\nI know how much it matters to you\nI know that you got daddy issues\nAnd if you were my little girl\nI'd do whatever I could do\nI'd run away and hide with you\nI know that you got daddy issues\n\n[Bridge]\nI keep on tryin' to let you go\nI'm dyin' to let you know\nHow I'm getting on\nI didn't cry when you left at first\nBut now that you're dead it hurts\nThis time I gotta know\nWhere did my daddy go?\nI'm not entirely here\nHalf of me has disappeared\n[Refrain]\nGo ahead and cry, little boy\nYou know that your daddy did too\nYou know what your mama went through\nYou gotta let it out soon, just let it out\n\n[Chorus]\nGo ahead and cry, little girl\nNobody does it like you do\nI know how much it matters to you\nI know that you got daddy issues\nAnd if you were my little girl\nI'd do whatever I could do\nI'd run away and hide with you\nI know that you got daddy issues, and I do too\n\n[Outro]\nIf you were my little girl\nI'd do whatever I could do\nI'd run away and hide with you\nI know that you got daddy issues, and I do too135Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/2290591",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Baby Came Home 2 / Valentines by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "id": 2290591,
+    "instrumental": false,
+    "lyrics_owner_id": 2390319,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1707570304,
+    "path": "/The-neighbourhood-baby-came-home-2-valentines-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 21,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-baby-came-home-2-valentines-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 10,
+     "day": 30
+    },
+    "release_date_for_display": "October 30, 2015",
+    "release_date_with_abbreviated_month_for_display": "Oct. 30, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 261410
+    },
+    "title": "Baby Came Home 2 / Valentines",
+    "title_with_featured": "Baby Came Home 2 / Valentines",
+    "updated_by_human_at": 1722966379,
+    "url": "https://genius.com/The-neighbourhood-baby-came-home-2-valentines-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "45 ContributorsTranslationsT\u00fcrk\u00e7eBaby Came Home 2 / Valentines Lyrics[Part I: Baby Came Home 2]\n\n[Verse 1]\nShe was five-foot four with some money on the floor\nAnd a box that's hidden under her bed\nI was only twenty-two with a pocket full of truth\nBut I gave her everything that I had\nWe were born and raised in the Golden State\nMommy's gone and daddy's doing his best\nI was brought up great, living Section 8\nSocial security's paying the rent, oh-oh-oh (Ooh)\nThe landlord called, she said, \"You gotta go\" (Ooh)\nLittle one, you just lost your (Ooh-ooh)\n(Yeah)\n\n[Verse 2]\nShe was five-foot four, getting money on tour\nBut her socks were at the end of my bed\nGot our names tattooed on each other\nJust to prove to each other that we'd do what we said\nOnly took a few days 'til our minds were made up\nAnd we thought we should try it again\nI was only seventeen when we first tried things\nWhen she first made me feel like a man, oh-oh (Ooh-ooh)\n\n[Bridge]\nWho am I gonna call? (Ooh)\nWho's gonna catch me when I\u2014 (Ooh)\nWho's the one you're sleeping with? (Ooh)\nYou might also like[Chorus]\nWell, don't just sit in front of me and wait for me to talk\nYou can call me up, phone works two ways, you know\nThis time, baby, yeah, I think that I'll be just fine\nAnd I wish I could say the same for you\nI, yeah, I do, I, hey\n\n[Instrumental Outro]\n(Yeah, yeah, yeah)\n(Hey, hey, hey)\n(Yeah, yeah, yeah)\n(Ah-ah)\n(Ah-ah)\n(Ah-ah)\n\n[Part II: Valentines]\n\n[Spoken Word]\nTo those of you in which I choose to always be the closest to\nThere's something that you need to know\nLoving me is not a joke\nAnd you can put it all on me, you can laugh and you can bleed\nAnd I'll adopt it all because that's just what a buddy does\nI loved you from minute one, the iced tea to my lemonade\nNever one to hit and run, soaking every minute made\nYou can give me all your juice, I can squeeze it out for you\nAnd all I ask you in exchange, love me back through every phase\nIf it ever comes off wrong or leaves you with a bitter taste\nJust remember you're the tea\nAnd I'm your sour lemonade, I'm your sour lemonade\nTropical iced tea and hot pink lemonade21Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/2290595",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Greetings from Califournia by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "id": 2290595,
+    "instrumental": false,
+    "lyrics_owner_id": 2402145,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1679956448,
+    "path": "/The-neighbourhood-greetings-from-califournia-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 20,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-greetings-from-califournia-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 10,
+     "day": 30
+    },
+    "release_date_for_display": "October 30, 2015",
+    "release_date_with_abbreviated_month_for_display": "Oct. 30, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 14,
+     "hot": false,
+     "pageviews": 147905
+    },
+    "title": "Greetings from Califournia",
+    "title_with_featured": "Greetings from Califournia",
+    "updated_by_human_at": 1722966390,
+    "url": "https://genius.com/The-neighbourhood-greetings-from-califournia-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "39 ContributorsTranslationsT\u00fcrk\u00e7eGreetings from Califournia Lyrics[Chorus]\nOoh, I know once you come to California\nYou won't ever look back\nOoh, just a little bit can make you wonder\nYou got it in\n\n[Verse 1]\nHands up, it's a stick up\nNobody's leaving this room for a minute\nEveryone's breathing these fumes that are in it\nSick of the people who make the decisions\nPut your hands up, it's a stick up\nHopefully God is still down to forgive us\nNobody's breathing, who let the evil in?\n\n[Pre-Chorus]\nWhat's in the water?\nAre you bothered?\nWhat's the problem here?\n\n[Chorus]\nOoh, I know once you come to California\nYou won't ever look back\nOoh, Just a little bit can make you wonder\nYou got it in\nYou might also like[Break]\nI can feel it go down\nI can feel it go down all the way, all the way\nGive it to me slow now\nGive it to me slow then wash away\nIt comes and comes away\n\n[Chorus]\nOoh, I know once you come to California\nYou will never look back\nOoh, just a little bit can make you wonder\n\n[Bridge]\nHandcuffed and I thought of you\nI made love and I thought of you\nMy daddy died, I just thought of you\nMy sister cried and my mama too\nI got a place and I thought of you\nI tried to decorate and I thought of you\nI'm seeing red but I'm singing blue\nI never knew what black and white would fade into\nAnybody, somebody, please\nI'm begging, I'm even on my knees\nI've got a dozen insecurities\nBut I don't think you should be worried for me\nNo, I don't think you should be worried for me\n[Chorus]\nOoh, I know once you come to California\nYou won't ever look back\nOoh, just a little bit can make you wonder\nYou got it in20Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/2290596",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Ferrari by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "id": 2290596,
+    "instrumental": false,
+    "lyrics_owner_id": 2390319,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1666294672,
+    "path": "/The-neighbourhood-ferrari-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 17,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-ferrari-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 10,
+     "day": 30
+    },
+    "release_date_for_display": "October 30, 2015",
+    "release_date_with_abbreviated_month_for_display": "Oct. 30, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 119757
+    },
+    "title": "Ferrari",
+    "title_with_featured": "Ferrari",
+    "updated_by_human_at": 1722966403,
+    "url": "https://genius.com/The-neighbourhood-ferrari-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "22 ContributorsTranslationsT\u00fcrk\u00e7eFerrari Lyrics[Verse 1]\nI want a new yellow Ferrari from the 90's in the driveway\nBut I know that you wouldn't like that\nI want it now, I want it loud, I want it my way\nBut everybody doesn\u2019t vibe like that\n\n[Chorus]\nDon't tell me about the rules and break them\nAnd don't tell me about mistakes\nAnd make the same ones I have made before\nDon't say you love me more\nBetter not say it\nI met her at church\nBut she could be Satan\n\n[Verse 2]\nYou and I are two oceans apart\nWe're on earth to break each other's hearts, in two\nAnd it's hard, with you\nWhen I'm too far from you\nI look at the stars, do you?\n\n[Chorus]\nDon't tell me about the rules and break them\nAnd don't tell me about mistakes\nAnd make the same ones I have made before\nDon't say you love me more\nBetter not say it\nI met her at church\nBut she could be Satan\nYou might also like[Outro]\nYou're L.A. and I'm Newbury Park\nBut you\u2019re the flame I use when it gets dark\nYou've got enough pain for both of us\nI've got all these things I'm focused on\nYou treat all the rules like you're the queen\nBut you and I are few and far between17Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/2290597",
+    "artist_names": "The Neighbourhood",
+    "full_title": "Single by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "id": 2290597,
+    "instrumental": false,
+    "lyrics_owner_id": 2390319,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720315990,
+    "path": "/The-neighbourhood-single-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 30,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-single-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 10,
+     "day": 30
+    },
+    "release_date_for_display": "October 30, 2015",
+    "release_date_with_abbreviated_month_for_display": "Oct. 30, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/858fc19cb2091093364895e43ccb1264.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 297536
+    },
+    "title": "Single",
+    "title_with_featured": "Single",
+    "updated_by_human_at": 1722966426,
+    "url": "https://genius.com/The-neighbourhood-single-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "33 ContributorsTranslationsT\u00fcrk\u00e7eDeutschSingle Lyrics[Verse 1]\nI don't know if we should be alone together\nI still got a crush, that's obvious\nIf nobody's around, what's stopping us?\nEverywhere I go you show whatever\nI don't ever mind sharing oxygen\nI just wanna get lost in your lungs\n\n[Pre-Chorus 1]\nJust a baby, but she's growing up so fast\nAnd I'm allergic to the waiting\nShe's just a baby girl\nAnd I love to watch her dance\nBut it's making me go crazy\n\n[Chorus]\nCan you let your baby be my girl?\nCan you let your baby be my girl?\nCan you let your baby be my girl?\nCan you let your baby be mine?\n\n[Verse 2]\nI don't think that we should be around each other\nWhen you're in the room, you get my eyes\nYou open your mouth, I'm hypnotized\nI can make you laugh until you cry\nYou know you got all my attention\nYou know you got all mine\nYou might also like[Pre-Chorus 2]\n\"Baby,\" I can't help but call her that\nEven though I shouldn't say it\nShe was my baby girl\nMight never get her back\nBut I don't mind being patient, yeah\n\n[Chorus]\nCan you let your baby be my girl?\nCan you let your baby be my girl?\nCan you let your baby be my girl?\nCan you let your baby be mine?\n\n[Breakdown]\nI should've said that I\nI should've said that I loved you\nI should've said that I want her\nI should've said that I\nYeah, should've said it\nI should've said that I loved you, baby\nNow I've lost her\nYeah, should've said that I\nDon't know why, mhm\n\n[Bridge]\nOkay, I'm just gonna tell you what I gotta say right here\nI'm sorry Dave, I never meant to hurt your baby girl\nShe's your little baby, she's my soulmate\nI don't want you to worry, she'll be so safe right here\nOh, so, Dave, would you let your baby be my girl?\n[Chorus]\nCan you let your baby be my girl?\nCan you let your baby be my girl?\nCan you let your baby be my girl?\nCan you let your baby be mine?\nYour baby, she's mine30Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/2286536",
+    "artist_names": "The Neighbourhood",
+    "full_title": "R.I.P. 2 My Youth by\u00a0The\u00a0Neighbourhood",
+    "header_image_thumbnail_url": "https://images.genius.com/bbd400e3a5b1ce81c39b58c58fa760ca.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/bbd400e3a5b1ce81c39b58c58fa760ca.640x640x1.jpg",
+    "id": 2286536,
+    "instrumental": false,
+    "lyrics_owner_id": 266331,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1668446662,
+    "path": "/The-neighbourhood-rip-2-my-youth-lyrics",
+    "primary_artist_names": "The Neighbourhood",
+    "pyongs_count": 84,
+    "relationships_index_url": "https://genius.com/The-neighbourhood-rip-2-my-youth-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 8,
+     "day": 20
+    },
+    "release_date_for_display": "August 20, 2015",
+    "release_date_with_abbreviated_month_for_display": "Aug. 20, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/bbd400e3a5b1ce81c39b58c58fa760ca.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/bbd400e3a5b1ce81c39b58c58fa760ca.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 517409
+    },
+    "title": "R.I.P. 2 My Youth",
+    "title_with_featured": "R.I.P. 2 My Youth",
+    "updated_by_human_at": 1722966438,
+    "url": "https://genius.com/The-neighbourhood-rip-2-my-youth-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/41662",
+     "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+     "id": 41662,
+     "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Neighbourhood",
+     "slug": "The-neighbourhood",
+     "url": "https://genius.com/artists/The-neighbourhood"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/41662",
+      "header_image_url": "https://images.genius.com/9b6ac95fe548afd1e78642da8c919556.1000x316x1.png",
+      "id": 41662,
+      "image_url": "https://images.genius.com/52607f8751b7104a9a22e30a62b701d9.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Neighbourhood",
+      "slug": "The-neighbourhood",
+      "url": "https://genius.com/artists/The-neighbourhood"
+     }
+    ],
+    "artist": "The Neighbourhood",
+    "lyrics": "61 ContributorsTranslationsT\u00fcrk\u00e7eR.I.P. 2 My Youth Lyrics[Verse 1]\nR.I.P. to my youth\nAnd you could call this the funeral\nI'm just telling the truth\nAnd you can play this at my funeral\nWrap me up in Chanel inside my coffin\nMight go to Hell and there ain't no stopping\nMight be a sinner and I might be a saint\nI'd like to be proud but somehow I'm ashamed\nSweet little baby in a world full of pain\nI gotta be honest, I don't know if I could take it\nEverybody's talkin' but what's anybody saying?\nMama said if I really want it, then I can change it, yeah\nR.I.P. to my youth\nIf you really listen, then this is to you\nMama, there is only so much I can do\nTough for you to witness but it was for me too\n\n[Chorus]\nI'm using white lighters to see what's in front of me (In front of me)\n\n[Verse 2]\nR.I.P. to my youth\nAnd you could call this the funeral\nI'm just telling the truth, yeah\nYou can play this at my funeral\nTell my sister don't cry and don't be sad\nI'm in paradise with Dad\nClose my eyes and then cross my arms\nPut me in the dirt, let me dream with the stars\nThrow me in a box with the oxygen off\nYou gave me the key and you locked every lock\nWhen I can't breathe, I won't ask you to stop\nWhen I can't breathe, don't call for a cop\nI was naive and hopeful and lost\nNow I'm aware and trapped in my thoughts, woah\nYou might also like[Bridge]\nWhat do I do? What do I do?\nI don't believe it if I don't keep proof\nI don't believe it if I don't know you\nI don't believe it if it's on the news or on the Internet\nI need a cigarette\n\n[Chorus]\nI'm using white lighters to see what's in front of me\nI'm using white lighters to see\n\n[Verse 3]\nR.I.P. to my youth\nAnd you could call this the funeral\nI'm just telling the truth\nAnd you can play this at my funeral\nTell my sister don't cry and don't be sad\nI'm in paradise with Dad\nClose my eyes and then cross my arms\nPut me in the dirt, let me be with the stars\n\n[Outro]\nI'm using white lighters to see what's in front of me\nI'm using white lighters to see what's in front of me84Embed"
+   }
+  }
+ ]
+}
