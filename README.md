@@ -1,7 +1,7 @@
 # lyriguessr
 
 <p align="center">
-  <img src="logo_long.jpg" width="300"/>
+  <img src="website/logo_cropped.png" width="300"/>
 </p>
 
 ### The Game 
