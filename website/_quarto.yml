@@ -5,7 +5,7 @@ project:
 website:
   title: "lyriguessr"
   description: "Lyric-guessing games for your favorite artists"
-  favicon: favicon_clef.png
+  favicon: favicon.png
 
   open-graph: 
     title: "lyriguessr"
