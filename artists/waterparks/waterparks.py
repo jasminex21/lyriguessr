@@ -60,7 +60,7 @@ LEADERBOARD = "./artists/waterparks/leaderboard.db"
 ### PAGE CONFIG
 st.set_page_config(layout='wide',
                    page_title="waterparksGuessr",
-                   page_icon=":singer:",
+                   page_icon="./website/favicon.png",
                    initial_sidebar_state="collapsed",)
                    # menu_items={'About': "#### tayLyrics: A lyrics guessing game for Swifties"})
 
@@ -432,8 +432,10 @@ def get_database(path=LEADERBOARD):
 
 ### UI ###
 with st.sidebar:
-
-    with st.expander(":frame_with_picture: Themes", expanded=True):
+    exp = st.expander(":pencil2: Instructions (click to expand)", expanded=False)
+    b1, c, b2 = exp.columns(3)
+    with exp:
+        c.image("./website/logo_cropped.png")
         st.radio("Select a theme", 
                 options=THEME_CSS.keys(),
                 index=list(THEME_CSS.keys()).index("Entertainment"),

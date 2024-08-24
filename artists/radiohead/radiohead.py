@@ -39,7 +39,7 @@ LEADERBOARD = "./artists/radiohead/leaderboard.db"
 ### PAGE CONFIG
 st.set_page_config(layout='wide',
                    page_title="radioheadGuessr",
-                   page_icon=":guitar:",
+                   page_icon="./favicon.png",
                    initial_sidebar_state="collapsed",)
                    # menu_items={'About': "#### tayLyrics: A lyrics guessing game for Swifties"})
 
@@ -434,8 +434,10 @@ with main_col:
         start_tab, past_stats_tab, leaderboard_tab = st.tabs(["Start New Game", "Past Game Statistics", "Leaderboard"])
 
         with start_tab: 
-
-            with st.expander(":pencil2: Instructions (click to expand)", expanded=False): 
+            exp = st.expander(":pencil2: Instructions (click to expand)", expanded=False)
+            b1, c, b2 = exp.columns(3)
+            with exp:
+                c.image("./website/logo_cropped.png")
                 st.markdown(f"Lyrics range from *{ALL_ALBUMS[0]}* to *{ALL_ALBUMS[-1]}*.")
                 st.markdown(f"Return to [lyriguessr](https://jasminex21.github.io/lyriguessr/) for more artist games!")
                 st.markdown("### IMPORTANT GUIDELINES:")

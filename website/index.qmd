@@ -16,8 +16,6 @@ listing:
   <img src="logo_cropped.png" width="300"/>
 </p>
 
-<!-- *Lyric-guessing games for your favorite artists* -->
-
 ### ⚔️ The Game
 
 Earn as many points as possible by guessing the song that the generated lyric(s) comes from. The higher the difficulty level, the more points you get.
