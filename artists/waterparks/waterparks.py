@@ -432,10 +432,8 @@ def get_database(path=LEADERBOARD):
 
 ### UI ###
 with st.sidebar:
-    exp = st.expander(":pencil2: Instructions (click to expand)", expanded=False)
-    b1, c, b2 = exp.columns(3)
-    with exp:
-        c.image("./website/logo_cropped.png")
+
+    with st.expander(":frame_with_picture: Themes", expanded=True):
         st.radio("Select a theme", 
                 options=THEME_CSS.keys(),
                 index=list(THEME_CSS.keys()).index("Entertainment"),
@@ -458,14 +456,16 @@ with st.sidebar:
 
 buffer1, main_col, buffer2 = st.columns([1, 3, 1])
 with main_col:
-    st.title("Welcome to :singer:waterparksGuessr:singer:!")
+    st.title("Welcome to waterparksGuessr!")
     if st.session_state.game_in_progress == False: 
 
         start_tab, past_stats_tab, leaderboard_tab = st.tabs(["Start New Game", "Past Game Statistics", "Leaderboard"])
 
         with start_tab: 
-
-            with st.expander(":pencil2: Instructions (click to expand)", expanded=False): 
+            exp = st.expander(":pencil2: Instructions (click to expand)", expanded=False)
+            b1, c, b2 = exp.columns(3)
+            with exp:
+                c.image("./website/logo_cropped.png")
                 st.markdown(f"Lyrics range from *{ALL_ALBUMS[0]}* to *{ALL_ALBUMS[-1]}*.")
                 st.markdown(f"Candy, What We Do For Fun, and Silver (Acoustic) are not included!")
                 st.markdown(f"Return to [lyriguessr](https://jasminex21.github.io/lyriguessr/) for more artist games!")

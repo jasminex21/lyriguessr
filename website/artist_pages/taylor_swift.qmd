@@ -7,7 +7,7 @@ date-modified: "2024-08-12"
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**[Go to tayLyrics](https://taylyrics.streamlit.app/)**
+**[Go to tayLyrics](https://taylyrics.lyriguessr.xyz/)**
 :::
 :::
 
@@ -15,11 +15,11 @@ date-modified: "2024-08-12"
 
 Lyrics range from *debut* to *THE TORTURED POETS DEPARTMENT*.
 
-*Hits Different*, *You're Losing Me*, and *All of the Girls You Loved Before* <u>are</u> included.
+*Hits Different*, *You're Losing Me*, *All of the Girls You Loved Before*, and *If This Was a Movie* <u>are</u> included.
 
 ### The Dataset and Statistics
 
-There are 11,725 lines in the **tayLyrics** dataset, with 8,125 of them being *unique* lines. 
+There are 11,777 lines in the **tayLyrics** dataset, with 8,125 of them being *unique* lines. 
 
 * You have around a 0.0085% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
 
