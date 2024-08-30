@@ -63,4 +63,10 @@
 
     iii. Click Next, then select the correct instance as a target, and Create Target Group
 
-    iv. Go to EC2 > Load Balancers
+    iv. Go to EC2 > Load Balancers > tayLyrics
+
+    v. Add a rule to both HTTPS:443 and HTTP:80 - choose condition "Host Header" and set the host header to "<app_name>.lyriguessr.xyz"
+
+    vi. Log in to Namecheap and go to Advanced DNS - create a new CNAME record with "<app_name>" as the host, and "tayLyrics-922305429.us-east-1.elb.amazonaws.com." as the value
+
+    vii. Use [WhatsMyDNS](https://www.whatsmydns.net/) to keep track of the DNS propagation
