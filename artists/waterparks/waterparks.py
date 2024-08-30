@@ -7,7 +7,7 @@ from lyriguessr.Lyrics import Lyrics
 from lyriguessr.Leaderboard import Leaderboards
 
 ### GLOBAL VARS ###
-ALL_LYRICS = pd.read_csv("./artists/waterparks/waterparks_lyrics.csv")
+ALL_LYRICS = pd.read_csv("./waterparks_lyrics.csv")
 ALL_ALBUMS = ["Airplane Conversations",
               "Black Light",
               "Cluster",

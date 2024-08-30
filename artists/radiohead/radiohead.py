@@ -7,7 +7,7 @@ from lyriguessr.Lyrics import Lyrics
 from lyriguessr.Leaderboard import Leaderboards
 
 ### GLOBAL VARS ###
-ALL_LYRICS = pd.read_csv("./artists/radiohead/radiohead_lyrics.csv")
+ALL_LYRICS = pd.read_csv("./radiohead_lyrics.csv")
 ALL_ALBUMS = ["Pablo Honey",
               "The Bends",
               "OK Computer",
