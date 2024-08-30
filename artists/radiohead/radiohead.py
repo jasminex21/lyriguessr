@@ -20,16 +20,17 @@ ALL_ALBUMS = ["Pablo Honey",
 DIFFICULTIES = ["Easy (an entire section, e.g. chorus)", 
                 "Medium (2 lines)", 
                 "Hard (1 line)"]
-GAME_MODES = ["Survival (with 5 lives)",
-              "Casual (no lives)"]
+HINTS_LIMIT = 20
+GAME_MODES = [f"Survival (with 5 lives, {HINTS_LIMIT} hints)",
+              "Casual (unlimited lives and hints)"]
 POINTS_MAPPING = {"Easy (an entire section, e.g. chorus)": 1, 
                   "Medium (2 lines)": 3, 
                   "Hard (1 line)": 5}
 DIFFICULTY_MAPPING = {"Easy (an entire section, e.g. chorus)": "Easy", 
                       "Medium (2 lines)": "Medium", 
                       "Hard (1 line)": "Hard"}
-MODE_MAPPING = {"Survival (with 5 lives)": "Survival",
-                "Casual (no lives)": "Casual"}
+MODE_MAPPING = {f"Survival (with 5 lives, {HINTS_LIMIT} hints)": "Survival",
+                "Casual (unlimited lives and hints)": "Casual"}
 THEME = {"background_color": "#222222",
         "button_color": "#000000",
         "inputs": "#4C4949",
@@ -116,6 +117,8 @@ if "start_btn_clicked" not in st.session_state:
     st.session_state.start_btn_clicked = False
 if "hide_buttons" not in st.session_state:
     st.session_state.hide_buttons = False
+if "hints_limit" not in st.session_state:
+    st.session_state.hints_limit = HINTS_LIMIT
 
 ### FUNCTIONS ###
 def apply_theme(selected_theme):
@@ -244,7 +247,11 @@ def game_started():
 def new_round():
     st.session_state.round_count += 1
     st.session_state.disable_buttons = False
-    st.session_state.disable_hint_btn = False
+    if st.session_state.game_mode == f"Survival (with 5 lives, {HINTS_LIMIT} hints)":
+        if not st.session_state.hints_used == st.session_state.hints_limit:
+            st.session_state.disable_hint_btn = False
+    else:
+        st.session_state.disable_hint_btn = False
     st.session_state.hints = 0
     st.session_state.guess = None
     st.session_state.hide_buttons = False
@@ -275,6 +282,9 @@ def answered_correctly():
                                             {st.session_state.correct_section}, from the album **{st.session_state.correct_album}**.
                                             \n\nYou earned {POINTS_MAPPING[st.session_state.difficulty]} points and have 
                                             {st.session_state.points} total points."""
+    if (st.session_state.game_mode == f"Survival (with 5 lives, {HINTS_LIMIT} hints)") and (st.session_state.round_count + 1) % 10 == 0:
+        st.session_state.hints_limit += 1
+        st.session_state.correct_feedback += f"\n\nYou reached Round {st.session_state.round_count + 1} and earned one more hint! You have {st.session_state.hints_limit - st.session_state.hints_used} hints remaining." 
     st.session_state.round_results.append(True)
     st.session_state.guess = None
     st.session_state.disable_buttons = True
@@ -290,7 +300,7 @@ def answered_incorrectly():
     st.session_state.streaks.append(st.session_state.streak)
     st.session_state.streak = 0
 
-    if st.session_state.game_mode == "Survival (with 5 lives)":
+    if st.session_state.game_mode == f"Survival (with 5 lives, {HINTS_LIMIT} hints)":
         st.session_state.incorrect_feedback += f"\n\nYou lost a life and have **{st.session_state.lives} lives** left."
         if st.session_state.lives == 0:
             st.session_state.disable_buttons = True
@@ -308,14 +318,21 @@ def hint():
     st.session_state.hints += 1
     st.session_state.hints_used += 1
     st.session_state.points -= 1
+    remainder = ""
+
+    if (st.session_state.game_mode == f"Survival (with 5 lives, {HINTS_LIMIT} hints)"):
+        remainder = f" ({st.session_state.hints_limit - st.session_state.hints_used} remaining) " 
+        if (st.session_state.hints_used == st.session_state.hints_limit):
+            st.session_state.disable_hint_btn = True
+            st.session_state.hint_feedback += f"\n\n:orange[WARNING: The following is Hint {st.session_state.hints_limit} and the last hint for this game! You can earn another hint if you reach Round {round(st.session_state.round_count + 6, -1)}.]\n\n"
 
     if st.session_state.hints == 1: 
-        st.session_state.hint_feedback += f"Hint 1: this song comes from the album **{st.session_state.correct_album}**"
+        st.session_state.hint_feedback += f"Hint 1{remainder}: this song comes from the album **{st.session_state.correct_album}**"
     if st.session_state.hints == 2: 
-        st.session_state.hint_feedback += f'\n\nHint 2: the next line of this song is *"{st.session_state.next_line}"*'
+        st.session_state.hint_feedback += f'\n\nHint 2{remainder}: the next line of this song is *"{st.session_state.next_line}"*'
     if st.session_state.hints == 3: 
         st.session_state.disable_hint_btn = True
-        st.session_state.hint_feedback += f'\n\nHint 3: the previous line of this song is *"{st.session_state.prev_line}"*'
+        st.session_state.hint_feedback += f'\n\nHint 3{remainder}: the previous line of this song is *"{st.session_state.prev_line}"*'
 
 def giveup():
     st.session_state.incorrect_feedback = ""
@@ -331,7 +348,7 @@ def giveup():
 
     st.session_state.giveup_feedback = f"""The correct answer was **{st.session_state.correct_song}**, {st.session_state.correct_section}, from the album **{st.session_state.correct_album}**\n\nYou lost 2 points and have **{st.session_state.points} total points**."""        
 
-    if st.session_state.game_mode == "Survival (with 5 lives)":
+    if st.session_state.game_mode == f"Survival (with 5 lives, {HINTS_LIMIT} hints)":
         st.session_state.giveup_feedback += f"\n\nYou lost a life and have **{st.session_state.lives} lives** left."
         if st.session_state.lives == 0: 
             st.session_state.gameover_feedback = f'''**GAME OVER**: You ran out of lives! Please start a new game.
@@ -356,7 +373,7 @@ def end_game():
     st.session_state.album_accs = dict(sorted(accs.items(), 
                                        key=lambda x: (x[1][0], x[1][2], x[1][1]),
                                        reverse=True))
-    st.session_state.enable_leaderboard = True if ((st.session_state.game_mode == "Survival (with 5 lives)") and
+    st.session_state.enable_leaderboard = True if ((st.session_state.game_mode == f"Survival (with 5 lives, {HINTS_LIMIT} hints)") and
                                                    (len(st.session_state.albums) == len(ALL_ALBUMS)) and
                                                    (st.session_state.round_count >= 5)) else False
     
@@ -571,10 +588,13 @@ with main_col:
                 possible_pct = round(st.session_state.points * 100 / (st.session_state.round_count * POINTS_MAPPING[st.session_state.difficulty]), 2)
                 accuracy_str = f"{sum(st.session_state.round_results)}/{st.session_state.round_count} ({accuracy_pct}%)"
                 possible_str = f"{st.session_state.points}/{st.session_state.round_count * POINTS_MAPPING[st.session_state.difficulty]} ({possible_pct}%)"
+                stats_remainder = f" ({st.session_state.hints_limit - st.session_state.hints_used} hints remaining)" if st.session_state.game_mode == f"Survival (with 5 lives, {HINTS_LIMIT} hints)" else ""
                 
                 st.markdown(f"* :dart: Accuracy: {accuracy_str}")
                 st.markdown(f"* :100: Points out of total possible: {possible_str}")
                 st.markdown(f"* :fire: Current streak: {st.session_state.streak}")
+        
+                st.markdown(f"* :bulb: Hints used: {st.session_state.hints_used}{stats_remainder}")
                 st.markdown(f"* :moneybag: Total points: {st.session_state.points}")
-                if st.session_state.game_mode == "Survival (with 5 lives)":
+                if st.session_state.game_mode == f"Survival (with 5 lives, {HINTS_LIMIT} hints)":
                     st.markdown(f"* :space_invader: Lives: {st.session_state.lives}")

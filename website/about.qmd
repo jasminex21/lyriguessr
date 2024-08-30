@@ -9,6 +9,9 @@ about:
   - icon: twitter 
     text: Twitter
     href: https://x.com/lyriguessr
+  - icon: instagram
+    text: Instagram
+    href: https://www.instagram.com/lyriguessr  
 ---
 
 ### About me
