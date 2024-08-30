@@ -7,7 +7,8 @@ website:
   title: "lyriguessr"
   description: "Lyric-guessing games for your favorite artists"
   favicon: favicon.png
-  google-analytics: G-ZNG33JQXZ7
+  google-analytics: 
+    tracking-id: "G-ZNG33JQXZ7"
 
   open-graph: 
     title: "lyriguessr"
