@@ -1,0 +1,1097 @@
+{
+ "_type": "album",
+ "api_path": "/albums/835675",
+ "cover_art_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+ "full_title": "THE DEATH OF PEACE OF MIND by Bad Omens",
+ "id": 835675,
+ "name": "THE DEATH OF PEACE OF MIND",
+ "name_with_artist": "THE DEATH OF PEACE OF MIND (artist: Bad Omens)",
+ "release_date_components": {
+  "year": 2022,
+  "month": 2,
+  "day": 25
+ },
+ "release_date_for_display": "February 25, 2022",
+ "url": "https://genius.com/albums/Bad-omens/The-death-of-peace-of-mind",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/622031",
+  "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+  "id": 622031,
+  "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bad Omens",
+  "slug": "Bad-omens",
+  "url": "https://genius.com/artists/Bad-omens"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/622031",
+   "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+   "id": 622031,
+   "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Bad Omens",
+   "slug": "Bad-omens",
+   "url": "https://genius.com/artists/Bad-omens"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/7374966",
+    "artist_names": "Bad Omens",
+    "full_title": "CONCRETE JUNGLE by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374966,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723066146,
+    "path": "/Bad-omens-concrete-jungle-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Bad-omens-concrete-jungle-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 2,
+     "day": 25
+    },
+    "release_date_for_display": "February 25, 2022",
+    "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 9,
+     "hot": false,
+     "pageviews": 36473
+    },
+    "title": "CONCRETE JUNGLE",
+    "title_with_featured": "CONCRETE JUNGLE",
+    "updated_by_human_at": 1724718553,
+    "url": "https://genius.com/Bad-omens-concrete-jungle-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "23 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439Espa\u00f1olCONCRETE JUNGLE Lyrics[Verse 1]\nCan you see yourself\nThrough the bruises when the makeup melts?\nIn the dark when all the power's out?\nEverybody talks and gets around\nWhen the money talks\nDo you think it gets the point across?\nIt's a burning coal you're walking on\nAnd in a second all the pain is gone\n\n[Chorus]\nI said \"It's enough\"\nI begged and I ran in circles\nI climbed to the sun\nAnd fell in a concrete jungle\nI said \"It's done\"\nYou never know if you'll get what you wish for\nI climbed to the sun\nAnd I fell, I fell\nIn a concrete jungl\u0435\n\n[Verse 2]\nThe coyotes cry\nAnd the sir\u0435ns pass and harmonize\nFires starting every day and night\nBurn around us while we're trapped inside\nWouldn't it be nice\nTo play the game without a crooked die?\nIn a world where you don't have to hide?\nYou don't have to live in a disguise\nYou might also like[Chorus]\nI said \"It's enough\"\nI begged and I ran in circles\nI climbed to the sun\nAnd fell in a concrete jungle\nI said \"It's done\"\nYou never know if you'll get what you wish for\nI climbed to the sun\nAnd I fell, I fell\nIn a concrete jungle\n\n[Breakdown]\nAnd I'm the fucking king\nI want things that money can't buy\nThe price is pain to make this right\nAnd I could buy a thousand lives\nSo you can try to kill me but I can't fucking die\nDie\n\n[Chorus]\nI said \"It's enough\"\nI begged and I ran in circles\nI climbed to the sun\nAnd fell in a concrete jungle\nI said \"it's done\"\nYou never know if you'll get what you wish for\nI climbed to the sun\nAnd I fell, I fell\nIn a concrete jungle\nIn a concrete jungle\n[Outro]\nAnd I'm the fucking king2Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/7374967",
+    "artist_names": "Bad Omens",
+    "full_title": "Nowhere to Go by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374967,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1717615231,
+    "path": "/Bad-omens-nowhere-to-go-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Bad-omens-nowhere-to-go-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 2,
+     "day": 25
+    },
+    "release_date_for_display": "February 25, 2022",
+    "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 29139
+    },
+    "title": "Nowhere to Go",
+    "title_with_featured": "Nowhere to Go",
+    "updated_by_human_at": 1724718572,
+    "url": "https://genius.com/Bad-omens-nowhere-to-go-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "21 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439Espa\u00f1olNowhere to Go Lyrics[Verse 1]\nWhy's this always gotta happen to me? I should have known\nI never fail to never learn from mistakes, still throwing stones\nBlood-signed, we made a pact\nYours dried out, you took it back\nAnd you know you are a paradox and you contradict\nThe road you walk, everything that you ever did\nCutting into my code\nErasing everything I know\n\n[Pre-Chorus]\nHear me out\nI'm sorry, but I'm a little less than sold\nI've been around\nHeard all the stories you said you never told\n\n[Chorus]\nYou're used to speaking in tongues\nTo feel like you're in control\nNow you've got nowhere to run\nNow you'v\u0435 got nowhere to go\n\n[Verse 2]\nI feel my focus fadin' away, I had high hopes\nRunning from th\u0435 man that I used to be, but I'm too slow\nBlood-signed, we made a pact\nYours dried out, you took it back\nYou might also like[Pre-Chorus]\nHear me out\nI'm sorry, but I'm a little less than sold\nI've been around\nHeard all the stories you said you never told\n\n[Chorus]\nYou're used to speaking in tongues\nTo feel like you're in control\nNow you've got nowhere to run\nNow you've got nowhere to go\n\n[Bridge]\nTell me what's mine and tell me what's yours\nWhy I never got a say, never got a choice\nTell me what's mine and tell me what's yours\nWhy I never got a say, never got a choice\nTell me what's mine and tell me what's yours\nWhy I never got a say, never got a choice\nTell me what's mine and tell me what's yours\nAnd why I never ever got a fucking say, oh\n\n[Breakdown]\nAre you ready?\nI'm in the driver's seat now\nOh, oh\n[Pre-Chorus]\nHear me out\nI'm sorry, but I'm a little less than sold\nI've been around\nHeard all the stories you said you never told\n\n[Chorus]\nYou're used to speaking in tongues\nTo feel like you're in control\nNow you've got nowhere to run\nNow you've got nowhere to go\n\n[Outro]\nHear me out\nI'm sorry, but I'm a little less than sold\nI've been around\nHeard all the stories you said you never told\nYou're used to speaking in tongues\nTo feel like you're in control\nNow you've got nowhere to run\nNow you've got nowhere to go1Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/7374968",
+    "artist_names": "Bad Omens",
+    "full_title": "Take Me First by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374968,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722705080,
+    "path": "/Bad-omens-take-me-first-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bad-omens-take-me-first-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 2,
+     "day": 25
+    },
+    "release_date_for_display": "February 25, 2022",
+    "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 18346
+    },
+    "title": "Take Me First",
+    "title_with_featured": "Take Me First",
+    "updated_by_human_at": 1724718616,
+    "url": "https://genius.com/Bad-omens-take-me-first-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "16 ContributorsTranslationsEspa\u00f1olTake Me First Lyrics[Intro]\nIt's too late to turn back now\nOh God, I tried but I don't know how\n\n[Verse 1]\nI wanna be someone you used to hate\nWithout the memory of the pain\nI went too far, now\u205fwe\u205fcan't\u205frestart\nIt's like we\u205fcut them brakes,\u205ftore 'em off the car\nNinety miles inside the dark\nFamiliar scars and electric hearts\nI know I'm gonna die in this bed I made\nAnd I'm drowning in a dream that I can't escape\nIf I could wake up, I'd hesitate\n\n[Chorus]\nBut it's too late to turn back now\nOh God, I tried but I don't know how\nIf I could escape it, I'd trade in\nThe blam\u0435, you can take it\nIf it doesn't take m\u0435 first\nIf it doesn't take me first\n\n[Verse 2]\nI lie to myself like it's not too late\nConvinced the past can still be changed\nWe know it's gone, but I can't move on\nI want to rewind, but it just replays\nJumping on a hand grenade\nBut it won't go off\nNo, it won't go off\nYou might also like[Chorus]\nBut it's too late to turn back now\nOh God, I tried but I don't know how\nIf I could escape it, I'd trade in\nThe blame, you can take it\nIf it doesn't take me first\n\n[Bridge]\nI know I'm gonna die in this bed I made\nAnd I'm drowning in a dream that I can't escape\nIf I could wake up, I'd\u2014\n\n[Chorus]\nBut it's too late to turn back now\nOh God, I tried but I don't know how\nIf I could escape it, I'd trade in\nThe blame, you can take it\nIf it doesn't take me first\nIf it doesn't take me firstEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/7374958",
+    "artist_names": "Bad Omens",
+    "full_title": "THE DEATH OF PEACE OF MIND by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374958,
+    "instrumental": false,
+    "lyrics_owner_id": 3338741,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724202953,
+    "path": "/Bad-omens-the-death-of-peace-of-mind-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/Bad-omens-the-death-of-peace-of-mind-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 11,
+     "day": 10
+    },
+    "release_date_for_display": "November 10, 2021",
+    "release_date_with_abbreviated_month_for_display": "Nov. 10, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 127396
+    },
+    "title": "THE DEATH OF PEACE OF MIND",
+    "title_with_featured": "THE DEATH OF PEACE OF MIND",
+    "updated_by_human_at": 1724718650,
+    "url": "https://genius.com/Bad-omens-the-death-of-peace-of-mind-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "24 ContributorsTranslationsPortugu\u00easEnglishTHE DEATH OF PEACE OF MIND Lyrics[Verse 1]\nI made another mistake, thought I could change\nThought I could make it out\nPromises break, need to hear you say\n\"You're gonna keep it now\"\n\n[Pre-Chorus]\nI miss the way you say my name\nThe way you bend, the way you break\nYour makeup running down your face\nThe way you touch, the way you taste\n\n[Chorus]\nWhen the curtains call the time\nWill we both go home alive?\nIt wasn't hard to realize\nLove's the death of peace of mind\n\n[Verse 2]\nYou're in the walls that I made, with crosses and frames\nHanging upside down\nFor granted, in vain, I took everything\nI ever cared about\n\n[Pre-Chorus]\nI miss the way you say my name\nThe way you bend, the way you break\nYour makeup running down your face\nThe way you fuck, the way you taste\nYou might also like[Chorus]\nWhen the curtains call the time\nWill we both go home alive?\nIt wasn't hard to realize\nLove's the death of peace of mind\nWhen the curtains call the time\nWill we both be satisfied?\nIt wasn't hard to realize\nLove's the death of peace of mind\n\n[Post-Chorus]\nLove's the death of peace of mind\n\n[Bridge]\nYou come and go in waves\nLeavin' me in your wake\nYou come and go in waves\nSwallowing everything\n\n[Breakdown]\nOh\nAre you satisfied?\nLove's the death of peace of mind\nMine, mine\n\n[Chorus]\nWhen the curtains call the time\nWill we both go home alive?\nIt wasn't hard to realize\nLove's the death of peace of mind\nWhen the curtains call the time\nWill we both be satisfied?\nIt wasn't hard to realize\nLove's the death of peace of mind\nLove's the death of peace of mind\n[Outro]\nLove's the death of peace of mind7Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/7374969",
+    "artist_names": "Bad Omens",
+    "full_title": "What It Cost by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374969,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1671554937,
+    "path": "/Bad-omens-what-it-cost-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bad-omens-what-it-cost-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 2,
+     "day": 25
+    },
+    "release_date_for_display": "February 25, 2022",
+    "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 11735
+    },
+    "title": "What It Cost",
+    "title_with_featured": "What It Cost",
+    "updated_by_human_at": 1724718698,
+    "url": "https://genius.com/Bad-omens-what-it-cost-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "11 ContributorsTranslationsEspa\u00f1olWhat It Cost Lyrics[Verse 1]\nYou wanna take, take, take\nYou wanna break, break, break my heart\nNow I know my place\nI know just what you are (Mm)\n\n[Chorus]\nLike a villain, I couldn't be\nI didn't need it, it needed\u205fme\nLike\u205fa\u205fvillain, I couldn't\u205fbe\nI didn't need\u205fit, it needed me\n(Like a villain)\n\n[Verse 2]\nYou couldn't wait, wait wait\nFor the day, day, day I lost\nIt's such a shame, shame, shame\nYou couldn't change, look what it cost (Mm)\n\n[Chorus]\nLike a villain, I couldn't be\nI didn't need it, it needed meYou might also likeEmbed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/7374970",
+    "artist_names": "Bad Omens",
+    "full_title": "Like a Villain by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374970,
+    "instrumental": false,
+    "lyrics_owner_id": 12380495,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1717837864,
+    "path": "/Bad-omens-like-a-villain-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Bad-omens-like-a-villain-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 1,
+     "day": 19
+    },
+    "release_date_for_display": "January 19, 2022",
+    "release_date_with_abbreviated_month_for_display": "Jan. 19, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 60004
+    },
+    "title": "Like a Villain",
+    "title_with_featured": "Like a Villain",
+    "updated_by_human_at": 1724718721,
+    "url": "https://genius.com/Bad-omens-like-a-villain-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "23 ContributorsTranslationsEspa\u00f1olLike a Villain Lyrics[Verse 1]\nLook into my face, then look again\nWe are not the same, we're different\nTo tell your tales and fables\nYou couldn't wait\nYou need a new clean slate without the dents\nA place to put your pain, your consequence\nWhen you look into the mirror\nAre you even there?\n\n[Chorus]\nI don't wanna know all your secrets 'cause I'll tell\nIt's hard enough being alone with myself\nI don't know how long I'll be holding on\nI know you tried your hardest, I know that you meant it well\nBut you pushed me to the edge and I slipped and then I fell\nI don't know how long I'll be holding on\n\n[Verse 2]\nSo write a brand-new page, then write again\nI know your act is staged, yet you pretend\nAll while you're turnin' tables\nWith missing legs\nI think you've overstayed your welcome in\nSo go the fuck away, don't come again\nI'll see your face in the fire\nAnd burn it out\nYou might also like[Chorus]\nI don't wanna know all your secrets 'cause I'll tell\nIt's hard enough being alone with myself\nI don't know how long I'll be holding on\nI know you tried your hardest, I know that you meant it well\nBut you pushed me to the edge and I slipped and then I fell\nI don't know how long I'll be holding on\n\n[Bridge]\nLike a villain, I couldn't be\nI didn't need it, it needed me\nLike a villain, I couldn't be\nI didn't need it, it needed me\n\n[Breakdown]\nI didn't need it, it needed me\n\n[Chorus]\nI don't wanna know all your secrets 'cause I'll tell\nIt's hard enough being alone with myself\nI don't know how long I'll be holding on\nI know you tried your hardest, I know that you meant it well\nBut you pushed me to the edge and I slipped and then I fell\nI don't know how long I'll be holding on\n\n[Outro]\nI didn't need it, it needed me5Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/7374971",
+    "artist_names": "Bad Omens",
+    "full_title": "\u200bbad decisions by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374971,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1672510145,
+    "path": "/Bad-omens-bad-decisions-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bad-omens-bad-decisions-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 2,
+     "day": 25
+    },
+    "release_date_for_display": "February 25, 2022",
+    "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 18228
+    },
+    "title": "\u200bbad decisions",
+    "title_with_featured": "\u200bbad decisions",
+    "updated_by_human_at": 1724718754,
+    "url": "https://genius.com/Bad-omens-bad-decisions-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "12 ContributorsTranslationsEspa\u00f1ol\u200bbad decisions Lyrics[Verse 1]\nI'm takin' it slowly, you'd never know\nHow quick it gets lonely here at the top\nHer skin feels unholy, but I'm still drawn\nThe morals I'm holding, you know they're gone\n\n[Pre-Chorus]\nNo God, no religion\nJust bad, bad decisions\nNo God, no religion\nJust bad, bad decisions\n\n[Chorus]\nYou can be all I got, what's the difference?\nHennessy and a lot of bad decisions\nAll I know, all I know\nIs bad, bad decisions\n\n[Verse 2]\nI'm only human, but I'm afraid\nI may never learn from all my mistakes\nDon't know what I'm doin', but that's okay\n'Cause I like it that way\n\n[Pre-Chorus]\nNo God, no religion\nJust bad, bad decisions\nNo God, no religion\nJust bad, bad decisions\nYou might also like[Chorus]\nYou can be all I got, what's the difference?\nHennessy and a lot of bad decisions\nAll I know, all I know\nIs bad, bad decisions\nYou can be all I got, what's the difference?\nYou and me and a lot of bad decisions\nAll I know, all I know\nIs bad, bad decisions\n\n[Bridge]\nBitter ends to the nights\nI'm along for the ride\nOut of breath, out of time\nEverything has a price\nBitter ends to the nights\nI'm along for the ride\nOut of breath, out of time\nEverything has a price\n\n[Chorus]\nYou can be all I got, what's the difference?\nHennessy and a lot of bad decisions\nAll I know, all I know\nIs bad, bad decisions\nYou can be all I got what's the difference?\nYou and me and a lot of bad decisions\nAll I know, all I know\nIs bad, bad decisionsEmbed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/7374972",
+    "artist_names": "Bad Omens",
+    "full_title": "Just Pretend by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374972,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1717526943,
+    "path": "/Bad-omens-just-pretend-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Bad-omens-just-pretend-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 2,
+     "day": 25
+    },
+    "release_date_for_display": "February 25, 2022",
+    "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 93537
+    },
+    "title": "Just Pretend",
+    "title_with_featured": "Just Pretend",
+    "updated_by_human_at": 1724718781,
+    "url": "https://genius.com/Bad-omens-just-pretend-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "33 ContributorsTranslationsEspa\u00f1olJust Pretend Lyrics[Verse 1]\nI'm not afraid\nOf the war you've come to wage against my sins\nI'm not okay\nBut I can try my best to just pretend\n\n[Pre-Chorus]\nSo will you wait me out\nOr will you drown me out?\nSo will you wait me out\nOr will you drown me out?\n(I have to let you go)\n\n[Chorus]\nI can wait for you at the bottom\nI can stay away if you want me to\nI can wait for years if I gotta\nHeaven knows I ain't getting over you\n\n[Verse 2]\nI know the pain\nThat you hide behind the smile on your face\nAnd not a day\nGoes by where I don't think I feel the same\n\n[Pre-Chorus]\nSo will you wait me out\nOr will you drown me out?\nSo will you wait me out\nOr will you drown me out?\nYou might also like[Chorus]\nI can wait for you at the bottom\nI can stay away if you want me to\nI can wait for years if I gotta\nHeaven knows I ain't getting over you\n\n[Post-Chorus]\nWe'll try again\nWhen we're not so different\nWe will make amends\n'Til then I'll just pretend\n\n[Bridge]\nWeigh down on me, stay 'til morning\nWay down, would you say I'm worthy?\nWeigh down on me, stay 'til morning\nWay down, would you say I'm worthy?\n\n[Chorus]\nI can wait for you at the bottom\nI can stay away if you want me to\nI can wait for years if I gotta\nHeaven knows I ain't getting over you\n\n[Post-Chorus]\nWe'll try again\nWhen we're not so different\nWe will make amends\n'Til then I'll just pretend\n[Outro]\n(Weigh down on me, stay 'til morning)\n(Way down, would you say I'm worthy?)\nWeigh down on me, stay 'til morning\nWay down, would you say I'm worthy?4Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/7374973",
+    "artist_names": "Bad Omens",
+    "full_title": "The Grey by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374973,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725021113,
+    "path": "/Bad-omens-the-grey-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bad-omens-the-grey-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 2,
+     "day": 15
+    },
+    "release_date_for_display": "February 15, 2022",
+    "release_date_with_abbreviated_month_for_display": "Feb. 15, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 36155
+    },
+    "title": "The Grey",
+    "title_with_featured": "The Grey",
+    "updated_by_human_at": 1725021113,
+    "url": "https://genius.com/Bad-omens-the-grey-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "16 ContributorsTranslationsEspa\u00f1olThe Grey Lyrics[Verse 1]\nEvened the scores, then I let it all go fall apart (Fall apart)\nAnd every step forward put a little more sword in your heart, yeah\nLooking sideways when I say I'm okay with the past (With the past)\nBut I'm afraid of what I might say if you ask\n\n[Pre-Chorus]\nGave you way too many chances, you ran through 'em all\nGot everything I could want, but it wasn't enough\nNobody left for me to talk to, nobody to call\nGot everything I could want, but I still wanted more\nYeah, I still wanted more\n\n[Chorus]\nThere's not another way, don't let me go\nDon't dig another grave today\nI'll make the same mistakes, I'll never know\nWho I was before I faded away\nInto the grey\n\n[Verse 2]\nAll of this time sittin' inside, sittin' in the dark (In the dark)\nAnd every night, I can see why you could never stop, yeah (Yeah)\nLying is hard and the truth comes out anyway (Anyway)\nYou're going way too far, gonna drop dead at this rate\nYou might also like[Pre-Chorus]\nGave you way too many chances, you ran through 'em all\nGot everything I could want, but it wasn't enough\nNobody left for me to talk to, nobody to call\nGot everything I could want, but I still wanted more\n\n[Chorus]\nThere's not another way, don't let me go\nDon't dig another grave today\nI'll make the same mistakes, I'll never know\nWho I was before I faded away\nInto the grey\n\n[Post-Chorus]\nI did it to myself, tried to be someone else\nI let it tear me down and I'll never be the same\nI did it to myself, tried to be someone else\nAnd you didn't notice 'til I finally got, finally got away\n\n[Bridge]\n(There's not another way, don't let me go)\n(Don't dig another grave today)\n(Finally got away)\n(I'll make the same mistakes, I'll never know)\n(Who I was before I faded away)\n[Chorus]\nThere's not another way, don't let me go\nDon't dig another grave today\nI'll make the same mistakes, I'll never know\nWho I was before I faded away\nInto the grey\n\n[Outro]\nInto the greyEmbed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/7374974",
+    "artist_names": "Bad Omens",
+    "full_title": "Who are you? by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374974,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1679509585,
+    "path": "/Bad-omens-who-are-you-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bad-omens-who-are-you-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 2,
+     "day": 25
+    },
+    "release_date_for_display": "February 25, 2022",
+    "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 11770
+    },
+    "title": "Who are you?",
+    "title_with_featured": "Who are you?",
+    "updated_by_human_at": 1724718828,
+    "url": "https://genius.com/Bad-omens-who-are-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "17 ContributorsTranslationsEspa\u00f1olWho are you? Lyrics[Verse 1]\nSwimming pools made of gold\nDive into the low end\nI think I'm dreamin'\nTake off all of your clothes\nHold me 'til we're frozen\n'Til we can't feel it\n\n[Pre-Chorus]\nI asked for more than I could\u205ftake\nWith\u205fnothin'\u205fleft to give\n\n[Chorus]\nSo\u205fwho, who, who,\u205fwho are you, you? (You, you)\nWho, who, who are you? (Who are you?)\nEvery day it's all the same\nI don't wanna play your games\nIf you wanna know, it depends who's asking\nWho, who are you?\n\n[Verse 2]\nOne hundred to the nose\nChase it with the potions\nAnd now you're bleedin'\nSwervin' over the road\nEyes go out of focus\nYou love the feelin'\nYou might also like[Pre-Chorus]\nYou said we got nothin' in common (Common)\nToo bad, nev\u0435r even got started (Start\u0435d, started)\nYou said we got nothin' in common (Common)\nToo bad, never even got started (Started, started)\n\n[Chorus]\nSo who, who, who, who are you, you? (You, you)\nWho, who, who are you? (Who are you?)\nEvery day it's all the same\nI don't wanna play your games\nIf you wanna know, it depends who's asking\nWho, who are you?\n\n[Bridge]\nI've been finally catchin' up\nOn years of sleep the last few weeks, patiently\nFallin' out of love with you and me\nAnd now it's too late to save it\nI've been finally catchin' up\nOn years of sleep the last few weeks, patiently\nFallin' out of love with you and me\nAnd now it's too late to save it\n\n[Chorus]\nSo who, who, who, who are you, you? (You, you)\nWho, who, who are you? (Who are you?)\nEvery day it's all the same\nI don't wanna play your games\nIf you wanna know, it depends who's asking\nNow it's too late to save itEmbed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/7374975",
+    "artist_names": "Bad Omens",
+    "full_title": "Somebody else. by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374975,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710099902,
+    "path": "/Bad-omens-somebody-else-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bad-omens-somebody-else-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 2,
+     "day": 25
+    },
+    "release_date_for_display": "February 25, 2022",
+    "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 11336
+    },
+    "title": "Somebody else.",
+    "title_with_featured": "Somebody else.",
+    "updated_by_human_at": 1724718855,
+    "url": "https://genius.com/Bad-omens-somebody-else-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "14 ContributorsTranslationsEspa\u00f1olSomebody else. Lyrics[Verse 1]\nYou said \"Enough\", you never loved the thought of us\nYou're too good to be true, yeah\nI gotta go, gotta run\nYou don't want me the way that I want you, no\n\n[Chorus]\nYou walked too close to the rails\nI picked you up when you fell\nHow can you live with yourself?\nYou're lost, but I couldn't tell\nFooled me and you did it well\nThought you were somebody else\n\n[Verse 2]\nNo way to right these wrongs\nEither way, I'm feeling it might just cost somethin' in the millions\nI know that I can't resist\nYou know I can't just stop, but I don't wanna hear\nEvery night you're off walkin' on the ceiling\nThinkin' about what you did\n\n[Chorus]\nYou walked too close to the rails\nI picked you up when you fell\nHow can you live with yourself?\nYou're lost, but I couldn't tell\nFooled me and you did it well\nThought you were somebody else\nYou might also like[Bridge]\nI know we said that sex isn't love\nBut it seems like enough for us\nI know we said that we're having fun\nBut I'm getting too numb to your touch\n\n[Chorus]\nYou walked too close to the rails\nI picked you up when you fell\nHow can you live with yourself?\nYou're lost, but I couldn't tell\nFooled me and you did it well\nThought you were somebody elseEmbed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/7374976",
+    "artist_names": "Bad Omens",
+    "full_title": "IDWT$ by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374976,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718181797,
+    "path": "/Bad-omens-idwt-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bad-omens-idwt-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 2,
+     "day": 25
+    },
+    "release_date_for_display": "February 25, 2022",
+    "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 21218
+    },
+    "title": "IDWT$",
+    "title_with_featured": "IDWT$",
+    "updated_by_human_at": 1724718877,
+    "url": "https://genius.com/Bad-omens-idwt-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "18 ContributorsTranslationsEspa\u00f1olIDWT$ Lyrics[Verse 1]\nYou break, you mend, blend in with the madness\nYou try to love again, 'cause what else could happen?\nYou're trapped at the bottom of your wishing well\nBuried underneath the wealth\nPenny after penny, reaching for a hand to pull you out\nAnd then\n\n[Pre-Chorus]\nYou wake up to sirens and quakes in your bed\nSearching for something to push you through the day\nAching for meds that could take the pain away\nEvery second, every day\n\n[Chorus]\n(You're waiting for the)\nDay to come when th\u0435y will notice\n(It is time to wake up now)\nFighting battl\u0435s at your lowest\n(Your fire is dying out)\nDragging every step forward\nBut it won't happen again\nAnd I'm not gonna pretend\n(I don't want the money)\n(Want the money)\nYou might also like[Verse 2]\nCan't say I'm mad, this is entertainment\nBut I want what they have and I'm gonna take it\nAnd I'm so sorry if I'm cynical\nMy water's full of chemicals\nI don't know what I'm made of anymore\n\n[Pre-Chorus]\nYou wake up to sirens and quakes in your bed\nSearching for something to push you through the day\nAching for meds that could take the pain away\nEvery second, every day\n\n[Chorus]\n(You're waiting for the)\nDay to come when they will notice\n(It is time to wake up now)\nFighting battles at your lowest\n(Your fire is dying out)\nDragging every step forward\nBut it won't happen again\nAnd I'm not gonna pretend\n(I don't want the money)\n(Want the money)\n(Want the money)\n[Bridge]\n(It's time to wake up now)\n(Your fire is dying out)\nBut it won't happen again\nAnd I'm not gonna pretend\n\n[Chorus]\n(I'm waitin' for the)\nDay to come when they will notice\n(It is time to wake up now)\nFighting battles at your lowest\n(Your fire is dying out)\nDragging every step forward\nBut it won't happen again\nAnd I'm not gonna pretend\n(I don't want the money)\n\n[Outro]\nWant it, I want it all\nWant it, I want it allEmbed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/7374977",
+    "artist_names": "Bad Omens",
+    "full_title": "What do you want from me? by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374977,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1706517648,
+    "path": "/Bad-omens-what-do-you-want-from-me-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bad-omens-what-do-you-want-from-me-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 12,
+     "day": 10
+    },
+    "release_date_for_display": "December 10, 2021",
+    "release_date_with_abbreviated_month_for_display": "Dec. 10, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 12506
+    },
+    "title": "What do you want from me?",
+    "title_with_featured": "What do you want from me?",
+    "updated_by_human_at": 1724718909,
+    "url": "https://genius.com/Bad-omens-what-do-you-want-from-me-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "14 ContributorsTranslationsEnglishWhat do you want from me? Lyrics[Verse 1]\nThis isn't over 'til we talk in the light\nSaid I was sober, but you knew that I lied\nYou grip the wheel, maybe I'd like to try\nI'll flip it over with you and me inside\n\n[Verse 2]\nI won't atone for debts I paid for in full\nHang up my shame on display for you (For you)\nI'm not the same and you don't get to decide\nWho gets replaced, who gets to live, and to die?\n\n[Refrain]\nSo what do you want from me?\nSo what do you want?\nSo what do you want from me?\nSo what do you want?\nSo what do you want from me?\nSo what do you want?\nSo what do you want from me?\nSo what do you want?\n\n[Refrain]\nSo what do you want from me?\nSo what do you want?\nSo what do you want from me?\nSo what do you want?\nYou might also like[Outro]\nSo what do you want?Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/7374978",
+    "artist_names": "Bad Omens",
+    "full_title": "ARTIFICIAL SUICIDE by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374978,
+    "instrumental": false,
+    "lyrics_owner_id": 321054,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1717087966,
+    "path": "/Bad-omens-artificial-suicide-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/Bad-omens-artificial-suicide-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 12,
+     "day": 10
+    },
+    "release_date_for_display": "December 10, 2021",
+    "release_date_with_abbreviated_month_for_display": "Dec. 10, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 52414
+    },
+    "title": "ARTIFICIAL SUICIDE",
+    "title_with_featured": "ARTIFICIAL SUICIDE",
+    "updated_by_human_at": 1724718933,
+    "url": "https://genius.com/Bad-omens-artificial-suicide-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "26 ContributorsTranslationsEspa\u00f1olARTIFICIAL SUICIDE Lyrics[Intro]\nDon't look back, don't look back\nDon't look back, don't look back\n\n[Verse 1]\nSoaked in the neon glows\nSilver-forked tongues talking to you in the digital snow\nA glitch in the chain, a loop in the brain you wanted to break\nBut you still wanna play the game\n\n[Chorus]\nWell, we're not gonna be a commodity\nNot another maggot in the feed that you're gonna eat\nMotherfucker, you can try\nArtificial suicide\n\n[Post-Chorus]\nDon't look back, don't look back\nDon't look back, don't look back\n\n[Verse 2]\nEye for an eye, a tooth for a tooth\nLightin' molotovs for the broken youth (Youth)\nCan you hear me through the white noise, friend?\nA cheers to the life you don't get to choose\nAnother Antichrist on the evening news\nCan you hear me through the white noise?\nCan you hear me through the white noi\u2014\nYou might also like[Chorus]\nWe're not gonna be a commodity\nNot another maggot in the feed that you're gonna eat\nMotherfucker, you can try\nArtificial suicide\nWe're not gonna be a commodity\nNot another maggot in the feed that you're gonna eat\nMotherfucker, you can try\nArtificial suicide\n\n[Verse 3]\nYou hate the shape when you have to see\nAn unfamiliar face on an all-black screen\nCan you hear me through the white noise, friend?\nRepeat the phrase they force you to read\n\"If I wanna be great, I don't wanna be me\"\nCan you hear me through the white noise?\nCan you hear me through the white noise?\n\n[Breakdown]\nCan you hear me?\nCan you hear me through the white noise?\n\n[Chorus]\nWe're not gonna be a commodity\nNot another maggot in the feed that you're gonna eat\nMotherfucker, you can try\nArtificial suicide\nWe're not gonna be a commodity\nNot another maggot in the feed that you're gonna eat\nMotherfucker, you can try\nArtificial suicide\n[Outro]\nDon't look back, don't look back\nCan you hear me through the white noi\u20147Embed"
+   }
+  },
+  {
+   "number": 15,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/7374979",
+    "artist_names": "Bad Omens",
+    "full_title": "Miracle by\u00a0Bad\u00a0Omens",
+    "header_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "id": 7374979,
+    "instrumental": false,
+    "lyrics_owner_id": 6829064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1717541248,
+    "path": "/Bad-omens-miracle-lyrics",
+    "primary_artist_names": "Bad Omens",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bad-omens-miracle-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 2,
+     "day": 25
+    },
+    "release_date_for_display": "February 25, 2022",
+    "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4193836814c9f89a5eb58d03bdb46b7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 17315
+    },
+    "title": "Miracle",
+    "title_with_featured": "Miracle",
+    "updated_by_human_at": 1724718954,
+    "url": "https://genius.com/Bad-omens-miracle-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/622031",
+     "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+     "id": 622031,
+     "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Omens",
+     "slug": "Bad-omens",
+     "url": "https://genius.com/artists/Bad-omens"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/622031",
+      "header_image_url": "https://images.genius.com/ef6305d77b305c5f591a100737c26aed.742x366x1.jpg",
+      "id": 622031,
+      "image_url": "https://images.genius.com/f4bd6d9d400c09e6389ea3d6366cea82.500x500x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Omens",
+      "slug": "Bad-omens",
+      "url": "https://genius.com/artists/Bad-omens"
+     }
+    ],
+    "artist": "Bad Omens",
+    "lyrics": "15 ContributorsTranslationsEspa\u00f1olMiracle Lyrics[Intro]\nLay on me, lay on me\nLay on me, lay on me\n\n[Verse 1]\nOne look at your eyes and I cave in\nOne taste of the life, now I crave it\nIt's not too late to die for a reason\nFall down on the sword you were swingin\u2019\n\n[Pre-Chorus]\nI wanted to dress a blade up in red with both of our necks\nBut I wasn't able and I wasn't stable, I guess\nBut nevertheless, I\u2019m fuckin' depressed, I hide it with sex and drink 'til it's fatal\nIt's so fucking painful, it's a mess\n\n[Chorus]\nSo give me somethin' beautiful\nSo give m\u0435 somethin' else\nI need anoth\u0435r miracle\nI really need some help\nI need a miracle\n\n[Verse 2]\nWho\u2019s left when we\u2019re all for the takin'?\nNo lives left to bet on obeyin\u2019\nWhat are we callin' it and what does it cost?\nWhat are we callin' it and what does it cost?\nIn over my head when you found me\nI love you to death, but I'm drowning\nWhat are we callin\u2019 it and what does it cost?\nWhat are we callin' it and what does it cost?\nYou might also like[Chorus]\nSo give me somethin' beautiful\nSo give me somethin' else\nI need another miracle\nI need some fuckin' help (I need a miracle)\n\n[Breakdown]\nYou're just the company you keep\nAnd trouble tends to follow me\nI didn't care, now I'm fucking scared\nAnd if you're not (You're gonna be)\n\n[Pre-Chorus]\nSo give me somethin' beautiful\nSo give me somethin' else\nI need a fucking miracle\nI need some fucking help\n\n[Chorus]\nSo give me somethin' beautiful\nSo give me somethin' else\nI need another miracle\nI need some fuckin' help (I need a miracle)\n\n[Outro]\nI wanted to dress a blade up in red with both of our necks\nBut I wasn't able and I wasn't stable, I guess\nBut nevertheless, I'm fuckin' depressed, I hide it with sex and drink 'til it's fatal\nIt's so fucking painful, it's a mess\nI need a miracleEmbed"
+   }
+  }
+ ]
+}

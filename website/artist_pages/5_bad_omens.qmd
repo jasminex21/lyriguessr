@@ -1,0 +1,64 @@
+---
+title: "Bad Omens"
+date: ""
+date-modified: ""
+categories: ["metalcore"]
+---
+
+::: {.callout-tip appearance="simple"}
+## Play the game!
+::: lead
+NOT UP YET
+<!-- **Go to <a href="https://olivia_rodrigo.lyriguessr.xyz/" target="_blank">oliviaRodriguessr!</a> (opens external link)** -->
+:::
+:::
+
+### Details
+
+::: {.callout-note appearance="simple"}
+## Announcement
+I am taking requests for cooler/punnier names for this game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
+:::
+
+Lyrics range from *Bad Omens* to *CONCRETE JUNGLE [THE OST]*.
+
+### The Dataset and Statistics
+
+There are 1,744 lines in the dataset, with 990 of them being *unique* lines. 
+
+* You have around a 0.057% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+
+```{r echo=FALSE}
+#| label: bad_omens
+library(gt)
+
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/bad_omens/bad omens_counts.csv")
+
+colnames(data) <- c("Lyric", "#", "Song", "Pct.")
+
+gt(data) %>% 
+    tab_header(title=md("Top 5 Most Common Lyrics"), 
+               subtitle="And each lyric's number of occurrences, and chance of showing up in Hard mode") %>%
+    opt_table_font(stack = "rounded-sans") %>%
+    tab_options(table.background.color = "#8D9F8E",
+                table.font.weight = "bolder",
+                table.font.color = "black",
+                table.font.color.light = "black",
+                table.font.size = "90%",
+                data_row.padding = 10,
+                data_row.padding.horizontal = 10) %>%
+    tab_style(style = cell_text(weight = "bolder"),
+              locations=list(cells_title(), cells_column_labels())) %>%
+    tab_style(style = cell_text(style = "italic"),
+              locations = cells_body(columns = Lyric)) %>%
+    tab_style(style = cell_text(align = "center"),
+              locations = cells_column_labels()) %>%
+    cols_width(Lyric ~ px(800),
+               `#` ~ px(50),
+               Song ~ px(500),
+               `Pct.` ~ px(100))
+```
+
+### Similar Artists
+
+Nothing here yet...
