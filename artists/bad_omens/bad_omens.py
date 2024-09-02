@@ -34,7 +34,7 @@ config_game(game_title="badOmensGuessr")
 init_session_states()
 
 ui(game_title="badOmensGuessr",
-   instructions=["Only *V.A.N*, *THE DRAIN*, *TERMS & CONDITIONS*, *EVEN*, *ANYTHING > HUMAN*, and *NERVOUS SYSTEM* are included from *CONCRETE JUNGLE [THE OST]."],
+   instructions=["Only *V.A.N*, *THE DRAIN*, *TERMS & CONDITIONS*, *EVEN*, *ANYTHING > HUMAN*, and *NERVOUS SYSTEM* are included from *CONCRETE JUNGLE [THE OST]*."],
    guess_placeholder="e.g. Like a Villain or Dethrone",
    default_theme="THE DEATH OF PEACE OF MIND"
    )
