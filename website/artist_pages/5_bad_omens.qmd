@@ -1,7 +1,7 @@
 ---
 title: "Bad Omens"
-date: ""
-date-modified: ""
+date: "2024-09-02"
+date-modified: "2024-09-02"
 categories: ["metalcore"]
 ---
 
@@ -9,7 +9,7 @@ categories: ["metalcore"]
 ## Play the game!
 ::: lead
 NOT UP YET
-<!-- **Go to <a href="https://olivia_rodrigo.lyriguessr.xyz/" target="_blank">oliviaRodriguessr!</a> (opens external link)** -->
+**Go to <a href="https://badomens-lyriguessr-xyz.streamlit.app/" target="_blank">badOmensGuessr!</a> (opens external link)**
 :::
 :::
 
