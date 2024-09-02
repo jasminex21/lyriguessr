@@ -7,7 +7,7 @@ date-modified: "2024-08-11"
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to [waterparksGuessr](https://waterparksguessr.streamlit.app/)**
+**Go to <a href="https://waterparks.lyriguessr.xyz/" target="_blank">waterparksGuessr!</a> (opens external link)**
 :::
 :::
 

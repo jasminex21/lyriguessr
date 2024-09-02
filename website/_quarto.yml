@@ -18,7 +18,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "Interact with me at @lyriguessr on Twitter to request new artists!"
+    content: "Interact with me at @lyriguessr on Twitter or Instagram to request new artists!"
     type: info
     position: below-navbar
 
@@ -37,6 +37,8 @@ website:
       href: https://github.com/jasminex21/lyriguessr
     - icon: twitter 
       href: https://x.com/lyriguessr
+    - icon: instagram
+      href: https://www.instagram.com/lyriguessr
     style: docked
     search: true
     contents:

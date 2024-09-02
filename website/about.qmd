@@ -30,5 +30,5 @@ I realized that tayLyrics could be generalized to fans of any artist - why not s
 
 A couple people I'd like to thank for their contributions to lyriguessr's development...
 
-* My awesome roommate Hannah, whose love for tayLyrics inspired the creation of lyriguessr
+* My awesome roommate (and the love of my life) Hannah, whose love for tayLyrics inspired the creation of lyriguessr
 * Trus, for designing the amazing lyriguessr logo and whose encouragement kept me going!

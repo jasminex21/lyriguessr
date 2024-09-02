@@ -7,7 +7,7 @@ date-modified: ""
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**NOT UP YET**
+**Go to <a href="https://thenbhd.lyriguessr.xyz/" target="_blank">nbhdGuessr!</a> (opens external link)**
 :::
 :::
 

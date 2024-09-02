@@ -43,30 +43,26 @@
 
     ix. `nohup python3 -m streamlit run <app_name.py>` to enable permanent running
 
-5. Deploy to custom domain
+5. Create a new target group
 
-    i. I already have a hosted zone in Route 53 (lyriguessr.xyz)
+    i. Go to EC2 > Target Groups > Create target group
 
-    ii. Click "Create record"
+    ii. Simply add the name of the target group (keep it the same as the instance name, e.g. tayLyrics or radiohead), and keep all the defaults 
 
-    iii. Enter the name of the app, e.g. "tayLyrics"
+    iii. Select the corresponding instance
 
-    iv. Select record type A
+    iv. Change "Ports for the selected instances" to be 8501 (it is 80 by default), and Include as pending below, then Register pending targets
 
-    v. Add the instance's public DNS (without the port, e.g. 100.28.99.46) as the value
+6. Modify load balancer settings
 
-6. Set up load balancer to direct HTTPS traffic
+    i. Go to EC2 > Load Balancers > tayLyrics
 
-    i. From the console, go to Target Groups > Create Target Group
+    ii. For both HTTP and HTTPS, select them and then Add rule > Add condition (if Host Header is <instance_name>.lyriguessr.xyz) > Forward to correpsonding target group
 
-    ii. Change the port to 8501 (default is 80)
+7. Deploy to custom domain
 
-    iii. Click Next, then select the correct instance as a target, and Create Target Group
+    i. Go to Route 53 > Hosted zones > lyriguessr.xyz
 
-    iv. Go to EC2 > Load Balancers > tayLyrics
+    ii. Create record > Set Record name to the instance name > Select CNAME > Set the value to "tayLyrics-922305429.us-east-1.elb.amazonaws.com." - this is the public DNS of the load balancer > Create records
 
-    v. Add a rule to both HTTPS:443 and HTTP:80 - choose condition "Host Header" and set the host header to "<app_name>.lyriguessr.xyz"
-
-    vi. Log in to Namecheap and go to Advanced DNS - create a new CNAME record with "<app_name>" as the host, and "tayLyrics-922305429.us-east-1.elb.amazonaws.com." as the value
-
-    vii. Use [WhatsMyDNS](https://www.whatsmydns.net/) to keep track of the DNS propagation
+    iii. Check the link https://<instance_name>.lyriguessr.xyz - if it works we are all set! Else, it could be that DNS propagation is taking awhile, so use [WhatsMyDNS](https://www.whatsmydns.net/) to keep track of the DNS propagation
