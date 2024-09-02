@@ -3,13 +3,15 @@ title: "Welcome to lyriguessr!"
 subtitle: "Lyric-guessing games for your favorite artists"
 listing:
   - id: artist_games
+    categories: true
     contents: artist_pages
     sort: date
     type: table
-    fields: [title, date]
+    fields: [title, date, categories]
     field-display-names: 
       title: Artist
       date: Date Added
+      categories: Genres
 ---
 
 <p align="center">

@@ -2,40 +2,44 @@
 title: "Coming Soon..."
 ---
 
-### Artists
+### Artists to be added 
 
 ::: {.callout-tip appearance="simple"}
 ## Tip
 Interact with me at [@lyriguessr](https://x.com/lyriguessr) on Twitter or Instagram to request new artists!
 :::
 
-* Beach Bunny
+*In this order...*
+
 * Olivia Rodrigo
-* Harry Styles
-* Chappell Roan
-* beabadoobee
-* Clairo
-* Conan Gray
-* Noah Kahan
-* Hozier
-* Ariana Grande
-* Gracie Abrams
-* Paramore
-* BTS (??? - language?)
-* Lana Del Ray
-* Lizzy McAlpine
-* Dominic Fike
-* 5 Seconds of Summer
-* Musical-themed games - Hamilton?
-* Disney-themes
-* Rex Orange County
 * Billie Eilish
-* SZA
-* The Neighbourhood
-* Nicki Minaj
-* Charli XCX
-* Kendrick Lamar
-* Tyler, the Creator 
-* Lady Gaga
+* Chappell Roan
+* Dominic Fike
+* Clairo
+* Lana del Ray
+* Hozier
+* Harry Styles
 * Bad Bunny
-* Peso Pluma
+* SZA
+* Ariana Grande
+* beabadoobee
+* Kendrick Lamar
+* Tyler, the Creator
+* Chase Atlantic
+* The Weeknd
+* Twenty One Pilots
+* Fall Out Boy
+
+#### Potential other artists
+
+* Bad Omens
+* Beach Bunny
+* 5 Seconds of Summer
+* Paramore
+* Charli XCX
+* KPop artists - e.g. BTS, TWICE, etc. Will need insights as to how I should do this, considering the language barrier
+
+#### Others
+
+* Hamilton (the musical)
+* Disney movie songs

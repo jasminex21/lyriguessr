@@ -1,13 +1,14 @@
 ---
-title: "Radiohead"
-date: "2024-08-07"
-date-modified: "2024-08-07"
+title: "Waterparks"
+date: "2024-08-11"
+date-modified: "2024-08-11"
+categories: ["pop punk"]
 ---
 
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://radiohead.lyriguessr.xyz/" target="_blank">radioheadGuessr!</a> (opens external link)**
+**Go to <a href="https://waterparks.lyriguessr.xyz/" target="_blank">waterparksGuessr!</a> (opens external link)**
 :::
 :::
 
@@ -15,24 +16,23 @@ date-modified: "2024-08-07"
 
 ::: {.callout-note appearance="simple"}
 ## Announcement
-I am taking requests for cooler/punnier names for Radiohead's game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
+I am taking requests for cooler/punnier names for Waterparks' game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
 :::
 
-Lyrics range from *Pablo Honey* to A *Moon Shaped Pool*.
+Lyrics range from *Airplane Conversations* to *INTELLECTUAL PROPERTY*.
 
-As of now, *In Rainbows (Disk 2)* is not included. 
+Demo album 1 is <u>not</u> included, and neither are *Candy* and *What We Do For Fun.*
 
 ### The Dataset and Statistics
 
-There are 2,588 lines in the **radioheadGuessr** dataset, with 1,708 of them being *unique* lines.
+There are 4,449 lines in the **waterparksGuessr** dataset, with 2,577 of them being *unique* lines. 
 
-* You have around a 0.039% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
-
+* You have around a 0.022% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
 ```{r echo=FALSE}
-#| label: radiohead
+#| label: waterparks
 library(gt)
 
-data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/radiohead/radiohead_counts.csv")
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/waterparks/waterparks_counts.csv")
 
 colnames(data) <- c("Lyric", "#", "Song", "Pct.")
 
@@ -62,3 +62,4 @@ gt(data) %>%
 ### Similar Artists
 
 Nothing here yet...
+

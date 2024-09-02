@@ -445,7 +445,6 @@ def ui(game_title,
             apply_theme(THEME_CSS)
 
         st.markdown(f"Made with :heart: by Jasmine Xu")
-        st.markdown(f"Contact me at <jasminexu@utexas.edu>")
 
         if os.path.exists(LEADERBOARD):
 

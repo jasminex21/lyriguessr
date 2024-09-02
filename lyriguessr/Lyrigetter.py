@@ -91,6 +91,7 @@ class Lyrigetter:
         full_lyrics = full_lyrics[full_lyrics['lyric'] != "You might also like"]
         full_lyrics["lyric"] = full_lyrics["lyric"].replace(r'^You might also like(?=\S)', "", regex=True)
         full_lyrics["lyric"] = full_lyrics["lyric"].replace(r"(?<=\S)You might also like$", "", regex=True)
+        full_lyrics = full_lyrics[~full_lyrics['lyric'].str.contains("Get tickets as low")]
 
         # add line number
         full_lyrics = full_lyrics.reset_index()

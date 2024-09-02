@@ -1,0 +1,843 @@
+{
+ "_type": "album",
+ "api_path": "/albums/715843",
+ "cover_art_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+ "full_title": "SOUR by Olivia Rodrigo",
+ "id": 715843,
+ "name": "SOUR",
+ "name_with_artist": "SOUR (artist: Olivia Rodrigo)",
+ "release_date_components": {
+  "year": 2021,
+  "month": 5,
+  "day": 21
+ },
+ "release_date_for_display": "May 21, 2021",
+ "url": "https://genius.com/albums/Olivia-rodrigo/Sour",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/1599675",
+  "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+  "id": 1599675,
+  "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+  "index_character": "o",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Olivia Rodrigo",
+  "slug": "Olivia-rodrigo",
+  "url": "https://genius.com/artists/Olivia-rodrigo",
+  "iq": 2415
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1599675",
+   "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+   "id": 1599675,
+   "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+   "index_character": "o",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Olivia Rodrigo",
+   "slug": "Olivia-rodrigo",
+   "url": "https://genius.com/artists/Olivia-rodrigo",
+   "iq": 2415
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/6702206",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "\u200bbrutal by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "id": 6702206,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1679311131,
+    "path": "/Olivia-rodrigo-brutal-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 136,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-brutal-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 5,
+     "day": 21
+    },
+    "release_date_for_display": "May 21, 2021",
+    "release_date_with_abbreviated_month_for_display": "May. 21, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 1059885
+    },
+    "title": "\u200bbrutal",
+    "title_with_featured": "\u200bbrutal",
+    "updated_by_human_at": 1722052512,
+    "url": "https://genius.com/Olivia-rodrigo-brutal-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1599675",
+     "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+     "id": 1599675,
+     "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+     "index_character": "o",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Olivia Rodrigo",
+     "slug": "Olivia-rodrigo",
+     "url": "https://genius.com/artists/Olivia-rodrigo",
+     "iq": 2415
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1599675",
+      "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+      "id": 1599675,
+      "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Olivia Rodrigo",
+      "slug": "Olivia-rodrigo",
+      "url": "https://genius.com/artists/Olivia-rodrigo",
+      "iq": 2415
+     }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "211 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00easPortugu\u00easItalianoMagyarDeutschFran\u00e7aisDanskPolskiChinese Traditional\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u200bbrutal Lyrics[Intro]\nI want it to be, like, messy\n\n[Verse 1]\nI'm so insecure, I think\nThat I'll die before I drink\nAnd I'm so caught up in the news\nOf who likes me and who hates you\nAnd I'm so tired that I might\nQuit my job, start a new life\nAnd they'd all be so disappointed\n'Cause who am I if not exploited?\nAnd I'm so sick of seventeen\nWhere's my fucking teenage dream?\nIf someone tells me one more time\n\"Enjoy your youth,\" I'm gonna cry\nAnd I don't stick up for myself\nI'm anxious, and nothing can help\nAnd I wish I'd done this before\nAnd I wish people liked me more\n\n[Chorus]\nAll I did was try my best\nThis the kinda thanks I get?\nUnrelentlessly upset (Ah-ah-ah)\nThey say these are the golden years\nBut I wish I could disappear\nEgo crush is so severe\nGod, it's brutal out here\nSee Olivia Rodrigo LiveGet tickets as low as $91You might also like[Post-Chorus]\n(Yeah)\n\n[Verse 2]\nI feel like no one wants me\nAnd I hate the way I'm perceived\nI only have two real friends\nAnd lately, I'm a nervous wreck\n'Cause I love people I don't like\nAnd I hate every song I write\nAnd I'm not cool, and I'm not smart\nAnd I can't even parallel park\n\n[Chorus]\nAll I did was try my best\nThis the kinda thanks I get?\nUnrelentlessly upset (Ah-ah-ah)\nThey say these are the golden years\nBut I wish I could disappear\nEgo crush is so severe\nGod, it's brutal out here\n\n[Post-Chorus]\n(Yeah)\n(Just havin' a really good time)\n[Outro]\nGot a broken ego, broken heart\n(Yeah, it's brutal out here, yeah, it's brutal out here)\nAnd God, I don't even know where to start136Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/6702211",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "\u200btraitor by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "id": 6702211,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1694983804,
+    "path": "/Olivia-rodrigo-traitor-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 130,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-traitor-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 5,
+     "day": 21
+    },
+    "release_date_for_display": "May 21, 2021",
+    "release_date_with_abbreviated_month_for_display": "May. 21, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 1412096
+    },
+    "title": "\u200btraitor",
+    "title_with_featured": "\u200btraitor",
+    "updated_by_human_at": 1722539108,
+    "url": "https://genius.com/Olivia-rodrigo-traitor-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1599675",
+     "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+     "id": 1599675,
+     "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+     "index_character": "o",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Olivia Rodrigo",
+     "slug": "Olivia-rodrigo",
+     "url": "https://genius.com/artists/Olivia-rodrigo",
+     "iq": 2415
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1599675",
+      "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+      "id": 1599675,
+      "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Olivia Rodrigo",
+      "slug": "Olivia-rodrigo",
+      "url": "https://genius.com/artists/Olivia-rodrigo",
+      "iq": 2415
+     }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "175 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olPortugu\u00easDeutschFran\u00e7aisMagyarItalianoDanskChinese TraditionalPortugu\u00eas\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u200btraitor Lyrics[Intro]\nOoh-ooh-ooh\nAh-ah-ah-ah-ah\n\n[Verse 1]\nBrown guilty eyes and little white lies, yeah\nI played dumb, but I always knew\nThat you talked to her, maybe did even worse\nI kept quiet so I could keep you\n\n[Pre-Chorus]\nAnd ain't it funny how you ran to her\nThe second that we called it quits?\nAnd ain't it funny how you said you were friends?\nNow it sure as hell don't look like it\n\n[Chorus]\nYou betrayed me\nAnd I know that you'll never feel sorry\nFor the way I hurt, yeah\nYou talked to her when we were together\nLoved you at your worst, but that didn't matter\nIt took you two weeks to go off and date her\nGuess you didn't cheat, but you're still a traitor\n\n[Verse 2]\nNow you bring her around just to shut me down\nShow her off like she's a new trophy\nAnd I know if you were true, there's no damn way that you\nCould fall in love with somebody that quickly\nSee Olivia Rodrigo LiveGet tickets as low as $91You might also like[Pre-Chorus]\nAnd ain't it funny? All the twisted games\nAll the questions you used to avoid\nAin't it funny? Remember I brought her up\nAnd you told me I was paranoid?\n\n[Chorus]\nYou betrayed me\nAnd I know that you'll never feel sorry\nFor the way I hurt, yeah\nYou talked to her when we were together\nLoved you at your worst, but that didn't matter\nIt took you two weeks to go off and date her\nGuess you didn't cheat, but you're still a traitor\n\n[Bridge]\n(Ah-ah-ah)\nGod, I wish that you had thought this through\nBefore I went and fell in love with you\n(Ah-ah-ah)\nWhen she's sleepin' in the bed we made\nDon't you dare forget about the way\n\n[Chorus]\nYou betrayed me\n'Cause I know that you'll never feel sorry\nFor the way I hurt, yeah\nYou talked to her when we were together\nYou gave me your word, but that didn't matter\nIt took you two weeks to go off and date her\nGuess you didn't cheat, but you're still, you're still a traitor\n(Ah-ah-ah)\nYeah, you're still a traitor\n[Outro]\nOoh-ooh-ooh\nGod, I wish that you had thought this through\nBefore I went and fell in love with you130Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/5795230",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "\u200bdrivers license by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/339f422ffef17de52344fd01c2e4bfff.300x300x1.png",
+    "header_image_url": "https://images.genius.com/339f422ffef17de52344fd01c2e4bfff.1000x1000x1.png",
+    "id": 5795230,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1711260173,
+    "path": "/Olivia-rodrigo-drivers-license-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 379,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-drivers-license-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 1,
+     "day": 8
+    },
+    "release_date_for_display": "January 8, 2021",
+    "release_date_with_abbreviated_month_for_display": "Jan. 8, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/339f422ffef17de52344fd01c2e4bfff.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/339f422ffef17de52344fd01c2e4bfff.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 4515469
+    },
+    "title": "\u200bdrivers license",
+    "title_with_featured": "\u200bdrivers license",
+    "updated_by_human_at": 1714704194,
+    "url": "https://genius.com/Olivia-rodrigo-drivers-license-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1599675",
+     "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+     "id": 1599675,
+     "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+     "index_character": "o",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Olivia Rodrigo",
+     "slug": "Olivia-rodrigo",
+     "url": "https://genius.com/artists/Olivia-rodrigo",
+     "iq": 2415
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1599675",
+      "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+      "id": 1599675,
+      "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Olivia Rodrigo",
+      "slug": "Olivia-rodrigo",
+      "url": "https://genius.com/artists/Olivia-rodrigo",
+      "iq": 2415
+     }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "402 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00easPortugu\u00easNorsk (bokm\u00e5l / riksm\u00e5l)\u65e5\u672c\u8a9eItalianoDeutschFran\u00e7ais\u0641\u0627\u0631\u0633\u06ccDansk\u0939\u093f\u0928\u094d\u0926\u0940PolskiNederlands\u0627\u0644\u0639\u0631\u0628\u064a\u0629Chinese Traditional\u200bdrivers license Lyrics[Verse 1]\nI got my driver's license last week\nJust like we always talked about\n'Cause you were so\u2005excited\u2005for me\nTo finally\u2005drive up to your house\nBut today,\u2005I drove through the suburbs\nCrying 'cause you weren't around\n\n[Verse 2]\nAnd you're\u205fprobably\u205fwith\u205fthat blonde girl\nWho\u205falways made me\u205fdoubt\nShe's so much older than me\nShe's everything I'm insecure about\nYeah, today, I drove through the suburbs\n'Cause how could I ever love someone else?\n\n[Chorus]\nAnd I know we weren't perfect, but I've never felt this way for no one\nAnd I just can't imagine how you could be so okay now that I'm gone\nGuess you didn't mean what you wrote in that song about me\n'Cause you said forever, now I drive alone past your street\n\n[Verse 3]\nAnd all my friends are tired\nOf hearing how much I miss you, but\nI kinda feel sorry for them\n'Cause they'll never know you the way that I do\nYeah, today, I drove through the suburbs\nAnd pictured I was driving home to you\nSee Olivia Rodrigo LiveGet tickets as low as $91You might also like[Chorus]\nAnd I know we weren't perfect, but I've never felt this way for no one, oh\nAnd I just can't imagine how you could be so okay now that I'm gone\nI guess you didn't mean what you wrote in that song about me\n'Cause you said forever, now I drive alone past your street\n\n[Bridge]\nRed lights, stop signs\nI still see your face in the white cars, front yards\nCan't drive past the places we used to go to\n'Cause I still fuckin' love you, babe (Ooh, ooh-ooh, ooh, ooh-ooh)\nSidewalks we crossed\nI still hear your voice in the traffic, we're laughing\nOver all the noise\nGod, I'm so blue, know we're through\nBut I still fuckin' love you, babe (Ooh, ooh-ooh, ooh, ooh-ooh)\n\n[Chorus]\nI know we weren't perfect, but I've never felt this way for no one\nAnd I just can't imagine how you could be so okay now that I'm gone\nGuess you didn't mean what you wrote in that song about me\n'Cause you said forever, now I drive alone past your street\n[Outro]\nYeah, you said forever, now I drive alone past your street379Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/6702223",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "1 step forward, 3 steps back by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "id": 6702223,
+    "instrumental": false,
+    "lyrics_owner_id": 4469304,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718826927,
+    "path": "/Olivia-rodrigo-1-step-forward-3-steps-back-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 80,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-1-step-forward-3-steps-back-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 5,
+     "day": 21
+    },
+    "release_date_for_display": "May 21, 2021",
+    "release_date_with_abbreviated_month_for_display": "May. 21, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 884256
+    },
+    "title": "1 step forward, 3 steps back",
+    "title_with_featured": "1 step forward, 3 steps back",
+    "updated_by_human_at": 1718826927,
+    "url": "https://genius.com/Olivia-rodrigo-1-step-forward-3-steps-back-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1599675",
+     "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+     "id": 1599675,
+     "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+     "index_character": "o",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Olivia Rodrigo",
+     "slug": "Olivia-rodrigo",
+     "url": "https://genius.com/artists/Olivia-rodrigo",
+     "iq": 2415
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1599675",
+      "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+      "id": 1599675,
+      "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Olivia Rodrigo",
+      "slug": "Olivia-rodrigo",
+      "url": "https://genius.com/artists/Olivia-rodrigo",
+      "iq": 2415
+     }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "136 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olPortugu\u00easPortugu\u00easItalianoDeutschFran\u00e7ais\u0641\u0627\u0631\u0633\u06ccNederlandsPolskiChinese Traditional\u0627\u0644\u0639\u0631\u0628\u064a\u06291 step forward, 3 steps back Lyrics[Verse 1]\nCalled you on the phone today\nJust to ask you how you were\nAll I did was speak normally\nSomehow, I still struck a nerve\nYou got me fucked up in the head, boy\nNever doubted myself so much\nLike, am I pretty? Am I fun, boy?\nI hate that I give you power over that kinda stuff\n[Chorus]\n'Cause it's always one step forward and three steps back\nI'm the love of your life until I make you mad\nIt's always one step forward and three steps back\nDo you love me, want me, hate me?\nBoy, I don't understand\nNo, I don't understand\n\n[Verse 2]\nAnd maybe in some masochistic way\nI kind of find it all exciting\nLike, which lover will I get today?\nWill you walk me to the door or send me home crying?\n[Chorus]\nIt's one step forward and three steps back\nI'm the love of your life until I make you mad\nIt's always one step forward and three steps back\nDo you love me, want me, hate me?\nBoy, I don't understand\nSee Olivia Rodrigo LiveGet tickets as low as $91You might also like[Bridge]\nNo, it's back and forth, did I say something wrong?\nIt's back and forth, going over everything I said\nIt's back and forth, did I do something wrong?\nIt's back and forth, maybe this is all your fault instead\n[Chorus]\nIt's one step forward and three steps back\nAnd I'd leave you, but the rollercoaster's all I've ever had\nYeah, it's one step forward and three steps back\nDo you love me, want me, hate me?\nBoy, I don't understand\nNo, I don't understand80Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/6649389",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "\u200bdeja vu by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/146f35f3c7ecedfccb09c86ba0d8369f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/146f35f3c7ecedfccb09c86ba0d8369f.1000x1000x1.jpg",
+    "id": 6649389,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723143974,
+    "path": "/Olivia-rodrigo-deja-vu-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 191,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-deja-vu-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 4,
+     "day": 1
+    },
+    "release_date_for_display": "April 1, 2021",
+    "release_date_with_abbreviated_month_for_display": "Apr. 1, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/70870ccfbc8c44ed0cd488329c014ada.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/70870ccfbc8c44ed0cd488329c014ada.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "concurrents": 3,
+     "hot": false,
+     "pageviews": 2813118
+    },
+    "title": "\u200bdeja vu",
+    "title_with_featured": "\u200bdeja vu",
+    "updated_by_human_at": 1723143974,
+    "url": "https://genius.com/Olivia-rodrigo-deja-vu-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1599675",
+     "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+     "id": 1599675,
+     "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+     "index_character": "o",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Olivia Rodrigo",
+     "slug": "Olivia-rodrigo",
+     "url": "https://genius.com/artists/Olivia-rodrigo",
+     "iq": 2415
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1599675",
+      "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+      "id": 1599675,
+      "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Olivia Rodrigo",
+      "slug": "Olivia-rodrigo",
+      "url": "https://genius.com/artists/Olivia-rodrigo",
+      "iq": 2415
+     }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "245 ContributorsTranslationsT\u00fcrk\u00e7eSvenskaEspa\u00f1olPortugu\u00easPortugu\u00easNorsk (bokm\u00e5l / riksm\u00e5l)ItalianoDeutschFran\u00e7ais\u65e5\u672c\u8a9eCatal\u00e0Dansk\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u200bdeja vu Lyrics[Verse 1]\nCar rides to Malibu\nStrawberry ice cream, one spoon for two\nAnd tradin' jackets\nLaughin\u2019 'bout how small it looks on you\n(Ha-ha-ha-ha, ha-ha-ha-ha-ha, ha-ha-ha-ha)\nWatching reruns of Glee\nBein' annoying, singin\u2019 in harmony\nI bet she's braggin' to all her friends, sayin' you're so unique, hmm\n\n[Chorus]\nSo when you gonna tell her that we did that, too?\nShe thinks it's special, but it's all reused\nThat was our place, I found it first\nI made the jokes you tell to her when she's with you\nDo you get d\u00e9j\u00e0 vu when she\u2019s with you?\nDo you get d\u00e9j\u00e0 vu? (Ah) Hmm\nDo you get d\u00e9j\u00e0 vu, huh?\n\n[Verse 2]\nDo you call her, almost say my name?\n\u2019Cause let's be honest, we kinda do sound the same\nAnother actress\nI hate to think that I was just your type\nAnd I bet that she knows Billy Joel\n\u2019Cause you played her \"Uptown Girl\"\nYou're singin' it together\nNow I bet you even tell her how you love her\nIn between the chorus and the verse (Ooh; I love you)\nSee Olivia Rodrigo LiveGet tickets as low as $91You might also like[Chorus]\nSo when you gonna tell her that we did that, too?\nShe thinks it's special, but it\u2019s all reused\nThat was the show we talked about\nPlayed you the songs she's singing now when she's with you\nDo you get d\u00e9j\u00e0 vu when she's with you?\nDo you get d\u00e9j\u00e0 vu? (Oh-oh)\nDo you get d\u00e9j\u00e0 vu?\n[Bridge]\nStrawberry ice cream in Malibu\nDon't act like we didn't do that shit, too\nYou're tradin' jackets like we used to do\n(Yeah, everything is all reused)\nPlay her piano, but she doesn't know (Oh, oh)\nThat I was the one who taught you Billy Joel (Oh)\nA different girl now, but there's nothing new\n[Outro]\nI know you get d\u00e9j\u00e0 vu\nI know you get d\u00e9j\u00e0 vu\nI know you get d\u00e9j\u00e0 vu191Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/6702232",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "\u200bgood 4 u by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/9b7e8e155104780646cc8e10d518dae5.300x300x1.png",
+    "header_image_url": "https://images.genius.com/9b7e8e155104780646cc8e10d518dae5.1000x1000x1.png",
+    "id": 6702232,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723733312,
+    "path": "/Olivia-rodrigo-good-4-u-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 262,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-good-4-u-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 5,
+     "day": 14
+    },
+    "release_date_for_display": "May 14, 2021",
+    "release_date_with_abbreviated_month_for_display": "May. 14, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/9b7e8e155104780646cc8e10d518dae5.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/9b7e8e155104780646cc8e10d518dae5.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 2767397
+    },
+    "title": "\u200bgood 4 u",
+    "title_with_featured": "\u200bgood 4 u",
+    "updated_by_human_at": 1723733312,
+    "url": "https://genius.com/Olivia-rodrigo-good-4-u-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1599675",
+     "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+     "id": 1599675,
+     "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+     "index_character": "o",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Olivia Rodrigo",
+     "slug": "Olivia-rodrigo",
+     "url": "https://genius.com/artists/Olivia-rodrigo",
+     "iq": 2415
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1599675",
+      "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+      "id": 1599675,
+      "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Olivia Rodrigo",
+      "slug": "Olivia-rodrigo",
+      "url": "https://genius.com/artists/Olivia-rodrigo",
+      "iq": 2415
+     }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "279 ContributorsTranslationsEspa\u00f1olT\u00fcrk\u00e7eSvenskaPortugu\u00easPortugu\u00eas\u65e5\u672c\u8a9eItalianoMagyarDeutschFran\u00e7aisChinese Traditional\u0627\u0644\u0639\u0631\u0628\u064a\u0629Norsk (bokm\u00e5l / riksm\u00e5l)\u0420\u0443\u0441\u0441\u043a\u0438\u0439Catal\u00e0Hebrew\u200bgood 4 u Lyrics[Intro]\n(Ah)\n\n[Verse 1]\nWell, good for you, I guess you moved on really easily\nYou found a new girl and it only took a couple weeks\nRemember when you said that you wanted to give me the world?\n(World)\nAnd good for you, I guess that you've been workin' on yourself\nI guess that therapist I found for you, she really helped\nNow you can be a better man for your brand-new girl (Girl)\n\n[Chorus]\nWell, good for you\nYou look happy and healthy, not me\nIf you ever cared to ask\nGood for you\nYou're doin' great out there without me, baby\nGod, I wish that I could do that\nI've lost my mind, I've spent the night\nCryin' on the floor of my bathroom\nBut you're so unaffected, I really don't get it\nBut I guess good for you\n\n[Verse 2]\nWell, good for you, I guess you're gettin' everything you want (Ah)\nYou bought a new car and your career's really takin' off (Ah)\nIt's like we never even happened\nBaby, what the fuck is up with that? (Ah)\nAnd good for you, it's like you never even met me\nRemember when you swore to God I was the only\nPerson who ever got you? Well, screw that, and screw you\nYou will never have to hurt the way you know that I do\nSee Olivia Rodrigo LiveGet tickets as low as $91You might also like[Chorus]\nWell, good for you\nYou look happy and healthy, not me\nIf you ever cared to ask\nGood for you\nYou're doin' great out there without me, baby\nGod, I wish that I could do that\nI've lost my mind, I've spent the night\nCryin' on the floor of my bathroom\nBut you're so unaffected, I really don't get it\nBut I guess good for you\n\n[Break]\n(Ah-ah-ah-ah)\n(Ah-ah-ah-ah)\n\n[Bridge]\nMaybe I'm too emotional\nBut your apathy's like a wound in salt\nMaybe I'm too emotional\nOr maybe you never cared at all\nMaybe I'm too emotional\nYour apathy is like a wound in salt\nMaybe I'm too emotional\nOr maybe you never cared at all\n[Chorus]\nWell, good for you\nYou look happy and healthy, not me\nIf you ever cared to ask\nGood for you\nYou're doin' great out there without me, baby\nLike a damn sociopath\nI've lost my mind, I've spent the night\nCryin' on the floor of my bathroom\nBut you're so unaffected, I really don't get it\nBut I guess good for you\n\n[Outro]\nWell, good for you, I guess you moved on really easily262Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/6702234",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "\u200benough for you by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "id": 6702234,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724071785,
+    "path": "/Olivia-rodrigo-enough-for-you-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 55,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-enough-for-you-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 5,
+     "day": 21
+    },
+    "release_date_for_display": "May 21, 2021",
+    "release_date_with_abbreviated_month_for_display": "May. 21, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 698993
+    },
+    "title": "\u200benough for you",
+    "title_with_featured": "\u200benough for you",
+    "updated_by_human_at": 1724071785,
+    "url": "https://genius.com/Olivia-rodrigo-enough-for-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1599675",
+     "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+     "id": 1599675,
+     "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+     "index_character": "o",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Olivia Rodrigo",
+     "slug": "Olivia-rodrigo",
+     "url": "https://genius.com/artists/Olivia-rodrigo",
+     "iq": 2415
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1599675",
+      "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+      "id": 1599675,
+      "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Olivia Rodrigo",
+      "slug": "Olivia-rodrigo",
+      "url": "https://genius.com/artists/Olivia-rodrigo",
+      "iq": 2415
+     }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "115 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olPortugu\u00easPortugu\u00easItalianoFran\u00e7aisDeutsch\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u200benough for you Lyrics[Verse 1]\nI wore makeup when we dated\n'Cause I thought you'd like me more\nIf I looked like the other prom queens\nI know that you loved before\nTried so hard to be everything that you\u205fliked\nJust\u205ffor\u205fyou to say\u205fyou're not the\u205fcompliment type\n\n[Verse 2]\nAnd I knew how you took your coffee\nAnd your favorite songs by heart\nI read all of your self-help books\nSo you'd think that I was smart\nStupid, emotional, obsessive little me\nI knew from the start this is exactly how you'd leave\n\n[Chorus]\nYou found someon\u0435 more exciting, the n\u0435xt second, you were gone\nAnd you left me there cryin', wonderin' what I did wrong\nAnd you always say I'm never satisfied, but I don't think that's true\n'Cause all I ever wanted was to be enough for you\nYeah, all I ever wanted was to be enough for you\n\n[Verse 3]\nAnd maybe I'm just not as interesting\nAs the girls you had before\nBut God, you couldn't have cared less\nAbout someone who loved you more\nI'd say you broke my heart\nBut you broke much more than that\nNow, I don't want your sympathy\nI just want myself back\nSee Olivia Rodrigo LiveGet tickets as low as $91You might also like[Chorus]\nBefore you found someone more exciting, the next second, you were gone\nAnd you left me there cryin', wonderin' what I did wrong\nAnd you always say I'm never satisfied, but I don't think that's true\n'Cause all I ever wanted was to be enough\n\n[Bridge]\nAnd don't you think I loved you too much\nTo be used and discarded?\nDon't you think I loved you too much\nTo think I deserve nothing?\nBut don't tell me you're sorry, boy\nFeel sorry for yourself\n'Cause someday, I'll be everything to somebody else\n\n[Outro]\nAnd they'll think that I am so exciting\nAnd you'll be the one who's crying\nYeah, you always say I'm never satisfied, but I don't think that's true\nYou say I'm never satisfied, but that's not me, it's you\n'Cause all I ever wanted was to be enough\nBut I don't think anything could ever be enough for you\nEnough for you, oh\nNo, nothing's enough for you55Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/5416223",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "\u200bhappier by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "id": 5416223,
+    "instrumental": false,
+    "lyrics_owner_id": 3489629,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724286284,
+    "path": "/Olivia-rodrigo-happier-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 88,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-happier-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 5,
+     "day": 21
+    },
+    "release_date_for_display": "May 21, 2021",
+    "release_date_with_abbreviated_month_for_display": "May. 21, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 1497292
+    },
+    "title": "\u200bhappier",
+    "title_with_featured": "\u200bhappier",
+    "updated_by_human_at": 1724286284,
+    "url": "https://genius.com/Olivia-rodrigo-happier-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1599675",
+     "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+     "id": 1599675,
+     "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+     "index_character": "o",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Olivia Rodrigo",
+     "slug": "Olivia-rodrigo",
+     "url": "https://genius.com/artists/Olivia-rodrigo",
+     "iq": 2415
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1599675",
+      "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+      "id": 1599675,
+      "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Olivia Rodrigo",
+      "slug": "Olivia-rodrigo",
+      "url": "https://genius.com/artists/Olivia-rodrigo",
+      "iq": 2415
+     }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "142 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olPortugu\u00easPortugu\u00easDeutschFran\u00e7ais\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u200bhappier Lyrics[Verse 1]\nWe broke up a month ago\nYour friends are mine, you know I know\nYou've moved on,\u2005found\u2005someone new\nOne more\u2005girl who brings out the better\u2005in you\nAnd I thought my heart was detached\nFrom all the\u205fsunlight\u205fof\u205four past\nBut she's\u205fso sweet, she's\u205fso pretty\nDoes she mean you forgot about me?\n\n[Chorus]\nOh, I hope you're happy\nBut not like how you were with me\nI'm selfish, I know, I can't let you go\nSo find someone great, but don't find no one better\nI hope you're happy, but don't be happier\n\n[Verse 2]\nAnd do you tell her she's the most beautiful girl you've ever seen?\nAn eternal love bullshit you know you'll never mean\nRemember when I believed\nYou meant it when you said it first to me?\nAnd now I'm pickin' her apart\nLike cuttin' her down will make you miss my wretched heart\nBut she's beautiful, she looks kind\nShe probably gives you butterflies\nSee Olivia Rodrigo LiveGet tickets as low as $91You might also like[Chorus]\nI hope you're happy\nBut not like how you were with me\nI'm selfish, I know, I can't let you go\nSo find someone great, but don't find no one better\nI hope you're happy\nI wish you all the best, really\nSay you love her, baby, just not like you loved me\nAnd think of me fondly when your hands are on her\nI hope you're happy, but don't be happier\n\n[Bridge]\nOoh, ooh-ooh\nOoh-ooh, ooh-ooh\n\n[Chorus]\nI hope you're happy\nJust not like how you were with me\nI'm selfish, I know, can't let you go\nSo find someone great, but don't find no one better\nI hope you're happy, but don't be happier88Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/6702237",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "\u200bjealousy, jealousy by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "id": 6702237,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724116544,
+    "path": "/Olivia-rodrigo-jealousy-jealousy-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 106,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-jealousy-jealousy-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 5,
+     "day": 21
+    },
+    "release_date_for_display": "May 21, 2021",
+    "release_date_with_abbreviated_month_for_display": "May. 21, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 975877
+    },
+    "title": "\u200bjealousy, jealousy",
+    "title_with_featured": "\u200bjealousy, jealousy",
+    "updated_by_human_at": 1724108138,
+    "url": "https://genius.com/Olivia-rodrigo-jealousy-jealousy-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1599675",
+     "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+     "id": 1599675,
+     "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+     "index_character": "o",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Olivia Rodrigo",
+     "slug": "Olivia-rodrigo",
+     "url": "https://genius.com/artists/Olivia-rodrigo",
+     "iq": 2415
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1599675",
+      "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+      "id": 1599675,
+      "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Olivia Rodrigo",
+      "slug": "Olivia-rodrigo",
+      "url": "https://genius.com/artists/Olivia-rodrigo",
+      "iq": 2415
+     }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "137 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olPortugu\u00easPortugu\u00easFran\u00e7aisDeutschPolskiItaliano\u200bjealousy, jealousy Lyrics[Verse 1]\nI kinda wanna throw my phone across the room\n'Cause all I see are girls too good to be true\nWith paper-white teeth and perfect bodies\nWish I didn't care\n\n[Pre-Chorus]\nI know their beauty's not\u205fmy\u205flack\nBut\u205fit feels like\u205fthat weight is\u205fon my back\nAnd I can't let it go\n\n[Chorus]\nCom-comparison is killin' me slowly\nI think I think too much\n'Bout kids who don't know me\nI'm so sick of myself\nI'd rather be, rather be\nAnyone, anyone else\nMy jealousy, jealousy started followin' me (He-he-he, he)\nStarted followin' me (He-he-he, he)\n\n[Verse 2]\nAnd I see everyone gettin' all the things I want\nI'm happy for them, but then again, I'm not\nJust cool vintage clothes and vacation photos, I can't stand it\nOh God, I sound crazy\nSee Olivia Rodrigo LiveGet tickets as low as $91You might also like[Pre-Chorus]\nTheir win is not my loss\nI know it's true, but\nI can't help gettin' caught up in it all\n\n[Chorus]\nCom-comparison is killin' me slowly\nI think I think too much\n'Bout kids who don't know me\nI'm so sick of myself\nRather be, rather be\nAnyone, anyone else\nMy jealousy, jealousy (Yeah)\n\n[Bridge]\nAll your friends are so cool, you go out every night\nIn your daddy's nice car, yeah, you're livin' the life\nGot a pretty face, a pretty boyfriend, too\nI wanna be you so bad and I don't even know you\nAll I see is what I should be\nHappier, prettier, jealousy, jealousy\nAll I see is what I should be\nI'm losin' it, all I get's jealousy, jealousy\n\n[Chorus]\nCom-comparison is killin' me slowly\nI think I think too much\n'Bout kids who don't know me\nAnd I'm so sick of myself\nRather be, rather be (Oh, oh)\nAnyone, anyone else (Anybody else)\nJealousy, jealousy\nOh, I'm so sick of myself\nI'd rather be, rather be (Oh-oh-oh)\nAnyone, anyone else\nJealousy, jealousy started followin' me106Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/6702238",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "\u200bfavorite crime by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "id": 6702238,
+    "instrumental": false,
+    "lyrics_owner_id": 10443014,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1691060938,
+    "path": "/Olivia-rodrigo-favorite-crime-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 75,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-favorite-crime-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 5,
+     "day": 21
+    },
+    "release_date_for_display": "May 21, 2021",
+    "release_date_with_abbreviated_month_for_display": "May. 21, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "concurrents": 2,
+     "hot": false,
+     "pageviews": 1056195
+    },
+    "title": "\u200bfavorite crime",
+    "title_with_featured": "\u200bfavorite crime",
+    "updated_by_human_at": 1709414432,
+    "url": "https://genius.com/Olivia-rodrigo-favorite-crime-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1599675",
+     "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+     "id": 1599675,
+     "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+     "index_character": "o",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Olivia Rodrigo",
+     "slug": "Olivia-rodrigo",
+     "url": "https://genius.com/artists/Olivia-rodrigo",
+     "iq": 2415
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1599675",
+      "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+      "id": 1599675,
+      "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Olivia Rodrigo",
+      "slug": "Olivia-rodrigo",
+      "url": "https://genius.com/artists/Olivia-rodrigo",
+      "iq": 2415
+     }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "127 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olPortugu\u00easPortugu\u00easDeutschFran\u00e7aisPolski\u0641\u0627\u0631\u0633\u06ccItaliano\u200bfavorite crime Lyrics[Verse 1]\nKnow that I loved you so bad\nI let you treat me like that\nI was your willing accomplice, honey\nAnd I watched as you fled the scene\nDoe-eyed as you buried me\nOne heart broke, four hands bloody\n\n[Chorus]\nThe things I did\nJust so I could call you mine\nThe things you did\nWell, I hope I was your favorite crime\n\n[Verse 2]\nYou used me as an alibi\nI crossed my heart as you crossed the line\nAnd I defended you to all my friends\nAnd now every time a siren sounds\nI wond\u0435r if you're around\n'Cause you know that I'd do it all again\n\n[Chorus]\nAll the things I did\nJust so I could call you min\u0435\nThe things you did\nWell, I hope I was your favorite crime\nSee Olivia Rodrigo LiveGet tickets as low as $91You might also like[Bridge]\nIt's bittersweet to think about the damage that we'd do\n'Cause I was goin' down, but I was doin' it with you\nYeah, everything we broke and all the trouble that we made\nBut I say that I hate you with a smile on my face\nOh, look what we became\n\n[Chorus]\nAll the things I did\nJust so I could call you mine\nAll the things you did\nWell, I hope I was your favorite crime\n\n[Outro]\nYour favorite crime\nYour favorite crime\n'Cause, baby, you were mine75Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/6702222",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "\u200bhope ur ok by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "id": 6702222,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1712290303,
+    "path": "/Olivia-rodrigo-hope-ur-ok-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 96,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-hope-ur-ok-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 5,
+     "day": 21
+    },
+    "release_date_for_display": "May 21, 2021",
+    "release_date_with_abbreviated_month_for_display": "May. 21, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eae7745edb096f44cccfd9123e52a4f1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 803969
+    },
+    "title": "\u200bhope ur ok",
+    "title_with_featured": "\u200bhope ur ok",
+    "updated_by_human_at": 1712290303,
+    "url": "https://genius.com/Olivia-rodrigo-hope-ur-ok-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1599675",
+     "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+     "id": 1599675,
+     "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+     "index_character": "o",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Olivia Rodrigo",
+     "slug": "Olivia-rodrigo",
+     "url": "https://genius.com/artists/Olivia-rodrigo",
+     "iq": 2415
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1599675",
+      "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+      "id": 1599675,
+      "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Olivia Rodrigo",
+      "slug": "Olivia-rodrigo",
+      "url": "https://genius.com/artists/Olivia-rodrigo",
+      "iq": 2415
+     }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "195 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olPortugu\u00easPortugu\u00easItalianoPolskiDeutschFran\u00e7ais\u200bhope ur ok Lyrics[Verse 1]\nI knew a boy once when I was small\nA towhead blond with eyes of salt\nHe played the drum in the marching band\nHis parents cared more about the Bible\nThan being good to their own child\nHe wore long sleeves 'cause of his dad\nAnd somehow, we fell out of touch\nHope he took his bad deal and made a royal flush\nDon't know if I'll see you again someday\nBut if you're out there, I hope that you're okay\n\n[Verse 2]\nMy middle school friend grew up alone\nShe raised her brothers on h\u0435r own\nHer parents hated who sh\u0435 loved\nShe couldn't wait to go to college\nShe was tired 'cause she was brought into a world\nWhere family was merely blood\nDoes she know how proud I am she was created\nWith the courage to unlearn all of their hatred?\nWe don't talk much, but I just gotta say\nI miss you and I hope that you're okay\n\n[Bridge]\nAddress the letters to the holes in my butterfly wings\nNothing's forever, nothing is as good as it seems\nAnd when the clouds won't iron out\nAnd the monsters creep into your house\nAnd every door is hard to close\nSee Olivia Rodrigo LiveGet tickets as low as $91You might also like[Outro]\nWell, I hope you know how proud I am you were created\nWith the courage to unlearn all of their hatred\nBut, God, I hope that you're happier today\n'Cause I love you\nAnd I hope that you're okay96Embed"
+   }
+  }
+ ]
+}

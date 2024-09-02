@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -219,26 +219,32 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./artist_pages/radiohead.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Radiohead</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./artist_pages/taylor_swift.html" class="sidebar-item-text sidebar-link">
+  <a href="./artist_pages/0_taylor_swift.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Taylor Swift</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./artist_pages/the_nbhd.html" class="sidebar-item-text sidebar-link">
+  <a href="./artist_pages/1_radiohead.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Radiohead</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./artist_pages/2_waterparks.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Waterparks</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./artist_pages/3_the_nbhd.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">The Neighbourhood</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./artist_pages/waterparks.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Waterparks</span></a>
+  <a href="./artist_pages/4_olivia_rodrigo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Olivia Rodrigo</span></a>
   </div>
 </li>
       </ul>
@@ -257,7 +263,7 @@ window.Quarto = {
   <li><a href="#artists" id="toc-artists" class="nav-link" data-scroll-target="#artists">🎵 Artists</a></li>
   </ul>
 </nav>
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="alt rock">alt rock <span class="quarto-category-count">(2)</span></div><div class="category" data-category="pop">pop <span class="quarto-category-count">(2)</span></div><div class="category" data-category="pop punk">pop punk <span class="quarto-category-count">(1)</span></div><div class="category" data-category="pop rock">pop rock <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -339,39 +345,65 @@ window.Quarto = {
 <th>
 <a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date Added</a>
 </th>
+<th>
+Genres
+</th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1722488400000" data-listing-file-modified-sort="1725236496290" data-listing-date-modified-sort="1723438800000" data-listing-reading-time-sort="2" data-listing-word-count-sort="386" data-listing-title-sort="Taylor Swift" data-listing-filename-sort="taylor_swift.qmd">
+<tr data-index="0" data-categories="pop" data-listing-date-sort="1722488400000" data-listing-file-modified-sort="1725264153095" data-listing-date-modified-sort="1723438800000" data-listing-reading-time-sort="2" data-listing-word-count-sort="386" data-listing-title-sort="Taylor Swift" data-listing-filename-sort="0_taylor_swift.qmd">
 <td>
-<a href="./artist_pages/taylor_swift.html" class="title listing-title">Taylor Swift</a>
+<a href="./artist_pages/0_taylor_swift.html" class="title listing-title">Taylor Swift</a>
 </td>
 <td>
 <span class="listing-date">Aug 1, 2024</span>
 </td>
-</tr>
-<tr data-index="1" data-listing-date-sort="1723006800000" data-listing-file-modified-sort="1725236436962" data-listing-date-modified-sort="1723006800000" data-listing-reading-time-sort="3" data-listing-word-count-sort="402" data-listing-title-sort="Radiohead" data-listing-filename-sort="radiohead.qmd">
 <td>
-<a href="./artist_pages/radiohead.html" class="title listing-title">Radiohead</a>
+<span class="listing-categories">pop</span>
+</td>
+</tr>
+<tr data-index="1" data-categories="alt rock" data-listing-date-sort="1723006800000" data-listing-file-modified-sort="1725259982291" data-listing-date-modified-sort="1723006800000" data-listing-reading-time-sort="3" data-listing-word-count-sort="402" data-listing-title-sort="Radiohead" data-listing-filename-sort="1_radiohead.qmd">
+<td>
+<a href="./artist_pages/1_radiohead.html" class="title listing-title">Radiohead</a>
 </td>
 <td>
 <span class="listing-date">Aug 7, 2024</span>
 </td>
-</tr>
-<tr data-index="2" data-listing-date-sort="1723352400000" data-listing-file-modified-sort="1725236479385" data-listing-date-modified-sort="1723352400000" data-listing-reading-time-sort="3" data-listing-word-count-sort="406" data-listing-title-sort="Waterparks" data-listing-filename-sort="waterparks.qmd">
 <td>
-<a href="./artist_pages/waterparks.html" class="title listing-title">Waterparks</a>
+<span class="listing-categories">alt rock</span>
+</td>
+</tr>
+<tr data-index="2" data-categories="pop punk" data-listing-date-sort="1723352400000" data-listing-file-modified-sort="1725260102097" data-listing-date-modified-sort="1723352400000" data-listing-reading-time-sort="3" data-listing-word-count-sort="406" data-listing-title-sort="Waterparks" data-listing-filename-sort="2_waterparks.qmd">
+<td>
+<a href="./artist_pages/2_waterparks.html" class="title listing-title">Waterparks</a>
 </td>
 <td>
 <span class="listing-date">Aug 11, 2024</span>
 </td>
-</tr>
-<tr data-index="3" data-listing-file-modified-sort="1725237454480" data-listing-reading-time-sort="2" data-listing-word-count-sort="397" data-listing-title-sort="The Neighbourhood" data-listing-filename-sort="the_nbhd.qmd">
 <td>
-<a href="./artist_pages/the_nbhd.html" class="title listing-title">The Neighbourhood</a>
+<span class="listing-categories">pop punk</span>
+</td>
+</tr>
+<tr data-index="3" data-categories="alt rock" data-listing-date-sort="1725166800000" data-listing-file-modified-sort="1725260182578" data-listing-date-modified-sort="1725166800000" data-listing-reading-time-sort="2" data-listing-word-count-sort="397" data-listing-title-sort="The Neighbourhood" data-listing-filename-sort="3_the_nbhd.qmd">
+<td>
+<a href="./artist_pages/3_the_nbhd.html" class="title listing-title">The Neighbourhood</a>
 </td>
 <td>
-<span class="listing-date">&nbsp;</span>
+<span class="listing-date">Sep 1, 2024</span>
+</td>
+<td>
+<span class="listing-categories">alt rock</span>
+</td>
+</tr>
+<tr data-index="4" data-categories="pop,pop rock" data-listing-date-sort="1725253200000" data-listing-file-modified-sort="1725264324914" data-listing-date-modified-sort="1725253200000" data-listing-reading-time-sort="2" data-listing-word-count-sort="390" data-listing-title-sort="Olivia Rodrigo" data-listing-filename-sort="4_olivia_rodrigo.qmd">
+<td>
+<a href="./artist_pages/4_olivia_rodrigo.html" class="title listing-title">Olivia Rodrigo</a>
+</td>
+<td>
+<span class="listing-date">Sep 2, 2024</span>
+</td>
+<td>
+<span class="listing-categories">pop, pop rock</span>
 </td>
 </tr>
 </tbody>

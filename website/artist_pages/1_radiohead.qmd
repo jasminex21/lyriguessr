@@ -1,33 +1,39 @@
 ---
-title: "Taylor Swift"
-date: "2024-08-01"
-date-modified: "2024-08-12"
+title: "Radiohead"
+date: "2024-08-07"
+date-modified: "2024-08-07"
+categories: ["alt rock"]
 ---
 
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://taylyrics.lyriguessr.xyz/" target="_blank">tayLyrics!</a> (opens external link)**
+**Go to <a href="https://radiohead.lyriguessr.xyz/" target="_blank">radioheadGuessr!</a> (opens external link)**
 :::
 :::
 
 ### Details
 
-Lyrics range from *debut* to *THE TORTURED POETS DEPARTMENT*.
+::: {.callout-note appearance="simple"}
+## Announcement
+I am taking requests for cooler/punnier names for Radiohead's game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
+:::
 
-*Hits Different*, *You're Losing Me*, *All of the Girls You Loved Before*, and *If This Was a Movie* <u>are</u> included.
+Lyrics range from *Pablo Honey* to A *Moon Shaped Pool*.
+
+As of now, *In Rainbows (Disk 2)* is not included. 
 
 ### The Dataset and Statistics
 
-There are 11,777 lines in the **tayLyrics** dataset, with 8,125 of them being *unique* lines. 
+There are 2,588 lines in the **radioheadGuessr** dataset, with 1,708 of them being *unique* lines.
 
-* You have around a 0.0085% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+* You have around a 0.039% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
 
 ```{r echo=FALSE}
-#| label: taylor_swift
+#| label: radiohead
 library(gt)
 
-data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/taylor_swift/taylor_swift_counts.csv")
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/radiohead/radiohead_counts.csv")
 
 colnames(data) <- c("Lyric", "#", "Song", "Pct.")
 

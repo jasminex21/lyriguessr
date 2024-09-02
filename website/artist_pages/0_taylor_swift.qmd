@@ -1,37 +1,34 @@
 ---
-title: "Waterparks"
-date: "2024-08-11"
-date-modified: "2024-08-11"
+title: "Taylor Swift"
+date: "2024-08-01"
+date-modified: "2024-08-12"
+categories: ["pop"]
 ---
 
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://waterparks.lyriguessr.xyz/" target="_blank">waterparksGuessr!</a> (opens external link)**
+**Go to <a href="https://taylyrics.lyriguessr.xyz/" target="_blank">tayLyrics!</a> (opens external link)**
 :::
 :::
 
 ### Details
 
-::: {.callout-note appearance="simple"}
-## Announcement
-I am taking requests for cooler/punnier names for Waterparks' game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
-:::
+Lyrics range from *debut* to *THE TORTURED POETS DEPARTMENT*.
 
-Lyrics range from *Airplane Conversations* to *INTELLECTUAL PROPERTY*.
-
-Demo album 1 is <u>not</u> included, and neither are *Candy* and *What We Do For Fun.*
+*Hits Different*, *You're Losing Me*, *All of the Girls You Loved Before*, and *If This Was a Movie* <u>are</u> included.
 
 ### The Dataset and Statistics
 
-There are 4,449 lines in the **waterparksGuessr** dataset, with 2,577 of them being *unique* lines. 
+There are 11,777 lines in the **tayLyrics** dataset, with 8,125 of them being *unique* lines. 
 
-* You have around a 0.022% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+* You have around a 0.0085% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+
 ```{r echo=FALSE}
-#| label: waterparks
+#| label: taylor_swift
 library(gt)
 
-data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/waterparks/waterparks_counts.csv")
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/taylor_swift/taylor_swift_counts.csv")
 
 colnames(data) <- c("Lyric", "#", "Song", "Pct.")
 
@@ -60,5 +57,4 @@ gt(data) %>%
 
 ### Similar Artists
 
-Nothing here yet...
-
+* [Olivia Rodrigo](4_olivia_rodrigo.qmd)
