@@ -1,0 +1,38 @@
+---
+title: "Artist Statistics"
+---
+
+The larger the artist dataset, the harder the game is!
+
+``` {r echo=FALSE}
+library(gt)
+
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artist_dataset_statistics.csv")
+
+colnames(data) <- c("Artist", "Lines", "Songs", "Albums", "Avg. Words per Line")
+
+gt(data) %>% 
+    tab_header(title=md("Artist Dataset Statistics"), 
+               subtitle="Sorted in descending order by the # of lines in the dataset") %>%
+    opt_table_font(stack = "rounded-sans") %>%
+    tab_options(table.background.color = "#8D9F8E",
+                table.font.weight = "bolder",
+                table.font.color = "black",
+                table.font.color.light = "black",
+                table.font.size = "90%",
+                data_row.padding = 10,
+                data_row.padding.horizontal = 10) %>%
+    tab_style(style = cell_text(weight = "bolder"),
+              locations=list(cells_title(), cells_column_labels())) %>%
+    tab_style(style = cell_text(weight = "bolder"),
+              locations = cells_body(columns = Artist)) %>%
+    tab_style(style = cell_text(align = "center"),
+              locations = cells_column_labels()) %>%
+    cols_width(Artist ~ px(800),
+               Lines ~ px(100),
+               `Songs` ~ px(50),
+               `Albums` ~ px(50),
+               `Avg. Words per Line` ~ px(150))
+```
+
+

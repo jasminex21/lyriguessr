@@ -15,7 +15,6 @@ website:
   open-graph: 
     title: "lyriguessr"
     description: "Lyric-guessing games for your favorite artists"
-    image: preview.png
   
   page-navigation: true
 
@@ -50,6 +49,8 @@ website:
         text: Home
       - href: coming_soon.qmd
         text: Coming Soon
+      - href: artist_stats.qmd
+        text: Artist Statistics
       - href: about.qmd
         text: About
       - text: "---"

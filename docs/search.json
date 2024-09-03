@@ -53,6 +53,16 @@
     ]
   },
   {
+    "objectID": "artist_stats.html",
+    "href": "artist_stats.html",
+    "title": "Artist Statistics",
+    "section": "",
+    "text": "The larger the artist dataset, the harder the game is!\n\n\n\n\n\n\n\n\nArtist Dataset Statistics\n\n\nSorted in descending order by the # of lines in the dataset\n\n\nArtist\nLines\nSongs\nAlbums\nAvg. Words per Line\n\n\n\n\nTaylor Swift\n11776\n232\n11\n7.23\n\n\nWaterparks\n4449\n82\n8\n6.57\n\n\nThe Neighbourhood\n3347\n78\n7\n7.32\n\n\nRadiohead\n2588\n100\n9\n5.46\n\n\nBad Omens\n1744\n46\n4\n7.67\n\n\nOlivia Rodrigo\n1219\n28\n2\n7.79",
+    "crumbs": [
+      "Artist Statistics"
+    ]
+  },
+  {
     "objectID": "artist_pages/1_radiohead.html",
     "href": "artist_pages/1_radiohead.html",
     "title": "Radiohead",
@@ -68,7 +78,7 @@
     "href": "artist_pages/5_bad_omens.html",
     "title": "Bad Omens",
     "section": "",
-    "text": "Play the game!\n\n\n\n\nGo to badOmensGuessr! (opens external link)\n\n\n\n\nDetails\n\n\n\n\n\n\nAnnouncement\n\n\n\nI am taking requests for cooler/punnier names for this game! Tweet me your ideas on Twitter @lyriguessr and I will run a poll!\n\n\nLyrics range from Bad Omens to CONCRETE JUNGLE [THE OST].\n\n\nThe Dataset and Statistics\nThere are 1,744 lines in the dataset, with 990 of them being unique lines.\n\nYou have around a 0.057% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\n\n\n\n\n\n\n\n\n\nTop 5 Most Common Lyrics\n\n\nAnd each lyric's number of occurrences, and chance of showing up in Hard mode\n\n\nLyric\n#\nSong\nPct.\n\n\n\n\n\"Violence against nature\"\n16\nV.A.N\n0.92%\n\n\n\"Love's the death of peace of mind\"\n9\nTHE DEATH OF PEACE OF MIND\n0.52%\n\n\n\"Here am I, take me to the pearly gates\"\n8\nDethrone\n0.46%\n\n\n\"Can you hear me through the white noise?\"\n8\nARTIFICIAL SUICIDE OR TERMS & CONDITIONS\n0.46%\n\n\n\"Set me free, I think I'm giving up\"\n8\nEnough, Enough Now\n0.46%\n\n\n\n\n\n\n\n\n\nSimilar Artists\nNothing here yet…",
+    "text": "Play the game!\n\n\n\n\nGo to badOmensGuessr! (opens external link)\n\n\n\n\nDetails\n\n\n\n\n\n\nAnnouncement\n\n\n\nI am taking requests for cooler/punnier names for this game! Tweet me your ideas on Twitter @lyriguessr and I will run a poll!\n\n\nLyrics range from Bad Omens to CONCRETE JUNGLE [THE OST].\nOnly V.A.N, THE DRAIN, TERMS & CONDITIONS, EVEN, ANYTHING &gt; HUMAN, and NERVOUS SYSTEM are included from CONCRETE JUNGLE [THE OST].\n\n\nThe Dataset and Statistics\nThere are 1,744 lines in the dataset, with 990 of them being unique lines.\n\nYou have around a 0.057% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\n\n\n\n\n\n\n\n\n\nTop 5 Most Common Lyrics\n\n\nAnd each lyric's number of occurrences, and chance of showing up in Hard mode\n\n\nLyric\n#\nSong\nPct.\n\n\n\n\n\"Violence against nature\"\n16\nV.A.N\n0.92%\n\n\n\"Love's the death of peace of mind\"\n9\nTHE DEATH OF PEACE OF MIND\n0.52%\n\n\n\"Here am I, take me to the pearly gates\"\n8\nDethrone\n0.46%\n\n\n\"Can you hear me through the white noise?\"\n8\nARTIFICIAL SUICIDE OR TERMS & CONDITIONS\n0.46%\n\n\n\"Set me free, I think I'm giving up\"\n8\nEnough, Enough Now\n0.46%\n\n\n\n\n\n\n\n\n\nSimilar Artists\nNothing here yet…",
     "crumbs": [
       "Artists",
       "Bad Omens"

@@ -30,7 +30,7 @@ There are 3,347 lines in the **nbhdGuessr** dataset, with 2,319 of them being *u
 #| label: nbhd
 library(gt)
 
-data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/the_nbhd/the neighbourhood_counts.csv")
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/the_neighbourhood/the neighbourhood_counts.csv")
 
 colnames(data) <- c("Lyric", "#", "Song", "Pct.")
 

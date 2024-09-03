@@ -8,7 +8,7 @@ categories: ["metalcore"]
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://badomens-lyriguessr-xyz.streamlit.app/" target="_blank">badOmensGuessr!</a> (opens external link)**
+**Go to <a href="https://badomens.streamlit.app/" target="_blank">badOmensGuessr!</a> (opens external link)**
 :::
 :::
 
@@ -20,6 +20,8 @@ I am taking requests for cooler/punnier names for this game! Tweet me your ideas
 :::
 
 Lyrics range from *Bad Omens* to *CONCRETE JUNGLE [THE OST]*.
+
+Only *V.A.N*, *THE DRAIN*, *TERMS & CONDITIONS*, *EVEN*, *ANYTHING > HUMAN*, and *NERVOUS SYSTEM* are included from *CONCRETE JUNGLE [THE OST]*.
 
 ### The Dataset and Statistics
 
