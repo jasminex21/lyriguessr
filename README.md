@@ -21,6 +21,8 @@ If you don't have a guess, you can ask for a hint - there are three available pe
 
 Note that certain lyrics may appear in more than one song, but there is only one correct answer! Additionally, some lyrics may be very short and can even be just a single word - it is up to you to figure out where it comes from!
 
+![alt text](image.png)
+
 ## Details
 
 All lyrics are taken from [Genius](https://genius.com/), and are integrated into **lyriguessr** via the [lyricsgenius](https://lyricsgenius.readthedocs.io/en/master/) Python client.Each artist game is built using [Streamlit](https://streamlit.io/), and the [lyriguessr website](https://www.lyriguessr.xyz/) is built with [Quarto](https://quarto.org/).
