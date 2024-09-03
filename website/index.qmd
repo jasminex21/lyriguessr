@@ -20,9 +20,9 @@ listing:
 
 ### ⚔️ The Game
 
-Earn as many points as possible by guessing the song that the generated lyric(s) comes from. The higher the difficulty level, the more points you get.
+Earn as many points as possible by guessing the song that the generated lyric(s) comes from. 
 
-If you don't have a guess, you can ask for a hint - there are three available per round, and you start with 20 available per game. You earn one extra hint for each 10 rounds you reach! Or, you can choose to give up. But keep in mind that getting hints and giving up will cost you points!
+If you don't have a guess, you can ask for up to 3 hints per round (you start with 20 per game). You earn one extra hint every 10 rounds. Or, you can choose to give up. 
 
 ::: {.callout-note appearance="minimal" collapse="true" title="Points Breakdown (click to expand)"}
 * **Easy correct guess: +1**
