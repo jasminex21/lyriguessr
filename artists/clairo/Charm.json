@@ -1,0 +1,842 @@
+{
+ "_type": "album",
+ "api_path": "/albums/927217",
+ "cover_art_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+ "full_title": "Charm by Clairo",
+ "id": 927217,
+ "name": "Charm",
+ "name_with_artist": "Charm (artist: Clairo)",
+ "release_date_components": {
+  "year": 2024,
+  "month": 7,
+  "day": 12
+ },
+ "release_date_for_display": "July 12, 2024",
+ "url": "https://genius.com/albums/Clairo/Charm",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/1144133",
+  "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+  "id": 1144133,
+  "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Clairo",
+  "slug": "Clairo",
+  "url": "https://genius.com/artists/Clairo",
+  "iq": 7477
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1144133",
+   "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+   "id": 1144133,
+   "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+   "index_character": "c",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Clairo",
+   "slug": "Clairo",
+   "url": "https://genius.com/artists/Clairo",
+   "iq": 7477
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/7711768",
+    "artist_names": "Clairo",
+    "full_title": "Nomad by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/e1edf4ccd9a2219856a42823b7eb20d0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/e1edf4ccd9a2219856a42823b7eb20d0.1000x1000x1.png",
+    "id": 7711768,
+    "instrumental": false,
+    "lyrics_owner_id": 13403451,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724028599,
+    "path": "/Clairo-nomad-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Clairo-nomad-sample",
+    "release_date_components": {
+     "year": 2024,
+     "month": 6,
+     "day": 28
+    },
+    "release_date_for_display": "June 28, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jun. 28, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e1edf4ccd9a2219856a42823b7eb20d0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/e1edf4ccd9a2219856a42823b7eb20d0.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 10,
+     "hot": false,
+     "pageviews": 127185
+    },
+    "title": "Nomad",
+    "title_with_featured": "Nomad",
+    "updated_by_human_at": 1724524057,
+    "url": "https://genius.com/Clairo-nomad-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "37 ContributorsTranslationsEspa\u00f1olFran\u00e7aisT\u00fcrk\u00e7eItalianoNomad Lyrics[Verse 1]\nI'd run the risk of losing everything\nSell all my things, become nomadic\nI'd run the risk, and just in case I might\nSell all my things and become the night\n\n[Pre-Chorus]\nOh, it's hard to believe\nIt's even irrational for me\nI'm cynical, a mess\nI'm touch-starved and shameless\nMmm, hmm\n\n[Chorus]\nBut I'd rather be alone than a stranger\nYou'd come visit me late at night\nI'd rather wake up alone than be reminded\nOf how it was a dream this time\n\n[Verse 2]\nI'd run the risk of losing everyone\nI'd sail and say my phone was overboard\nI'd run the risk, and just in case I might\nTake a ship around the world to find\n\n[Pre-Chorus]\nOh, where you hid the key\nIt's even irrational for me\nIt's chemical, obsessed\nI'll blame you for locking me in\nMmm, hmm, ah\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nBut I'd rather be alone than a stranger\nYou'd come visit me late at night\nI'd rather wake up alone than be reminded\nOf how it was a dream this time\n\n[Bridge]\nIt's always the same\nAlways the same\nEvery time I see someone new\nI just think of you\nNothing I do\nCan help it now\nGuess I'll have to find\n\n[Chorus]\nThat I'd rather be alone than a stranger\nYou'd come visit me late at night\nI'd rather wake up alone than be reminded\nOf how it was a dream this time\n\n[Outro]\nIt was a dream this time\nIt was a dream this time4Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/10369784",
+    "artist_names": "Clairo",
+    "full_title": "Sexy to Someone by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/e1edf4ccd9a2219856a42823b7eb20d0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/e1edf4ccd9a2219856a42823b7eb20d0.1000x1000x1.png",
+    "id": 10369784,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724855686,
+    "path": "/Clairo-sexy-to-someone-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Clairo-sexy-to-someone-sample",
+    "release_date_components": {
+     "year": 2024,
+     "month": 5,
+     "day": 23
+    },
+    "release_date_for_display": "May 23, 2024",
+    "release_date_with_abbreviated_month_for_display": "May. 23, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e1edf4ccd9a2219856a42823b7eb20d0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/e1edf4ccd9a2219856a42823b7eb20d0.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 122500
+    },
+    "title": "Sexy to Someone",
+    "title_with_featured": "Sexy to Someone",
+    "updated_by_human_at": 1724855687,
+    "url": "https://genius.com/Clairo-sexy-to-someone-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "38 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439ItalianoEspa\u00f1olDeutschSexy to Someone Lyrics[Verse 1]\nSexy to someone is all I really want\nSometimes sexy to someone is all I really want\nNothin' more, nothin' less, I've thought, walkin' through the park\nSexy to someone, I think about it all\nCheckin' out of the hotel or moments at a bar\nAsk if I'm in a movie, no, I didn't get the part\n\n[Chorus]\nSexy to somebody, it would help me out\nOh, I need a reason to get out of the house\nAnd it's just a little thing I can't live without\n\n[Verse 2]\nSexy is something I see in everything\nHoney stickin' to your hands, sugar on the rim\nNothing more, nothing less, I've thought, take it all to heart\nI want afterglowing, and when I call a car\nSend me eyes with the knowing that I could pull it off\nAsk if I'm doing TV, no, I didn't get the job\n\n[Chorus]\nSexy to somebody, it would help me out\nOh, I need a reason to get out of the house\nAnd it's just a little thing I can't live without\nSee Clairo LiveGet tickets as low as $49You might also like[Bridge]\nI want to be sexy to someone (Is it too much to ask?)\nI want to be sexy to someone (Then what's holding you back?)\nI want to be sexy to someone (It's not too much to ask)\nSexy to someone\n\n[Chorus]\nSexy to somebody, it would help me out\nOh, I need a reason to get out of the house\nAnd it's just a little thing I can't live without\nSexy to somebody, it would help me out\nOh, I need a reason to get out of the house\nAnd it's just a little thing I can't live without3Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/10629034",
+    "artist_names": "Clairo",
+    "full_title": "Second Nature by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "id": 10629034,
+    "instrumental": false,
+    "lyrics_owner_id": 21058480,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724035604,
+    "path": "/Clairo-second-nature-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Clairo-second-nature-sample",
+    "release_date_components": {
+     "year": 2024,
+     "month": 7,
+     "day": 12
+    },
+    "release_date_for_display": "July 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "concurrents": 2,
+     "hot": false,
+     "pageviews": 60546
+    },
+    "title": "Second Nature",
+    "title_with_featured": "Second Nature",
+    "updated_by_human_at": 1724035604,
+    "url": "https://genius.com/Clairo-second-nature-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "26 ContributorsTranslationsItalianoEspa\u00f1olSecond Nature Lyrics[Refrain]\nDa-dum, da-da-da-da, dum, dum\nDa-da-da-da, dum, dum, dum (Dum)\nDa-dum, da-da-da-da-da-dum\nDa-da-da-da-da-dum, dum\n\n[Verse 1]\nIt's when you're close enough to touch\nI've forgotten the point\nMy train of thought destroyed\nIt's when you're loud enough to cut\nIn and through all the noise\nMy train of thought destroyed\n\n[Chorus]\nAnd once you get in my ear\nI see kismet sinking in\nIt's second nature\nLike the sap from a cedar\nRolling down to be near her\nIt's second nature\n\n[Verse 2]\nIt's when you're close enough to love\nI move without a void\nMy train of thought destroyed\nAnd when I tell you it's because\nI'v\u0435 known you well before\nMy train of thought d\u0435stroyed\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nAnd once you get in my ear\nI see kismet sinking in\nIt's second nature\nLike the sap from a cedar\nRolling down to be near her\nIt's second nature\n\n[Bridge]\nSoon you'll realize, too\nHow it, it aligns you\nOughta know, know the\nKnow the truth\n\n[Refrain]\nDa-dum, da-da-da-da, dum, dum\nDa-da-da-da, dum, dum, dum (Dum)\nDa-dum, da-da-da-da-da-dum\nDa-da-da-da-da-dum, dum\n\n[Chorus]\nAnd once you get in my ear\nI see kismet sinking in\nIt's second nature\nLike the sap from a cedar\nRolling down to be near her\nIt's second nature2Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/10629035",
+    "artist_names": "Clairo",
+    "full_title": "Slow Dance by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "id": 10629035,
+    "instrumental": false,
+    "lyrics_owner_id": 126836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723475798,
+    "path": "/Clairo-slow-dance-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Clairo-slow-dance-sample",
+    "release_date_components": {
+     "year": 2024,
+     "month": 7,
+     "day": 12
+    },
+    "release_date_for_display": "July 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 54607
+    },
+    "title": "Slow Dance",
+    "title_with_featured": "Slow Dance",
+    "updated_by_human_at": 1723475798,
+    "url": "https://genius.com/Clairo-slow-dance-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "25 ContributorsTranslationsItalianoEspa\u00f1olSlow Dance Lyrics[Intro]\nDa-dum, da-dum\nDa-dum, da-dum\n\n[Verse 1]\nWhen the moon begins to hide\nIt's not over\nAnd the window turnin' light\nDoes not\u2005mean\u2005goodbye\n\n[Chorus]\nAnd, too, when\u2005candles burn out\nAnd the record is\u2005faded down\nI know you've got people to turn to\nAnd, too, when candles burn out\nAnd the record is faded down\nI know you've got people to turn to\n\n[Post-Chorus]\nWhat is it that's keeping one foot out\nAnd the other crawling in bed?\nAnd what is it that's keeping you alone\nAnd leaving after we slow dance?\n\n[Instrumental Break]\nSee Clairo LiveGet tickets as low as $49You might also like[Verse 2]\nAnd we fall back in routine\nIt can't be over\nAnd I remember everything\nYou used to know her\nI could trace it all the way back\nI could trace it all the way back\n\n[Chorus]\nAnd, too, when candles burn out\nAnd the record is faded down\nI know you've got people to turn to\nAnd, too, when candles burn out\nAnd the record is faded down\nI know you've got people to turn to\n\n[Post-Chorus]\nWhat is it that's keeping one foot out\nAnd the other crawling in bed?\nAnd what is it that's keeping you alone\nAnd leaving after we slow dance?\n\n[Chorus]\nAnd, too, when candles burn out\nAnd the record is faded down\nI know you've got people to turn to\nAnd, too, when candles burn out\nAnd the record is faded down\nI know you've got people to turn to2Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/10629036",
+    "artist_names": "Clairo",
+    "full_title": "Thank You by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "id": 10629036,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721673526,
+    "path": "/Clairo-thank-you-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Clairo-thank-you-sample",
+    "release_date_components": {
+     "year": 2024,
+     "month": 7,
+     "day": 12
+    },
+    "release_date_for_display": "July 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 61949
+    },
+    "title": "Thank You",
+    "title_with_featured": "Thank You",
+    "updated_by_human_at": 1725096476,
+    "url": "https://genius.com/Clairo-thank-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "31 ContributorsTranslationsEspa\u00f1olThank You Lyrics[Verse 1]\nSometimes I wonder if you were the one\nWhen you opened the door, cracked me wide open\nSomethin' about it doesn't sit right with me\nAnd how could it be?\nWhen I walk away, it always comes in threes\nWe don't get on, can't make you laugh, personality\nBut I don't invest the way I'd prefer\nSomeone to in me\n\n[Chorus]\nI really hate to admit it\nI put my pride on the line\n'Cause when I met you, I knew it\nI'd thank you for your time\nI'd thank you for your tim\u0435\nThank you for the time\n\n[Verse 2]\nSometim\u0435s I want somebody to see me\nHow you opened my doors and left them wide open\nWhy doesn't this happen more naturally?\nIf I tried, maybe\nWhen you're lonely, you'll just do anything\nTo drink it all up, the feeling, it's the memory\nThat's when it all aligns, I can really see\nWhat you meant to me\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nI really hate to admit it\nI put my pride on the line\n'Cause when I met you, I knew it\nI'd thank you for your time\nI'd thank you for your time\nThank you for the time\n\n[Bridge]\nAll because of you\nAll because of you\nOoh, ooh, ooh\nOoh, ooh, ooh\nOoh, ooh, ooh\n\n[Chorus]\nI really hate to admit it\nI put my pride on the line\n'Cause when I met you, I knew it\nI'd thank you for your time\nI'd thank you for your time\nThank you for the time5Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/10629037",
+    "artist_names": "Clairo",
+    "full_title": "Terrapin by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "id": 10629037,
+    "instrumental": false,
+    "lyrics_owner_id": 7206332,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723476434,
+    "path": "/Clairo-terrapin-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Clairo-terrapin-sample",
+    "release_date_components": {
+     "year": 2024,
+     "month": 7,
+     "day": 12
+    },
+    "release_date_for_display": "July 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 47789
+    },
+    "title": "Terrapin",
+    "title_with_featured": "Terrapin",
+    "updated_by_human_at": 1723476434,
+    "url": "https://genius.com/Clairo-terrapin-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "22 ContributorsTranslationsEspa\u00f1olTerrapin Lyrics[Verse 1]\nWe can go wherever we want\nThe plains, the sand, the salt, the dust\nYou can say whatever you want\nI don't care, I'm already gone\nWe could drive a mile down the road\nTo get a drink or two, you know\n\n[Chorus]\nSimple thing, I don't need much to like, I find\nAnd I, and I guess I don't cry\n\n[Instrumental Break]\n\n[Chorus]\nIt's a simple thing, we're all afraid and shy away\nNow I find\nI guess I don't shy\nI guess I don't shy\n\n[Bridge]\nOoh-ooh-ooh-ooh-ooh-ooh\nOoh-ooh-ooh-ooh-ooh-ooh-ooh\n\n[Chorus]\nI guess that I don't cry (Ah)\nI guess that I don't shy (Oh)See Clairo LiveGet tickets as low as $49You might also like3Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/10629038",
+    "artist_names": "Clairo",
+    "full_title": "Juna by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "id": 10629038,
+    "instrumental": false,
+    "lyrics_owner_id": 19544002,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723541230,
+    "path": "/Clairo-juna-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Clairo-juna-sample",
+    "release_date_components": {
+     "year": 2024,
+     "month": 7,
+     "day": 12
+    },
+    "release_date_for_display": "July 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 130020
+    },
+    "title": "Juna",
+    "title_with_featured": "Juna",
+    "updated_by_human_at": 1723541230,
+    "url": "https://genius.com/Clairo-juna-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "39 ContributorsTranslationsEspa\u00f1olJuna Lyrics[Intro]\nOoh-ooh, ooh\nCome to me slowly\n\n[Verse 1]\nIt's when you talk close enough\nThat I feel it on my skin, breathe it in\nMost of these days (Most of these days)\nI don't get too intimate\nWhy would I let you in? (Why would I let you in?)\nBut I think again\n\n[Pre-Chorus]\nI don't even try\nI don't have to think\nWith you, there's no pretending\n\n[Chorus]\nYou know me, you know me\nAnd I just might know you too, oh you\nCome to me ready\n\n[Verse 2]\n(You make me wanna) Go dancing\n(You make me wanna) Try on feminine\n(You make me wanna) Go buy a new dress\n(You make me wanna) Slip off a new dress\nSee Clairo LiveGet tickets as low as $49You might also like[Pre-Chorus]\nDon't ev\u0435n try\nI don't have to think\nWith you, there's no pr\u0435tending\n\n[Chorus]\nYou know me, you know me\nAnd I just might know you too, ooh you\nCome to me slowly6Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/10629039",
+    "artist_names": "Clairo",
+    "full_title": "Add Up My Love by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "id": 10629039,
+    "instrumental": false,
+    "lyrics_owner_id": 1599419,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720785838,
+    "path": "/Clairo-add-up-my-love-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Clairo-add-up-my-love-sample",
+    "release_date_components": {
+     "year": 2024,
+     "month": 7,
+     "day": 12
+    },
+    "release_date_for_display": "July 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 66150
+    },
+    "title": "Add Up My Love",
+    "title_with_featured": "Add Up My Love",
+    "updated_by_human_at": 1721945773,
+    "url": "https://genius.com/Clairo-add-up-my-love-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "29 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439Espa\u00f1olAdd Up My Love Lyrics[Verse 1]\nIf I could wait for a time\nTo be sad about it, sad about it\nI'd choose a day when you've gone away\nAnd I'm all alone, upstate, all the way upstate\n\n[Pre-Chorus]\nDo you miss my hands hangin' on the back of your neck?\nIt's just somethin' I'm into\nDo you miss my name? Said it in between your breath\nI remember when I see the moon\n\n[Chorus]\nAdd up my love (Ooh)\nAdd up my love (Ooh, ooh, ooh, ooh)\nHoney, was it enough? (Ooh)\nIs it ever enough? (Ooh, ooh, ooh, ooh)\n\n[Verse 2]\nIf I could wait for a time\nTo be mad about it, mad about it\nI'd choose a day when you're on your way\nAnd I can say it all to your face, say it to your face\n\n[Pre-Chorus]\nDo you miss my laugh? Hear it from the back of the room\nIt's just somethin' I miss too\nDo you miss all the ways I put you in your place?\nYou say you like all of my attitude\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nAdd up my love (Ooh)\nAdd up my love (Ooh, ooh, ooh, ooh)\nHoney, was it enough? (Ooh)\nIs it ever enough? (Ooh, ooh, ooh, ooh)\n\n[Break]\nOoh, ooh, ooh\nOoh, ooh, ooh, ooh\n\n[Chorus]\nAdd up my love (Ooh)\nAdd up my love (Ooh, ooh, ooh, ooh)\nHoney, was it enough? (Ooh)\nIs it ever enough? (Ooh, ooh, ooh, ooh)\nAdd up my love (Ooh)\nAdd up my love (Ooh, ooh, ooh, ooh)\nHoney was it, enough? (Ooh)\nIs it ever enough?\n\n[Outro]\nOoh, ooh, ooh\nOoh, ooh, ooh, ooh4Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/10629040",
+    "artist_names": "Clairo",
+    "full_title": "Echo by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "id": 10629040,
+    "instrumental": false,
+    "lyrics_owner_id": 7206332,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720758823,
+    "path": "/Clairo-echo-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Clairo-echo-sample",
+    "release_date_components": {
+     "year": 2024,
+     "month": 7,
+     "day": 12
+    },
+    "release_date_for_display": "July 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 35822
+    },
+    "title": "Echo",
+    "title_with_featured": "Echo",
+    "updated_by_human_at": 1721945887,
+    "url": "https://genius.com/Clairo-echo-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "20 ContributorsTranslationsEspa\u00f1olEcho Lyrics[Verse 1]\nThere is something that I need from you\nAnd you're the only one that knows\nAnd if I told the world I needed you\nWould you hear your name echo? (Echo)\n\n[Pre-Chorus]\nOoh, ooh-ooh, ooh, ooh\nOoh, ooh-ooh, ooh, ooh\nOoh, ooh-ooh, ooh, ooh\nOoh, ooh-ooh\n\n[Chorus]\nOur love is meant to be shared\nWhile our love goes nowhere\n\n[Verse 2]\nThere's a secret I can't keep from you\nAnd I think you already know\nIt's in the things I see in you\nAnd what you notice I echo (Echo)\n\n[Pre-Chorus]\nOoh, ooh-ooh, ooh, ooh-ooh\nOoh, ooh-ooh, ooh, ooh\nOoh, ooh-ooh, ooh, ooh-ooh\nOoh, ooh-ooh\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nOur love is meant to be shared\nWhile our love goes nowhere\n\n[Instrumental Break]\n\n[Chorus]\nOur love is meant to be shared\nWhile our lov\u0435 goes nowhere4Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/10629041",
+    "artist_names": "Clairo",
+    "full_title": "Glory of the Snow by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "id": 10629041,
+    "instrumental": false,
+    "lyrics_owner_id": 126836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723477696,
+    "path": "/Clairo-glory-of-the-snow-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Clairo-glory-of-the-snow-sample",
+    "release_date_components": {
+     "year": 2024,
+     "month": 7,
+     "day": 12
+    },
+    "release_date_for_display": "July 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 34696
+    },
+    "title": "Glory of the Snow",
+    "title_with_featured": "Glory of the Snow",
+    "updated_by_human_at": 1723477696,
+    "url": "https://genius.com/Clairo-glory-of-the-snow-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "21 ContributorsTranslationsEspa\u00f1olGlory of the Snow Lyrics[Verse 1]\nI can feel there's something in the between\nFor a moment, I heard you talking to me\nWhen I drive, I always check over the seat\nI could see you right there, waiting on me\n\n[Pre-Chorus]\nI pull on the string that binds me\nTo memories of the way I loved you\nI push on the door, the one I've ignored\nThe, the one that leads me to you\n\n[Chorus]\nGlory of the snow\nI'm waking up and now I know\nMm, mm, mm\nMm, mm, mm\nMm, mm, mm\nMm, mm, mm\n\n[Verse 2]\nI can see there's someone looking for me\nFor a moment, I heard the rustling l\u0435aves\nWhen I cry, I wanna give you a ring\nI can br\u0435athe with you right there, hold onto me\nSee Clairo LiveGet tickets as low as $49You might also like[Pre-Chorus]\nI dust the windows, the shutters, the channels\nWhere you'd sit, paper and pen\nSweeping under rugs, the one I was not gonna\nGonna dance on again\n\n[Chorus]\nGlory of the snow\nI'm waking up and now I know\nMm, mm, mm\nMm, mm, mm\nMm, mm, mm\nMm, mm, mm5Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/10440451",
+    "artist_names": "Clairo",
+    "full_title": "Pier 4 by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "id": 10440451,
+    "instrumental": false,
+    "lyrics_owner_id": 20614923,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725307246,
+    "path": "/Clairo-pier-4-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Clairo-pier-4-sample",
+    "release_date_components": {
+     "year": 2024,
+     "month": 7,
+     "day": 12
+    },
+    "release_date_for_display": "July 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/6725f1000db2e875f4ce966f4144d41a.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 57255
+    },
+    "title": "Pier 4",
+    "title_with_featured": "Pier 4",
+    "updated_by_human_at": 1725307246,
+    "url": "https://genius.com/Clairo-pier-4-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "31 ContributorsTranslationsEspa\u00f1olPier 4 Lyrics[Verse 1]\nAnd if you need to disappear\nYou'll have no reason to be sad at all\nYou'll strike your own matches to logs\nMay catch an eye while you play sad and soft\n\n[Verse 2]\nAnd if you're walking home alone\nYou'll find a reason, you'll just chalk it up\nTo being different, being young\nAnd wonder why no one knew you at all\n\n[Chorus]\nOoh\nYou're just playing dumb\nWhat's the cost of it, of being loved?\nWhen close is not close enough\nWhere's your line? When do you draw?\nWhen close is not close enough\nMm, mm\nOoh, ooh, ooh\n\n[Verse 3]\nAnd when you find you're at the pier\nPlaying out moments when there was a touch\nWith strangers touching everywhere\nYou wonder if he knows she's gonna run\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nOoh\nIt's something you've done\nOpened my hands, and I know I've shut some\nWhen close is not close enough (Ooh, ooh, ooh)\nWhere's the fun in it? And now I'm too tough (Ooh, ooh, ooh)\nFrom close being just too much\nOh, mm\nOoh, ooh, ooh1Embed"
+   }
+  }
+ ]
+}

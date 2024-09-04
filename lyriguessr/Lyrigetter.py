@@ -180,11 +180,11 @@ class Lyrigetter:
         current_stats = pd.read_csv("/home/jasmine/PROJECTS/lyriguessr/artist_dataset_statistics.csv")
         all_lyrics = pd.read_csv(f"{self.artist_name.lower()}_lyrics.csv")
 
-        stats = {"artist": self.artist_name,
-                 "nlines": all_lyrics.shape[0],
-                 "songs": all_lyrics['track_name'].nunique(),
-                 "albums": all_lyrics['album_name'].nunique(),
-                 "avg_words_per_line": round(all_lyrics['lyric'].apply(lambda x: len(x.split())).mean(), 2)} 
+        stats = {"artist": [self.artist_name],
+                 "nlines": [all_lyrics.shape[0]],
+                 "songs": [all_lyrics['track_name'].nunique()],
+                 "albums": [all_lyrics['album_name'].nunique()],
+                 "avg_words_per_line": [round(all_lyrics['lyric'].apply(lambda x: len(x.split())).mean(), 2)]} 
         artist_df = pd.DataFrame(stats, 
                                  columns=["artist", "nlines", "songs", "albums", "avg_words_per_line"])
         all_stats = pd.concat([current_stats, artist_df])

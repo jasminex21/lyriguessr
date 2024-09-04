@@ -1,0 +1,510 @@
+{
+ "_type": "album",
+ "api_path": "/albums/430856",
+ "cover_art_thumbnail_url": "https://images.genius.com/2c2695c51a735230d776e7abf73704fa.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/2c2695c51a735230d776e7abf73704fa.1000x1000x1.jpg",
+ "full_title": "diary 001 - EP by Clairo",
+ "id": 430856,
+ "name": "diary 001 - EP",
+ "name_with_artist": "diary 001 - EP (artist: Clairo)",
+ "release_date_components": {
+  "year": 2018,
+  "month": 5,
+  "day": 25
+ },
+ "release_date_for_display": "May 25, 2018",
+ "url": "https://genius.com/albums/Clairo/Diary-001-ep",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/1144133",
+  "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+  "id": 1144133,
+  "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Clairo",
+  "slug": "Clairo",
+  "url": "https://genius.com/artists/Clairo",
+  "iq": 7477
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1144133",
+   "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+   "id": 1144133,
+   "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+   "index_character": "c",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Clairo",
+   "slug": "Clairo",
+   "url": "https://genius.com/artists/Clairo",
+   "iq": 7477
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/3734779",
+    "artist_names": "Clairo (Ft. Rejjie Snow)",
+    "full_title": "Hello? by\u00a0Clairo (Ft.\u00a0Rejjie\u00a0Snow)",
+    "header_image_thumbnail_url": "https://images.genius.com/2c2695c51a735230d776e7abf73704fa.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/2c2695c51a735230d776e7abf73704fa.1000x1000x1.jpg",
+    "id": 3734779,
+    "instrumental": false,
+    "lyrics_owner_id": 2034060,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714792519,
+    "path": "/Clairo-hello-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 16,
+    "relationships_index_url": "https://genius.com/Clairo-hello-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 5,
+     "day": 25
+    },
+    "release_date_for_display": "May 25, 2018",
+    "release_date_with_abbreviated_month_for_display": "May. 25, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2c2695c51a735230d776e7abf73704fa.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/2c2695c51a735230d776e7abf73704fa.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 245415
+    },
+    "title": "Hello?",
+    "title_with_featured": "Hello? (Ft.\u00a0Rejjie\u00a0Snow)",
+    "updated_by_human_at": 1714782522,
+    "url": "https://genius.com/Clairo-hello-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/26793",
+      "header_image_url": "https://s3.amazonaws.com/rapgenius/58051_634551443228311_1475480784_n.jpg",
+      "id": 26793,
+      "image_url": "https://s3.amazonaws.com/rapgenius/58051_634551443228311_1475480784_n.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Rejjie Snow",
+      "slug": "Rejjie-snow",
+      "url": "https://genius.com/artists/Rejjie-snow",
+      "iq": 3579
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "58 ContributorsTranslationsPortugu\u00easEspa\u00f1olHello? Lyrics[Intro: Clairo]\nHello?\n\n[Verse 1: Clairo]\nAre you into me, like I'm into you?\nDo you wanna do the things I wanna do with you?\nYou're so close, and yet so far\nI wonder how you look when you're in the dark\n\n[Chorus: Clairo]\nYou're just one click away, click away, click away\nFrom something real or fake, real or fake, real or fake\nYou're just one click away, click away, click away\nFrom something real or fake, real or fake, real or fake\n\n[Verse 2: Rejjie Snow]\nPlayed you DOOM, man, you play Drake\nYou left crumbs all on my face\nTaste like RiRi, taste like Bey\nBought you Fenty, took his place\nRolled your weed and kissed your face\nMan, wanna smoke you out like all-day\nMan, wanna do a quickie in the hallway, can\nYou be all down for the boy, no mass\nHot jump, skip rope, twenty-three years old\nMade a hundred grand and went broke, I'm an asshole\nClairo, will you be my real or my fake though?\nPesos, cashing out checks when I say so\nFrame my life and take my soul\nMake me crazy, make me old\nSave me roses, text my phone\nFake like rappers, fake like jokes\nI know\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus: Clairo & Rejjie Snow]\nYou're just one click away, click away, click away\nFrom something real or fake, real or fake, real or fake\nYou're just one click away, click away, click away\nFrom something real or fake, real or fake, real or fake16Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/3146203",
+    "artist_names": "Clairo",
+    "full_title": "Flaming Hot Cheetos by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/525134525b89ad88d1af88d0f3352dd4.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/525134525b89ad88d1af88d0f3352dd4.1000x1000x1.jpg",
+    "id": 3146203,
+    "instrumental": false,
+    "lyrics_owner_id": 3292117,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725327726,
+    "path": "/Clairo-flaming-hot-cheetos-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 51,
+    "relationships_index_url": "https://genius.com/Clairo-flaming-hot-cheetos-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 6,
+     "day": 13
+    },
+    "release_date_for_display": "June 13, 2017",
+    "release_date_with_abbreviated_month_for_display": "Jun. 13, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/525134525b89ad88d1af88d0f3352dd4.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/525134525b89ad88d1af88d0f3352dd4.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 461685
+    },
+    "title": "Flaming Hot Cheetos",
+    "title_with_featured": "Flaming Hot Cheetos",
+    "updated_by_human_at": 1725327726,
+    "url": "https://genius.com/Clairo-flaming-hot-cheetos-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "85 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acFlaming Hot Cheetos Lyrics[Intro]\nTu-tu-ru-tu-tu\nTu-ru-tu-tu-tu\nTu-tu-ru-tu-tu\nTu-ru-tu-tu-tu\nTu-tu-ru-tu-tu\nTu-ru-tu-tu-tu\n\n[Verse 1]\nSometimes I feel like I just wanna go back to my old ways\nYou're telling me I'm silly\nIt's no fun in the old days\nI'm such a romantic\nI never remember how things really happen\nI guess you're attractive\nOr something\n\n[Verse 2]\n\"Live in the moment\"\nThat's what they tell me\nBut what ever happened\nTo when you would hold me\nAnd hold me\nAnd hold me\n\n[Pre-Chorus]\nGirlfriend or girl that's a friend?\nIt's easy just to pretend\nThat we don't have something real\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nIt's just how we feel\nWe feel\nOh, it's just how we feel\nHow we feel\n\n[Bridge]\nI'm feeling something right\nI'm feeling something right\nI'm feeling something right\nI'm feeling something right\nI'm feeling something right\nI'm feeling something right\n\n[Verse 3]\nI wanna be the one you think about at night\nAnd I wanna be the one that you would put up a fight for\nYou know that I adore\nThat even when you're bored\nI'd buy you anything and everything I can't afford51Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/3734780",
+    "artist_names": "Clairo (Ft. Danny L Harle)",
+    "full_title": "B.O.M.D. by\u00a0Clairo (Ft.\u00a0Danny\u00a0L Harle)",
+    "header_image_thumbnail_url": "https://images.genius.com/2c2695c51a735230d776e7abf73704fa.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/2c2695c51a735230d776e7abf73704fa.1000x1000x1.jpg",
+    "id": 3734780,
+    "instrumental": false,
+    "lyrics_owner_id": 2034060,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1630506678,
+    "path": "/Clairo-bomd-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Clairo-bomd-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 5,
+     "day": 25
+    },
+    "release_date_for_display": "May 25, 2018",
+    "release_date_with_abbreviated_month_for_display": "May. 25, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2c2695c51a735230d776e7abf73704fa.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/2c2695c51a735230d776e7abf73704fa.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 33125
+    },
+    "title": "B.O.M.D.",
+    "title_with_featured": "B.O.M.D. (Ft.\u00a0Danny\u00a0L Harle)",
+    "updated_by_human_at": 1636504093,
+    "url": "https://genius.com/Clairo-bomd-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/210725",
+      "header_image_url": "https://images.genius.com/e10013e57620e1302ba371fa52492524.1000x564x1.jpg",
+      "id": 210725,
+      "image_url": "https://images.genius.com/8b59fac5f10f49e203ce06264a4b4175.982x982x1.jpg",
+      "index_character": "d",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Danny L Harle",
+      "slug": "Danny-l-harle",
+      "url": "https://genius.com/artists/Danny-l-harle"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "24 ContributorsTranslationsEspa\u00f1olB.O.M.D. Lyrics[Verse 1]\nStop, wait a minute\nTell me what you're thinking\nBaby, I don\u2019t know you so well\nI'll put my heart in it (in it)\nHold me for a minute (minute)\nBaby, I would never lie to you (lie to you)\n\n[Pre-Chorus 1]\nHold me close, tell me why\nPut me in your bed at night\nI wanna stay here forever\nHold me close, but don't you lie\nPut me in your dreams at night\nI shouldn't tell you this\n\n[Chorus]\nYou're the boy of my dreams\nYou're the boy of my dreams\nYou're the boy of my dreams\nYou're the boy of my dreams\nOf my dreams\n\n[Verse 2]\nSomedays I try to call\nYou never seem to fall for me at all\nBaby, why you so cold?\nI'm standing at your door\nDon't understand why you ignore my love\nIt is so warm for you\nSee Clairo LiveGet tickets as low as $49You might also like[Pre-Chorus 2]\nAnd you're the boy of my dreams\nIt's not so hard to see why you're the one for me\nI love you so dearly\nYou're the boy of my dreams\nIt's not so hard to see why you're the one for me\nI love you so dearly\n\n[Chorus]\nYou're the boy of my dreams\nYou're the boy of my dreams\nYou're the boy of my dreams\nYou're the boy, you're the boy\nYou're the boy of my dreams\nOf my dreams2Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/3677850",
+    "artist_names": "Clairo",
+    "full_title": "4EVER by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/a613a14efa99223b09f087dace4d3846.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/a613a14efa99223b09f087dace4d3846.1000x1000x1.jpg",
+    "id": 3677850,
+    "instrumental": false,
+    "lyrics_owner_id": 2034060,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1689948205,
+    "path": "/Clairo-4ever-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 48,
+    "relationships_index_url": "https://genius.com/Clairo-4ever-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 4,
+     "day": 27
+    },
+    "release_date_for_display": "April 27, 2018",
+    "release_date_with_abbreviated_month_for_display": "Apr. 27, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a613a14efa99223b09f087dace4d3846.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/a613a14efa99223b09f087dace4d3846.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 267388
+    },
+    "title": "4EVER",
+    "title_with_featured": "4EVER",
+    "updated_by_human_at": 1689948205,
+    "url": "https://genius.com/Clairo-4ever-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "62 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol4EVER Lyrics[Verse 1]\nSome things just aren't that simple\nYou called me wondering why I changed\nOr why I don't look the same\nWhy I think so differently now\n\n[Chorus]\nIs it ever gonna change? Am I gonna feel this way forever?\nAre you gonna be around for me to count on?\nIs it ever gonna change? Am I gonna feel this way forever?\nAre you gonna be around for me to count on? Count on\nOn-on-on, on-on-on-on-on\nOn-on-on, on-on-on-on-on\nOn-on-on, on-on-on-on-on\nOn-on-on, on-on-on-on-on\n\n[Verse 2]\nSome things just never seem to fade\nI'm thinking about how we were on our first date\nYou understood the words I was saying\nI knew I'd never let you get away\n\n[Bridge]\nHold you tight, squeeze you right, tell you what I want\nPut me in your bedroom and I'll sing a little song\nHold you tight, squeeze you right, give you all I've got\nSee you in the morning, over coffee, we'll talk, oh\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nIs it ever gonna change? Am I gonna feel this way forever?\nAre you gonna be around for me to count on?\nIs it ever gonna change? Am I gonna feel this way forever?\nAre you gonna be around for me to count on? Count on\nOn-on-on, on-on-on-on-on\nOn-on-on, on-on-on-on-on\nOn-on-on, on-on-on-on-on\nOn-on-on, on-on-on-on-on48Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/3185563",
+    "artist_names": "Clairo",
+    "full_title": "Pretty Girl by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/188096681dc237e27d7f3e8dcb1a9145.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/188096681dc237e27d7f3e8dcb1a9145.1000x1000x1.jpg",
+    "id": 3185563,
+    "instrumental": false,
+    "lyrics_owner_id": 5021479,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1623505768,
+    "path": "/Clairo-pretty-girl-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 46,
+    "relationships_index_url": "https://genius.com/Clairo-pretty-girl-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 8,
+     "day": 1
+    },
+    "release_date_for_display": "August 1, 2017",
+    "release_date_with_abbreviated_month_for_display": "Aug. 1, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/188096681dc237e27d7f3e8dcb1a9145.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/188096681dc237e27d7f3e8dcb1a9145.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 520461
+    },
+    "title": "Pretty Girl",
+    "title_with_featured": "Pretty Girl",
+    "updated_by_human_at": 1668452210,
+    "url": "https://genius.com/Clairo-pretty-girl-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "59 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acPretty Girl Lyrics[Verse 1]\nPolaroid of you dancing in my room\nI want to remember, I think it was about noon\nIt's getting harder to understand, to understand\nHow you felt in my hands, in my hands\n\n[Chorus]\nAnd I could be a pretty girl\nI'll wear a skirt for you\nAnd I could be a pretty girl\nShut up when you want me to\nAnd I could be a pretty girl\nWon't ever make you blue\nAnd I could be a pretty girl\nI'll lose myself in you\n\n[Verse 2]\nI was so blinded by you, now I cry\nJust thinking 'bout the fool that I was\nI was such a fool\nI'm alone now but it's better for me\nI don't need all your negativity\n\n[Chorus]\nAnd I could be a pretty girl\nI'll wear a skirt for you\nAnd I could be a pretty girl\nShut up when you want me to\nAnd I could be a pretty girl\nI'll never make you blue\nAnd I could be a pretty girl\nI'll lose myself in youSee Clairo LiveGet tickets as low as $49You might also like46Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/3734781",
+    "artist_names": "Clairo",
+    "full_title": "How (demo) by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/82c1c38d1e26b8f2c55e6416ae694955.220x220x1.jpg",
+    "header_image_url": "https://images.genius.com/82c1c38d1e26b8f2c55e6416ae694955.220x220x1.jpg",
+    "id": 3734781,
+    "instrumental": false,
+    "lyrics_owner_id": 2034060,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720413426,
+    "path": "/Clairo-how-demo-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Clairo-how-demo-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 5,
+     "day": 25
+    },
+    "release_date_for_display": "May 25, 2018",
+    "release_date_with_abbreviated_month_for_display": "May. 25, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/82c1c38d1e26b8f2c55e6416ae694955.220x220x1.jpg",
+    "song_art_image_url": "https://images.genius.com/82c1c38d1e26b8f2c55e6416ae694955.220x220x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 9,
+     "hot": false,
+     "pageviews": 85199
+    },
+    "title": "How (demo)",
+    "title_with_featured": "How (demo)",
+    "updated_by_human_at": 1720413426,
+    "url": "https://genius.com/Clairo-how-demo-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "30 ContributorsTranslationsT\u00fcrk\u00e7eHow (demo) Lyrics[Verse]\nHow did I try to get you off my mind?\nHow did I try to get you off my mind?\nCould this be the end\nOf you and I for now?\nHope that I see you soon\nDon't know what I would do\nMy heart is under the weather\nI know that I\u2019m the only one who can heal it\nI'm on my own, I'm on my own\nI'm on my own, I'm on my own\nI try to be the strong one for you\nBut that's just too hard for anyone to do\n[Outro]\nOoh\nMmmSee Clairo LiveGet tickets as low as $49You might also likeEmbed"
+   }
+  }
+ ]
+}
