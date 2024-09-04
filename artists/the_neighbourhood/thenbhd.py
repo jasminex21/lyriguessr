@@ -10,7 +10,7 @@ set_global_vars(lyrics_path="./artists/the_neighbourhood/the neighbourhood_lyric
                         "Wiped Out!",
                         "Hard to Imagine the Neighbourhood Ever Changing",
                         "Chip Chrome & the Mono-Tones (Deluxe)"],
-                leaderboard_path="./artists/the_nbhd/leaderboard.db")
+                leaderboard_path="./artists/the_neighbourhood/leaderboard.db")
 
 config_game(game_title="nbhdGuessr")
 init_session_states()
