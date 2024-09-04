@@ -8,7 +8,7 @@ categories: ["alt rock"]
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://thenbhd.lyriguessr.xyz/" target="_blank">nbhdGuessr!</a> (opens external link)**
+**Go to <a href="https://thenbhd.streamlit.app/" target="_blank">nbhdGuessr!</a> (opens external link)**
 :::
 :::
 

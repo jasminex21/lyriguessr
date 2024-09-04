@@ -2,7 +2,7 @@ import streamlit as st
 
 from lyriguessr.components import *
 
-set_global_vars(lyrics_path="./artists/the_nbhd/the neighbourhood_lyrics.csv", 
+set_global_vars(lyrics_path="./artists/the_neighbourhood/the neighbourhood_lyrics.csv", 
                 albums=["I'm Sorry",
                         "I Love You.",
                         "The Love Collection",
