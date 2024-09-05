@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About me\nHi! I’m Jasmine, the developer of lyriguessr. I study Statistics and Data Science at UT Austin, and love working on fun projects such as lyriguessr in my free time.\n\nBusiness inquiries: contact me at lyriguessr@gmail.com!\n\nThe idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate Hannah during my freshman year. We’re both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!\nI realized that tayLyrics could be generalized to any artist - why not share the fun with everyone, right? And so lyriguessr was born.\n\nMy favorite artists are Waterparks, Bad Omens, and Taylor Swift. Follow me on Spotify here!\n\n\n\nAcknowledgements\nA couple people I’d like to thank for their contributions to lyriguessr’s development…\n\nMy roommate (and the love of my life) Hannah, whose love for (and insane competency at) tayLyrics inspired the creation of lyriguessr\nTrus, for designing the amazing lyriguessr logo",
+    "text": "About me\nHi! I’m Jasmine, the developer of lyriguessr. I study Statistics & Data Science and Computer Science at UT Austin, and love working on projects such as lyriguessr in my free time.\n\nBusiness inquiries: contact me at lyriguessr@gmail.com!\n\nThe idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate Hannah during my freshman year. We’re both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!\nI realized that tayLyrics could be generalized to any artist - why not share the fun with everyone, right? And so lyriguessr was born.\n\nMy favorite artists are Waterparks, Bad Omens, and Taylor Swift. Follow me on Spotify here!\n\n\n\nAcknowledgements\nA couple people I’d like to thank for their contributions to lyriguessr’s development…\n\nMy roommate (and the love of my life) Hannah, whose love for (and insane competency at) tayLyrics inspired the creation of lyriguessr\nJiant, for his business insights\nTrus, for designing the amazing lyriguessr logo",
     "crumbs": [
       "About"
     ]
@@ -35,7 +35,7 @@
     "href": "artist_pages/7_lana_del_ray.html",
     "title": "Lana Del Ray",
     "section": "",
-    "text": "Play the game!\n\n\n\n\nNOT UP YET \n\n\n\n\nDetails\n\n\n\n\n\n\nAnnouncement\n\n\n\nI am taking requests for cooler/punnier names for this game! Tweet me your ideas on Twitter @lyriguessr and I will run a poll!\n\n\nLyrics range from Born to Die to Did you know that there’s a tunnel under Ocean Blvd” by Lana Del Ray.\n\n\nThe Dataset and Statistics\nThere are 1,123 lines in the dataset, with 790 of them being unique lines.\n\nYou have around a 0.089% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\n\n\n\n\n\n\n\n\n\nTop 5 Most Common Lyrics\n\n\nAnd each lyric's number of occurrences, and chance of showing up in Hard mode\n\n\nLyric\n#\nSong\nPct.\n\n\n\n\n\"I'm pretty when I cry\"\n13\nPretty When You Cry\n0.22%\n\n\n\"God knows I tried\"\n13\nGod Knows I Tried\n0.22%\n\n\n\"And a lust for life (And a lust for life)\"\n12\nLust for Life\n0.2%\n\n\n\"Jimmy only love me when he wanna get high\"\n12\nA&W\n0.2%\n\n\n\"Candy necklaces\"\n12\nCandy Necklace\n0.2%\n\n\n\n\n\n\n\n\n\nSimilar Artists\nNothing here yet…",
+    "text": "Play the game!\n\n\n\n\nNOT UP YET \n\n\n\n\nDetails\n\n\n\n\n\n\nAnnouncement\n\n\n\nI am taking requests for cooler/punnier names for this game! Tweet me your ideas on Twitter @lyriguessr and I will run a poll!\n\n\nLyrics range from Born to Die to Did you know that there’s a tunnel under Ocean Blvd.\n\n\nThe Dataset and Statistics\nThere are 1,123 lines in the dataset, with 790 of them being unique lines.\n\nYou have around a 0.089% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\n\n\n\n\n\n\n\n\n\nTop 5 Most Common Lyrics\n\n\nAnd each lyric's number of occurrences, and chance of showing up in Hard mode\n\n\nLyric\n#\nSong\nPct.\n\n\n\n\n\"I'm pretty when I cry\"\n13\nPretty When You Cry\n0.22%\n\n\n\"God knows I tried\"\n13\nGod Knows I Tried\n0.22%\n\n\n\"And a lust for life (And a lust for life)\"\n12\nLust for Life\n0.2%\n\n\n\"Jimmy only love me when he wanna get high\"\n12\nA&W\n0.2%\n\n\n\"Candy necklaces\"\n12\nCandy Necklace\n0.2%\n\n\n\n\n\n\n\n\n\nSimilar Artists\nNothing here yet…",
     "crumbs": [
       "Artists",
       "Lana Del Ray"
@@ -61,6 +61,16 @@
     "crumbs": [
       "Artists",
       "The Neighbourhood"
+    ]
+  },
+  {
+    "objectID": "feedback.html",
+    "href": "feedback.html",
+    "title": "Provide Feedback",
+    "section": "",
+    "text": "Hey, it’s Jasmine, the developer of lyriguessr. I’d love to get any feedback or suggestions you have so that I can improve my site. Your comments are very much appreciated!\n\nLoading…",
+    "crumbs": [
+      "Provide Feedback"
     ]
   },
   {

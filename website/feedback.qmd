@@ -1,0 +1,7 @@
+---
+title: "Provide Feedback"
+---
+
+Hey, it's Jasmine, the developer of lyriguessr. I'd love to get any feedback or suggestions you have so that I can improve my site. Your comments are very much appreciated!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJ7W9P6_n2p4v3en-uwYhnTSbAeTpyfELqBUgHsP6Dybx-yw/viewform?embedded=true" width="700" height="858" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

@@ -19,7 +19,7 @@ about:
 
 ### About me
 
-Hi! I'm Jasmine, the developer of lyriguessr. I study Statistics and Data Science at UT Austin, and love working on fun projects such as lyriguessr in my free time. 
+Hi! I'm Jasmine, the developer of lyriguessr. I study Statistics & Data Science and Computer Science at UT Austin, and love working on projects such as lyriguessr in my free time. 
 
 > Business inquiries: contact me at <lyriguessr@gmail.com>!
 
@@ -34,4 +34,5 @@ I realized that tayLyrics could be generalized to any artist - why not share the
 A couple people I'd like to thank for their contributions to lyriguessr's development...
 
 * My roommate (and the love of my life) Hannah, whose love for (and *insane* competency at) tayLyrics inspired the creation of lyriguessr
+* Jiant, for his business insights
 * Trus, for designing the amazing lyriguessr logo
