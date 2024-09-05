@@ -4,9 +4,7 @@ title: "Dataset Details"
 
 ### Dataset Details
 
-Generally, artist datasets comprise of all songs from *studio albums* - excluding EPs and singles. But there are exceptions!
-
-All lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).
+Generally, artist datasets comprise of all songs from *studio albums* - excluding EPs and singles. But there are exceptions! All lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).
 
 ### Dataset Statistics
 

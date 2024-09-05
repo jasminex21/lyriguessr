@@ -68,7 +68,7 @@
     "href": "feedback.html",
     "title": "Provide Feedback",
     "section": "",
-    "text": "Hey, it’s Jasmine, the developer of lyriguessr. I’d love to get any feedback or suggestions you have so that I can improve my site. Your comments are very much appreciated!\n\nLoading…",
+    "text": "I’d love to get any feedback or suggestions you have so that I can improve my site!\nHere is the link to the form if it isn’t displaying properly on this page.\n\nLoading…",
     "crumbs": [
       "Provide Feedback"
     ]
@@ -78,7 +78,7 @@
     "href": "artist_stats.html",
     "title": "Dataset Details",
     "section": "",
-    "text": "Dataset Details\nGenerally, artist datasets comprise of all songs from studio albums - excluding EPs and singles. But there are exceptions!\nAll lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).\n\n\nDataset Statistics\nNaturally, the larger the artist dataset, the harder the game is! If you like stats, this table is for you.\n\n\n\n\n\n\n\n\nArtist Dataset Statistics\n\n\nSorted in descending order by the # of lines in the dataset\n\n\nArtist\nLines\nSongs\nAlbums\nAvg. Words per Line\n\n\n\n\nTaylor Swift\n11776\n232\n11\n7.23\n\n\nLana Del Ray\n5960\n125\n9\n6.85\n\n\nWaterparks\n4449\n82\n8\n6.57\n\n\nThe Neighbourhood\n3347\n78\n7\n7.32\n\n\nRadiohead\n2588\n100\n9\n5.46\n\n\nBad Omens\n1744\n46\n4\n7.67\n\n\nOlivia Rodrigo\n1219\n28\n2\n7.79\n\n\nClairo\n1123\n40\n5\n6.79",
+    "text": "Dataset Details\nGenerally, artist datasets comprise of all songs from studio albums - excluding EPs and singles. But there are exceptions! All lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).\n\n\nDataset Statistics\nNaturally, the larger the artist dataset, the harder the game is! If you like stats, this table is for you.\n\n\n\n\n\n\n\n\nArtist Dataset Statistics\n\n\nSorted in descending order by the # of lines in the dataset\n\n\nArtist\nLines\nSongs\nAlbums\nAvg. Words per Line\n\n\n\n\nTaylor Swift\n11776\n232\n11\n7.23\n\n\nLana Del Ray\n5960\n125\n9\n6.85\n\n\nWaterparks\n4449\n82\n8\n6.57\n\n\nThe Neighbourhood\n3347\n78\n7\n7.32\n\n\nRadiohead\n2588\n100\n9\n5.46\n\n\nBad Omens\n1744\n46\n4\n7.67\n\n\nOlivia Rodrigo\n1219\n28\n2\n7.79\n\n\nClairo\n1123\n40\n5\n6.79",
     "crumbs": [
       "Dataset Details"
     ]
