@@ -22,7 +22,7 @@ listing:
 
 Earn as many points as possible by guessing the song that the generated lyric(s) comes from. 
 
-If you don't have a guess, you can ask for up to 3 hints per round (you start with 20 per game). You earn one extra hint every 10 rounds. Or, you can choose to give up. 
+If you don't have a guess, you can ask for up to 3 hints per round. You start with 20 hints per game, but you can earn one extra hint every 10 rounds! Or, you can choose to give up. 
 
 ::: {.callout-note appearance="minimal" collapse="true" title="Points Breakdown (click to expand)"}
 * **Easy correct guess: +1**

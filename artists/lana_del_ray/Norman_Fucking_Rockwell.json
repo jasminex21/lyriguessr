@@ -1,0 +1,1027 @@
+{
+ "_type": "album",
+ "api_path": "/albums/459810",
+ "cover_art_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+ "full_title": "Norman Fucking Rockwell! by Lana Del Rey",
+ "id": 459810,
+ "name": "Norman Fucking Rockwell!",
+ "name_with_artist": "Norman Fucking Rockwell! (artist: Lana Del Rey)",
+ "release_date_components": {
+  "year": 2019,
+  "month": 8,
+  "day": 30
+ },
+ "release_date_for_display": "August 30, 2019",
+ "url": "https://genius.com/albums/Lana-del-rey/Norman-fucking-rockwell",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/15740",
+  "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+  "id": 15740,
+  "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lana Del Rey",
+  "slug": "Lana-del-rey",
+  "url": "https://genius.com/artists/Lana-del-rey"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/15740",
+   "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+   "id": 15740,
+   "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lana Del Rey",
+   "slug": "Lana-del-rey",
+   "url": "https://genius.com/artists/Lana-del-rey"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/3965734",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Norman fucking Rockwell by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "id": 3965734,
+    "instrumental": false,
+    "lyrics_owner_id": 1947772,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724456248,
+    "path": "/Lana-del-rey-norman-fucking-rockwell-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 117,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-norman-fucking-rockwell-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 30
+    },
+    "release_date_for_display": "August 30, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 1238949
+    },
+    "title": "Norman fucking Rockwell",
+    "title_with_featured": "Norman fucking Rockwell",
+    "updated_by_human_at": 1724456248,
+    "url": "https://genius.com/Lana-del-rey-norman-fucking-rockwell-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "157 ContributorsTranslationsEspa\u00f1olPortugu\u00easDeutschFran\u00e7ais\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acItaliano\u65e5\u672c\u8a9ePolskiT\u00fcrk\u00e7eCatal\u00e0Latina\u0e44\u0e17\u0e22 / Phasa Thai\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Norman fucking Rockwell Lyrics[Verse 1]\nGoddamn, man-child\nYou fucked me so good that I almost said \"I love you\"\nYou're fun and you\u2019re wild\nBut you don't know the half of the shit that you put me through\nYour poetry's bad and you blame the news\nBut I can\u2019t change that, and I can't change your mood, ah\n\n[Chorus]\n'Cause you're just a man\nIt's just what you do\nYour head in your hands\nAs you color me blue\nYeah, you're just a man\nAll through and through\nYour head in your hands\nAs you color me blue\nBlue, blue, blue\n[Verse 2]\nGoddamn, man-child\nYou act like a kid even though you stand six foot two\nSelf-loathing poet, resident Laurel Canyon know-it-all\nYou talk to the walls when the party gets bored of you\nBut I don't get bored, I just see it through\nWhy wait for the best when I could have you? You?\nYou might also like[Chorus]\n'Cause you\u2019re just a man\nIt\u2019s just what you do\nYour head in your hands\nAs you color me blue\nYeah, you're just a man\nAll through and through\nYour head in your hands\nAs you color me blue\nBlue, blue\nYou make me blue\n\n[Outro]\nBlue, blue\nBlue, blue, blue\nBlue, blue, blue117Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/3945416",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Mariners Apartment Complex by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/b8525c29d81e7a077b4a17eca02b4636.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b8525c29d81e7a077b4a17eca02b4636.1000x1000x1.png",
+    "id": 3945416,
+    "instrumental": false,
+    "lyrics_owner_id": 5134310,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714298833,
+    "path": "/Lana-del-rey-mariners-apartment-complex-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 153,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-mariners-apartment-complex-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 9,
+     "day": 12
+    },
+    "release_date_for_display": "September 12, 2018",
+    "release_date_with_abbreviated_month_for_display": "Sep. 12, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/060c0719af56ca95df2de762bb7d88e3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/060c0719af56ca95df2de762bb7d88e3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 956271
+    },
+    "title": "Mariners Apartment Complex",
+    "title_with_featured": "Mariners Apartment Complex",
+    "updated_by_human_at": 1720873043,
+    "url": "https://genius.com/Lana-del-rey-mariners-apartment-complex-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "157 ContributorsTranslationsEspa\u00f1olItalianoFran\u00e7aisPortugu\u00eas\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acPolskiT\u00fcrk\u00e7e\u0421\u0440\u043f\u0441\u043a\u0438Deutsch\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Bahasa IndonesiaLatinaMariners Apartment Complex Lyrics[Verse 1]\nYou took my sadness out of context\nAt the Mariners Apartment Complex\nI ain't no candle in the wind\nI'm the board, the lightning, the thunder\nKind of girl who's gonna make you wonder\nWho you are and who you've been\n\n[Pre-Chorus]\nAnd who I've been is with you on these beaches\nYour Venice bitch, your die-hard, your weakness\nMaybe I could save you from your sins\nSo kiss the sky and whisper to Jesus\nMy, my, my, you found this, you need this\nTake a deep breath, baby, let me in\n\n[Chorus]\nYou lose your way, just take my hand\nYou're lost at sea, then I'll command your boat to me again\nDon't look too far, right where you are, that's where I am\nI'm your man\nI'm your man\n\n[Verse 2]\nThey mistook my kindness for weakness\nI fucked up, I know that, but Jesus\nCan't a girl just do the best she can?\nCatch a wave and take in the sweetness\nThink about it, the darkness, the deepness\nAll the things that make me who I am\nYou might also like[Pre-Chorus]\nAnd who I am is a big-time believer\nThat people can change, but you don't have to leave her\nWhen everyone's talking, you can make a stand\n'Cause even in the dark, I feel your resistance\nYou can see my heart burning in the distance\nBaby, baby, baby, I'm your man, yeah\n\n[Chorus]\nYou lose your way, just take my hand\nYou're lost at sea, then I'll command your boat to me again\nDon't look too far, right where you are, that's where I am\nI'm your man\nI'm your man\n\n[Outro]\nCatch a wave and take in the sweetness\nTake in the sweetness\nYou want this, you need this\nAre you ready for it?\nAre you ready for it?\nAre you ready for it?153Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 18,
+    "api_path": "/songs/3953493",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Venice Bitch by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/b8525c29d81e7a077b4a17eca02b4636.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b8525c29d81e7a077b4a17eca02b4636.1000x1000x1.png",
+    "id": 3953493,
+    "instrumental": false,
+    "lyrics_owner_id": 5134310,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714947763,
+    "path": "/Lana-del-rey-venice-bitch-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 138,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-venice-bitch-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 9,
+     "day": 18
+    },
+    "release_date_for_display": "September 18, 2018",
+    "release_date_with_abbreviated_month_for_display": "Sep. 18, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/18d0a9dfc9b0291b9fc604c6a8c91262.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/18d0a9dfc9b0291b9fc604c6a8c91262.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 894209
+    },
+    "title": "Venice Bitch",
+    "title_with_featured": "Venice Bitch",
+    "updated_by_human_at": 1720873045,
+    "url": "https://genius.com/Lana-del-rey-venice-bitch-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "173 ContributorsTranslationsEspa\u00f1olFran\u00e7aisItalianoPortugu\u00eas\u0641\u0627\u0631\u0633\u06ccPolskiDeutschHrvatski\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acLatina\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Venice Bitch Lyrics[Verse 1]\nFear fun, fear love\nFresh out of fucks forever\nTryin' to be stronger for you\nIce cream, ice queen\nI dream in jeans and leather\nLive stream, I'm sweet for you\n\n[Chorus]\nOh God, miss you on my lips\nIt's me, your little Venice bitch\nOn the stoop with the neighborhood kids\nCallin' out, bang bang, kiss kiss\n[Post-Chorus]\nYou're in the yard, I light the fire\nAnd as the summer fades away\nNothing gold can stay\nYou write, I tour, we make it work\nYou're beautiful and I'm insane\nWe're American-made\n\n[Verse 2]\nGive me Hallmark\nOne dream, one life, one lover\nPaint me happy in blue\nNorman Rockwell\nNo hype under our covers\nIt's just me and you\nYou might also like[Chorus]\nOh God, miss you on my lips\nIt's me, your little Venice bitch\nOn the stoop with the neighborhood kids\nCallin' out, bang bang, kiss kiss\n\n[Post-Chorus]\nYou're in the yard, I light the fire\nAnd as the summer fades away\nNothing gold can stay\nYou write, I tour, we make it work\nYou're beautiful and I'm insane\nWe're American-made\n\n[Refrain]\nOh (Yeah), oh (Yeah), oh (Yeah)\nSignin' off, bang bang, kiss kiss\nOh (Yeah), oh (Yeah), oh (Yeah)\nSignin' off, bang bang, kiss kiss\n\n[Chorus]\nOh God, want you on my lips (I do, I do)\nIt's me, your little Venice bitch (Yes, it is)\nOn the stoop with the neighborhood kids\nSignin' off, bang bang, kiss kiss\n[Refrain]\nOh, ciao (Yeah), oh, ciao (Yeah, yeah), oh, ciao (Yeah)\n(Signin' off, bang bang, kiss kiss)\nYeah (Yeah), oh (Yeah), oh (Yeah)\n(Signin' off, bang bang, kiss kiss)\nYeah, yeah\n\n[Verse 3]\nYou heard my baby's back in town now\nYou should come, come over\nWe'll be hanging around now\nYou should come, come over\n\n[Chorus]\nOh God, I love him on my lips\nIt's me, your little Venice bitch\nTouch me with your fingertips\nIt's me, your little Venice bitch\n\n[Verse 4]\nBack, back in the garden\nWe're getting high now because we're older\nMe myself, I like diamonds\nMy baby, crimson and clover\n\n[Bridge]\n(La-la-la-la-la-la, losers, beautiful losers)\n(La-la-la-la-la-la, losers, beautiful, losers)\nWha-wha-wha-wha-whatever\nEverything, whatever\nWha-wha-wha-wha-whatever\nEverything, whatever\n[Guitar Solo]\n\n[Bridge]\nAh, ah\nAh, ah\nAh yeah, ah yeah\n(La-la-la-la-la-la, losers, beautiful losers)\nAh yeah, ah\n(La-la-la-la-la-la, losers, beautiful losers)\nLa-la-la-la-la-la, losers (Ciao), beautiful losers (Ciao)\nLa-la-la-la-la-la, losers (Ciao), beautiful losers (Ciao)\nLa-la-la-la-la-la, losers, beautiful losers\nLa-la-la-la-la-la, losers, beautiful losers\n\n[Verse 4]\nBack in the garden\nWe're getting high now because we're older\nMe myself, I like diamonds\nMy baby, crimson and clover\n\n[Bridge]\nCrimson and clover, honey\nCrimson and clover, honey\nCrimson and clover, honey\nCrimson and clover, honey\nCrimson and clover, honey\nCrimson and clover, honey\nOver and over, honey\nOver and over, honey\nOver and over, honey\nOver and over, honey\nOver and over\n\n[Guitar Solo]\n\n[Outro]\nIf you weren't mine, I'd be\nJealous of your love\nIf you weren't mine, I'd be\nJealous of your love\nIf you weren't mine, I'd be\nJealous of your love\nIf you weren't mine, I'd be\nJealous of your love\nIf you weren't mine, I'd be\nJealous of your love138Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/4730843",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Fuck it I love you by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "id": 4730843,
+    "instrumental": false,
+    "lyrics_owner_id": 3737114,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723319657,
+    "path": "/Lana-del-rey-fuck-it-i-love-you-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 91,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-fuck-it-i-love-you-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 22
+    },
+    "release_date_for_display": "August 22, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 22, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 751091
+    },
+    "title": "Fuck it I love you",
+    "title_with_featured": "Fuck it I love you",
+    "updated_by_human_at": 1723319658,
+    "url": "https://genius.com/Lana-del-rey-fuck-it-i-love-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "139 ContributorsTranslationsFran\u00e7ais\u0421\u0440\u043f\u0441\u043a\u0438ItalianoPortugu\u00easEspa\u00f1olPolskiT\u00fcrk\u00e7e\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acLatinaDeutsch\u0641\u0627\u0631\u0633\u06ccFuck it I love you Lyrics[Verse 1]\nI like to see everything in neon\nDrink\u200a lime green, stay up 'til dawn\nMaybe\u200a the way that I'm living is killing me\nI like to light up the stage with a song\nDo shit to keep me turned on\nBut\u200a one day I woke up like\n\"Maybe\u200a I'll do it differently\"\n\n[Pre-Chorus]\nSo I moved to California\u201a but it's just a state of mind\nIt\u200a turns out everywhere you go\u201a you take yourself\u201a that's not a lie\nWish that you would hold me or just say that you were mine\nIt's killing me slowly\n\n[Chorus]\nDream a little dream of me\nMake\u200a me into something sweet\nTurn the radio on, dancing to a pop song\nFuck it, I love you\nFuck it\u201a I love you\nFuck it, I love you\nI really do\n\n[Verse 2]\nI used to shoot up my veins in neon\nAnd shit's even brighter; you're gone\nSo many things I would say to you\nI want you\nYou might also like[Pre-Chorus]\nYou moved to California, but it's just a state of mind\nAnd you know everyone adores you\nYou can't feel it and you're tired\nBaby\u201a wish that you would hold me or just say that you were mine\nBut it's killing me slowly\n\n[Chorus]\nDream a little dream of me\nTurn this into something sweet\nTurn the radio on, dancing to a pop song\nFuck it, I love you\nFuck it, I love you\nFuck it, I love you\nI really do\n\n[Bridge]\nIt turns out California's more than just a state of mind\nI met you on the boulevard, braids in my hair, you blew my mind\nAnd if I wasn't so fucked up, I think I'd fuck you all the time\n(I really do)\nIt's killing me slowly\n\n[Chorus]\nFuck it, I love you (I moved to California, but it's just a state of mind)\nFuck it, I love you (It turns out everywhere you go, you take yourself, that's not a lie)\nFuck it, I love you (Wish that you would hold me or just say that you were mine)\nI really do (It's killing me slowly)\n[Outro]\n(Fuck it, I love you)\nCalifornia dreamin', got my money on my mind\n(Fuck it, I love you)\nJazz in my veins, running out of time\n(Fuck it, I love you)\nCalifornia dreamin', got my money on my mind\n(I really do)\nJazz in my veins, running out of time\n(Fuck it, I love you)\nCalifornia dreamin', got my money on my mind\n(Fuck it, I love you)\nJazz in my veins, running out of time\n(Fuck it, I love you)\nCalifornia dreamin', got my money on my mind\n(I really do)\nJazz in my veins, running out of time91Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/4533523",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Doin' Time by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/b8525c29d81e7a077b4a17eca02b4636.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b8525c29d81e7a077b4a17eca02b4636.1000x1000x1.png",
+    "id": 4533523,
+    "instrumental": false,
+    "lyrics_owner_id": 4450597,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1707684766,
+    "path": "/Lana-del-rey-doin-time-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 162,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-doin-time-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 2019",
+    "release_date_with_abbreviated_month_for_display": "May. 17, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f767a4bb4d0f328da16fa1671919f465.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/f767a4bb4d0f328da16fa1671919f465.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 923575
+    },
+    "title": "Doin\u2019 Time",
+    "title_with_featured": "Doin' Time",
+    "updated_by_human_at": 1720873049,
+    "url": "https://genius.com/Lana-del-rey-doin-time-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "120 ContributorsTranslationsItalianoFran\u00e7ais\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschEspa\u00f1olPolskiPortugu\u00eas\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0421\u0440\u043f\u0441\u043a\u0438LatinaDoin\u2019 Time Lyrics[Chorus]\nSummertime and the livin's easy\nBradley's on the microphone with Ras MG\nAll the people in the dance will agree\nThat we're well-qualified to represent the L.B.C.\nMe, me and Louie, we gonna run to the party\nAnd dance to the rhythm, it gets harder\n\n[Verse 1]\nMe and my girl, we got this relationship\nI love her so bad, but she treats me like shit\nOn lockdown, like a penitentiary\nShe spreads her lovin' all over\nAnd when she gets home, there's none left for me\n\n[Chorus]\nSummertime and the livin's easy\nBradley's on the microphone with Ras MG\nAll the people in the dance will agree\nThat we're well-qualified to represent the L.B.C.\nMe, me and Louie, we gonna run to the party\nAnd dance to the rhythm, it gets harder\n(Harder, yeah, harder, yeah)\n\n[Verse 2]\nOh, take this veil from off my eyes\nMy burning sun will, some day, rise\nSo what am I gonna be doin' for a while?\nSaid I'm gonna play with myself\nShow them how we come off the shelf\nYou might also like[Chorus]\nSummertime and the livin's easy\nBradley's on the microphone with Ras MG\nAll the people in the dance will agree\nThat we're well-qualified to represent the L.B.C.\nMe, me and Louie, we gonna run to the party\nAnd dance to the rhythm, it gets harder\n(Harder, yeah, harder, yeah)\n\n[Bridge]\nEvil, we've come to tell you that she's evil, most definitely\nEvil, ornery, scandalous and evil, most definitely\nThe tension, it's getting hotter\nI'd like to hold her head underwater\n(Summertime)\n(Ah, ah, ah)\n\n[Chorus]\nSummertime and the livin's easy\nBradley's on the microphone with Ras MG\nAll the people in the dance will agree\nThat we're well-qualified to represent the L.B.C.\nMe, me and Louie, we gonna run to the party\nAnd dance to the rhythm, it gets harder162Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/4196743",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Love song by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "id": 4196743,
+    "instrumental": false,
+    "lyrics_owner_id": 1947772,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1700363355,
+    "path": "/Lana-del-rey-love-song-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 63,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-love-song-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 30
+    },
+    "release_date_for_display": "August 30, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 708859
+    },
+    "title": "Love song",
+    "title_with_featured": "Love song",
+    "updated_by_human_at": 1720873050,
+    "url": "https://genius.com/Lana-del-rey-love-song-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "96 ContributorsTranslationsEspa\u00f1olItaliano\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acPolskiFran\u00e7aisPortugu\u00eas\u0421\u0440\u043f\u0441\u043a\u0438\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430T\u00fcrk\u00e7eLatinaDeutschLove song Lyrics[Verse 1]\nIn the car, in the car, in the backseat, I'm your baby\nWe go fast, we go so fast, we don\u2019t move\nI believe in a place you take me\nMake you real proud of your baby\nIn your car, I'm a star and I'm burnin\u2019 through you\nIn your car, I'm a star and I'm burnin' through you\n\n[Chorus]\nOh, be my once in a lifetime\nLyin' on your chest in my party dress\nI'm a fuckin' mess, but I\nOh, thanks for the high life\nBaby, it's the best, passed the test and yes\nNow I\u2019m here with you, and I\nWould like to think that you would stick around\nYou know that I\u2019d just die to make you proud\nThe taste, the touch, the way we love\nIt all comes down to make the sound of our love song\n\n[Verse 2]\nDream a dream, here's a scene\nTouch me anywhere \u2019cause I'm your baby\nGrab my waist, don't waste any part\nI believe that you see me for who I am\nSo spill my clothes on the floor of your new car\nIs it safe, is it safe to just be who we are?\nIs it safe, is it safe to just be who we are?\nYou might also like[Chorus]\nOh, be my once in a lifetime\nLyin' on your chest in my party dress\nI\u2019m a fuckin' mess, but I\nOh, thanks for the high life\nBaby, it's the best, passed the test and yes\nNow I'm here with you, and I\nWould like to think that you would stick around\nYou know that I'd just die to make you proud\nThe taste, the touch, the way we love\nIt all comes down to make the sound of our love song\nThe taste, the touch, the way we love\nIt all comes down to make the sound of our love song63Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/4016817",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Cinnamon Girl by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "id": 4016817,
+    "instrumental": false,
+    "lyrics_owner_id": 868038,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1697306577,
+    "path": "/Lana-del-rey-cinnamon-girl-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 92,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-cinnamon-girl-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 30
+    },
+    "release_date_for_display": "August 30, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 978990
+    },
+    "title": "Cinnamon Girl",
+    "title_with_featured": "Cinnamon Girl",
+    "updated_by_human_at": 1720873051,
+    "url": "https://genius.com/Lana-del-rey-cinnamon-girl-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "159 ContributorsTranslationsEspa\u00f1olPortugu\u00easItalianoFran\u00e7ais\u0641\u0627\u0631\u0633\u06ccPolski\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\u0421\u0440\u043f\u0441\u043a\u0438\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Latina\u0627\u0644\u0639\u0631\u0628\u064a\u0629DeutschCinnamon Girl Lyrics[Verse 1]\nCinnamon in my teeth\nFrom your kiss, you're touching me\nAll the pills that you take\nViolet, blue, green, red to keep me at arm's length don't work\nYou try to push me out, but I just find my way back in\nViolet, blue, green, red to keep me out, I win\n\n[Chorus]\nThere's things I wanna say to you\nBut I'll just let you live\nLike if you hold me without hurting me\nYou'll be the first who ever did\nThere's things I wanna talk about\nBut better not to give\nBut if you hold me without hurting me\nYou'll be the first who ever did\n\n[Post-Chorus]\nAh, ah, ah, ah, ah, ah\nHold me, love me, touch me, honey\nBe the first who ever did\nAh, ah, ah, ah, ah, ah\nHold me, love me, touch me, honey\nBe the first who ever did\nYou might also like[Verse 2]\nKerosene in my hands\nYou make me mad, on fire again\nAll the pills that you take\nViolet, blue, green, red to keep me at arm's length don't work\n\n[Chorus]\nThere's things I wanna say to you\nBut I'll just let you live\nLike if you hold me without hurting me\nYou'll be the first who ever did\nThere's things I wanna talk about\nBut better not to give\nBut if you hold me without hurting me\nYou'll be the first who ever did\n\n[Post-Chorus]\nAh, ah, ah, ah, ah, ah\nHold me, love me, touch me, honey\nBe the first who ever did\nAh, ah, ah, ah, ah, ah\nHold me, love me, touch me, honey\nBe the first who ever did\n\n[Chorus]\nThere's things I wanna say to you\nBut I'll just let you live\nLike if you hold me without hurting me\nYou'll be the first who ever did\nThere's things I wanna talk about\nBut better not to give\nLike if you hold me without hurting me\nYou'll be the first who ever did92Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/4000569",
+    "artist_names": "Lana Del Rey",
+    "full_title": "How to disappear by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "id": 4000569,
+    "instrumental": false,
+    "lyrics_owner_id": 2733332,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720190535,
+    "path": "/Lana-del-rey-how-to-disappear-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 55,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-how-to-disappear-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 30
+    },
+    "release_date_for_display": "August 30, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 502875
+    },
+    "title": "How to disappear",
+    "title_with_featured": "How to disappear",
+    "updated_by_human_at": 1720873055,
+    "url": "https://genius.com/Lana-del-rey-how-to-disappear-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "107 ContributorsTranslationsEspa\u00f1olItalianoFran\u00e7aisPortugu\u00easPolski\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\u0421\u0440\u043f\u0441\u043a\u0438\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430T\u00fcrk\u00e7eLatinaDeutschHow to disappear Lyrics[Verse 1]\nJohn met me down on the boulevard\nCry on his shoulder 'cause life is hard\nThe waves came in over my head\nWhat you been up to, my baby?\nHaven't seen you 'round here lately\nAll of the guys tell me lies, but you don't\nYou just crack another beer\nAnd pretend that you're still here\n\n[Chorus]\nThis is how to disappear\nThis is how to disappear\n\n[Verse 2]\nJoe met me down at the training yard\nCuts on his face 'cause he fought too hard\nI know he's in over his head\nBut I love that man like nobody can\nHe moves mountains and pounds them to ground again\nI watched the guys getting high as they fight\nFor the things that they hold dear\nTo forget the things they fear\n\n[Chorus]\nThis is how to disappear\nThis is how to disappear\nYou might also like[Guitar Solo]\n\n[Verse 3]\nNow it's been years since I left New York\nI've got a kid and two cats in the yard\nThe California sun and the movie stars\nI watch the skies getting light as I write\nAs I think about those years\nAs I whisper in your ear\n\n[Outro]\nI'm always going to be right here\nNo one's going anywhere55Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/4740446",
+    "artist_names": "Lana Del Rey",
+    "full_title": "California by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "id": 4740446,
+    "instrumental": false,
+    "lyrics_owner_id": 1947772,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723584773,
+    "path": "/Lana-del-rey-california-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 53,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-california-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 30
+    },
+    "release_date_for_display": "August 30, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 417132
+    },
+    "title": "California",
+    "title_with_featured": "California",
+    "updated_by_human_at": 1723584773,
+    "url": "https://genius.com/Lana-del-rey-california-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "115 ContributorsTranslationsFran\u00e7ais\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acPolskiT\u00fcrk\u00e7eItaliano\u0641\u0627\u0631\u0633\u06ccEspa\u00f1olPortugu\u00easLatinaDeutsch\u0e44\u0e17\u0e22 / Phasa Thai\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430California Lyrics[Intro]\n(One, two, three, four)\n\n[Verse 1]\nYou don't ever have to be stronger than you really are\nWhen you're lying in my arms, baby\nYou don't ever have to go faster than your fastest pace\nOr faster than my fastest cars\n\n[Pre-Chorus]\nI shouldn't have done it, but I read it in your letter\nYou said to a friend that you wish you were doing better\nI wanted to reach out, but I never said a thing\nI shouldn't have done it, but I read it in your letter\nYou said to a friend that you wish you were doing better\nI wanted to call you, but I didn't say a thing\n(Two, three, four)\n\n[Chorus]\nOh, I'll pick you up\nIf you come back to America, just hit me up\n'Cause this is crazy love, I'll catch you on the flip side\nIf you come back to California, you should just hit me up\nWe'll do whatever you want, travel wherever how far\nWe'll hit up all the old places\nWe'll have a party, we'll dance 'til dawn\nI'll pick up all of your Vogues and all of your Rolling Stones\nYour favorite liquor off the top shelf\nI'll throw a party all night long\nYou might also like[Verse 2]\nYou don't ever have to be stronger than you really are\nWhen you're lying in my arms, and, honey\nYou don't ever have to act cooler than you think you should\nYou're brighter than the brightest stars\n\n[Pre-Chorus]\nYou're scared to win, scared to lose\nI've heard the war was over if you really choose\nThe one in and around you\nYou hate the heat, you got the blues\nChanging like the weather, oh, that's so like you\nThe Santa Ana moves you\n(Two, three, four)\n\n[Chorus]\nOh, I'll pick you up\nIf you come back to America, just hit me up\n'Cause this is crazy love, I'll catch you on the flip side\nIf you come back to California, you should just hit me up\nWe'll do whatever you want, travel wherever how far\nWe'll hit up all the old places\nWe'll have a party, we'll dance 'til dawn\nI'll pick up all of your Vogues and all of your Rolling Stones\nYour favorite liquor off the top shelf\nI'll throw a party all night long\n[Outro]\nOh, I'll pick you up\nIf you come back to America, just hit me up\n'Cause this is crazy love, I'll catch you on the flip side\nIf you come back to California, you should just hit me up53Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/4760013",
+    "artist_names": "Lana Del Rey",
+    "full_title": "The Next Best American Record by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "id": 4760013,
+    "instrumental": false,
+    "lyrics_owner_id": 868038,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1716932778,
+    "path": "/Lana-del-rey-the-next-best-american-record-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 44,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-the-next-best-american-record-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 30
+    },
+    "release_date_for_display": "August 30, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 254552
+    },
+    "title": "The Next Best American Record",
+    "title_with_featured": "The Next Best American Record",
+    "updated_by_human_at": 1720873058,
+    "url": "https://genius.com/Lana-del-rey-the-next-best-american-record-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "75 ContributorsTranslationsEspa\u00f1olPortugu\u00easFran\u00e7ais\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acItaliano\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0421\u0440\u043f\u0441\u043a\u0438PolskiT\u00fcrk\u00e7eLatinaDeutschThe Next Best American Record Lyrics[Verse 1]\nMy baby used to dance underneath my architecture\nTo the Houses of the Holy, smokin' on them cigarettes\nMy baby used to dance underneath my architecture\nHe was cool as heck\nHe was cool as heck\n\n[Pre-Chorus]\nAnd we were so obsessed with writing the next best American record\nThat we gave all we had \u2019til the time we got to bed\n'Cause we knew we could\nWe were so obsessed with writing the next best American record\n'Cause we were just that good\nIt was just that good\n\n[Chorus]\nWhatever\u2019s on tonight\u201a I just wanna party with you\nTopanga's hot tonight\u201a I'm taking off my bathing suit\nYou make me feel like\nThere's something that I never knew I wanted\n\n[Verse 2]\nMy baby used to dance underneath my architecture\nHe was '70s in spirit\u201a '90s in his frame of mind\nMy baby used to dance underneath my architecture\nWe lost track of space\nWe lost track of time\nYou might also like[Pre-Chorus]\nAnd we were so obsessed with writing the next best American record\nThat we gave all we had 'til the time we got to bed\n'Cause we knew we could\nWe were so obsessed with writing the next best American record\n\u2019Cause we were just that good\nIt was just that good\n\n[Chorus]\nWhatever\u2019s on tonight, I just wanna party with you\nTopanga's hot tonight, I\u2019m taking off my bathing suit\nYou make me feel like\nThere's something that I never knew I wanted\nWe play the Eagles down in Malibu and I want it\n\n[Bridge]\nIt's you\u201a all the roads lead to you\nEverything I want and do, all the things that I say\nIt's true, all the roads lead to you\nLike the 405 I drive through\nEvery night and every day\nI see you for who you really are\nWhy the thousands of girls love\nThe way Bill plays guitar\n\n[Chorus]\nWhatever\u2019s on tonight\u201a I just wanna party with you\nTopanga's hot tonight, I'm taking off my bathing suit\nYou make me feel like\nThere's something that I never knew I wanted\nWe play the Eagles down in Malibu and I want it\nThere's something that I never knew I wanted44Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 20,
+    "api_path": "/songs/4730849",
+    "artist_names": "Lana Del Rey",
+    "full_title": "The greatest by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "id": 4730849,
+    "instrumental": false,
+    "lyrics_owner_id": 1495791,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722269377,
+    "path": "/Lana-del-rey-the-greatest-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 70,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-the-greatest-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 22
+    },
+    "release_date_for_display": "August 22, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 22, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 684128
+    },
+    "title": "The greatest",
+    "title_with_featured": "The greatest",
+    "updated_by_human_at": 1722269377,
+    "url": "https://genius.com/Lana-del-rey-the-greatest-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "165 ContributorsTranslationsEspa\u00f1olFran\u00e7ais\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acRom\u00e2n\u0103\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430ItalianoPolski\u0421\u0440\u043f\u0441\u043a\u0438T\u00fcrk\u00e7eLatinaDeutschThe greatest Lyrics[Verse 1]\nI miss Long Beach and I miss you, babe\nI miss dancing with you the most of all\nI miss the bar where the Beach Boys would go\nDennis' last stop before Kokomo\n\n[Pre-Chorus]\nThose nights were on fire\nWe couldn't get higher\nWe didn't know that we had it all\nBut nobody warns you before the fall\n\n[Chorus]\nAnd I'm wasted\nDon't leave\u201a I just need a wake-up call\nI'm facing the greatest\nThe greatest loss of them all\nThe culture is lit and I had a ball\nI guess I'm signing off after all\n\n[Guitar Solo]\n\n[Verse 2]\nI miss New York and I miss the music\nMe and my friends\u201a we miss rock 'n' roll\nI want shit to feel just like it used to\nWhen\u201a baby, I was doing nothin' the most of all\nYou might also like[Pre-Chorus]\nThe culture is lit, and if this is it\u201a I had a ball\nI guess that I'm burned out after all\n\n[Chorus]\nI'm wasted\nDon't leave, I just need a wake-up call\nI'm facing the greatest\nThe greatest loss of them all\nThe culture is lit and I had a ball\nI guess that I'm burned out after all\n\n[Outro]\nIf this is it, I'm signing off\nMiss doing nothin' the most of all\nHawaii just missed that fireball\nL.A. is in flames\u201a it's getting hot\nKanye West is blond and gone\n\"Life on Mars?\" ain't just a song\nOh, the live stream's almost on70Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/3477802",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Bartender by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "id": 3477802,
+    "instrumental": false,
+    "lyrics_owner_id": 1947772,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724188917,
+    "path": "/Lana-del-rey-bartender-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 27,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-bartender-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 30
+    },
+    "release_date_for_display": "August 30, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 310652
+    },
+    "title": "Bartender",
+    "title_with_featured": "Bartender",
+    "updated_by_human_at": 1724188917,
+    "url": "https://genius.com/Lana-del-rey-bartender-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "119 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olFran\u00e7aisPolskiItaliano\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\u0421\u0440\u043f\u0441\u043a\u0438Portugu\u00eas\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430LatinaDeutschBartender Lyrics[Verse 1]\nAll the ladies of the canyon\nWearing black to their house parties\nCrosby, Stills and Nash is playing\nWine is flowing with Bacardi\n\n[Pre-Chorus]\nBut sometimes, girls just want to have fun\nThe poetry inside of me is warm like a gun\n\n[Chorus]\nI bought me a truck in the middle of the night\nIt'll buy me a year if I play my cards right\nPhoto-free exits from baby's bedside\n'Cause they don't yet know what car I drive\nI'm just tryna keep my love alive\nWith my bartender, hold me all night\nBartender, our love's alive\nBaby, remember, I'm not drinking wine\nBut that Cherry Coke you serve is fine\nAnd our love's sweet enough on the vine\nBartender, bar-t-t-tender\n\n[Verse 2]\nAll the ladies of the canyon\nWearing white for their tea parties\nPlaying games of levitation\nMeditating in the garden\nYou might also like[Pre-Chorus]\nAnd I love the little games that we play\nFrom the valley to the beach\nAnd when at last the day is done, I grab my keys\n\n[Chorus]\nI bought me a truck in the middle of the night\nIt'll buy me a year if I play my cards right\nPhoto-free exits from baby's bedside\n'Cause they don't yet know what car I drive\nI'm just tryna keep my love alive\nWith my bartender, hold me all night\nBartender, our love's alive\nBaby, remember, I'm not drinking wine\nBut that Cherry Coke you serve is fine\nAnd our love's sweet enough on the vine\nBar-t-t-tender, bar-t-t-tender, bar-t-t-tender\nHa, ha, ha, ha\n\n[Outro]\nI bought me a truck in the middle of the night\n60 MPH on PCH drive\nHere to Long Beach to Newport by your side\nAs they don't yet know where I reside\n60 miles from the last place I hide\nWith my bar-t-t-tender, hold me all night\nBar-t-t-tender, keep love alive\nBar-t-t-tender27Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 18,
+    "api_path": "/songs/3614853",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Happiness is a butterfly by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "id": 3614853,
+    "instrumental": false,
+    "lyrics_owner_id": 868038,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725232572,
+    "path": "/Lana-del-rey-happiness-is-a-butterfly-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 73,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-happiness-is-a-butterfly-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 30
+    },
+    "release_date_for_display": "August 30, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 739185
+    },
+    "title": "Happiness is a butterfly",
+    "title_with_featured": "Happiness is a butterfly",
+    "updated_by_human_at": 1725223058,
+    "url": "https://genius.com/Lana-del-rey-happiness-is-a-butterfly-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "127 ContributorsTranslationsEspa\u00f1olFran\u00e7ais\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acPolskiDeutschT\u00fcrk\u00e7eItaliano\u0421\u0440\u043f\u0441\u043a\u0438Portugu\u00easBahasa Indonesia\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Happiness is a butterfly Lyrics[Verse 1]\nDo you want me or do you not?\nI heard one thing, now I'm hearing another\nDropped a pin to my parking spot\nThe bar was hot, it's 2 AM, it feels like summer\n\n[Refrain 1]\nHappiness is a butterfly\nTry to catch it, like, every night\nIt escapes from my hands into moonlight\nEvery day is a lullaby\nHum it on the phone, like, every night\nSing it for my babies on the tour life, ah\n\n[Pre-Chorus]\nIf he's a serial killer, then what's the worst\nThat can happen to a girl who's already hurt?\nI'm already hurt\nIf he's as bad as they say, then I guess I'm cursed\nLooking into his eyes, I think he's already hurt\nHe's already hurt\n\n[Chorus]\nI said, \"Don't be a jerk, don't call me a taxi\"\nSitting in your sweatshirt, crying in the backseat, ooh\nI just wanna dance with you\nHollywood and Vine, Black Rabbit in the alley\nI just wanna hold you tight down the avenue\nI just wanna dance with you\nI just wanna dance with you\nYou might also like[Post-Chorus]\nBaby, I just wanna dance (Dance)\nWith you (Dance)\nBaby, I just wanna dance (Dance)\nWith you\n\n[Verse 2]\nLeft the canyon, drove to the club\nI was one thing, now I'm being another\nLaurel down to Sunset in the truck\nI'll pick you up if you're in town on the corner, ah\n\n[Refrain 2]\nHappiness is a butterfly\nWe should catch it while dancing\nI lose myself in the music, baby\nEvery day is a lullaby\nTry to catch it like lightning\nI sing it into my music, I'm crazy\n\n[Pre-Chorus]\nIf he's a serial killer, then what's the worst\nThat can happen to a girl who's already hurt?\nI'm already hurt\nIf he's as bad as they say, then I guess I'm cursed\nLooking into his eyes, I think he's already hurt\nHe's already hurt\n[Chorus]\nI said, \"Don't be a jerk, don't call me a taxi\"\nSitting in your sweatshirt, crying in the backseat, ooh\nI just wanna dance with you\nHollywood and Vine, Black Rabbit in the alley\nI just wanna hold you tight down the avenue\nI just wanna dance with you\nI just wanna dance with you\n\n[Post-Chorus]\nBaby, I just wanna dance (Dance)\nWith you (Dance)\nBaby, I just wanna dance (Dance)\nWith you73Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/3615920",
+    "artist_names": "Lana Del Rey",
+    "full_title": "\u200bhope is a dangerous thing for a woman like me to have - but i have it by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/613a7f43c15fa82f0dc529759a76d755.300x300x1.png",
+    "header_image_url": "https://images.genius.com/613a7f43c15fa82f0dc529759a76d755.1000x1000x1.png",
+    "id": 3615920,
+    "instrumental": false,
+    "lyrics_owner_id": 1947772,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1711456422,
+    "path": "/Lana-del-rey-hope-is-a-dangerous-thing-for-a-woman-like-me-to-have-but-i-have-it-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 151,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-hope-is-a-dangerous-thing-for-a-woman-like-me-to-have-but-i-have-it-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 1,
+     "day": 9
+    },
+    "release_date_for_display": "January 9, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jan. 9, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a434794ffe940082108d16d38953b8d1.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/a434794ffe940082108d16d38953b8d1.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 1056619
+    },
+    "title": "\u200bhope is a dangerous thing for a woman like me to have - but i have it",
+    "title_with_featured": "\u200bhope is a dangerous thing for a woman like me to have - but i have it",
+    "updated_by_human_at": 1723800706,
+    "url": "https://genius.com/Lana-del-rey-hope-is-a-dangerous-thing-for-a-woman-like-me-to-have-but-i-have-it-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "194 ContributorsTranslationsEspa\u00f1olFran\u00e7ais\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acPortugu\u00easItalianoT\u00fcrk\u00e7ePolski\u0421\u0440\u043f\u0441\u043a\u0438T\u00fcrk\u00e7eDeutsch\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u200bhope is a dangerous thing for a woman like me to have - but i have it Lyrics[Verse 1]\nI was reading Slim Aarons and I got to thinking that I thought\nMaybe I'd get less stressed if I was tested less like\nAll of these debutantes\nSmiling for miles in pink dresses and high heels on white yachts\nBut I'm not, baby, I'm not\nNo, I'm not, that, I'm not\n\n[Chorus]\nI've been tearing around in my fucking nightgown\n24/7 Sylvia Plath\nWriting in blood on my walls\n'Cause the ink in my pen don't work in my notepad\nDon't ask if I'm happy, you know that I'm not\nBut at best, I can say I'm not sad\n'Cause hope is a dangerous thing for a woman like me to have\nHope is a dangerous thing for a woman like me to have\n\n[Verse 2]\nI had 15-year dances\nChurch basement romances, yeah, I've cried\nSpilling my guts with the Bowery Bums\nIs the only love I've ever known\nExcept for the stage, which I also call home, when I'm not\nServin' up God in a burnt coffee pot for the triad\nHello, it's the most famous woman you know on the iPad\nCalling from beyond the grave, I just wanna say, \"Hi, Dad\"\nYou might also like[Chorus]\nI've been tearing up town in my fucking white gown\nLike a goddamn near sociopath\nShaking my ass is the only thing that's\nGot this black narcissist off my back\nShe couldn't care less, and I never cared more\nSo there's no more to say about that\nExcept hope is a dangerous thing for a woman like me to have\nHope is a dangerous thing for a woman with my past\n\n[Bridge]\nThere's a new revolution, a loud evolution that I saw\nBorn of confusion and quiet collusion of which mostly I've known\nA modern day woman with a weak constitution, 'cause I've got\nMonsters still under my bed that I could never fight off\nA gatekeeper carelessly dropping the keys on my nights off\n\n[Chorus]\nI've been tearing around in my fucking nightgown\n24/7 Sylvia Plath\nWriting in blood on your walls\n'Cause the ink in my pen don't look good in my pad\nThey write that I'm happy, they know that I'm not\nBut at best, you can see I'm not sad\nBut hope is a dangerous thing for a woman like me to have\nHope is a dangerous thing for a woman like me to have\n[Outro]\nHope is a dangerous thing for a woman like me to have\nBut I have it\nYeah, I have it\nYeah, I have it\nI have151Embed"
+   }
+  }
+ ]
+}

@@ -1,14 +1,15 @@
 ---
-title: "Radiohead"
-date: "2024-08-07"
-date-modified: "2024-08-07"
-categories: ["art rock", "alt rock"]
+title: "Lana Del Ray"
+date: ""
+date-modified: ""
+categories: ["alt pop"]
 ---
 
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://radiohead.lyriguessr.xyz/" target="_blank">radioheadGuessr!</a> (opens external link)**
+NOT UP YET
+<!-- **Go to <a href="https://badomens.streamlit.app/" target="_blank">badOmensGuessr!</a> (opens external link)** -->
 :::
 :::
 
@@ -16,24 +17,22 @@ categories: ["art rock", "alt rock"]
 
 ::: {.callout-note appearance="simple"}
 ## Announcement
-I am taking requests for cooler/punnier names for Radiohead's game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
+I am taking requests for cooler/punnier names for this game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
 :::
 
-Lyrics range from *Pablo Honey* to A *Moon Shaped Pool*.
-
-As of now, *In Rainbows (Disk 2)* is not included. 
+Lyrics range from *Born to Die* to *Did you know that there’s a tunnel under Ocean Blvd" by Lana Del Ray*.
 
 ### The Dataset and Statistics
 
-There are 2,588 lines in the **radioheadGuessr** dataset, with 1,708 of them being *unique* lines.
+There are 1,123 lines in the dataset, with 790 of them being *unique* lines. 
 
-* You have around a 0.039% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+* You have around a 0.089% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
 
 ```{r echo=FALSE}
-#| label: radiohead
+#| label: lana
 library(gt)
 
-data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/radiohead/radiohead_counts.csv")
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/lana_del_ray/lana del ray_counts.csv")
 
 colnames(data) <- c("Lyric", "#", "Song", "Pct.")
 

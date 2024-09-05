@@ -27,7 +27,6 @@ website:
 
   page-footer: 
     left: "Copyright 2024, Jasmine Xu"
-    right: "Built with 🤍 and [Quarto](https://quarto.org/)"
     background: "#8D9F8E"
 
   sidebar:
@@ -50,7 +49,7 @@ website:
       - href: coming_soon.qmd
         text: Coming Soon
       - href: artist_stats.qmd
-        text: Artist Statistics
+        text: Dataset Details
       - href: about.qmd
         text: About
       - text: "---"

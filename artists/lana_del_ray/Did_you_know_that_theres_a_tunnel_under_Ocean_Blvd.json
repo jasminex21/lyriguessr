@@ -1,0 +1,1256 @@
+{
+ "_type": "album",
+ "api_path": "/albums/906956",
+ "cover_art_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+ "full_title": "Did you know that there\u2019s a tunnel under Ocean Blvd by Lana Del Rey",
+ "id": 906956,
+ "name": "Did you know that there\u2019s a tunnel under Ocean Blvd",
+ "name_with_artist": "Did you know that there\u2019s a tunnel under Ocean Blvd (artist: Lana Del Rey)",
+ "release_date_components": {
+  "year": 2023,
+  "month": 3,
+  "day": 24
+ },
+ "release_date_for_display": "March 24, 2023",
+ "url": "https://genius.com/albums/Lana-del-rey/Did-you-know-that-theres-a-tunnel-under-ocean-blvd",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/15740",
+  "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+  "id": 15740,
+  "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lana Del Rey",
+  "slug": "Lana-del-rey",
+  "url": "https://genius.com/artists/Lana-del-rey"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/15740",
+   "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+   "id": 15740,
+   "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lana Del Rey",
+   "slug": "Lana-del-rey",
+   "url": "https://genius.com/artists/Lana-del-rey"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/8621371",
+    "artist_names": "Lana Del Rey",
+    "full_title": "The Grants by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8621371,
+    "instrumental": false,
+    "lyrics_owner_id": 4212581,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1713247573,
+    "path": "/Lana-del-rey-the-grants-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 22,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-the-grants-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 14
+    },
+    "release_date_for_display": "March 14, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 14, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 11,
+     "hot": false,
+     "pageviews": 412804
+    },
+    "title": "The Grants",
+    "title_with_featured": "The Grants",
+    "updated_by_human_at": 1720876576,
+    "url": "https://genius.com/Lana-del-rey-the-grants-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "93 ContributorsTranslationsPortugu\u00easEspa\u00f1olDeutschItaliano\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acKiswahili\u0421\u0440\u043f\u0441\u043a\u0438\u0939\u093f\u0928\u094d\u0926\u0940Fran\u00e7ais\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0420\u0443\u0441\u0441\u043a\u0438\u0439T\u00fcrk\u00e7eNorsk (bokm\u00e5l / riksm\u00e5l)The Grants Lyrics[Intro]\nOne, two, ready\nI'm gonna take mine with you with me\nAh, \"mine,\" say it again\n\"Mine of you with me,\" thank you, one more time\nOne, two, ready\nI'm gonna take mine of you with me\nI'm gonna take mine of you with me\nI'm gonna take mine of you with me\nLike \"Rocky Mountain High,\" the way John Denver sings\n\n[Verse 1]\nSo you say there's a chance for us\nShould I do a dance for once?\nYou're a family man, but\nBut\n\n[Pre-Chorus]\nDo you think about Heaven?\nOh-oh, do you think about me?\nMy pastor told me when you leave, all you take\nOh-oh, is your memory\n\n[Chorus]\nAnd I'm gonna take min\u0435 of you with me\nI'm gonna take mine of you with m\u0435\nYou might also like[Verse 2]\nSo many mountains too high to climb\nSo many rivers so long, but I'm\nDoin' the hard stuff, I'm doin' my time\nI'm doin' it for us, for our family line\n\n[Pre-Chorus]\nDo you think about Heaven?\nOh-oh, do you think about me?\nMy pastor told me (I'll do it, I'll do it)\nWhen you leave, all you take (I did it, I did it)\nOh-oh, is your memories\n\n[Chorus]\nAnd I wanna take mine of you with me\nI'm gonna take mine of you with me\nYeah, I'm gonna take mine of you with me\nLike \"Rocky Mountain High,\" the way John Denver sings\n\n[Bridge]\nMy sister's first-born child\nI'm gonna take that too with me\nMy grandmother's last smile (Ah)\nI'm gonna take that too with me\nIt's a beautiful life (Ah)\nRemember that too for me\n[Outro]\nAh\nAh\nAh, ah22Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/8617107",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Did you know that there's a tunnel under Ocean Blvd by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/f179b9dbe786b26bd8e2411a5e701631.300x300x1.png",
+    "header_image_url": "https://images.genius.com/f179b9dbe786b26bd8e2411a5e701631.1000x1000x1.png",
+    "id": 8617107,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1701500828,
+    "path": "/Lana-del-rey-did-you-know-that-theres-a-tunnel-under-ocean-blvd-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 36,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-did-you-know-that-theres-a-tunnel-under-ocean-blvd-sample",
+    "release_date_components": {
+     "year": 2022,
+     "month": 12,
+     "day": 7
+    },
+    "release_date_for_display": "December 7, 2022",
+    "release_date_with_abbreviated_month_for_display": "Dec. 7, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f179b9dbe786b26bd8e2411a5e701631.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/f179b9dbe786b26bd8e2411a5e701631.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 942159
+    },
+    "title": "Did you know that there\u2019s a tunnel under Ocean Blvd",
+    "title_with_featured": "Did you know that there's a tunnel under Ocean Blvd",
+    "updated_by_human_at": 1720876578,
+    "url": "https://genius.com/Lana-del-rey-did-you-know-that-theres-a-tunnel-under-ocean-blvd-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "157 ContributorsTranslationsEspa\u00f1ol\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acPortugu\u00easItaliano\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fran\u00e7aisDeutsch\u0421\u0440\u043f\u0441\u043a\u0438KiswahiliChinese Traditional\u0939\u093f\u0928\u094d\u0926\u0940\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430T\u00fcrk\u00e7ePolskiDid you know that there\u2019s a tunnel under Ocean Blvd Lyrics[Verse 1]\nDid you know that there's a tunnel under Ocean Boulevard?\nMosaic ceilings, painted tiles on the wall\nI can't help but feel somewhat like my body marred my soul\nHandmade beauty sealed up by two man-made walls\n\n[Pre-Chorus]\nAnd I'm like\nWhen's it gonna be my turn?\nWhen's it gonna be my turn?\n\n[Chorus]\nOpen me up, tell me you like it\nFuck me to death, love me until I love myself\nThere's a tunnel under Ocean Boulevard\nTher\u0435's a tunnel under Ocean Boul\u0435vard\n\n[Verse 2]\nThere's a girl who sings \"Hotel California\"\nNot because she loves the notes or sounds that sound like Florida\nIt's because she's in a world, preserved, only a few have found the door\nIt's like Camarillo, only silver mirrors, running down the corridor\n\n[Pre-Chorus]\nOh, man\nWhen's it gonna be my turn?\nDon't forget me\nWhen's it gonna be my turn?\nYou might also like[Chorus]\nOpen me up, tell me you like me\nFuck me to death, love me until I love myself\nThere's a tunnel under Ocean Boulevard\nDon't forget me\nThere's a tunnel under Ocean Boulevard\n\n[Verse 3]\nHarry Nilsson has a song, his voice breaks at 2:05\nSomething about the way he says \"Don't forget me\" makes me feel like\nI just wish I had a friend like him, someone to give me five\nLennon in my back, whisperin' in my ear\n\"Come on, baby, you can thrive\"\nBut I can't\n\n[Pre-Chorus]\nWhen's it gonna be my turn?\nDon't forget me\nWhen's it gonna be my turn?\n\n[Chorus]\nOpen me up, tell me you like it\nFuck me to death, love me until I love myself\nThere's a tunnel under Ocean Boulevard\nDon't forget me\nLike the tunnel under Ocean Boulevard\nDon't forget me\nLike the tunnel under Ocean Boulevard\nDon't forget me\nLike the tunnel under Ocean Boulevard (Yeah, yeah)\n[Outro]\nYeah, oh\nDon't forget me, don't forget me\nNo, don't, don't forget me\nDon't you, don't you forget me (No, no)\nOh36Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/8621375",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Sweet by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8621375,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724094699,
+    "path": "/Lana-del-rey-sweet-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-sweet-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 11,
+     "hot": false,
+     "pageviews": 348532
+    },
+    "title": "Sweet",
+    "title_with_featured": "Sweet",
+    "updated_by_human_at": 1724094699,
+    "url": "https://genius.com/Lana-del-rey-sweet-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "86 ContributorsTranslationsPortugu\u00easEspa\u00f1olItaliano\u0421\u0440\u043f\u0441\u043a\u0438KiswahiliDeutsch\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0939\u093f\u0928\u094d\u0926\u0940Fran\u00e7ais\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acT\u00fcrk\u00e7eSweet Lyrics[Verse]\nStars in my eyes, hiking up Griffith\nThinking about who was sad and what didn't\nGet said in the Midwest, wish I could tell you now\nI wrote you a note, but I didn't send it\n'Cause that's the best method the women here taught me about\nWhat you don't really understand\nI've got magic in my hand, stars in my eyes\n\n[Chorus]\nI'm a different kind of woman\nIf you want some basic bitch, go to the Beverly Center and find her\nI'm sweet, bare feet\nIf you wanna go where nobody goes\nThat's where you'll find me\nIn the sweet north country\nIf I'm not there, com\u0435 to my house on Genesee\n\n[Bridge]\nWhat you doin' with your lif\u0435? Do you think about it?\nDo you contemplate where we came from?\nLately, we've been makin' out a lot\nNot talkin' 'bout the stuff that's at the very heart of things\nDo you want children? Do you wanna marry me?\nDo you wanna run marathons in Long Beach by the sea?\nI've got things to do, like nothing at all\nI wanna do them with you\nDo you wanna do them with me?\nYou might also like[Chorus]\nIf you want someone, then just call me up\nAnd remember where I'll be\nSweet in barefeet\nYou can find me where no one will be\nIn the woods somewhere, in the night\nIn the heart of a valley\nIn the sweet north country\nIf I'm not there, come to my house on Genesee8Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/8621374",
+    "artist_names": "Lana Del Rey",
+    "full_title": "A&W by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/66fb253f8b1967a4720107259a056ab4.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/66fb253f8b1967a4720107259a056ab4.1000x1000x1.jpg",
+    "id": 8621374,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724626163,
+    "path": "/Lana-del-rey-a-w-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 64,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-a-w-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 2,
+     "day": 14
+    },
+    "release_date_for_display": "February 14, 2023",
+    "release_date_with_abbreviated_month_for_display": "Feb. 14, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/66fb253f8b1967a4720107259a056ab4.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/66fb253f8b1967a4720107259a056ab4.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "concurrents": 2,
+     "hot": false,
+     "pageviews": 1430124
+    },
+    "title": "A&W",
+    "title_with_featured": "A&W",
+    "updated_by_human_at": 1724626164,
+    "url": "https://genius.com/Lana-del-rey-a-w-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "216 ContributorsTranslationsPortugu\u00easEspa\u00f1ol\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acItalianoKiswahiliDeutsch\u0420\u0443\u0441\u0441\u043a\u0438\u0439T\u00fcrk\u00e7e\u0421\u0440\u043f\u0441\u043a\u0438\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Fran\u00e7ais\u0939\u093f\u0928\u094d\u0926\u0940A&W Lyrics[Part I]\n\n[Verse 1]\nI haven't done a cartwheel since I was nine\nI haven't seen my mother in a long, long time\nI mean, look at me\nLook at the length of my hair and my face, the shape of my body\nDo you really think I give a damn\nWhat I do after years of just hearing them talking?\n\n[Pre-Chorus]\nI say I live in Rosemead, really, I'm at the Ramada\nIt doesn't really matter, doesn't really, really matter\n\n[Chorus]\nCall him up, \"Come into my bedroom\"\nEnded up, we fuck on the hotel floor\nIt's not about havin' someone to love me anymor\u0435\nThis is the experi\u0435nce of bein' an American whore\n\n[Verse 2]\nCalled up one drunk, called up another\nForensic Files wasn't on\nWatching Teenage Diary of a Girl\nWondering what went wrong\nI'm a princess, I'm divisive\nAsk me why, why, why I'm like this\nMaybe I'm just kinda like this\nI don't know, maybe I'm just like this\nYou might also like[Pre-Chorus]\nI say I live in Rosemead, really, I'm at the Ramada\nIt doesn't really matter, doesn't really, really matter\n\n[Chorus]\nCall him up, he comes over again\nYeah, I know I'm over my head, but, oh\nIt's not about havin' someone to love me anymore\nNo, this is the experience of bein' an American whore\n\n[Verse 3]\nI mean, look at my hair\nLook at the length of it and the shape of my body\nIf I told you that I was raped\nDo you really think that anybody would think\nI didn't ask for it? I didn't ask for it\nI won't testify, I already fucked up my story\nOn top of this (Mm), so many other things you can't believe\nDid you know a singer can still be\nLooking like a sidepiece at thirty-three?\nGot a cop who turned on the backbeat\nPuts the shower on while he calls me\nSlips out the back door to talk to me\nI'm invisible, look how you hold me\nI'm invisible, I'm invisible\nI'm a ghost now, look how you hold me now\n[Chorus]\nIt's not about havin' someone to love me anymore (Oh, okay)\nNo, this is the experience of bein' an American whore\nIt's not about havin' someone to love me anymore\nNo, this is the experience of bein' an American whore\n[Part II]\n\n[Intro]\nThis is the experience of bein' an American whore\nThis is the experience of bein' an American whore\nThis is the experience of bein' an American whore\nWoo\n\n[Chorus]\nJimmy, Jimmy, cocoa puff, Jimmy, Jimmy, ride\nJimmy, Jimmy, cocoa puff, Jimmy, get me high (Oh my god)\nLove me if you love or not, you can be my light\nJimmy only love me when he wanna get high\nJimmy only love me when he wanna get high\nJimmy only love me when he wanna get high\nJimmy only love me when he wanna get high\nYour mom called, I told her, you're fuckin' up big time\n\n[Post-Chorus]\nYour mom called, I told her, you're fuckin' up big time\n[Chorus]\nJimmy, Jimmy, cocoa puff, Jimmy, Jimmy, ride\nJimmy, Jimmy, cocoa puff, Jimmy, get me high\nLove me if you live and love, you can be my light (Mm)\nJimmy only love me when he wanna get high\nJimmy only love me when he wanna get high\nJimmy only love me when he wanna get high\nJimmy only love me when he wanna get high\nYour mom called, I told her, you're fuckin' up big time\n\n[Verse]\nJimmy, you should switch it up, baby, light it up (Yeah)\nJimmy, if you leave the house, find me in the club (Like)\nJimmy, if you switch it up, you should light it up\nJimmy, if you leave the house, find me in the club (Like, surf's up)\nYour mom called, I told her, you're fuckin' up big time\nBut I don't care, baby, I already lost my mind\nJimmy, if I lie it up, find me in the club (Mind, mind)\nYour mom called, I told her, you're fucking up big time\n\n[Chorus]\nJimmy, Jimmy, cocoa puff, Jimmy, Jimmy, ride\nJimmy, Jimmy, cocoa puff, Jimmy, get me high\nLove me if you love or not, you can be my light\nJimmy only love me when he wanna get high\nJimmy only love me when he wanna get high\nJimmy only love me when he wanna get high\nJimmy only love me when he wanna get high\nYour mom called, I told her, you're fuckin' up big time64Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/8726649",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Judah Smith Interlude by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8726649,
+    "instrumental": false,
+    "lyrics_owner_id": 3524332,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1707896858,
+    "path": "/Lana-del-rey-judah-smith-interlude-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-judah-smith-interlude-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 179102
+    },
+    "title": "Judah Smith Interlude",
+    "title_with_featured": "Judah Smith Interlude",
+    "updated_by_human_at": 1720876584,
+    "url": "https://genius.com/Lana-del-rey-judah-smith-interlude-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "65 ContributorsTranslationsItalianoPortugu\u00easEspa\u00f1ol\u0421\u0440\u043f\u0441\u043a\u0438Fran\u00e7ais\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0939\u093f\u0928\u094d\u0926\u0940\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430KiswahiliDeutschJudah Smith Interlude Lyrics[Spoken Word: Judah Smith, Lana Del Rey]\nDon't you understand what that means?\nIt means quit lusting after your neighbor\nThat's a heck of a life\nYou get to love your children in front of you\nYou get to love\nYou ever talk to somebody\n\"I want a new life\"\n\"I don't love my wife anymore\"\n\"I don't love my kids anymore\"\n\"I'm missing out on life\"\nThey're usually my age\nDoes that sound like love?\nIt's a life dominated with lust\nAnd for too long, they've been holding it off\nAnd finally, they just get weak and they say\n\"It doesn't matter anymore\"\nAnd the Spirit of God says\n\"I'll infuse you with d\u0435sires for what you have\nAnd what's in front of you\" (Yeah, y\u0435ah, yeah)\n(Desires for what you have)\nSo, as He works deep in your heart\nAs you call out to Him and say\n\"I'm here, do it in me, Man\"\n\"Help me want what I got\"\n\"Help me love what's in front of me\"\n\"Help me want more of my wife and more of my friends\"\n\"And help me serve the city I live in and not wish it away and hope I can move\"\n\"Help me, God\"\n\"I wanna be a man of love, not a man of lust\"\nBut you've gotta do that\nSo I bring you to this verse and I'm done, I'm done\nPsalms, chapter eight\nAnd you know where I got this verse?\nThis is gonna sound crazy to you, but I'm gonna tell you the absolute truth\nIt's gonna make me sound so spiritual, so I'm looking forward to it\nI woke up this morning and God said, \"Check the Bible app\"\nI don't know if it was God, but it felt like God\nAnd I had the thought in my head, \u201cCheck the Bible app\u201d\nI'm gonna speak to you from the verse of the day\nThat means I don't have to do anything\nI don't have to look anywhere, I just get the verse of the day\nSo I get to the verse of the day\nAnd here's the verse of the day, today, in the Bible app\nLook at this (That's cool)\n\"Look at the splendor of the skies\nYour creative genius glowing in the heavens\nWhen I gaze, when I gaze at Your moon and Your stars\nMounted like jewels in their settings\nI know You are the fascinating artist who fashioned it all\"\nWhen I look up and I see such wonder and workmanship above\n\"I have to ask this question\"\n\"I've gotta ask this question\"\nCompared to all this cosmic glory\n\"Why would you ever bother with puny, mortal man?\" or be\nOoh, don't get me started on it\nI could preach for another hour on infatuated\nOr be infatuated with Adam's son\n\"Why are you so infatuated with me?\"\nYou're the star creator, You're the ocean maker (Yeah, yeah)\nYou're the whale creator, you're the rhino designer\nWho, who are you? (Rhino designer)\nAnd then it goes on in verse five\nAnd it says\n\"Yet, what honor You have given to me\nCreated only a little lower than Elohim\"\nWhich is the name of Creator God, Artist God\nYou wanna call God \"Artist\"?\nAt some point tonight, before you go to bed, go, \"Yo, Elohim\"\nAnd He'll hear, \"You're the best Artist ever\"\n\"The little Elohim, crowned like kings and queens with glory and magnificence\nYou have delighted, You have delegated to them\nMastery over all You have made\"\nYou have made me a partner with You\nI used to think my preaching was mostly about You\nAnd you're not gonna like this, but I'm gonna tell you the truth\nI've discovered my preaching is mostly about meYou might also like3Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/8318885",
+    "artist_names": "Lana Del Rey (Ft. Jon Batiste)",
+    "full_title": "Candy Necklace by\u00a0Lana\u00a0Del Rey (Ft.\u00a0Jon\u00a0Batiste)",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8318885,
+    "instrumental": false,
+    "lyrics_owner_id": 3524332,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721826957,
+    "path": "/Lana-del-rey-candy-necklace-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 9,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-candy-necklace-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 441466
+    },
+    "title": "Candy Necklace",
+    "title_with_featured": "Candy Necklace (Ft.\u00a0Jon\u00a0Batiste)",
+    "updated_by_human_at": 1721817494,
+    "url": "https://genius.com/Lana-del-rey-candy-necklace-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1022976",
+      "header_image_url": "https://images.genius.com/e9e987c02e71e191a8def8077ac44754.1000x333x1.jpg",
+      "id": 1022976,
+      "image_url": "https://images.genius.com/cf885852be121ce54b7d7b4ed7218fde.1000x1000x1.jpg",
+      "index_character": "j",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Jon Batiste",
+      "slug": "Jon-batiste",
+      "url": "https://genius.com/artists/Jon-batiste",
+      "iq": 734
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "111 ContributorsTranslationsChinese TraditionalKiswahili\u0421\u0440\u043f\u0441\u043a\u0438\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0939\u093f\u0928\u094d\u0926\u0940DeutschFran\u00e7aisItalianoPortugu\u00easEspa\u00f1olT\u00fcrk\u00e7ePolskiCandy Necklace Lyrics[Verse 1: Lana Del Rey]\nWhite fire, cinnamon on my teeth\nAnd I'm sittin' at the stoplight northern town\nI feel lucky\nI drive somewhere out of range, I don't know where\nWhite noise comin' all in my brain\nTurns off for nothing\n\n[Pre-Chorus: Lana Del Rey]\nRockafella, my umbrella\nGod, I love you, baby\nStoryteller, us forever\nIs my favorite song\n\n[Chorus: Lana Del Rey]\nYou've been actin' pretty restless\nDancin' like the young and restless\nAnd I'm obsessed with it\nCandy necklaces\nYou've been actin' pretty reckless\nDancin' like the young and restless\nAnd I'm obsess\u0435d with this\nAll his candy necklaces\n\n[Verse 2: Lana Del Rey]\nSittin' on the sofa, feelin' sup\u0435r suicidal\nHate to say the word, but, baby, hand on the Bible, I do\nFeel like it's you, the one who's bringin' me down\nThought that we were cool and we were kickin' it like Tribe Called Quest\nYou the best, but, baby, you've been bringin' me down\nI can see it now\nYou might also like[Pre-Chorus: Lana Del Rey]\nRockafella, my umbrella\nGod, I love you, baby\nFortune teller, favorite ever\nThat's the story of us\n\n[Chorus: Lana Del Rey]\nYou've been actin' pretty restless\nDancin' like the young and reckless\nAnd I'm obsessed with this\nCandy necklaces\nI think that we should address this\nActin' like the young and restless\nI'm obsessed with this\nAll his candy necklaces\n\n[Piano Solo]\n\n[Chorus: Lana Del Rey]\nWe've been actin' pretty restless\nDancin' like the young and restless\nI'm obsessed with this\nCandy necklaces\n\n[Outro: Jon Batiste, Lana Del Rey & Jon Batiste, Lana Del Rey]\nCandy necklaces\nCandy necklaces\nCandy necklaces\nCandy necklaces (Mm)\nCandy necklaces (Mm, hmm)\nCandy necklaces (I'm obsessed with this)\nCandy necklaces\nCandy necklaces\nCandy necklaces ('Cause I'm obsessed with this)\nCandy necklaces (Mm)\nCandy necklaces\nCandy necklaces\nCandy necklaces\nCandy necklaces\nCandy necklaces, oh9Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/8726653",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Jon Batiste Interlude by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8726653,
+    "instrumental": false,
+    "lyrics_owner_id": 3524332,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1708284830,
+    "path": "/Lana-del-rey-jon-batiste-interlude-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-jon-batiste-interlude-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 97518
+    },
+    "title": "Jon Batiste Interlude",
+    "title_with_featured": "Jon Batiste Interlude",
+    "updated_by_human_at": 1720876588,
+    "url": "https://genius.com/Lana-del-rey-jon-batiste-interlude-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "38 ContributorsTranslationsItalianoPortugu\u00easEspa\u00f1olFran\u00e7ais\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0939\u093f\u0928\u094d\u0926\u0940\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0421\u0440\u043f\u0441\u043a\u0438\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschJon Batiste Interlude Lyrics[Spoken: Jon Batiste, Lana Del Rey]\nOh\nOoh, I'm I feelin' something right now\nI didn't know I was gon' feel it so early (Pure honey)\nYay\nI feel it early, I feel it\nI feel it early (Yeah)\nWoo, woo-hoo\nI feel it early and I feel it late\nOh, my goodness (Oh)\nYeah, I feel it\nI feel it\nYeah?\nI don't know if that was recording\nI feel it heavy\n\n[Sung: Lana Del Rey]\nAnd in the dark, you love me, la-da-da\nYou love me like pure honey\nYou're in the sun, dancing to the touch\nYou give me this and I got you, honey\nAh\n\n[Spoken: Jon Batiste, Lana Del Rey]\nI feel it heavy\nI feel it, oh, my God\nAh\nYeah\nOh, wow\nYeah\nWoo, you mean when, oh\nThis is amazing\nOh, my God\nIt's good, it's like its own shit\nYou might also like[Sung: Lana Del Rey]\nYour honey\nYour honey\n\n[Spoken: Lana Del Rey, Jon Batiste]\nAnd then\nOoh, oh, yeah\n\n[Sung: Lana Del Rey]\nPlease, don't gift your honey\n\n[Spoken: Jon Batiste]\nOoh, Lord\nYeah\n\n[Sung: Lana Del Rey, Jon Batiste]\nYou're the sun dancing in the dark\nTouch with you at the park\nYour honey\nOoh, oh\n\n[Spoken: Jon Batiste, Lana Del Rey]\nOh\nOh, I feel it in my soul\nI feel it in my soul\nOh, my goodness, I didn't know I was gonna feel it in my soul\nLike, this early, like this\nEarly in the morning\nEarly in the morning\nAyy, ooh\nEarly in the morning\nOh\nEarly in the morning\nThat's pretty too, how about that?\nEarly in the morning\nYeah\nThat's something in there\nEarly in the morning\nEarly in the morning\nOh, sweet\nSweet honey, oh1Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/8717853",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Kintsugi by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8717853,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722293331,
+    "path": "/Lana-del-rey-kintsugi-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-kintsugi-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 390808
+    },
+    "title": "Kintsugi",
+    "title_with_featured": "Kintsugi",
+    "updated_by_human_at": 1722293331,
+    "url": "https://genius.com/Lana-del-rey-kintsugi-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "105 ContributorsTranslationsPortugu\u00easEspa\u00f1olT\u00fcrk\u00e7e\u0421\u0440\u043f\u0441\u043a\u0438\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Deutsch\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0939\u093f\u0928\u094d\u0926\u0940Fran\u00e7aisItalianoKintsugi Lyrics[Verse 1]\nThere's a certain point the body can't come back from\nIn one year, we've learned the turn of the mouth\nThe depth that the chest cavity takes\nChucky was there for three out of three\nI was there for the third 'cause I couldn't be\nThere for the one who was closest to me\nBut I can't say I run when things get hard\nIt's just that I don't trust myself with my heart\nBut I've had to let it break a little more\n'Cause they say that's what it's for\n\n[Chorus]\nThat's how the light shines in\nThat's how the light shines in\nThat's how the light gets in (Mm-mm)\n\n[Verse 2]\nSo everyone was there, they were standin', laughin'\nAnd I'm on the side with my tears streamin' down\nThere's somethin' about the clutch of the wrist\nHe thought mine was his to cough into his mouth\nWe've only got hours\nAnd I just can't stop cryin' 'cause all of the ways\nWhen you see someone dyin'\nThe sea of your days flash in front of you\nAnd you think about who would be with you\nAnd then there's Donoghue\nYou might also like[Bridge 1]\nDaddy, I miss them\nI'm in the mountains\nI'm probably runnin' away from the feelings I get\nWhen I think all the things about them\nDaddy, I miss them\nI'm at the Roadrunner Caf\u00e9\nI'm probably runnin' away from the thoughts in the day\nThat have things to do with them, but they say\n\n[Chorus]\n\"That's how the light gets in\nThat's how the light gets in\nThat's how the light gets in\"\n\n[Verse 3]\nThink by the third of March, I was cracked open\nFinally, the ground was cold, they wouldn't open\nBrought by the sunlight of the spirit to pour into me\nThere's a name for it in Japanese, it's \"Kintsugi\"\nThey sang folk songs from the '40s\nEven the fourteen-year-old knew \"Froggie Came A-Courtin'\"\nHow do my blood relatives know all of these songs?\nI don't know anyone left who knows songs that I sing\n\n[Chorus]\nThat's how the light gets in\nThat's how the light gets in\n[Bridge 2]\nBut, Daddy, I miss them\nI'm at the Roadrunner Caf\u00e9\nProbably runnin' away from the feelings today\nIn the snow-capped mountains of the desert\nDaddy, I miss them\nI'm in the mountains\nProbably runnin' away, I've been meaning to say\nThat there's nothing to do except know that this is\n\n[Outro]\nHow the light gets in\nBy cracking, the light gets in\nIt's how the light gets in\nThat's how the light gets in\nThat's how the light gets in\nThen you're golden, ah-ah-ah\nAh-ah-ah, ah-ah\nJust another folk song, but anyway\nI try so hard, but that's okay\nIt's how the light gets in\nIt's how the light gets in\nIt's how the light gets in7Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 35,
+    "api_path": "/songs/8009526",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Fingertips by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8009526,
+    "instrumental": false,
+    "lyrics_owner_id": 3524332,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1715561171,
+    "path": "/Lana-del-rey-fingertips-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 16,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-fingertips-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 14,
+     "hot": false,
+     "pageviews": 571313
+    },
+    "title": "Fingertips",
+    "title_with_featured": "Fingertips",
+    "updated_by_human_at": 1720876592,
+    "url": "https://genius.com/Lana-del-rey-fingertips-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "136 ContributorsTranslationsItalianoPortugu\u00easEspa\u00f1olFran\u00e7ais\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutsch\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0939\u093f\u0928\u094d\u0926\u0940\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0421\u0440\u043f\u0441\u043a\u0438T\u00fcrk\u00e7eRomanizationFingertips Lyrics[Verse 1]\nWhen I look back, tracing fingertips over plastic bags\nThinking, \"I wish I could extrapolate some\u2005small\u2005intention\nOr maybe just\u2005get your attention for a minute\u2005or two\"\n\n[Verse 2]\nWill I die? Or will I get to that ten-year mark?\nWhere I beat the extinction of telomeres?\nAnd if I do, will you be there with me, Father, Sister, Brother?\n\n[Verse 3]\nCharlie, stop smoking\nCaroline, will you be with me?\nWill the baby be alright?\nWill I have one of mine?\nCan I handle it even if I do?\nIt's said that my mind\nIs not fit, or so they said, to carry a child\nI guess I'll be fine\n\n[Verse 4]\nIt wasn't my idea, the cocktail of things that twists neurons inside\nBut without them, I'd die\nThey say there's irony in the music, it's a tragedy, I\nSee nothing Greek in it\nGive me a mausoleum in Rhode Island with Dad, Grandma, Grandpa, and Dave\nWho hung himself real high\nIn the National Park sky, it's a shame and I'm crying right now\nTo get to you, save you, if I take my life\nFind your astral body, put it into my arms\nGive you two seconds to cry\nTake you home, I, I'll give you a blanket\nYour spirit can sit and watch TV by my side\n'Cause, baby, I\nRan through a time when I felt you were doing it\nYou might also like[Verse 5]\nI couldn't handle it, I was in Monaco\nI couldn't hear what they said on the telephone\nI had to sing for the prince in two hours\nSat in the shower\nGave myself two seconds to cry\nIt's a shame that we die\n\n[Verse 6]\nWhen I was fifteen, naked, next-door neighbors did a drive-by\nPulled me up by my waist, long hair to the beach side\nI wanted to go out like you, swim with the fishes\nThat he caught on Rhode Island beaches\nBut, sometimes, it's just not your time\n[Verse 7]\nCaroline, what kind of mother was she to say I'd end up in institutions?\nAll I wanted to do was kiss Aaron Greene and sit by\nThe lake, twisting lime into the drinks that they made\nHave a babe at sixteen in the town I was born in, and die\n\n[Verse 8]\nAaron ended up dead and not me\nWhat the fuck's wrong in your head to send me away, never to come back?\nExotic places and people don't take the place of being your child\nI give myself two seconds to cry\n[Verse 9]\nLet it crash over me\nLike the waves in the sea\nCall me Aphrodite, as they bow down to me\n\n[Verse 10]\nSunbather, moon chaser, queen of empathy\nI give myself two seconds to breathe\nAnd go back to being a serene queen\nI just needed two seconds to be me16Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/8726647",
+    "artist_names": "Lana Del Rey (Ft. SYML)",
+    "full_title": "Paris, Texas by\u00a0Lana\u00a0Del Rey (Ft.\u00a0SYML)",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8726647,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714648541,
+    "path": "/Lana-del-rey-paris-texas-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 15,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-paris-texas-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 413657
+    },
+    "title": "Paris, Texas",
+    "title_with_featured": "Paris, Texas (Ft.\u00a0SYML)",
+    "updated_by_human_at": 1720876594,
+    "url": "https://genius.com/Lana-del-rey-paris-texas-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/652572",
+      "header_image_url": "https://images.genius.com/12b08c7fd43502ed6b891cddeb8f14bf.1000x297x1.jpg",
+      "id": 652572,
+      "image_url": "https://images.genius.com/3670d9e284ab7e019fb1b28d240d045b.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "SYML",
+      "slug": "Syml",
+      "url": "https://genius.com/artists/Syml",
+      "iq": 2188
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "79 ContributorsTranslationsPortugu\u00easEspa\u00f1olItaliano\u0421\u0440\u043f\u0441\u043a\u0438\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0939\u093f\u0928\u094d\u0926\u0940DeutschFran\u00e7aisT\u00fcrk\u00e7eBahasa IndonesiaParis, Texas Lyrics[Verse 1]\nI went to Paris (Texas)\nWith a suitcase in my hand\nI had to leave\nKnew they wouldn't understand\n\n[Chorus]\nWhen you know, you know\nWhen you know, you know\nIt's time, it's time to go\nWhen you know, you know\nThen the more you know\nIt's time to go\n\n[Verse 2]\nI took a train to Spain\nJust a notebook in my hand\nThen I went to see some friends of mine\nDown in Florence, Alabama\n\n[Chorus]\nWhen you know, you know\nWhen you know, you know\nIt's time, it's time to go\nWhen you know, you know\nThat it's time to leave\nLike the summer breeze\nYou might also like[Bridge]\nWhen everyone's star is bright\nBrighter than you are\nIt's time to go\nAnd you're the only one left\nDancin' while they're on the floor\nTime to go\n\n[Verse 3]\nI flew back home\nIt seems everything's the same (Venice, California)\nExcept that you weren't home\n\u201cHello,\u201d I call to no one (But)\n\n[Outro]\nWhen you're home, you're home (Venice, California)\nWhen you're home, you're home (Venice, California)\nYou're home, when you're alone\nWhen you're right, you're right\nWhen you're right, you're right\nEven when you're wrong15Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/8717855",
+    "artist_names": "Lana Del Rey (Ft. RIOPY)",
+    "full_title": "Grandfather please stand on the shoulders of my father while he's deep-sea fishing by\u00a0Lana\u00a0Del Rey (Ft.\u00a0RIOPY)",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8717855,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1681748695,
+    "path": "/Lana-del-rey-grandfather-please-stand-on-the-shoulders-of-my-father-while-hes-deep-sea-fishing-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-grandfather-please-stand-on-the-shoulders-of-my-father-while-hes-deep-sea-fishing-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 304944
+    },
+    "title": "Grandfather please stand on the shoulders of my father while he\u2019s deep-sea fishing",
+    "title_with_featured": "Grandfather please stand on the shoulders of my father while he's deep-sea fishing (Ft.\u00a0RIOPY)",
+    "updated_by_human_at": 1720876596,
+    "url": "https://genius.com/Lana-del-rey-grandfather-please-stand-on-the-shoulders-of-my-father-while-hes-deep-sea-fishing-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1713878",
+      "header_image_url": "https://images.genius.com/4fb714c56a823548a2c9f59c7c7f357a.1000x563x1.jpg",
+      "id": 1713878,
+      "image_url": "https://images.genius.com/15722ea36a42ac19db9084f23312aede.900x900x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "RIOPY",
+      "slug": "Riopy",
+      "url": "https://genius.com/artists/Riopy"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "88 ContributorsTranslationsEspa\u00f1olPortugu\u00easItalianoT\u00fcrk\u00e7eNederlands\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0421\u0440\u043f\u0441\u043a\u0438\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutsch\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0939\u093f\u0928\u094d\u0926\u0940Fran\u00e7aisGrandfather please stand on the shoulders of my father while he\u2019s deep-sea fishing Lyrics[Intro]\nThree white butterflies to know you're near\n\n[Verse]\nI know they think that it took somebody else\nTo make me beautiful, beautiful\nAs they intended me to be\nBut they're wrong\nI know they think that it took thousands of people\nTo put me together again like an experiment\nSome big men behind the scenes\nSewing Frankenstein black dreams into my songs\nBut they're wrong\n\n[Pre-Chorus]\nGod, if you'r\u0435 near me, send m\u0435 three white butterflies\nOr an owl to know you're listening, sitting while I'm drinking\n\n[Chorus]\nGrandfather, please stand on the shoulders of my father\nWhile he's deep-sea fishing for sharks in the Pacific\n\n[Bridge]\n'Cause I'm good in spirit, warm-bodied\nA fallible deity wrapped up in white\nI'm folk, I'm jazz, I'm blue, I'm green\nRegrettably, also a white woman\nBut I have good intentions even if I'm one of the last ones\nIf you don't believe me, my poetry, or my melodies\nFeel it in your bones\nI have good intentions even if I'm one of the last ones\n(Ah, yeah, ah, yeah, ah, yeah, oh)\nYou might also like[Chorus]\nGrandfather, please stand on the shoulders of my father\nWhile he's deep-sea fishing for all the things he's wishing\nGod, if you're near me, send me three white butterflies\nOr a map to know your vision, impart on me your wisdom\n\n[Post-Chorus]\nIt took somebody else to make me beautiful, wonderful\nAs they intended me to be\nBut they're wrong\n\n[Outro]\nThree white butterflies to know you're near10Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/8726654",
+    "artist_names": "Lana Del Rey (Ft. Father John Misty)",
+    "full_title": "Let The Light In by\u00a0Lana\u00a0Del Rey (Ft.\u00a0Father\u00a0John Misty)",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8726654,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725052732,
+    "path": "/Lana-del-rey-let-the-light-in-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 17,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-let-the-light-in-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 14,
+     "hot": false,
+     "pageviews": 530453
+    },
+    "title": "Let The Light In",
+    "title_with_featured": "Let The Light In (Ft.\u00a0Father\u00a0John Misty)",
+    "updated_by_human_at": 1725052732,
+    "url": "https://genius.com/Lana-del-rey-let-the-light-in-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/30388",
+      "header_image_url": "https://images.genius.com/322b9c7e2261a126444c4d609fbf1ed4.1000x525x1.jpg",
+      "id": 30388,
+      "image_url": "https://images.genius.com/c94f18078af259970e60bec1572d3fe4.630x630x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Father John Misty",
+      "slug": "Father-john-misty",
+      "url": "https://genius.com/artists/Father-john-misty"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "89 ContributorsTranslationsPortugu\u00easEspa\u00f1ol\u0421\u0440\u043f\u0441\u043a\u0438Italiano\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Fran\u00e7ais\u0420\u0443\u0441\u0441\u043a\u0438\u0439DeutschT\u00fcrk\u00e7e\u0641\u0627\u0631\u0633\u06cc\u0939\u093f\u0928\u094d\u0926\u0940\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acLet The Light In Lyrics[Verse 1: Lana Del Rey]\nPick you up at home, quarter to three\nAsk you if you want somethin' to eat\nDrive around, get drunk, do it over again\nWake you up at night, quarter to one\nI can never stop, wanna have fun\nDon't be actin' like I'm the kinda girl who can sleep\n\n[Pre-Chorus: Lana Del Rey]\n'Cause every time you say you're gonna go\nI just smile, 'cause, babe, I already know\nYou know I got nothin' under this overcoat\n[Chorus: Lana Del Rey & Father John Misty]\nOoh, let the light in\nAt your back door yelling 'cause I wanna come in\nOoh, turn your light on\nLook at us, you and I, back at it again\n\n[Verse 2: Lana Del Rey]\nPick you up around quarter to two\nUsually we got nothin' to do\nScrew it, maybe you should go and record some of your songs\nGot my dress on tight 'cause you know that I\nLook shinin' in the light, ther\u0435's so much ridin'\nOn this life and how we write a lov\u0435 song\nYou might also like[Chorus: Lana Del Rey & Father John Misty]\nOoh, let the light in\nAt your back door yelling 'cause I wanna come in\nOoh, turn your light on\nLook at us, you and I, back at it again\n\n[Bridge: Lana Del Rey]\n'Cause I love to love, to love, to love you\nI hate to hate, to hate, to hate you\nPut the Beatles on, light the candles, go back to bed\n'Cause I wanna, wanna, wanna want you\nI need to, need to, need to need you\nPut the TV on, the flowers in a vase, lie your head\n\n[Chorus: Lana Del Rey & Father John Misty]\nOoh, let the light in\nAt your back door yelling 'cause I wanna come in\nOoh, turn your light on\nLook at us, you and me, back at it again17Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/8726650",
+    "artist_names": "Lana Del Rey (Ft. Bleachers)",
+    "full_title": "Margaret by\u00a0Lana\u00a0Del Rey (Ft.\u00a0Bleachers)",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8726650,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724877083,
+    "path": "/Lana-del-rey-margaret-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 13,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-margaret-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 16,
+     "hot": false,
+     "pageviews": 577327
+    },
+    "title": "Margaret",
+    "title_with_featured": "Margaret (Ft.\u00a0Bleachers)",
+    "updated_by_human_at": 1724877083,
+    "url": "https://genius.com/Lana-del-rey-margaret-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/158659",
+      "header_image_url": "https://images.genius.com/d9ce334e756ef5b1a50f76f0437ca10d.1000x180x1.jpg",
+      "id": 158659,
+      "image_url": "https://images.genius.com/715a7525b1d00c7d3b78da7e625902fc.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Bleachers",
+      "slug": "Bleachers",
+      "url": "https://genius.com/artists/Bleachers",
+      "iq": 135
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "89 ContributorsTranslationsPortugu\u00easEspa\u00f1olItaliano\u0421\u0440\u043f\u0441\u043a\u0438\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0939\u093f\u0928\u094d\u0926\u0940Fran\u00e7ais\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Deutsch\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acMargaret Lyrics[Verse 1: Lana Del Rey]\nThis is a simple song, gonna write it for a friend\nMy shirt is inside out, I'm messy with the pen\nHe met Margaret on a rooftop, she was wearin' white\nAnd he was like, \"I might be in trouble\"\nHe had flashes of the good life, he was like\n\"Should I jump off this building now or do it on the double?\"\n\n[Pre-Chorus: Both]\n'Cause, baby, if your love is in trouble\nBaby, if your love is in trouble\nBaby, if your love is in trouble\n\n[Chorus: Both]\nWhen you know, you know\nWhen you know, you know\nIt kinda makes me laugh\nRunnin' down that path\nWhen you're good as gold\n'Cause when you know, you know\n\n[Verse 2: Jack Antonoff]\nWord to all my friends\nWith their r\u0435d flags, their white knights\nTheir black \u0435yes and their blue lies\nIf you're askin' yourself, \"How do you know?\"\nThen that's your answer, the answer is \"No\"\nYou gotta run, gotta run, run, run, run like your head's on fire\nRun away like your head is on fire\nYou might also like[Pre-Chorus: Both]\n'Cause, baby, if your love is in trouble\nBaby, if your love is in trouble\nBaby, if your love is in trouble\n\n[Chorus: Both, Lana Del Rey]\nWhen you know, you know\nWhen you know, you know\nIt kinda makes me laugh\nRunnin' down that path\nWhen you're good as gold\n'Cause when you know, you know\nAnd when you're old, you're old\nLike Hollywood and me\nThe diamond on your ring\nThe soul that you bring to the table\nThe one that makes me sing\nIn a minor key\n'Cause when you know, you know\nWhen you know, you know\n\n[Interlude: Lana Del Rey]\nSo if you don't know, don't give up\n'Cause you never know what the new day might bring\n\n[Bridge: Both, Lana Del Rey]\nMaybe tomorrow you'll know\nMaybe tomorrow you'll know\nMaybe tomorrow you'll know\nI mean, join the party\nBy the way, the party is December 18\n(Alright, let's waltz this out, kids)\n[Chorus: Both, Lana Del Rey]\n'Cause when you know, you know\nAnd when you're old, you're old\nLike Hollywood and me\nThat diamond on your ring\nThe soul that you bring to the table\nThe one that makes me sing\nIn a minor key\nDiamond on your ring\n'Cause when you know, you know\nWhen you know, you know13Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 26,
+    "api_path": "/songs/8717857",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Fishtail by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8717857,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724179339,
+    "path": "/Lana-del-rey-fishtail-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-fishtail-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 21,
+     "hot": false,
+     "pageviews": 288563
+    },
+    "title": "Fishtail",
+    "title_with_featured": "Fishtail",
+    "updated_by_human_at": 1724179339,
+    "url": "https://genius.com/Lana-del-rey-fishtail-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "93 ContributorsTranslations\u0939\u093f\u0928\u094d\u0926\u0940Fran\u00e7aisItalianoPortugu\u00easEspa\u00f1olT\u00fcrk\u00e7e\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0421\u0440\u043f\u0441\u043a\u0438\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutsch\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fishtail Lyrics[Intro]\nDon't you dare say that you'll braid my hair, babe\nIf you don't really care\nYou wanted me sadder, you wanted me sadder\nFishtail, what's the matter with that?\n\n[Verse 1]\nSkippin' rope in the bayou, bayou\nSlip softly in terrain\nNot that smart, but I've got things to say\nPalm trees in black and white\nI like to watch them sway\nYou're so funny, I wish I could skinny-dip inside your mind\n[Pre-Chorus]\nLately, I've been thinkin' about how things used to be\nSwingin' in a nightgown underneath the old oak tree\nAlmost Victorian with you, you can talk to me\nBut, lately, I can see\n\n[Chorus]\nYou wanted me sadder (Baby)\nYou wanted me sadder\nCan't you see it?\nFor me, you are the one\nAnd if I'm not the one for you, don't just say it\nI was on the stairs, Ella Fitzgerald in the air\nFeelin' hella rare\nBaby, if you care\nBaby, don't you dare say\nYou'll braid my hair, babe\nDon't you dare say that you'll braid my hair, babe\nIf you don't really care\nYou wanted me sadder\nYou might also like[Verse 2]\nDancin' there in the hot, hot sun\nI know that we've got problems\nI plan to address them another day\nPalm trees in black and white\nI see in technicolor\nMaybe I'll take my glasses off so I stop painting red flags green\n\n[Pre-Chorus]\nLately, I've been sunnin' in the L.A. riverbed\nWearin' nothin' but the summer bruises on my knees\nI like how you talk, how you speak, how you look at me\nBut, lately, I can see\n\n[Chorus]\nYou wanted me sadder (Baby)\nYou wanted me sadder\nYou wanted me sadder\nCan't you see it?\nFor me, you are the one and if I'm not the one for you\nDon't just say it\nI was on the stairs, Ella Fitzgerald in the air\nFeelin' hella rare\nBaby, if you care\nBaby, don't you dare say\nYou'll braid my hair, see\nBaby, if you care, then\nBaby, don't you dare say\nThat you really care\nDon't you dare say that you'll braid my hair\nWhen you get home tonight\nIf you don't really care\nYeah, don't you dare say that you'll braid my hair, babe\nIf you don't really care, see\nDon't you braid my hair\nIf you're not coming home to me\nAh-ah\n[Outro]\nYou want someone sadder\nSkippin' rope in the bayou, bayou\nSlip softly in terrain\nI'm not that smart\nBut I've got things to say8Embed"
+   }
+  },
+  {
+   "number": 15,
+   "song": {
+    "_type": "song",
+    "annotation_count": 23,
+    "api_path": "/songs/8726657",
+    "artist_names": "Lana Del Rey (Ft. Tommy Genesis)",
+    "full_title": "Peppers by\u00a0Lana\u00a0Del Rey (Ft.\u00a0Tommy\u00a0Genesis)",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8726657,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724097598,
+    "path": "/Lana-del-rey-peppers-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 16,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-peppers-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 17,
+     "hot": false,
+     "pageviews": 458649
+    },
+    "title": "Peppers",
+    "title_with_featured": "Peppers (Ft.\u00a0Tommy\u00a0Genesis)",
+    "updated_by_human_at": 1724097598,
+    "url": "https://genius.com/Lana-del-rey-peppers-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/396643",
+      "header_image_url": "https://images.genius.com/c9268766c2a58286257edf8ce76dd3e0.770x148x1.jpg",
+      "id": 396643,
+      "image_url": "https://images.genius.com/f6bb6dea4c4213e659b1a19194f746b2.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Tommy Genesis",
+      "slug": "Tommy-genesis",
+      "url": "https://genius.com/artists/Tommy-genesis",
+      "iq": 1389
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "115 ContributorsTranslationsPortugu\u00easEspa\u00f1ol\u0421\u0440\u043f\u0441\u043a\u0438ItalianoDeutsch\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0939\u093f\u0928\u094d\u0926\u0940Fran\u00e7ais\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acT\u00fcrk\u00e7e\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Peppers Lyrics[Intro]\n(You alright?)\n\n[Chorus: Tommy Genesis, Both]\nHands on your knees, I'm Angelina Jolie\nHands on your knees, Angelina Jolie\nLet me put my hands on your knees, you can braid my hair\nDo a fat criss-cross in the back somewhere, ha\n\n[Verse 1: Lana Del Rey]\nMe and my boyfriend listen to the Chili Peppers\nWe write hit songs without tryin\u2019 like\nAll the time, all the time\nI take off all my clothes, dance naked for the neighbors\nI'm like, \"Fuck it, gonna give a show,\" I open up the blinds\n\n[Pre-Chorus: Lana Del Rey]\nI threw caution to the wind, get onto the bike\nTake a minute to yourself, skinny-dip in my mind\nI'm in love, I\u2019m in love\nGot a knife in my jacket, honey on the vine\nBaby, I'll bring the coffee if you bring the wine\nI'm in love, I'm in love ('Cause I'm in love)\n\n[Chorus: Tommy Genesis, Lana Del Rey, Both]\nHands on your knees, I'm Angelina Jolie\nHands on your knees, Angelina Jolie\nLet me put my hands on your knees, you can braid my hair\nDo a fat criss-cross in the back somewhere, ha\nHands on your knees, I'm Angelina Jolie\nHands on your knees, Angelina Jolie\nLet me put my hands on your knees, you can braid my hair\nDo a fat criss-cross in the back somewhere, ha\nYou might also like[Verse 2: Lana Del Rey]\nI sit, upskirt, I don\u2019t have much to lose\nI got a truck, I take it for a midnight, a midnight drive, yeah\nMy boyfriend tested positive for COVID, it don\u2019t matter\nWe've been kissing, so whatever he has, I have, I can\u2019t cry\n\n[Pre-Chorus: Lana Del Rey]\nI threw caution to the wind, get onto the bike\nTake a minute for myself, skinny-dip in my mind\nI'm in love, I'm in love (I'm in love)\n\n[Chorus: Tommy Genesis]\nHands on your knees, I\u2019m Angelina Jolie\nHands on your knees, Angelina Jolie\nLet me put my hands on your knees, you can braid my hair\nDo a fat criss-cross in the back somewhere, ha\n[Spoken Bridge]\nI don't know, maybe we should do something like, like merge this song\nYou know that song, \"Wipeout\"? Yeah, dance type of song\n\n[Chorus: Tommy Genesis, Both]\nHands on your knees, I'm Angelina Jolie\nHands on your knees, Angelina Jolie\nLet me put my hands on your knees, you can braid my hair\nDo a fat criss-cross in the back somewhere, ha\nHands on your knees, I'm Angelina Jolie\nHands on your knees, Angelina Jolie\nLet me put my hands on your knees, you can braid my hair\nDo a fat criss-cross in the back somewhere, ha\nHands on your knees, I'm Angelina Jolie\nHands on your knees, Angelina Jolie\nLet me put my hands on your knees, you can braid my hair\nDo a fat criss-cross in the back somewhere, ha\nHands on your knees, I'm Angelina Jolie\nHands on your knees, Angelina Jolie\nLet me put my hands on your knees, you can braid my hair\nDo a fat criss-cross in the back somewhere, ha16Embed"
+   }
+  },
+  {
+   "number": 16,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/8726652",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Taco Truck x VB by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "header_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "id": 8726652,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724097872,
+    "path": "/Lana-del-rey-taco-truck-x-vb-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 14,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-taco-truck-x-vb-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/53b420c1339ffb0cb2f45c348aad3731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 415818
+    },
+    "title": "Taco Truck x VB",
+    "title_with_featured": "Taco Truck x VB",
+    "updated_by_human_at": 1724097872,
+    "url": "https://genius.com/Lana-del-rey-taco-truck-x-vb-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "110 ContributorsTranslationsPortugu\u00easEspa\u00f1olItaliano\u0421\u0440\u043f\u0441\u043a\u0438\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Deutsch\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0939\u093f\u0928\u094d\u0926\u0940Fran\u00e7aisTaco Truck x VB Lyrics[Part I: Taco Truck]\n\n[Verse 1]\nMet my boyfriend down at the taco truck\nPass me my vape, I'm feelin' sick, I need to take a puff\nImagine if we actually gave a fuck\nWouldn't that be somethin' to talk\u205fabout\u205ffor\u205fus?\nCaribbean Blue in\u205fsweater weather, I'm\u205ffalling into you\nAlthough it seems I've gotten better, I can be violent too\n\n[Chorus]\nOh, that's why they call me Lanita\nWhen I get down, I'm bonita\nDon't come find me in Reseda\nI'll go crazy\nRead my gold chain, says \"Lanita\"\nWhen I'm violent, it's Carlito's Way\nBlood on my feet, on the street\nI'm dancin' crazy\n\n[Post-Chorus]\nSpin it 'til you whip it into white cream, baby\nPrint it into black and white pages, don't faze me\nBefore you talk, let me stop what you're saying\nI know, I know, I know that you hate me\nYou might also like[Spoken Outro: Margaret Qualley]\nHoney, I got up so early\nAnd then, I got into the shower\nI was just able to go back to sleep for a hour and a half\nSo that rocked, um, anyway (Ah, ah)\nI had this dream where, um, aha, I don't know\n\n[Part II: VB]\n\n[Intro]\n(Signin' off, bang, bang, kiss, kiss)\n[Verse 1]\nYou heard my baby's back in town now (Oh no)\nYou should come, come over\nWe'll be hanging around now\nYou should come, come over\nBack, back to the garden\nWe're gettin' high now because we're older\nMe, myself, I like diamonds\nMy baby, crimson and clover\n\n[Chorus]\nOh God, I miss you on my lips\nIt's me, your little Venice Bitch\nOn the stoop with your neighborhood kids\nCallin' out, bang, bang, kiss, kiss\n[Post-Chorus]\n(Ah, ah, ciao)\nCalling' out, bang, bang, kiss, kiss\n(Ah, yeah, ah, ciao)\nSignin' off, bang, bang, kiss, kiss\n(Yeah, yeah)\n\n[Verse 2]\nBack in the garden\nWe're gettin' high now because we're older\nMe, myself, I like diamonds\nMy baby, crimson and clover\n\n[Pre-Chorus]\nWha-wha-wha-wha-whatever\nEverything, whatever\nWha-wha-wha-wha-whatever\nEverything's whatever\n\n[Chorus]\nOh God, I miss you on my lips (I do, I do)\nIt's me, your little Venice bitch (Yes, it is)\nOn the stoop with the neighborhood kids\nCallin' out, bang, bang, kiss, kiss\n\n[Refrain]\n(Ah, ah, ciao)\nCallin' out, bang, bang, kiss, kiss\n(Ah, yeah, ah, ciao)\nSignin' off, bang, bang, kiss, kiss\n(Yeah, yeah)\n[Bridge]\nIf you weren't mine, I'd be (Get high)\nJealous of your love (Drop acid)\nIf you weren't mine, I'd be (Never die)\nJealous of your love (Not tonight, Lake Placid)\nIf you weren't mine, I'd be\nJealous of your love (Yeah)\nIf you weren't mine, I'd be\nJealous of your love\nIf you weren't mine, I'd be (Oh, God, I miss you on my lips)\nJealous of your love (It's me, your little Venice Bitch)\nIf you weren't mine, I'd be (On the stoop with the neighborhood kids)\nJealous of your love (Calling out, bang bang, kiss kiss)\n\n[Outro]\nMmm, mmm (Lake Placid)\nCallin' out, bang, bang, kiss, kiss\nMmm (Jealous of your love)\nSignin' off, bang, bang, kiss, kiss\nMmm (Yeah)14Embed"
+   }
+  }
+ ]
+}
