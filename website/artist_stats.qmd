@@ -1,10 +1,14 @@
 ---
-title: "Dataset Details"
+title: "Game Details"
 ---
 
 ### Dataset Details
 
 Generally, artist datasets comprise of all songs from *studio albums* - excluding EPs and singles. But there are exceptions! All lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).
+
+Note that some lyrics are just a couple words - these tend to be ad-libs, such as "oh, oh." If that isn't hard enough already, lyrics such as "oh, oh" may easily show up in multiple songs, and you'll likely need to use hints to help you narrow it down.
+
+If you'd like to do your own analyses on artist datasets, you can find them in lyriguessr's [GitHub repo](https://github.com/jasminex21/lyriguessr). Contact me at <lyriguessr@gmail.com> for any questions!
 
 ### Dataset Statistics
 

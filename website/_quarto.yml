@@ -48,12 +48,12 @@ website:
         text: Home
       - href: coming_soon.qmd
         text: Coming Soon
-      - href: artist_stats.qmd
-        text: Dataset Details
-      - href: feedback.qmd
-        text: Provide Feedback
       - href: about.qmd
         text: About
+      - href: artist_stats.qmd
+        text: Details
+      - href: feedback.qmd
+        text: Provide Feedback
       - text: "---"
       - section: Artists
         href: index.qmd

@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About me\nHi! I’m Jasmine, the developer of lyriguessr. I study Statistics & Data Science and Computer Science at UT Austin, and love working on projects such as lyriguessr in my free time.\n\nBusiness inquiries: contact me at lyriguessr@gmail.com!\n\nThe idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate Hannah during my freshman year. We’re both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!\nI realized that tayLyrics could be generalized to any artist - why not share the fun with everyone, right? And so lyriguessr was born.\n\nMy favorite artists are Waterparks, Bad Omens, and Taylor Swift. Follow me on Spotify here!\n\n\n\nAcknowledgements\nA couple people I’d like to thank for their contributions to lyriguessr’s development…\n\nMy roommate (and the love of my life) Hannah, whose love for (and insane competency at) tayLyrics inspired the creation of lyriguessr\nJiant, for his business insights\nTrus, for designing the amazing lyriguessr logo",
+    "text": "About me\nHi! I’m Jasmine, the developer of lyriguessr. I study Statistics & Data Science and Computer Science at UT Austin (hook ’em!), and love working on projects such as lyriguessr in my free time.\n\nBusiness inquiries: contact me at lyriguessr@gmail.com!\n\nThe idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate Hannah during my freshman year. We’re both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!\nI realized that tayLyrics could be generalized to any artist - why not share the fun with everyone, right? And so lyriguessr was born.\n\nMy favorite artists are Waterparks, Bad Omens, and Taylor Swift. Follow me on Spotify here!\n\n\n\nAcknowledgements\nA couple people I’d like to thank for their contributions to lyriguessr’s development…\n\nMy roommate (and the love of my life) Hannah, whose love for (and insane competency at) tayLyrics inspired the creation of lyriguessr\nJiant, for his business insights\nTrus, for designing the amazing lyriguessr logo",
     "crumbs": [
       "About"
     ]
@@ -14,7 +14,7 @@
     "href": "coming_soon.html",
     "title": "Coming Soon…",
     "section": "",
-    "text": "Artists to be added\n\n\n\n\n\n\nTip\n\n\n\nInteract with me at @lyriguessr on Twitter or Instagram to request new artists!\n\n\nIn this order…\n\nClairo\nLana del Ray\nBillie Eilish\nChappell Roan\nDominic Fike\nHozier\nHarry Styles\nBad Bunny\nSZA\nAriana Grande\nbeabadoobee\nLorde\nKendrick Lamar\nTyler, the Creator\nChase Atlantic\nThe Weeknd\nTwenty One Pilots\nFall Out Boy\n\n\nPotential other artists\n\nBeach Bunny\n5 Seconds of Summer\nParamore\nCharli XCX\nKPop artists - e.g. BTS, TWICE, etc. Will need insights as to how I should do this, considering the language barrier\n\n\n\nOthers\n\nHamilton (the musical)\nDisney movie songs",
+    "text": "Artists to be added\n\n\n\n\n\n\nTip\n\n\n\nInteract with me at @lyriguessr on Twitter or Instagram to request new artists!\n\n\n\nClairo\nLana del Ray\nBillie Eilish\nChappell Roan\nDominic Fike\nHozier\nHarry Styles\nBad Bunny\nSZA\nAriana Grande\nbeabadoobee\nLorde\nKendrick Lamar\nTyler, the Creator\nChase Atlantic\nThe Weeknd\nTwenty One Pilots\nFall Out Boy\n\n\nPotential other artists\n\nBeach Bunny\n5 Seconds of Summer\nParamore\nCharli XCX\nKPop artists - e.g. BTS, TWICE, etc. Will need insights as to how I should do this, considering the language barrier\n\n\n\nOthers\n\nHamilton (the musical)\nDisney movie songs",
     "crumbs": [
       "Coming Soon"
     ]
@@ -76,11 +76,11 @@
   {
     "objectID": "artist_stats.html",
     "href": "artist_stats.html",
-    "title": "Dataset Details",
+    "title": "Game Details",
     "section": "",
-    "text": "Dataset Details\nGenerally, artist datasets comprise of all songs from studio albums - excluding EPs and singles. But there are exceptions! All lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).\n\n\nDataset Statistics\nNaturally, the larger the artist dataset, the harder the game is! If you like stats, this table is for you.\n\n\n\n\n\n\n\n\nArtist Dataset Statistics\n\n\nSorted in descending order by the # of lines in the dataset\n\n\nArtist\nLines\nSongs\nAlbums\nAvg. Words per Line\n\n\n\n\nTaylor Swift\n11776\n232\n11\n7.23\n\n\nLana Del Ray\n5960\n125\n9\n6.85\n\n\nWaterparks\n4449\n82\n8\n6.57\n\n\nThe Neighbourhood\n3347\n78\n7\n7.32\n\n\nRadiohead\n2588\n100\n9\n5.46\n\n\nBad Omens\n1744\n46\n4\n7.67\n\n\nOlivia Rodrigo\n1219\n28\n2\n7.79\n\n\nClairo\n1123\n40\n5\n6.79",
+    "text": "Dataset Details\nGenerally, artist datasets comprise of all songs from studio albums - excluding EPs and singles. But there are exceptions! All lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).\nNote that some lyrics are just a couple words - these tend to be ad-libs, such as “oh, oh.” If that isn’t hard enough already, lyrics such as “oh, oh” may easily show up in multiple songs, and you’ll likely need to use hints to help you narrow it down.\nIf you’d like to do your own analyses on artist datasets, you can find them in lyriguessr’s GitHub repo. Contact me at lyriguessr@gmail.com for any questions!\n\n\nDataset Statistics\nNaturally, the larger the artist dataset, the harder the game is! If you like stats, this table is for you.\n\n\n\n\n\n\n\n\nArtist Dataset Statistics\n\n\nSorted in descending order by the # of lines in the dataset\n\n\nArtist\nLines\nSongs\nAlbums\nAvg. Words per Line\n\n\n\n\nTaylor Swift\n11776\n232\n11\n7.23\n\n\nLana Del Ray\n5960\n125\n9\n6.85\n\n\nWaterparks\n4449\n82\n8\n6.57\n\n\nThe Neighbourhood\n3347\n78\n7\n7.32\n\n\nRadiohead\n2588\n100\n9\n5.46\n\n\nBad Omens\n1744\n46\n4\n7.67\n\n\nOlivia Rodrigo\n1219\n28\n2\n7.79\n\n\nClairo\n1123\n40\n5\n6.79",
     "crumbs": [
-      "Dataset Details"
+      "Details"
     ]
   },
   {
