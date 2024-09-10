@@ -470,7 +470,7 @@ def ui(game_title,
                     c.image("./website/logo_cropped.png")
                     st.markdown(f"Lyrics range from *{ALL_ALBUMS[0]}* to *{ALL_ALBUMS[-1]}*.")
                     for instruct in instructions:
-                        st.markdown(instruct)
+                        st.markdown(instruct, unsafe_allow_html=True)
                     st.markdown(f"Return to [lyriguessr](https://jasminex21.github.io/lyriguessr/) for more artist games!")
                     st.markdown("### IMPORTANT GUIDELINES:")
                     st.markdown(f"Capitalization and minor spelling errors do NOT matter!")

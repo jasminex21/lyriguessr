@@ -53,14 +53,13 @@
     ]
   },
   {
-    "objectID": "artist_pages/3_the_nbhd.html",
-    "href": "artist_pages/3_the_nbhd.html",
-    "title": "The Neighbourhood",
+    "objectID": "artist_stats.html",
+    "href": "artist_stats.html",
+    "title": "Game Details",
     "section": "",
-    "text": "Play the game!\n\n\n\n\nGo to nbhdGuessr! (opens external link)\n\n\n\n\nDetails\n\n\n\n\n\n\nAnnouncement\n\n\n\nI am taking requests for cooler/punnier names for The Neighbourhood’s game! Tweet me your ideas on Twitter @lyriguessr and I will run a poll!\n\n\nLyrics range from I’m Sorry… to Chip Chrome & the Mono-Tones (Deluxe).\n\n\nThe Dataset and Statistics\nThere are 3,347 lines in the nbhdGuessr dataset, with 2,319 of them being unique lines.\n\nYou have around a 0.030% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\n\n\n\n\n\n\n\n\n\nTop 5 Most Common Lyrics\n\n\nAnd each lyric's number of occurrences, and chance of showing up in Hard mode\n\n\nLyric\n#\nSong\nPct.\n\n\n\n\n\"Remember what the people said\"\n16\nLet It Go\n0.48%\n\n\n\"When I wake up, I'm afraid\"\n14\nAfraid\n0.42%\n\n\n\"You are stuck with me\"\n12\nStuck with Me\n0.36%\n\n\n\"I can't wait to get back to California\"\n12\nWhen I Get Back\n0.36%\n\n\n\"Somebody else might take my place\"\n11\nAfraid\n0.33%\n\n\n\n\n\n\n\n\n\nSimilar Artists\nNothing here yet…",
+    "text": "Dataset Details\nGenerally, artist datasets comprise of all songs from studio albums - excluding EPs and singles. But there are exceptions! All lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).\nNote that some lyrics are just a couple words - these tend to be ad-libs, such as “oh, oh.” If that isn’t hard enough already, lyrics such as “oh, oh” may easily show up in multiple songs, and you’ll likely need to use hints to help you narrow it down.\nIf you’d like to do your own analyses on artist datasets, you can find them in lyriguessr’s GitHub repo. Contact me at lyriguessr@gmail.com for any questions!\n\n\nDataset Statistics\nNaturally, the larger the artist dataset, the harder the game is! If you like stats, this table is for you.\n\n\n\n\n\n\n\n\nArtist Dataset Statistics\n\n\nSorted in descending order by the # of lines in the dataset\n\n\nArtist\nLines\nSongs\nAlbums\nAvg. Words per Line\n\n\n\n\nTaylor Swift\n11776\n232\n11\n7.23\n\n\nLana Del Ray\n5960\n125\n9\n6.85\n\n\nWaterparks\n4449\n82\n8\n6.57\n\n\nRadiohead\n2588\n100\n9\n5.46\n\n\nBad Omens\n1744\n46\n4\n7.67\n\n\nOlivia Rodrigo\n1219\n28\n2\n7.79\n\n\nClairo\n1123\n40\n5\n6.79",
     "crumbs": [
-      "Artists",
-      "The Neighbourhood"
+      "Details"
     ]
   },
   {
@@ -71,16 +70,6 @@
     "text": "I’d love to get any feedback or suggestions you have so that I can improve my site!\nHere is the link to the form if it isn’t displaying properly on this page.\n\nLoading…",
     "crumbs": [
       "Provide Feedback"
-    ]
-  },
-  {
-    "objectID": "artist_stats.html",
-    "href": "artist_stats.html",
-    "title": "Game Details",
-    "section": "",
-    "text": "Dataset Details\nGenerally, artist datasets comprise of all songs from studio albums - excluding EPs and singles. But there are exceptions! All lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).\nNote that some lyrics are just a couple words - these tend to be ad-libs, such as “oh, oh.” If that isn’t hard enough already, lyrics such as “oh, oh” may easily show up in multiple songs, and you’ll likely need to use hints to help you narrow it down.\nIf you’d like to do your own analyses on artist datasets, you can find them in lyriguessr’s GitHub repo. Contact me at lyriguessr@gmail.com for any questions!\n\n\nDataset Statistics\nNaturally, the larger the artist dataset, the harder the game is! If you like stats, this table is for you.\n\n\n\n\n\n\n\n\nArtist Dataset Statistics\n\n\nSorted in descending order by the # of lines in the dataset\n\n\nArtist\nLines\nSongs\nAlbums\nAvg. Words per Line\n\n\n\n\nTaylor Swift\n11776\n232\n11\n7.23\n\n\nLana Del Ray\n5960\n125\n9\n6.85\n\n\nWaterparks\n4449\n82\n8\n6.57\n\n\nThe Neighbourhood\n3347\n78\n7\n7.32\n\n\nRadiohead\n2588\n100\n9\n5.46\n\n\nBad Omens\n1744\n46\n4\n7.67\n\n\nOlivia Rodrigo\n1219\n28\n2\n7.79\n\n\nClairo\n1123\n40\n5\n6.79",
-    "crumbs": [
-      "Details"
     ]
   },
   {
@@ -132,7 +121,7 @@
     "href": "index.html",
     "title": "Welcome to lyriguessr!",
     "section": "",
-    "text": "⚔️ The Game\nEarn as many points as possible by guessing the song that the generated lyric(s) comes from.\nIf you don’t have a guess, you can ask for up to 3 hints per round. You start with 20 hints per game, but you can earn one extra hint every 10 rounds! Or, you can choose to give up.\n\n\n\n\n\n\nPoints Breakdown (click to expand)\n\n\n\n\n\n\nEasy correct guess: +1\nMedium correct guess: +3\nHard correct guess: +5\nHint (each): -1\nGiving up: -2\n\n\n\n\n\n\n🎵 Artists\n\nInteract with me at @lyriguessr on Twitter or Instagram to request new artists!\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date Added - Oldest\n        \n         \n          Date Added - Newest\n        \n         \n          Artist\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nArtist\n\n\nDate Added\n\n\nGenres\n\n\n\n\n\n\nTaylor Swift\n\n\nAug 1, 2024\n\n\npop\n\n\n\n\nRadiohead\n\n\nAug 7, 2024\n\n\nart rock, alt rock\n\n\n\n\nWaterparks\n\n\nAug 11, 2024\n\n\npop punk\n\n\n\n\nThe Neighbourhood\n\n\nSep 1, 2024\n\n\nalt rock\n\n\n\n\nOlivia Rodrigo\n\n\nSep 2, 2024\n\n\npop, pop rock\n\n\n\n\nBad Omens\n\n\nSep 3, 2024\n\n\nmetalcore\n\n\n\n\nLana Del Ray\n\n\n \n\n\nalt pop\n\n\n\n\nClairo\n\n\n \n\n\npop, bedroom pop\n\n\n\n\n\nNo matching items",
+    "text": "⚔️ The Game\nEarn as many points as possible by guessing the song that the generated lyric(s) comes from.\nIf you don’t have a guess, you can ask for up to 3 hints per round. You start with 20 hints per game, but you can earn one extra hint every 10 rounds! Or, you can choose to give up.\n\n\n\n\n\n\nPoints Breakdown (click to expand)\n\n\n\n\n\n\nEasy correct guess: +1\nMedium correct guess: +3\nHard correct guess: +5\nHint (each): -1\nGiving up: -2\n\n\n\n\n\n\n🎵 Artists\n\nInteract with me at @lyriguessr on Twitter or Instagram to request new artists!\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date Added - Oldest\n        \n         \n          Date Added - Newest\n        \n         \n          Artist\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nArtist\n\n\nDate Added\n\n\nGenres\n\n\n\n\n\n\nTaylor Swift\n\n\nAug 1, 2024\n\n\npop\n\n\n\n\nRadiohead\n\n\nAug 7, 2024\n\n\nart rock, alt rock\n\n\n\n\nWaterparks\n\n\nAug 11, 2024\n\n\npop punk\n\n\n\n\nOlivia Rodrigo\n\n\nSep 2, 2024\n\n\npop, pop rock\n\n\n\n\nBad Omens\n\n\nSep 3, 2024\n\n\nmetalcore\n\n\n\n\nLana Del Ray\n\n\n \n\n\nalt pop\n\n\n\n\nClairo\n\n\n \n\n\npop, bedroom pop\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home"
     ]

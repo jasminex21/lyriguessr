@@ -48,7 +48,7 @@ gt(data) %>%
     tab_style(style = cell_text(weight = "bolder"),
               locations=list(cells_title(), cells_column_labels())) %>%
     tab_style(style = cell_text(style = "italic"),
-              locations = cells_body(columns = Lyric)) %>%
+              locations86b7d24f = cells_body(columns = Lyric)) %>%
     tab_style(style = cell_text(align = "center"),
               locations = cells_column_labels()) %>%
     cols_width(Lyric ~ px(800),
