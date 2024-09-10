@@ -1,15 +1,14 @@
 ---
 title: "Clairo"
-date: ""
-date-modified: ""
+date: "2024-09-10"
+date-modified: "2024-09-03"
 categories: ["pop", "bedroom pop"]
 ---
 
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-NOT UP YET
-<!-- **Go to <a href="https://badomens.streamlit.app/" target="_blank">badOmensGuessr!</a> (opens external link)** -->
+**Go to <a href="https://clairo.lyriguessr.xyz/" target="_blank">clairoGuessr!</a> (opens external link)**
 :::
 :::
 
