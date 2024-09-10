@@ -1,5 +1,6 @@
 ---
 title: "Bad Omens"
+subtitle: "Test your limits!"
 date: "2024-09-03"
 date-modified: "2024-09-03"
 categories: ["metalcore"]

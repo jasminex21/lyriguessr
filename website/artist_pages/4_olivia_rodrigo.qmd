@@ -1,5 +1,6 @@
 ---
 title: "Olivia Rodrigo"
+subtitle: "it's brutal out here"
 date: "2024-09-02"
 date-modified: "2024-09-02"
 categories: ["pop", "pop rock"]
