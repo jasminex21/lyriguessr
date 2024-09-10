@@ -94,7 +94,7 @@ class Leaderboards:
             df = pd.DataFrame(rows, columns=columns)
             df["Datetime"] = pd.to_datetime(df["Datetime (UTC)"])
             # the primary determinator of rank is the number of points earned
-            df = df.sort_values(by=["Points", "Datetime (UTC)"], ascending=[False, True])
+            df = df.sort_values(by=["Points", "Rounds", "Datetime (UTC)"], ascending=[False, True])
             df["Rank"] = df[["Points"]].rank(method="first", ascending=False).astype(int)
             final_df = df[final_cols].set_index("Rank")
             all_leaderboards[long_name] = final_df
