@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 promo/
+logs/
 
 # C extensions
 *.so
