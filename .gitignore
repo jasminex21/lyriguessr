@@ -5,7 +5,7 @@ __pycache__/
 
 promo/
 logs/
-analytics/unique_users.csv
+analytics/UNIQUE_USERS.csv
 
 # C extensions
 *.so

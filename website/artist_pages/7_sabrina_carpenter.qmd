@@ -1,15 +1,15 @@
 ---
-title: "Olivia Rodrigo"
-subtitle: "it's brutal out here"
-date: "2024-09-02"
-date-modified: "2024-09-02"
-categories: ["pop", "pop rock"]
+title: "Sabrina Carpenter"
+date: ""
+date-modified: ""
+categories: ["pop"]
 ---
 
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://olivia_rodrigo.lyriguessr.xyz/" target="_blank">oliviaRodriguessr!</a> (opens external link)**
+NOT UP YET
+<!-- **Go to <a href="https://badomens.streamlit.app/" target="_blank">badOmensGuessr!</a> (opens external link)** -->
 :::
 :::
 
@@ -20,19 +20,19 @@ categories: ["pop", "pop rock"]
 I am taking requests for cooler/punnier names for this game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
 :::
 
-Lyrics range from *SOUR* to *GUTS (spilled)*.
+Lyrics range from *Eyes Wide Open* to *Short n' Sweet*.
 
 ### The Dataset and Statistics
 
-There are 1,219 lines in the dataset, with 920 of them being *unique* lines. 
+There are 3,438 lines in the dataset, with 2,128 of them being *unique* lines. 
 
-* You have around a 0.082% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+* You have around a 0.029% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
 
 ```{r echo=FALSE}
-#| label: olivia_rodrigo
+#| label: sabrina
 library(gt)
 
-data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/olivia_rodrigo/olivia rodrigo_counts.csv")
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/sabrina_carpenter/sabrina carpenter_counts.csv")
 
 colnames(data) <- c("Lyric", "#", "Song", "Pct.")
 
@@ -62,4 +62,4 @@ gt(data) %>%
 ### Similar Artists
 
 * [Taylor Swift](0_taylor_swift.qmd)
-* [Sabrina Carpenter](7_sabrina_carpenter.qmd)
+* [Olivia Rodrigo](4_olivia_rodrigo.qmd)
