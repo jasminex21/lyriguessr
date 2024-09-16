@@ -7,9 +7,10 @@ from lyriguessr.Lyrics import Lyrics
 from lyriguessr.Leaderboard import Leaderboards
 
 def set_global_vars(lyrics_path, albums, leaderboard_path,
-                    theme_css=None):
+                    theme_css=None,
+                    acceptable_answers=None):
     global ALL_LYRICS, ALL_ALBUMS, DIFFICULTIES, HINTS_LIMIT, GAME_MODES, POINTS_MAPPING
-    global DIFFICULTY_MAPPING, MODE_MAPPING, LEADERBOARD, HAS_THEMES, THEME_CSS
+    global DIFFICULTY_MAPPING, MODE_MAPPING, LEADERBOARD, HAS_THEMES, THEME_CSS, ACCEPTABLE_ANSWERS
 
     ALL_LYRICS = pd.read_csv(lyrics_path)
     ALL_ALBUMS = albums
@@ -39,6 +40,7 @@ def set_global_vars(lyrics_path, albums, leaderboard_path,
                      "button_color": "#000000",
                      "inputs": "#4C4949",
                      "text_color": "white"}
+    ACCEPTABLE_ANSWERS = acceptable_answers
 
 def config_game(game_title):
     st.set_page_config(layout='wide',
@@ -566,7 +568,8 @@ def ui(game_title,
                                 on_change=clear_guess,
                                 disabled=st.session_state.disable_buttons)
                     if st.session_state.guess: 
-                        if st.session_state.lyrics.get_guess_feedback(st.session_state.guess): 
+                        if st.session_state.lyrics.get_guess_feedback(st.session_state.guess,
+                                                                      acceptable_answers=ACCEPTABLE_ANSWERS): 
                             answered_correctly()
                         else: 
                             answered_incorrectly()
