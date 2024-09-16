@@ -1,14 +1,15 @@
 ---
-title: "Clairo"
-date: "2024-09-10"
-date-modified: "2024-09-03"
-categories: ["pop", "bedroom pop"]
+title: "Sabrina Carpenter"
+date: ""
+date-modified: ""
+categories: ["pop"]
 ---
 
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://clairo.lyriguessr.xyz/" target="_blank">clairoGuessr!</a> (opens external link)**
+NOT UP YET
+<!-- **Go to <a href="https://badomens.streamlit.app/" target="_blank">badOmensGuessr!</a> (opens external link)** -->
 :::
 :::
 
@@ -19,26 +20,24 @@ categories: ["pop", "bedroom pop"]
 I am taking requests for cooler/punnier names for this game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
 :::
 
-Lyrics range from *diary 001* to *Charm*.
-
-*2 Hold U*, *Get With U*, *Sis*, *Bubble Gum*, and *Heaven* <u>are</u> included in the game, under the album "Original singles."
+Lyrics range from *Eyes Wide Open* to *Short n' Sweet*.
 
 ### The Dataset and Statistics
 
-There are 1,123 lines in the dataset, with 790 of them being *unique* lines. 
+There are 3,438 lines in the dataset, with 2,128 of them being *unique* lines. 
 
-* You have around a 0.089% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+* You have around a 0.029% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
 
 ```{r echo=FALSE}
-#| label: clairo
+#| label: sabrina
 library(gt)
 
-data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/clairo/clairo_counts.csv")
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/sabrina_carpenter/sabrina carpenter_counts.csv")
 
 colnames(data) <- c("Lyric", "#", "Song", "Pct.")
 
 gt(data) %>% 
-    tab_header(title=md("Top 6 Most Common Lyrics"), 
+    tab_header(title=md("Top 5 Most Common Lyrics"), 
                subtitle="And each lyric's number of occurrences, and chance of showing up in Hard mode") %>%
     opt_table_font(stack = "rounded-sans") %>%
     tab_options(table.background.color = "#8D9F8E",
@@ -62,4 +61,5 @@ gt(data) %>%
 
 ### Similar Artists
 
-Nothing here yet...
+* [Taylor Swift](0_taylor_swift.qmd)
+* [Olivia Rodrigo](4_olivia_rodrigo.qmd)

@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 promo/
+logs/
+analytics/UNIQUE_USERS.csv
 
 # C extensions
 *.so

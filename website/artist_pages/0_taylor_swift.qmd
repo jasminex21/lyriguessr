@@ -59,3 +59,4 @@ gt(data) %>%
 ### Similar Artists
 
 * [Olivia Rodrigo](4_olivia_rodrigo.qmd)
+* [Sabrina Carpenter](7_sabrina_carpenter.qmd)

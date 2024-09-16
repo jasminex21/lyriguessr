@@ -62,3 +62,4 @@ gt(data) %>%
 ### Similar Artists
 
 * [Taylor Swift](0_taylor_swift.qmd)
+* [Sabrina Carpenter](7_sabrina_carpenter.qmd)
