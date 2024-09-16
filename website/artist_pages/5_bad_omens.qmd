@@ -9,7 +9,7 @@ categories: ["metalcore"]
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://bad_omens.lyriguessr.xyz/" target="_blank">badOmensGuessr!</a> (opens external link)**
+**Go to <a href="https://badomens.lyriguessr.xyz/" target="_blank">badOmensGuessr!</a> (opens external link)**
 :::
 :::
 
