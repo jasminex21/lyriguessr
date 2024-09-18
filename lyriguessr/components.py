@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 from time import strftime, gmtime
 import pytz
-import datetime
+from datetime import datetime
 
 from lyriguessr.Lyrics import Lyrics
 from lyriguessr.Leaderboard import Leaderboards
