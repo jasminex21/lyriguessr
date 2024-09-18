@@ -38,7 +38,10 @@ class Lyrics():
         track_name = self.data["track_name"][self.rand_num]
 
         if mode == "Hard (1 line)": 
-            # if len(self.data["lyric"][self.rand_num]) == 1 -> regernate
+            # regenerate the random number if the lyric is less than 3 words
+            while len(self.data["lyric"][self.rand_num].split(" ")) < 3:
+                self.rand_num = random.randint(0, self.data.shape[0] - 1)
+
             self.start_line = self.rand_num
             self.end_line = self.rand_num
             return self.data["lyric"][self.rand_num]
