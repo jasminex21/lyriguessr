@@ -52,8 +52,8 @@ website:
         text: About
       - href: artist_stats.qmd
         text: Details
-      - href: feedback.qmd
-        text: Provide Feedback
+      # - href: feedback.qmd
+      #   text: Provide Feedback
       - text: "---"
       - section: Artists
         href: index.qmd
