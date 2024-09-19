@@ -1,15 +1,14 @@
 ---
 title: "Sabrina Carpenter"
-date: ""
-date-modified: ""
+date: "2024-09-19"
+date-modified: "2024-09-19"
 categories: ["pop"]
 ---
 
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-NOT UP YET
-<!-- **Go to <a href="https://badomens.streamlit.app/" target="_blank">badOmensGuessr!</a> (opens external link)** -->
+**Go to <a href="https://sabrina.lyriguessr.xyz/" target="_blank">sabrinaGuessr!</a> (opens external link)**
 :::
 :::
 
