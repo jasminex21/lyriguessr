@@ -1,5 +1,4 @@
 pandas
 streamlit
 stringdist
-extra-streamlit-components
 -e .

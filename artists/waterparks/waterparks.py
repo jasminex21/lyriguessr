@@ -29,6 +29,14 @@ theme_css = {
         "inputs": "#747AB8",
         "text_color": "black"}}
 
+acceptable_answers = {"Hawaii (Stay Awake)": ["Hawaii"],
+                      "Peach (Lobotomy)": ["Peach"], 
+                      "[Reboot]": ["Reboot"],
+                      "I Miss Having Sex But at Least I Don’t Wanna Die Anymore": ["I Miss Having Sex"],
+                      "You’d Be Paranoid Too (If Everyone Was Out to Get You)": ["You’d Be Paranoid Too"],
+                      "Gladiator (Interlude)": ["Gladiator"],
+                      "END OF THE WATER (FEEL)": ["END OF THE WATER"]}
+
 set_global_vars(lyrics_path="./artists/waterparks/waterparks_lyrics.csv", 
                 albums=["Airplane Conversations",
                         "Black Light",
@@ -39,7 +47,8 @@ set_global_vars(lyrics_path="./artists/waterparks/waterparks_lyrics.csv",
                         "Greatest Hits",
                         "INTELLECTUAL PROPERTY"],
                 leaderboard_path="./artists/waterparks/leaderboard.db",
-                theme_css=theme_css)
+                theme_css=theme_css,
+                acceptable_answers=acceptable_answers)
 
 config_game(game_title="waterparksGuessr")
 init_session_states()
