@@ -9,7 +9,7 @@ categories: ["pop", "pop rock"]
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://olivia_rodrigo.lyriguessr.xyz/" target="_blank">oliviaRodriguessr!</a> (opens external link)**
+**Go to <a href="https://oliviarodrigo.lyriguessr.xyz/" target="_blank">oliviaRodriguessr!</a> (opens external link)**
 :::
 :::
 

@@ -21,14 +21,18 @@ theme_css = {
         "text_color": "black"
     }}
 
+acceptable_answers = {"F E R A L": ["FERAL", "F.E.R.A.L"],
+                      "Reprise (The Sound of the End)": ["Reprise"],
+                      "V.A.N": "VAN"}
+
 set_global_vars(lyrics_path="./artists/bad_omens/bad omens_lyrics.csv", 
                 albums=["Bad Omens",
                         "Finding God Before God Finds Me (Deluxe)",
                         "THE DEATH OF PEACE OF MIND",
                         "CONCRETE JUNGLE [THE OST]"],
                 leaderboard_path="./artists/bad_omens/leaderboard.db",
-                theme_css=theme_css
-                )
+                theme_css=theme_css,
+                acceptable_answers=acceptable_answers)
 
 config_game(game_title="badOmensGuessr")
 init_session_states()
