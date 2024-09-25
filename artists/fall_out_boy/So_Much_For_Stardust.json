@@ -1,0 +1,1000 @@
+{
+ "_type": "album",
+ "api_path": "/albums/990964",
+ "cover_art_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+ "full_title": "So Much (For) Stardust by Fall Out Boy",
+ "id": 990964,
+ "name": "So Much (For) Stardust",
+ "name_with_artist": "So Much (For) Stardust (artist: Fall Out Boy)",
+ "primary_artist_names": "Fall Out Boy",
+ "release_date_components": {
+  "year": 2023,
+  "month": 3,
+  "day": 24
+ },
+ "release_date_for_display": "March 24, 2023",
+ "url": "https://genius.com/albums/Fall-out-boy/So-much-for-stardust",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/7811",
+  "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+  "id": 7811,
+  "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Fall Out Boy",
+  "slug": "Fall-out-boy",
+  "url": "https://genius.com/artists/Fall-out-boy",
+  "iq": 27835
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/7811",
+   "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+   "id": 7811,
+   "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+   "index_character": "f",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Fall Out Boy",
+   "slug": "Fall-out-boy",
+   "url": "https://genius.com/artists/Fall-out-boy",
+   "iq": 27835
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 18,
+    "api_path": "/songs/8719209",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Love from the Other Side by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8719209,
+    "instrumental": false,
+    "lyrics_owner_id": 15949169,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1689571719,
+    "path": "/Fall-out-boy-love-from-the-other-side-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-love-from-the-other-side-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 1,
+     "day": 18
+    },
+    "release_date_for_display": "January 18, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jan. 18, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 12,
+     "hot": false,
+     "pageviews": 160755
+    },
+    "title": "Love from the Other Side",
+    "title_with_featured": "Love from the Other Side",
+    "updated_by_human_at": 1710956735,
+    "url": "https://genius.com/Fall-out-boy-love-from-the-other-side-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "63 ContributorsTranslationsEspa\u00f1olT\u00fcrk\u00e7eLove from the Other Side Lyrics[Verse 1]\nModel house life meltdown still a modern dream letdown, it kills me\nYou know I'm dying out here\nWhat would you trade the pain for?\nI'm not sure\nWe were a hammer to the Statue of David\nWe were a painting you could never frame, and\nYou were the sunshine of my lifetime\nWhat would you trade the pain for?\n\n[Pre-Chorus]\nThis city always hangs a little bit lonely on me, loose\nLike a kid playing pretend in his father's suit\nI'd never go, I just want to be invited, oh, got to give up\nGet the feeling, get the feeling, don't fight it, fight it\n\n[Chorus]\nSending my love from the other side of the apocalypse\nAnd I just about snapped, don't look back\nEvery lover's got a little dagger in their hand\nLove from the other side of the apocalypse\nAnd I just about snapped, don't look back\nEvery lover's got a little dagger in their hand\n\n[Verse 2]\nGeneration sleep, I'm falling in and out of love\nI'm getting that tilted feeling out here\nWhat would you trade the pain for?\nI'm not sure\nNowhere left for us to go but Heaven\nSummer falling through our fingers again\nAnd you were the sunshine of my lifetime\nWhat would you trade the pain for?\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Pre-Chorus]\nWe're taught we gotta get ahead, yeah, no matter what it takes\nBut there's no way off the hamster wheel on this rat race\nI'd never go, I just want to be invited, oh, got to give up\nGet the feeling, get the feeling, don't fight it, fight it\n\n[Chorus]\nSending my love from the other side of the apocalypse\nAnd I just about snapped, don't look back\nEvery lover's got a little dagger in their hand\nLove from the other side of the apocalypse\nAnd I just about snapped, don't look back\nEvery lover's got a little dagger in their hand\n\n[Bridge]\nI saw you in a bright clear field, hurricane heat in my head\nThe kind of pain you feel to get good in the end, good in the end\nInscribed like stone and faded by the rain: \"Give up what you love\nGive up what you love before it does you in\u2026\"\n\n[Chorus]\nSending my love from the other side of the apocalypse\nAnd I just about snapped, don't look back\nEvery lover's got a little dagger in their hand\nLove from the other side of the apocalypse\nAnd I just about snapped, don't look back\nEvery lover's got a little dagger in their hand\nSending my love\nSending my love10Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/8760935",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Heartbreak Feels So Good by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8760935,
+    "instrumental": false,
+    "lyrics_owner_id": 2899462,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725239728,
+    "path": "/Fall-out-boy-heartbreak-feels-so-good-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-heartbreak-feels-so-good-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 1,
+     "day": 25
+    },
+    "release_date_for_display": "January 25, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jan. 25, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 47431
+    },
+    "title": "Heartbreak Feels So Good",
+    "title_with_featured": "Heartbreak Feels So Good",
+    "updated_by_human_at": 1725239728,
+    "url": "https://genius.com/Fall-out-boy-heartbreak-feels-so-good-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "29 ContributorsTranslationsEspa\u00f1olT\u00fcrk\u00e7eHeartbreak Feels So Good Lyrics[Verse 1]\nNo matter what they tell you\nThe future's up for grabs and no\nNo matter what they sell you\nIs there a word for bad miracle?\nNobody said the road was endless\nNobody said the climb was friendless\nBut could we please pretend this won't end?\n\n[Pre-Chorus]\nIt was an uphill battle\nBut they didn't know, but they didn't know\nWe were gonna use the roads as a ramp to take off\n\n[Chorus]\nWe could cry a little, cry a lot\nDon't stop dancing, don't dare stop\nWe'll cry later or cry now\nYou know it's heartbreak\nWe could dance our tears away, emancipate ourselves\nWe'll cry later or cry now, but baby\nHeartbreak feels so good (No, oh, no)\nHeartbreak feels so good (No, oh, no, oh)\n\n[Verse 2]\nWe said we'd never grow up\nIt's open season on blue moods\nLight from a screen of messages unsent\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Pre-Chorus]\nIt was an uphill battle\nBut they didn't know, but they didn't know\nWe were gonna use the roads as a ramp to take off\n\n[Chorus]\nWe could cry a little, cry a lot\nDon't stop dancing, don't dare stop\nWe'll cry later or cry now\nYou know it's heartbreak\nWe could dance our tears away, emancipate ourselves\nWe'll cry later or cry now, but baby\nHeartbreak feels so good (No, oh, no)\nHeartbreak feels so good (No, oh, no)\nHeartbreak feels good (No, oh, no)\n(Heartbreak feels good)\n\n[Bridge]\nIt was an uphill battle (No)\nBut they didn't know, but they didn't know (Oh, no)\nWe were gonna use the roads as a ramp to take off\n\n[Chorus]\nAnd we could cry a little, cry a lot\nDon't stop dancing, don't dare stop\nWe'll cry later or cry now\nYou know it's heartbreak\nWe could dance our tears away, emancipate ourselves\nWe'll cry later or cry now, but baby\nHeartbreak feels good (No, oh, no)\nHeartbreak feels good (No, oh, no, oh)3Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/8739576",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Hold Me Like a Grudge by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8739576,
+    "instrumental": false,
+    "lyrics_owner_id": 7387836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714331613,
+    "path": "/Fall-out-boy-hold-me-like-a-grudge-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-hold-me-like-a-grudge-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 11,
+     "hot": false,
+     "pageviews": 60992
+    },
+    "title": "Hold Me Like a Grudge",
+    "title_with_featured": "Hold Me Like a Grudge",
+    "updated_by_human_at": 1714331613,
+    "url": "https://genius.com/Fall-out-boy-hold-me-like-a-grudge-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "38 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olHold Me Like a Grudge Lyrics[Verse 1]\nWhen you ask how I've been\nI know you mean well, I know you mean well\nWho am I dialing tonight? That's a bummer\nThaw out my freezer burn feelings for twenty summers\n\n[Pre-Chorus]\nI'm just a cherub riding comets through the night sky\nScreaming at the stars like night lights\nAnd I love my life, love my life\nRunning middle fingers through the red lights\nAnd I guess I'm getting older 'cause I'm less pissed\nWhen I can't get onto the guest list\nTo the end of the world, the end of the world\nFever-dream tangerine sweat\nWhen I get down, down\nSilent killers are these years coming like waves\n(You put the \"fun\" into dysfunction)\n\n[Chorus]\nHold me, hold me like a grudge\nThe world is always spinning, and I can't keep up, woah\nFaster and faster, can't do it on my own\nPart-time soulmate, full-time problem, yeah\nSo, hold me like a grudge\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Post-Chorus]\nHold me like a grudge, yeah, yeah\nHold me like a grudge\nHold me like a grudge\n\n[Verse 2]\nI guess, somehow, we made it back\nAnd with a few dreams of ours still intact\nI am a diamond on the inside, just add the pressure\nKnow it's inside me but I got no map to my own treasure\n\n[Pre-Chorus]\nI'm just a cherub riding comets through the night sky\nScreaming at the stars like night lights\nAnd I love my life, love my life\nRunning middle fingers through the red lights\nAnd I guess I'm getting older 'cause I'm less pissed\nWe didn't make to your year-end best list\nNot the end of the world, the end of the world\nFever-dream tangerine sweat\nWhen I get down, down\nSilent killers are these years coming like waves\n(You put the \"fun\" into dysfunction)\n\n[Chorus]\nHold me, hold me like a grudge\nThe world is always spinning, and I can't keep up, woah\nFaster and faster, can't do it on my own\nPart-time soulmate, full-time problem, yeah\nSo, hold me like a grudge\n[Post-Chorus]\nHold me like a grudge, yeah, yeah\nHold me like a grudge\nHold me like a grudge\n\n[Bridge]\nI thought I knew better, I thought it would get better\nI figured somehow by now, I would have got it together\nAnd if you put your, put your heart in it, heart in it\nThen we'll do more than just get by together, yeah\nCall you up and demand, you have no fun without me\nI'm like a storm on the horizon, storm on the horizon\n(You put the \"fun\" into dysfunction)\n\n[Chorus]\nHold me, hold me like a grudge\nThe world is always spinning, and I can't keep up, woah\nFaster and faster, can't do it on my own\nPart-time soulmate, full-time problem, yeah\nHold me like a grudge\n\n[Outro]\nHold me like a grudge (Hold me), yeah, yeah\nHold me like a grudge (Hold me, hold)\nHold me like a grudge (Hold me like a)\nHold me like a grudge2Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/8739578",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Fake Out by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8739578,
+    "instrumental": false,
+    "lyrics_owner_id": 7387836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1712585881,
+    "path": "/Fall-out-boy-fake-out-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-fake-out-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 10,
+     "hot": false,
+     "pageviews": 52376
+    },
+    "title": "Fake Out",
+    "title_with_featured": "Fake Out",
+    "updated_by_human_at": 1712585881,
+    "url": "https://genius.com/Fall-out-boy-fake-out-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "33 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olFake Out Lyrics[Verse 1]\nTake a knife and cut through the darkness\nCastle-temp red wine\nBut I make no plans and none can be broken\nNo plans and none can be broken\nRemember us just like this forever\nBut this can't last, won't last\nSo make no plans and none can be broken\nNo plans and none can be broken\n\n[Pre-Chorus]\nDo you laugh about me whenever I leave?\nOr do I just need more therapy?\n\n[Chorus]\nLove is in the air, I just gotta figure out a window to break out\nBuried alive insid\u0435 my dreams, but it was all a fake-out\nAnd I don't care, I just gotta figur\u0435 out a window to break out\nBuried alive inside my dreams, but it was all a fake-out, fake-out\n[Verse 2]\nMy mood board is just pictures of you\nBut I'm not sad anymore\nSo make no plans and none can be broken\nNo plans and none can be broken\nBut I didn't take the love when I had the chance\nBut I swear I'm not sad anymore\nSo make no plans and none can be broken\nNo plans and none can be broken\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Pre-Chorus]\nDo you laugh about me whenever I leave?\nOr do I still need more therapy?\n\n[Chorus]\nLove is in the air, I just gotta figure out a window to break out\nBuried alive inside my dreams, but it was all a fake-out\nAnd I don't care, I just gotta figure out a window to break out\nBuried alive inside my dreams, but it was all a fake-out, fake-out\n\n[Bridge]\nOh, we all started off as shiny dimes\nBut we all got flipped too many times\nWe did it for futures that never came\nAnd for pasts that we're never gonna change\n\n[Chorus]\nLove is in the air, I just gotta figure out a window to break out\nBuried alive inside my dreams, but it was all a fake-out\nAnd I don't care, I just gotta figure out a window to break out\nBuried alive inside my dreams, but it was all a fake-out, fake-out5Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/8739582",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Heaven, Iowa by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8739582,
+    "instrumental": false,
+    "lyrics_owner_id": 7387836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721291920,
+    "path": "/Fall-out-boy-heaven-iowa-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-heaven-iowa-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 12,
+     "hot": false,
+     "pageviews": 63639
+    },
+    "title": "Heaven, Iowa",
+    "title_with_featured": "Heaven, Iowa",
+    "updated_by_human_at": 1721291920,
+    "url": "https://genius.com/Fall-out-boy-heaven-iowa-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "42 ContributorsTranslationsEspa\u00f1olT\u00fcrk\u00e7eHeaven, Iowa Lyrics[Verse 1]\n6 AM, Mulholland Drive\n\"Moonlight Sonata\" and I\nFirst movement, you and I\nAnd a screwtop bottle of wine\nI've unspooled on the floor\nI feel so \"A Star Is Born\"\nKiss my cheek, baby, please\nWould you read my eulogy?\n\n[Refrain]\nI will never ask you for anything\nExcept to dream sweet of me\nI will never ask you for anything\nExcept to dream sweet of me\n\n[Pre-Chorus]\nTell me when the party ends\nWill you still love who I am?\nI am\n\n[Chorus]\nScar-crossed lovers, forever\nI'm checking myself out forever\nI'm saving this all for later\nScar-crossed lovers, forever\nH\u0435re we are untouch\u0435d forever\nI'm saving this all for later, oh\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Verse 2]\nAnd they don't know how much they\u2019ll miss\nAt least until you're gone like this\nTalking to the mirror, say, \"Save your breath\nHalf your life you've been hooked on death\"\nTwice the dreams, but half the love\nBe careful what you bottle up\nThe chemistry is a mess it seems\nBut me, I'm still a sunbeam\n\n[Refrain]\nI will never ask you for anything\nExcept to dream sweet of me\nI will never ask you for anything\nExcept to dream sweet of me\n\n[Pre-Chorus]\nTell me when the party ends\nWill you still love who I am?\nI am\n\n[Chorus]\nScar-crossed lovers, forever\nI'm checking myself out forever\nI'm saving this all for later\nScar-crossed lovers, forever\nHere we are untouched forever\nI'm saving this all for later\n[Bridge]\nI closed my eyes inside of your darkness\nAnd found your glow\nShake things up, shake things up, shake things up\nShake things up and see what comes down, down, down, down\nDown, down, down, down\n\n[Chorus]\nScar-crossed lovers, forever\nI'm checking myself out forever\nI'm saving this all for later\nScar-crossed lovers, forever\nHere we are untouched forever\nI'm saving this all for later\nScar-crossed lovers, forever\nI'm checking myself out forever\nI'm saving this all for later\nScar-crossed lovers, forever\nHere we are untouched forever\nI'm saving this all for later, yeah\n\n[Outro]\n6 AM, Mulholland Drive\n\"Moonlight Sonata\" and I2Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/8739584",
+    "artist_names": "Fall Out Boy",
+    "full_title": "So Good Right Now by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8739584,
+    "instrumental": false,
+    "lyrics_owner_id": 9387139,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714504277,
+    "path": "/Fall-out-boy-so-good-right-now-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-so-good-right-now-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 10,
+     "hot": false,
+     "pageviews": 24743
+    },
+    "title": "So Good Right Now",
+    "title_with_featured": "So Good Right Now",
+    "updated_by_human_at": 1714504277,
+    "url": "https://genius.com/Fall-out-boy-so-good-right-now-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "35 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olSo Good Right Now Lyrics[Intro]\nOh-oh, oh-oh-oh-oh, oh-oh\nOh-oh, oh-oh-oh-oh, oh-oh\nOh-oh, oh-oh-oh-oh, oh-oh\nOh, yeah\n\n[Verse 1]\nAnd I got this doom and gloom in my mind, yeah\nAnd I got this doom and gloom, but I feel alright\nI got love in my heart\nSo let's sneak in from the cheap seats, honey\nAnd we'll drive until the engine just gives up\n\n[Chorus]\nFeelin' so good right now\nFeelin' so good right now\nSo we crash and burn somehow\nFeelin' so good right now, yeah\n\n[Post-Chorus]\nOh-oh, oh-oh-oh-oh, oh-oh\nOh-oh, oh-oh-oh-oh, oh-oh\nOh-oh, oh-oh-oh-oh, oh-oh\nOh, yeah\n\n[Verse 2]\nAnd I know, I know I've made mistakes, yeah\nAnd I know, I know, but at least they were mine to make\nThey were mine to make\nAnd all of our wildest dreams, they just end up with a-you and me\nSo, let's drive until th\u0435 engine just gives out\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Chorus]\nFeelin' so good right now\nFeelin' so good right now\nSo w\u0435 crash and burn somehow\nFeelin' so good right now, yeah\n\n[Bridge]\nDriftin' from the start, I ripped myself apart\nI'll be whatever you need me to be, you need me to be\nI cut myself down, cut myself down\nTo whatever you need me to be, you need me to be\nDriftin' from the start, I ripped myself apart\nI'll be whatever you need me to be, you need me to be\nI cut myself down, cut myself down\nTo whatever you need me\nOh, and all of our wildest dreams\nThey just end up with a-you and me\nSo, let's drive until the engine just gives out\n\n[Chorus]\nFeelin' so good right now\nFeelin' so good right now\nSo we crash and burn somehow\nFeelin' so good right now\nFeelin' so good right now\nFeelin' so good right now\nSo we crash and burn somehow\nFeelin' so good right now (So good, so good, so good), yeah\n[Post-Chorus]\nOh-oh, oh-oh-oh-oh, oh-oh\nOh-oh, oh-oh-oh-oh, oh-oh\nOh-oh, oh-oh-oh-oh, oh-oh\nOh-oh, oh-oh-oh-oh, oh-oh\n\n[Outro]\nOh-oh, oh-oh-oh-oh, oh-oh (And I know, I know I've made mistakes)\nOh-oh, oh-oh-oh-oh, oh-oh (Yeah)\nOh-oh, oh-oh-oh-oh, oh-oh (And I know, I know, but at least they were mine to make)\nOh (Yeah)1Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/8739627",
+    "artist_names": "Fall Out Boy (Ft. Ethan Hawke)",
+    "full_title": "The Pink Seashell by\u00a0Fall\u00a0Out Boy (Ft.\u00a0Ethan\u00a0Hawke)",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8739627,
+    "instrumental": false,
+    "lyrics_owner_id": 15080857,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1701870085,
+    "path": "/Fall-out-boy-the-pink-seashell-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-the-pink-seashell-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 20774
+    },
+    "title": "The Pink Seashell",
+    "title_with_featured": "The Pink Seashell (Ft.\u00a0Ethan\u00a0Hawke)",
+    "updated_by_human_at": 1709074844,
+    "url": "https://genius.com/Fall-out-boy-the-pink-seashell-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/45077",
+      "header_image_url": "https://images.genius.com/4ee6bffb59380b03ea98991368a44396.1000x1000x1.jpg",
+      "id": 45077,
+      "image_url": "https://images.genius.com/4ee6bffb59380b03ea98991368a44396.1000x1000x1.jpg",
+      "index_character": "e",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ethan Hawke",
+      "slug": "Ethan-hawke",
+      "url": "https://genius.com/artists/Ethan-hawke"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "19 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olThe Pink Seashell Lyrics[Spoken: Ethan Hawke]\nParents got divorced when I was, uh, five years old\nAnd I saw my father about three times a year after that\nAnd when he found out that he had cancer, he decided to\nTo bring me here and he gives me this big pink seashell\nAnd he says to me, \"Son, the answers are all inside of this\"\nAnd I'm all like, \"What?\"\nNow then I realize, I realize that\nThe shell's empty, there's no point to any of this, it's all just a\nA random lottery of meaningless tragedy and a series of near escapes\nSo I take pleasure in the detail, you know, a, a Quarter Pounder with cheese\nThose are good\nThe sky about ten minutes before it started to rain\nA moment where your laughter becomes a cackle\nAnd I sit back\nAnd I ride my own meltSee Fall Out Boy LiveGet tickets as low as $20You might also likeEmbed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/8739628",
+    "artist_names": "Fall Out Boy",
+    "full_title": "I Am My Own Muse by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8739628,
+    "instrumental": false,
+    "lyrics_owner_id": 15080857,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1716922327,
+    "path": "/Fall-out-boy-i-am-my-own-muse-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-i-am-my-own-muse-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 48326
+    },
+    "title": "I Am My Own Muse",
+    "title_with_featured": "I Am My Own Muse",
+    "updated_by_human_at": 1716922327,
+    "url": "https://genius.com/Fall-out-boy-i-am-my-own-muse-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "31 ContributorsTranslationsEspa\u00f1olT\u00fcrk\u00e7eI Am My Own Muse Lyrics[Verse 1]\nHere I am, not sure you should take a chance\nI like playin' dumb, lettin' you figure me out\nBut I was faded, in my own defense\nSo, drop a bomb on all the things we dreamed about\n\n[Chorus]\nSmash all the guitars\n'Til we see all the stars\nOh, got to throw this year away, we got to throw this year away like\nA bad luck charm\nSmash all the guitars\n'Til we see all the stars\nOh, got to throw this year away, we got to throw this year away like\nA bad luck charm\n\n[Verse 2]\nThe trumpets bring the angels, but they never came\nAnd no one let them in 'cause they didn't know my name\nI know I keep my feelings so tucked away\nJust another day spent hopin' we don't fall apart\nSo, drop a bomb on all the things we dreamed about\n\n[Chorus]\nSmash all the guitars\n'Til we see all the stars\nOh, got to throw this year away, we got to throw this year away like\nA bad luck charm\nSmash all the guitars\n'Til we see all the stars\nOh, got to throw this year away, we got to throw this year away like\nA bad luck charm\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Bridge]\nSo let's twist the knife again, twist the knife again\nLike we did last summer\nLet's twist the knife again, twist the knife again\nI'm just tryin' to keep it together\nBut it gets a little harder when it never gets better\nI'm tryin' to keep it together\nTo keep it together, keep it together, no\n\n[Chorus]\nSmash all the guitars\n'Til we see all the stars\nOh, got to throw this year away, we got to throw this year away like\nA bad luck charm\nSmash all the guitars\n'Til we see all the stars\nOh, got to throw this year away, we got to throw this year away like\nA bad luck charm4Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/8739629",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Flu Game by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8739629,
+    "instrumental": false,
+    "lyrics_owner_id": 7387836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1715447308,
+    "path": "/Fall-out-boy-flu-game-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-flu-game-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 38880
+    },
+    "title": "Flu Game",
+    "title_with_featured": "Flu Game",
+    "updated_by_human_at": 1715447308,
+    "url": "https://genius.com/Fall-out-boy-flu-game-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "29 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olFlu Game Lyrics[Verse 1]\nI guess to you now, I'm just a face in the crowd\nOh, God, kindly please, would you kill me now?\nLate at night in my room, lie awake, think of you\nAnd all your little dooms\n\n[Chorus]\nLast night I dreamt I still knew you\nYou\nI carved out a place in this world for two\nBut it's empty without you\n\n[Refrain]\nI got all this love I've got to keep to myself\nAll this effort to make it look effortless\nAll this love I've got to keep to myself\nAll this effort to make it look effortless\n\n[Verse 2]\nConfront all the pain like a gift under the tree\nOh, please, I can't be who you need me to be\nI grind in the sunshine, grind in the rain\nSo real that I feel fak\u0435\n\n[Chorus]\nLast night I dreamt I still knew you\nYou\nI carved out a plac\u0435 in this world for two\nBut it's empty without you\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Refrain]\nI got all this love I've got to keep to myself\nAll this effort to make it look effortless\nGot all this love I've got to keep to myself\nAll this effort to make it look effortless\n\n[Bridge]\nOne day, every candle's gotta run out of wax\nOne day, no one will remember me when they look back\nI can't stop, can't stop 'til we catch all your ears, though\nSomewhere between Mike Tyson and Van Gogh, oh, oh\n\n[Chorus]\nYou\nYou\nI carved out a place in this world for two\nBut it's empty without you\n\n[Outro]\nI got all this love I've got to keep to myself\nAll this effort to make it look effortless\nGot all this love I've got to keep to myself, myself, oh\nAll this effort to make it look effortless (All this effort to make it look effortless)\nAll this effort to make it look effortless (All this effort to make it look effortless), oh, oh, oh\nAll this effort to make it look effortless (All this effort to make it look effortless), yeah, hoo2Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/8884057",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Baby Annihilation by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8884057,
+    "instrumental": false,
+    "lyrics_owner_id": 15291991,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1696099166,
+    "path": "/Fall-out-boy-baby-annihilation-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-baby-annihilation-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 24434
+    },
+    "title": "Baby Annihilation",
+    "title_with_featured": "Baby Annihilation",
+    "updated_by_human_at": 1696099166,
+    "url": "https://genius.com/Fall-out-boy-baby-annihilation-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "27 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olBaby Annihilation Lyrics[Verse: Pete Wentz]\nAn alligator prince with crocodile tears, too many to count\nPermanent head-cold dreams awash in your love, fallin' in and out\nTime is luck, and I wish ours overlapped more or for longer\nOrange leaves but we're the ones falling off trees\nThe first time I took the mask off, just had another one on underneath\nI'm just melted wax on a birthday cake, another year fades away\nCharcoal crushed, pixie fever, angel dust\nStuck in a wasteland we covered in glitter and broadcast just for a little serotonin\nSelf-sabotage at best, under your spell\nBut you know what they say\n\"If you want a job done right, you gotta do it yourself\"\nThis palace was crystal, but the world was a cruel joke\nWhat is there between us, if not a little annihilation?See Fall Out Boy LiveGet tickets as low as $20You might also likeEmbed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/8739631",
+    "artist_names": "Fall Out Boy",
+    "full_title": "The Kintsugi Kid (Ten Years) by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8739631,
+    "instrumental": false,
+    "lyrics_owner_id": 15080857,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1726490782,
+    "path": "/Fall-out-boy-the-kintsugi-kid-ten-years-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-the-kintsugi-kid-ten-years-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 9,
+     "hot": false,
+     "pageviews": 42560
+    },
+    "title": "The Kintsugi Kid (Ten Years)",
+    "title_with_featured": "The Kintsugi Kid (Ten Years)",
+    "updated_by_human_at": 1726490782,
+    "url": "https://genius.com/Fall-out-boy-the-kintsugi-kid-ten-years-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "32 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olThe Kintsugi Kid (Ten Years) Lyrics[Verse 1]\nI'm pretty sure, as far as humans go\nI am a hard, hard pill to swallow\nAnd I know I'm not your intended dose\nWe're goin' low, low, low, low\n\n[Pre-Chorus]\nSo, roll the highlights, \"got too high\" life\nMix the low, low, low lights with the low, low, lowlifes\nOn the bright side, got the wrong insides\nMix the low, low, low lights with the low, lowlifes\n\n[Chorus]\nI spent ten years\nTen years in a bitter chemical haze\nAnd I missed the way that I felt\n\n[Post-Chorus]\nNothing, nothing\nNa, na-na-na-na-na-na-na\nNothing, nothing\nNa, na-na-na-na-na-na-na-na\n\n[Verse 2]\nPassed my old street, the house I grew up in\nIt breaks your heart, but four of the Ramones are dead\nI felt you at the beginning, but needed you at the end\nWe're goin' low, low, low, low\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Pre-Chorus]\nSo, roll the highlights, \"got too high\" life\nMix the low, low, low lights with the low, low, lowlifes\nOn the bright side, got the wrong insides\nMix the low, low, low lights with the low, lowlifes\n\n[Chorus]\nI spent ten years\nTen years in a bitter chemical haze\nAnd I missed the way that I felt\n\n[Post-Chorus]\nNothing, nothing\nNa, na-na-na-na-na-na-na\nNothing, nothing\nNa, na-na-na-na-na-na-na-na\n\n[Bridge]\nStop me if you have heard this all before\nToo many times after too much alcohol\nOh, but you don't know me anymore\nWe're goin' low, low, low, low\n\n[Chorus]\nI spent ten years\nTen years in a bitter chemical haze\nAnd I missed the way that I felt\nTen years, ten years in a bitter chemical haze\nAnd I missed the way that I felt\n[Outro]\nNothing, nothing\nNa, na-na-na, na-na-na-na\nNothing, nothing\nNa, na-na-na, na-na-na-na-na1Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/8739632",
+    "artist_names": "Fall Out Boy",
+    "full_title": "What a Time to Be Alive by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8739632,
+    "instrumental": false,
+    "lyrics_owner_id": 15080857,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725413065,
+    "path": "/Fall-out-boy-what-a-time-to-be-alive-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-what-a-time-to-be-alive-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 11,
+     "hot": false,
+     "pageviews": 46133
+    },
+    "title": "What a Time to Be Alive",
+    "title_with_featured": "What a Time to Be Alive",
+    "updated_by_human_at": 1725413065,
+    "url": "https://genius.com/Fall-out-boy-what-a-time-to-be-alive-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "35 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olWhat a Time to Be Alive Lyrics[Verse 1]\nSometimes, you wonder if we're ever lookin\u2019 back\nAt a picture of 2019\nAnd sayin', \"That's the way, the world, it used to be\nBefore our dreams started burstin\u2019 at the seams\"\nWe're out here and we're ready, we're here and we're ready\nTo livestream the apocalypse\nI don't care if it's pretty, the view's so pretty\nFrom the deck of a sinkin\u2019 ship, yeah, oh\n\n[Pre-Chorus]\n\u2019Cause everything is lit except my serotonin, yeah\nEverything is lit but my lightning bolt brain\nEverything is lit\n\n[Chorus 1]\nBut, baby, please, I just need someone to hold me\nEven though you don't even know me\nOh, I\u2019m goin' neon in the night-time\nOh, what a time to be alive\n\n[Post-Chorus]\nWhat a time to be alive\nWhat a time to be alive\nWhat a time to be alive\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Verse 2]\nThey say that I should try meditation\nBut I don't wanna be with my own thoughts (own thoughts)\nIt never felt that much like medication\nAnd I just wanna be your cherry on top\nWe're out here and we\u2019re ready, we're here and we're ready\nTo livestream the apocalypse\nAnd I'm goin' on and on and on\nMake me like a charm on your necklace, oh, your necklace\n\n[Pre-Chorus]\nOh, 'cause everything is lit except my serotonin, yeah\nEverything is lit but my lightning bolt brain\nEverything is lit\n\n[Chorus 1]\nBut, baby, please, I just need someone to hold me (Someone to hold me, yeah)\nEven though you don't even know me\nOh, I'm goin' neon in the night-time\nOh, what a time to be alive\n\n[Post-Chorus]\nWhat a time to be alive\nWhat a time to be alive\nWhat a time to be alive\n[Bridge]\nWhat a time to be alive, to be alive\n\n[Guitar Solo]\n\n[Chorus 2]\nWhen, when, when I said, \"Leave me alone\", this isn't quite what I meant\nI got the quarantine blues, bad news, what's left?\nSo, it seems the vulture's gettin' too full to fly, oh\nWhat a time to be alive\n\n[Post-Chorus]\nWhat a time to be alive\nWhat a time to be alive\nWhat a time to be alive\n\n[Outro]\nWhat a time to be alive (What a time, what a time to be alive)\nWhat a time to be alive (What a time, what a time to be alive)\nWhat a time to be alive (What a time, what a time to be alive)\nWhat a time to be alive\nSometimes you wonder if we're ever lookin' back1Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/8739633",
+    "artist_names": "Fall Out Boy",
+    "full_title": "So Much (For) Stardust by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "id": 8739633,
+    "instrumental": false,
+    "lyrics_owner_id": 7387836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725414178,
+    "path": "/Fall-out-boy-so-much-for-stardust-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-so-much-for-stardust-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 3,
+     "day": 24
+    },
+    "release_date_for_display": "March 24, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/af2de11e61b8c87cd122c476d44dfc99.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 13,
+     "hot": false,
+     "pageviews": 65216
+    },
+    "title": "So Much (For) Stardust",
+    "title_with_featured": "So Much (For) Stardust",
+    "updated_by_human_at": 1725414178,
+    "url": "https://genius.com/Fall-out-boy-so-much-for-stardust-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "51 ContributorsTranslationsEspa\u00f1olT\u00fcrk\u00e7eSo Much (For) Stardust Lyrics[Verse 1]\nI'm in a winter mood, dreamin' of spring now\nBurnin' myself down, burnin' myself down, burnin'\nI feel like something that's been stretched out over and over again\nUntil I'm creased, and I'm about to break down the middle\nSplit me right down the middle, right, right down the middle, yeah\nThe stars are the same as ever, but I don't have the guts to keep it together\nStuck in the permafrost, stuck in the permafrost\n\n[Pre-Chorus]\nLife is just a game, maybe\nI'm stuck in a lonely loop, my baby\n\n[Chorus]\nSo much for stardust\nWe thought we had it all, thought we had it all\nThought w\u0435 had it all, thought we had it all, thought we had it all\nSo much for stardust\nWe thought w\u0435 had it all, thought we had it all\nThought we had it all, thought we had it all, thought we had it all\n\n[Verse 2]\nI need the sound of crowds, or I can't fall asleep at night\nI can't take my thoughts and I\nCan't take my thoughts and I am awake\nAnother year of possibilities left unwrapped\nLike gifts the day right after Christmas passed\nAnd I'm pretty positive my pain isn't cool enough, pain isn't cool enough\nLike a sledgehammer to a disco ball, crushin' all my low, low, low, low\nAche it 'til you make it, ache it 'til you make it\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Pre-Chorus]\nI think I've been goin' through it\nAnd I've been putting your name to it\n\n[Chorus]\nSo much for stardust\nWe thought we had it all, thought we had it all\nThought we had it all, thought we had it all, thought we had it all\nSo much for stardust\nWe thought we had it all, thought we had it all\nThought we had it all, thought we had it all, thought we had it all\n\n[Bridge]\nIn another life, you were my babe\nIn another life, you were the sunshine of my lifetime\nWhat would you trade the pain for? I'm not sure\nIn another life, you were my babe\nIn another life, you were the sunshine of my lifetime\nWhat would you trade the pain for? I'm not sure\n\n[Pre-Chorus]\nI used to be a real go-getter\nI used to think it'd all get better\n\n[Chorus]\nSo much for stardust\nWe thought we had it all, thought we had it all\nThought we had it all, thought we had it all, thought we had it all\nSo much for stardust\nWe thought we had it all, thought we had it all\nThought we had it all, thought we had it all, thought we had it all\nSo much for stardust\nWe thought we had it all, thought we had it all\nThought we had it all, thought we had it all, thought we had it all\nSo much for stardust\nWe thought we had it all, thought we had it all\nThought we had it all, thought we had it all, thought we had it all\n[Outro]\nSo much, so much (For stardust)\nWe thought we had it all,  thought we had it all\nThought we had it all, thought we had it all (So much)\nSo much, so much, so much, so much, so (For stardust)\nWe thought we had it all, thought we had it all\nThought we had it all\n(Thought we had it all, thought we had it all)\n(So much for stardust) So much\nYeah, so much, yeah\nSo much\n(So much for stardust)5Embed"
+   }
+  }
+ ]
+}
