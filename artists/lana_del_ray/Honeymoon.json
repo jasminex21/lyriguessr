@@ -1,0 +1,1027 @@
+{
+ "_type": "album",
+ "api_path": "/albums/126114",
+ "cover_art_thumbnail_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.1000x1000x1.png",
+ "full_title": "Honeymoon by Lana Del Rey",
+ "id": 126114,
+ "name": "Honeymoon",
+ "name_with_artist": "Honeymoon (artist: Lana Del Rey)",
+ "release_date_components": {
+  "year": 2015,
+  "month": 9,
+  "day": 18
+ },
+ "release_date_for_display": "September 18, 2015",
+ "url": "https://genius.com/albums/Lana-del-rey/Honeymoon",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/15740",
+  "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+  "id": 15740,
+  "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lana Del Rey",
+  "slug": "Lana-del-rey",
+  "url": "https://genius.com/artists/Lana-del-rey"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/15740",
+   "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+   "id": 15740,
+   "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lana Del Rey",
+   "slug": "Lana-del-rey",
+   "url": "https://genius.com/artists/Lana-del-rey"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/1788492",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Honeymoon by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/334cc70f47739b41b83ace81635bceca.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/334cc70f47739b41b83ace81635bceca.1000x1000x1.jpg",
+    "id": 1788492,
+    "instrumental": false,
+    "lyrics_owner_id": 868038,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724193752,
+    "path": "/Lana-del-rey-honeymoon-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 100,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-honeymoon-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 7,
+     "day": 14
+    },
+    "release_date_for_display": "July 14, 2015",
+    "release_date_with_abbreviated_month_for_display": "Jul. 14, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f63684b23b5b2cc1c1893f77fb15b74f.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/f63684b23b5b2cc1c1893f77fb15b74f.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 357456
+    },
+    "title": "Honeymoon",
+    "title_with_featured": "Honeymoon",
+    "updated_by_human_at": 1724193752,
+    "url": "https://genius.com/Lana-del-rey-honeymoon-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "90 ContributorsTranslationsEspa\u00f1olPortugu\u00easItalianoFran\u00e7aisPolskiT\u00fcrk\u00e7eDeutschHoneymoon Lyrics[Verse 1]\nWe both know\nThat it's not fashionable to love me\nBut you don't go\n'Cause, truly, there's nobody for you but me\nWe could cruise to the blues\nWilshire Boulevard, if we choose\nOr whatever you wanna do\nWe make the rules\n\n[Chorus]\nOur honeymoon\nOur honeymoon\nOur honeymoon\nSay you want me, too\nSay you want me, too\nDark blue\nDark blue\n\n[Verse 2]\nWe both know\nThe history of violence that surrounds you\nBut I'm not scared\nThere's nothing to lose now that I've found you\nAnd we could cruise to the news\nPico Boulevard in your used\nLittle bullet car, if we choose\nMr. Born-to-Lose\nYou might also like[Chorus]\nOur honeymoon\nOur honeymoon\nOur honeymoon\nSay you want me, too\nSay you want me, too\nDark blue\nDark blue\n\n[Bridge]\nThere are violets in your eyes\nThere are guns that blaze around you\nThere are roses in between my thighs\nFire that surrounds you\nIt's no wonder every man in town\nHad neither fought nor found you\nEverything you do is elusive, too\nEven your honey dew\n\n[Chorus]\nOur honeymoon\nOur honeymoon\nOur honeymoon\nDo-do-do-do-do-do-do, da-da-da\nDo-do-do-do-do-do-do, da-da-da\nDo-do-do-do-do-do-do, da-da-da-da-da\n[Outro]\nDreaming away your life\nDreaming away your life\nDreaming away your life, mmm\nDreaming away your life\nDreaming away your life\nDreaming away your life, mmm100Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/2129909",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Music to Watch Boys To by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/c8f459b42eda58a59e539d437e67ad18.300x152x1.png",
+    "header_image_url": "https://images.genius.com/c8f459b42eda58a59e539d437e67ad18.815x414x1.png",
+    "id": 2129909,
+    "instrumental": false,
+    "lyrics_owner_id": 672397,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1664047920,
+    "path": "/Lana-del-rey-music-to-watch-boys-to-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 41,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-music-to-watch-boys-to-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 11
+    },
+    "release_date_for_display": "September 11, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 11, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/55e1a7aa2323d94fef0538c76d68aa38.300x299x1.jpg",
+    "song_art_image_url": "https://images.genius.com/55e1a7aa2323d94fef0538c76d68aa38.396x395x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 389341
+    },
+    "title": "Music to Watch Boys To",
+    "title_with_featured": "Music to Watch Boys To",
+    "updated_by_human_at": 1721524149,
+    "url": "https://genius.com/Lana-del-rey-music-to-watch-boys-to-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "76 ContributorsTranslationsEspa\u00f1olItalianoFran\u00e7aisPolskiPortugu\u00easT\u00fcrk\u00e7eDeutschMusic to Watch Boys To Lyrics[Chorus]\n(I like you a lot)\nPutting on my music while I'm watching the boys\n(So I do what you want)\nSinging soft grunge just to soak up the noise\n(With ribbons in knots)\nPlay 'em like guitars, only one of my toys\n('Cause I like you a lot)\nNo holds barred, I was sent to destroy, yeah\n\n[Verse 1]\nPink flamingos\nAlways fascinated me\nI know what only the girls know\nHoes with lies akin to me\n\n[Pre-Chorus]\nI, I see you're going\nSo I play my music, watch you leave\n\n[Chorus]\n(I like you a lot)\nPutting on my music while I'm watching the boys\n(So I do what you want)\nSinging soft grunge just to soak up the noise\n(With ribbons in knots)\nPlay 'em like guitars, only one of my toys\n('Cause I like you a lot)\nNo holds barred, I was sent to destroy, yeah\nYou might also like[Verse 2]\nVelveteen and living single\nIt never felt that right to me\nI know what only the girls know\nLies can buy eternity\n\n[Pre-Chorus]\nI, I see you leaving\nSo I push record and watch you leave\n\n[Chorus]\n(I like you a lot)\nPutting on my music while I'm watching the boys\n(So I do what you want)\nSinging soft grunge just to soak up the noise\n(With ribbons in knots)\nPlay 'em like guitars, only one of my toys\n('Cause I like you a lot)\nNo holds barred, I was sent to destroy, yeah\n\n[Bridge]\nI live to love you and I love to love you\nAnd I live to love you, boy\nI live to love you and I love to love you\nAnd I live to love you, boy\nNothing gold can stay\nLike love or lemonade\nOr sun or summer days\nIt's all a game to me anyway\n[Chorus]\n(I like you a lot)\nPutting on my music while I'm watching the boys\n(So I do what you want)\nSinging soft grunge just to soak up the noise\n(With ribbons in knots)\nPlay 'em like guitars, only one of my toys\n('Cause I like you a lot)\nNo holds barred, I was sent to destroy, yeah\n\n[Outro]\nPutting on my music while I'm watching the boys\nPutting on my music while I'm watching the boys41Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/2286540",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Terrence Loves You by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/a575790282836115a0ebeb8c786c3c59.300x300x1.png",
+    "header_image_url": "https://images.genius.com/a575790282836115a0ebeb8c786c3c59.1000x1000x1.png",
+    "id": 2286540,
+    "instrumental": false,
+    "lyrics_owner_id": 672397,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1684517650,
+    "path": "/Lana-del-rey-terrence-loves-you-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 56,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-terrence-loves-you-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 8,
+     "day": 21
+    },
+    "release_date_for_display": "August 21, 2015",
+    "release_date_with_abbreviated_month_for_display": "Aug. 21, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/14a606131e2783aefca3157547a037c4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/14a606131e2783aefca3157547a037c4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 355919
+    },
+    "title": "Terrence Loves You",
+    "title_with_featured": "Terrence Loves You",
+    "updated_by_human_at": 1720875255,
+    "url": "https://genius.com/Lana-del-rey-terrence-loves-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "65 ContributorsTranslationsFran\u00e7aisItalianoEspa\u00f1olPolskiPortugu\u00easT\u00fcrk\u00e7eDeutschTerrence Loves You Lyrics[Verse 1]\nYou are what you are\nI don't matter to anyone\nBut Hollywood legends\nWill never grow old\nAnd though our love was hidden\nWell, it will never grow cold\n\n[Chorus]\nBut I lost myself when I lost you\nBut I still got jazz when I've got those blues\nAnd I lost myself when I lost you\nAnd I still get trashed, darling, when I hear your tunes\n\n[Verse 2]\nBut you are who you are\nI won't change you for anything\nFor when you are crazy\nI'll let you be bad\nI'll never dare change thee\nTo what you are not\n\n[Chorus]\nBut I lost myself when I lost you\nBut I still got jazz when I've got those blues\nI lost myself and I lost you, too\nAnd I still get trashed, baby, when I hear your tunes\nYou might also like[Bridge]\nI put the radio on, hold you tight in my mind\nIsn't strange that you're not here with me\nI'm putting all the lights on and the television\nTrying to transmit, can you hear me?\nGround control to Major Tom\nCan you hear me all night long?\nGround control to Major Tom\n\n[Chorus]\nWell, I lost myself when I lost you\nBut I still got jazz when I've got the blues\nI lost myself and I lost you, too\nAnd I still get trashed, honey, when I hear your tunes\n\n[Outro]\nMmm, mmm, mmm-mmm-mmm\nMmm, mmm-mmm-mmm56Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/2286553",
+    "artist_names": "Lana Del Rey",
+    "full_title": "God Knows I Tried by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/88269d930103ec11c113981ef6301c30.300x169x1.jpg",
+    "header_image_url": "https://images.genius.com/88269d930103ec11c113981ef6301c30.1000x563x1.jpg",
+    "id": 2286553,
+    "instrumental": false,
+    "lyrics_owner_id": 213070,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1704564545,
+    "path": "/Lana-del-rey-god-knows-i-tried-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 22,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-god-knows-i-tried-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 18
+    },
+    "release_date_for_display": "September 18, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0394d4a63d97c8242b033c96f52b6e7c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0394d4a63d97c8242b033c96f52b6e7c.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 265688
+    },
+    "title": "God Knows I Tried",
+    "title_with_featured": "God Knows I Tried",
+    "updated_by_human_at": 1720875257,
+    "url": "https://genius.com/Lana-del-rey-god-knows-i-tried-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "66 ContributorsTranslationsFran\u00e7aisItalianoT\u00fcrk\u00e7eEspa\u00f1olPolskiPortugu\u00easT\u00fcrk\u00e7eDeutschGod Knows I Tried Lyrics[Verse 1]\nSometimes, I wake up in the morning\nTo red, blue, and yellow skies\nIt's so crazy, I could drink it like tequila sunrise\n\n[Pre-Chorus]\nPut on that \"Hotel California\"\nDance around like I'm insane\nI feel free when I see no one\nAnd nobody knows my name\n\n[Chorus]\nGod knows I lived\nGod knows I died\nGod knows I begged\nBegged, borrowed, and cried\nGod knows I loved\nGod knows I lied\nGod knows I lost\nGod gave me life\nAnd God knows I tried\nGod knows I tried\nGod knows I tried\nGod knows I tried\n\n[Verse 2]\nSometimes, I wake up in the morning\nTo red, blue, and yellow lights\nOn Monday, they destroy me\nBut, by Friday, I'm revived\nYou might also like[Pre-Chorus]\nPut on that \"Hotel California\"\nWear my blinders in the rain\nI've got nothing much to live for\nEver since I found my fame\n\n[Chorus]\nGod knows I lived\nGod knows I died\nGod knows I loved\nGod knows I lied\nGod knows I begged\nBegged, borrowed, and cried\nGod knows I lost\nGod gave me life\nAnd God knows I tried\nGod knows I tried\nGod knows I tried\nGod knows I tried\n\n[Bridge]\nSo let there be light\nLet there be light\nLight up my life\nLight up my life\nLet there be light\nLet there be light\nLight up my life\nLight up my life\n[Outro]\nAnd God knows I tried\nGod knows I tried\nGod knows I tried\nGod knows I tried\nGod knows I tried\nGod knows I tried\nGod knows I tried\nGod knows I tried22Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/2276865",
+    "artist_names": "Lana Del Rey",
+    "full_title": "High By The Beach by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/61308596606af0f9e049cf8af2140542.300x111x1.jpg",
+    "header_image_url": "https://images.genius.com/61308596606af0f9e049cf8af2140542.851x315x1.jpg",
+    "id": 2276865,
+    "instrumental": false,
+    "lyrics_owner_id": 672397,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1664049709,
+    "path": "/Lana-del-rey-high-by-the-beach-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 303,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-high-by-the-beach-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 8,
+     "day": 10
+    },
+    "release_date_for_display": "August 10, 2015",
+    "release_date_with_abbreviated_month_for_display": "Aug. 10, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/03e1cdfebcd384ea2fb7004e90346aeb.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/03e1cdfebcd384ea2fb7004e90346aeb.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 904617
+    },
+    "title": "High By The Beach",
+    "title_with_featured": "High By The Beach",
+    "updated_by_human_at": 1725279658,
+    "url": "https://genius.com/Lana-del-rey-high-by-the-beach-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "105 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olFran\u00e7aisItalianoPolskiPortugu\u00easDeutschHigh By The Beach Lyrics[Intro]\nHigh, high\nHigh, high\n\n[Verse 1]\nBoy, look at you lookin' at me\nI know you know how I feel\nLovin' you is hard, bein' here's harder\nYou take the wheel\nI don't wanna do this anymore\nIt's so surreal\nI can't survive\nIf this is all that's real\n\n[Chorus]\nAll I wanna do is get high by the beach\nGet high by the beach, get high\nAll I wanna do is get by by the beach\nGet by, baby, baby, bye-bye\nThe truth is I never bought into your bullshit\nWhen you would pay tribute to me 'cause I know that\nAll I wanted to do was get high by the beach\nGet high, baby, baby, bye-bye\n\n[Verse 2]\nBoy, look at you lookin' at me\nI know you don't understand\nYou could be a bad motherfucker\nBut that don't make you a man\nNow you're just another one of my problems\nBecause you got out of hand\nWe won't survive\nWe're sinkin' into the sand\nYou might also like[Chorus]\nAll I wanna do is get high by the beach\nGet high by the beach, get high\nAll I wanna do is get by by the beach\nGet by, baby, baby, bye-bye\nThe truth is I never bought into your bullshit\nWhen you would pay tribute to me 'cause I know that\nAll I wanted to do was get high by the beach\nGet high, baby, baby, bye-bye\n\n[Bridge]\nLights, camera, acci\u00f3n\nI'll do it on my own\nDon't need your money, money\nTo get me what I want\nLights, camera, acci\u00f3n\nI'll do it on my own\nDon't need your money, money\nTo get me what I want\n\n[Chorus]\nAll I wanna do is get high by the beach\nGet high by the beach, get high\nAll I wanna do is get by by the beach\nGet by, baby, baby, bye-bye\nThe truth is I never bought into your bullshit\nWhen you would pay tribute to me 'cause I know that\nAll I wanted to do was get high by the beach\nGet high, baby, baby, bye-bye\n[Break]\nHigh\nHigh\nHigh\nHigh\n\n[Outro]\nAnyone can start again\nNot through love, but through revenge\nThrough the fire, we're born again\nPeace by vengeance brings the end303Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/2286555",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Freak by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.300x300x1.png",
+    "header_image_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.1000x1000x1.png",
+    "id": 2286555,
+    "instrumental": false,
+    "lyrics_owner_id": 868038,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719837232,
+    "path": "/Lana-del-rey-freak-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 36,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-freak-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 18
+    },
+    "release_date_for_display": "September 18, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 363860
+    },
+    "title": "Freak",
+    "title_with_featured": "Freak",
+    "updated_by_human_at": 1720875260,
+    "url": "https://genius.com/Lana-del-rey-freak-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "67 ContributorsTranslationsEspa\u00f1olItalianoFran\u00e7aisPolskiPortugu\u00easT\u00fcrk\u00e7eDeutschFreak Lyrics[Verse 1]\nFlames so hot that they turn blue\nPalms reflecting in your eyes\nLike an endless summer\nThat's the way I feel for you\nIf time stood still, I'd take this moment, make it last forever\n\n[Pre-Chorus]\nYour halo's full of fire\nI'm rising up, rising up\nMy hot love's full of fire\nLove's full of fire\nLa, ah\n[Chorus]\nBaby, if you wanna leave, come to California\nBe a freak like me, too\nScrew your anonymity, loving me is all you need\nTo feel like I do\nWe could slow dance to rock music, kiss while we do it\nTalk 'til we both turn blue\nBaby, if you wanna leave, come to California\nBe a freak like me, too\n\n[Verse 2]\nLeather black and eyes of blue (Blue, blue, blue)\nSun reflecting in your eyes\nLike an easy rider\nLife makes sense when I'm with you\nLooking back, my past\nIt all seems stranger than a stranger\nYou might also like[Pre-Chorus]\nSo let's dance in slow motion\nTear it up, tear it up\nAnd let's dance by the ocean\nAh, ah\n\n[Chorus]\nBaby, if you wanna leave, come to California (Hmm-hmm-mmm-mmm)\nBe a freak like me, too\nScrew your anonymity, loving me is all you need (Hmm-hmm-mmm-mmm)\nTo feel like I do\nWe could slow dance to rock music, kiss while we do it\nTalk 'til we both turn blue\nBaby, if you wanna leave, come to California (Hmm-hmm-mmm-mmm)\nBe a freak like me, too\n\n[Bridge]\nOoh-ooh\nYou're cold as ice, baby\nBut when you're nice, baby\nYou're so amazing in every way\nOoh-ooh\nYou're cold as ice, baby\nI don't wanna fight, baby\nIt's like I told you\nIf you stay, I'll stay (yeah)\n[Chorus]\nBaby, if you wanna leave, come to California (Hmm-hmm-mmm-mmm)\nBe a freak like me, too\n(Take it to the back if you really wanna talk)\nScrew your anonymity, loving me is all you need\nTo feel like I do\n(Take it to the back if you really wanna talk)\nWe could slow dance to rock music, kiss while we do it\nTalk 'til we both turn blue\nBaby, if you wanna leave, come to California (Hmm-hmm-mmm-mmm)\nBe a freak like me, too\n\n[Outro]\nHmm-hmm-mmm-mmm36Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/2286552",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Art Deco by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.300x300x1.png",
+    "header_image_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.1000x1000x1.png",
+    "id": 2286552,
+    "instrumental": false,
+    "lyrics_owner_id": 213070,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721510130,
+    "path": "/Lana-del-rey-art-deco-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 31,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-art-deco-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 18
+    },
+    "release_date_for_display": "September 18, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 432468
+    },
+    "title": "Art Deco",
+    "title_with_featured": "Art Deco",
+    "updated_by_human_at": 1721501122,
+    "url": "https://genius.com/Lana-del-rey-art-deco-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "80 ContributorsTranslationsFran\u00e7aisEspa\u00f1olItalianoPolskiPortugu\u00easT\u00fcrk\u00e7eDeutschRom\u00e2n\u0103Art Deco Lyrics[Verse 1]\nClub queen on the downtown scene\nProwling around at night\nYou're not mean, you're just born to be seen\nBorn to be wild\nA little party never hurt no one, that's why it's alright\nYou want in but you just can't win\nSo you hang in the lights\n\n[Chorus]\nYou're so Art Deco out on the floor\nShining like gunmetal, cold and unsure\nBaby, you're so ghetto, you're looking to score\nWhen they all say hello, you try to ignore them\n\n[Post-Chorus]\n'Cause you want more (Why?)\nYou want more (Why?)\nYou want more (Why?)\n'Cause you want more\n\n[Verse 2]\nYoung thing on the downtown scene\nRolling around at night\nGot things that have yet to be seen\nLike your rapper's delight\nA little party never hurt no one, that's why it's alright\nYou want in, but you just can't win\nSo you stay in the lights\nYou might also like[Chorus]\nYou're so Art Deco out on the floor\nShining like gunmetal, cold and unsure\nBaby, you're so ghetto, you're looking to score\nWhen they all say hello, you try to ignore them\n\n[Post-Chorus]\n'Cause you want more (Why?)\nYou want more (Why?)\nYou want more (Why?)\n'Cause you want more\n\n[Bridge]\nA little party never hurt no one\nSo you stay out late\nA little party never hurt no one\nThat's what your friends say\nYou put your life out on the line\nYou're crazy all the time\nPut your life out on the line\nYou're crazy all the time\n\n[Chorus]\nYou're so Art Deco out on the floor\nShining like gunmetal, cold and unsure\nBaby, you're so ghetto, you're looking to score\nWhen they all say hello, you try to ignore them\n[Post-Chorus]\n'Cause you want more (Why?)\nYou want more (Why?)\nYou want more (Why?)\n'Cause you want more\n\n[Outro]\nA little party never hurt no one\nNot you and me\nA little party never hurt no one\nWe were born to be free31Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/2286564",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Burnt Norton (Interlude) by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/88269d930103ec11c113981ef6301c30.300x169x1.jpg",
+    "header_image_url": "https://images.genius.com/88269d930103ec11c113981ef6301c30.1000x563x1.jpg",
+    "id": 2286564,
+    "instrumental": false,
+    "lyrics_owner_id": 672397,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1563296936,
+    "path": "/Lana-del-rey-burnt-norton-interlude-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 22,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-burnt-norton-interlude-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 18
+    },
+    "release_date_for_display": "September 18, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0394d4a63d97c8242b033c96f52b6e7c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0394d4a63d97c8242b033c96f52b6e7c.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 126281
+    },
+    "title": "Burnt Norton (Interlude)",
+    "title_with_featured": "Burnt Norton (Interlude)",
+    "updated_by_human_at": 1720875263,
+    "url": "https://genius.com/Lana-del-rey-burnt-norton-interlude-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "30 ContributorsTranslationsFran\u00e7aisItalianoPolskiEspa\u00f1olT\u00fcrk\u00e7eDeutschBurnt Norton (Interlude) Lyrics[Interlude]\nTime present and time past\nAre both perhaps present in time future\nAnd time future contained in time past\nIf all time is eternally present\nAll time is unredeemable\nWhat might have been is an abstraction\nRemaining a perpetual possibility\nOnly in a world of speculation\nWhat might have been and what has been\nPoint to one end, which is always present\nFootfalls echo in the memory\nDown the passage which we did not take\nTowards the door we never opened\nInto the rose-gardenYou might also like22Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/2304010",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Religion by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/88269d930103ec11c113981ef6301c30.300x169x1.jpg",
+    "header_image_url": "https://images.genius.com/88269d930103ec11c113981ef6301c30.1000x563x1.jpg",
+    "id": 2304010,
+    "instrumental": false,
+    "lyrics_owner_id": 213070,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722263657,
+    "path": "/Lana-del-rey-religion-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 22,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-religion-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 18
+    },
+    "release_date_for_display": "September 18, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0394d4a63d97c8242b033c96f52b6e7c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0394d4a63d97c8242b033c96f52b6e7c.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 272796
+    },
+    "title": "Religion",
+    "title_with_featured": "Religion",
+    "updated_by_human_at": 1722263657,
+    "url": "https://genius.com/Lana-del-rey-religion-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "63 ContributorsTranslationsFran\u00e7aisEspa\u00f1olItalianoPolskiT\u00fcrk\u00e7eDeutschReligion Lyrics[Verse 1]\nEverything is fine now\nLet sleeping dogs lay\nAll our minds made up now\nAll our beds are made\nNo one's out of time, no\nChips fall wherever they may\nLeave it all behind\nLet the ocean wash away\n\n[Pre-Chorus]\nIt never was about the money or the drugs\nFor you, there's only love\nFor you, there's only love\nIt never was about the party or the clubs\nFor you, there's only love\n\n[Chorus]\n'Cause you're my religion, you're how I'm living\nWhen all my friends say I should take some space\nWell, I can't envision that for a minute\nWhen I'm down on my knees, you're how I pray\n\n[Post-Chorus]\nHallelujah, I need your love\nHallelujah, I need your love\nYou might also like[Verse 2]\nEverything is bright now\nNo more cloudy days\nEven when the storms come\nIn thee, I will stay\nNo need to survive now\nAll we do is play\nAll I hear is music\nLike \"Lay Lady Lay\"\n\n[Pre-Chorus]\nIt never was about the money or the drugs\nWith you, there's only love\nWith you, there's only love\nIt never was about the party or the clubs\nFor you, there's only love\n\n[Chorus]\n'Cause you're my religion, you're how I'm living\nWhen all my friends say I should take some space\nWell, I can't envision that for a minute\nWhen I'm down on my knees, you're how I pray\n\n[Post-Chorus]\nHallelujah, I need your love\nHallelujah, I need your love\n[Chorus]\nYou're my religion, you're how I'm living\nWhen all my friends say I should take some space\nWell, I can't envision that for a minute\nWhen I'm down on my knees, you're how I pray\n\n[Post-Chorus]\nHallelujah, I need your love\nHallelujah, I need your love22Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/2304017",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Salvatore by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.300x300x1.png",
+    "header_image_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.1000x1000x1.png",
+    "id": 2304017,
+    "instrumental": false,
+    "lyrics_owner_id": 672397,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1697737888,
+    "path": "/Lana-del-rey-salvatore-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 44,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-salvatore-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 18
+    },
+    "release_date_for_display": "September 18, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 578428
+    },
+    "title": "Salvatore",
+    "title_with_featured": "Salvatore",
+    "updated_by_human_at": 1725279523,
+    "url": "https://genius.com/Lana-del-rey-salvatore-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "119 ContributorsTranslationsFran\u00e7aisEspa\u00f1olItalianoPolski\u0641\u0627\u0631\u0633\u06ccT\u00fcrk\u00e7eDeutschSalvatore Lyrics[Verse 1]\nAll the lights in Miami begin to gleam\nRuby, blue and green, neon too\nEverything looks better from above, my king\nLike aquamarine, ocean's blue\n\n[Chorus]\nAh-ah-ah-ah, ah-ah-ah-ah-ah\nCacciatore\nLa-da-da-da-da, la-da-da-da-da\nLimousines\nAh-ah-ah-ah, ah-ah-ah-ah-ah\nCiao, amore\nLa-da-da-da-da, la-da-da-da-da\nSoft ice cream\n\n[Verse 2]\nAll the lights are sparkling for you it seems\nOn the downtown scenes, shady blue\nBeatboxing and rapping in the summer rain\nLike a boss, you sang jazz and blues\n\n[Chorus]\nAh-ah-ah-ah, ah-ah-ah-ah-ah\nCacciatore\nLa-da-da-da-da, la-da-da-da-da\nLimousines\nAh-ah-ah-ah, ah-ah-ah-ah-ah\nCiao, amore\nLa-da-da-da-da, la-da-da-da-da\nSoft ice creams\nYou might also like[Verse 3]\nThe summer's wild and I've been waiting for you all this time\nI adore you, can't you see you're meant for me?\nThe summer's hot but I've been cold without you\nI was so wrong not to doubt your Medell\u00edn, tangerine dreams\n\n[Bridge]\nCatch me if you can, working on my tan\nSalvatore\nDying by the hand of a foreign man happily\nCalling out my name in the summer rain\nCiao, amore\nSalvatore can wait\nNow it's time to eat soft ice cream\n\n[Chorus]\nAh-ah-ah-ah, ah-ah-ah-ah-ah\nCacciatore\nAh-ah-ah-ah, ah-ah-ah-ah-ah\nLimousines\nAh-ah-ah-ah, ah-ah-ah-ah\nCiao amore\nAh-ah-ah-ah, ah-ah-ah-ah-ah\nSoft ice cream44Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/2286559",
+    "artist_names": "Lana Del Rey",
+    "full_title": "The Blackest Day by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/88269d930103ec11c113981ef6301c30.300x169x1.jpg",
+    "header_image_url": "https://images.genius.com/88269d930103ec11c113981ef6301c30.1000x563x1.jpg",
+    "id": 2286559,
+    "instrumental": false,
+    "lyrics_owner_id": 213070,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719013504,
+    "path": "/Lana-del-rey-the-blackest-day-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 43,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-the-blackest-day-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 18
+    },
+    "release_date_for_display": "September 18, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0394d4a63d97c8242b033c96f52b6e7c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0394d4a63d97c8242b033c96f52b6e7c.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 11,
+     "hot": false,
+     "pageviews": 372860
+    },
+    "title": "The Blackest Day",
+    "title_with_featured": "The Blackest Day",
+    "updated_by_human_at": 1720875267,
+    "url": "https://genius.com/Lana-del-rey-the-blackest-day-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "79 ContributorsTranslationsFran\u00e7aisEspa\u00f1olItalianoPolskiT\u00fcrk\u00e7eDeutschThe Blackest Day Lyrics[Verse 1]\nCarry me home, got my blue nail polish on\nIt's my favorite color and my favorite tone of song\n\"I don't really wanna break up, we got it going on\"\nIt's what you gathered from my talk, but you were wrong\n\n[Pre-Chorus 1]\nIt's not easy for me to talk about\nI have heavy heartstrings\nI'm not simple, it's trigonometry\nIt's hard to express\nI can't explain\n\n[Chorus]\nEver since my baby went away\nIt's been the blackest day\nIt's been the blackest day\nAll I hear is Billie Holiday\nIt's all that I play\nIt's all that I play\n\n[Post-Chorus]\nBecause I'm going deeper and deeper (Deeper)\nHarder and harder (Harder)\nGetting darker and darker\nLooking for love\nIn all the wrong places\nOh my God\nIn all the wrong places\nOh my God\nYou might also like[Verse 2]\nCarry me home, got my new car and my gun\nWind in my hair, holding your hand, listenin' to our song\nCarry me home, don't wanna talk about the things to come\nJust put your hands up in the air, the radio on\n\n[Pre-Chorus 2]\n'Cause there's nothing for us to talk about\nLike the future and those things\n'Cause there's nothing for me to think about\nNow that he's gone, I can't feel nothing\n\n[Chorus]\nEver since my baby went away\nIt's been the blackest day\nIt's been the blackest day\nAll I hear is Billie Holiday\nIt's all that I play\nIt's all that I play\n\n[Post-Chorus]\nBecause I'm going deeper and deeper (Deeper)\nHarder and harder (Harder)\nGetting darker and darker\nLooking for love\nIn all the wrong places\nOh, my God\nIn all the wrong places\nOh, my God\n[Bridge]\nYou should've known better\nThan to have, to let her\nGet you under her spell of the weather\nI got you where I want you\nYou're deader than ever\nAnd falling for forever\nI'm playing head games with you\nGot you where I want you\nI got you, I got you\nI got you where I want you now\n\n[Chorus]\nEver since my baby went away\nIt's been the blackest day\nIt's been the blackest day\nAnd all I hear is Billie Holiday\nIt's all that I play\nIt's all that I play\n\n[Outro]\nIt's not one of those phases I'm going through\nOr just a song, it's not one of them\nI'm on my own\nOn my own\nOn my own again\nI'm on my own again\nI'm on my own again\nI'm on my own again\nI'm on my own again43Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/2286561",
+    "artist_names": "Lana Del Rey",
+    "full_title": "24 by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.300x300x1.png",
+    "header_image_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.1000x1000x1.png",
+    "id": 2286561,
+    "instrumental": false,
+    "lyrics_owner_id": 213070,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1716229707,
+    "path": "/Lana-del-rey-24-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 13,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-24-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 18
+    },
+    "release_date_for_display": "September 18, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/e18c20526b8fea8446f8bd6e1db92f27.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 163138
+    },
+    "title": "24",
+    "title_with_featured": "24",
+    "updated_by_human_at": 1720875269,
+    "url": "https://genius.com/Lana-del-rey-24-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "45 ContributorsTranslationsFran\u00e7aisEspa\u00f1olItalianoPolskiT\u00fcrk\u00e7eDeutsch\u0420\u0443\u0441\u0441\u043a\u0438\u043924 Lyrics[Verse 1]\nThere's only twenty-four hours in a day\nAnd half as many ways for you to lie to me, my little love\nThere's only twenty-four hours in a day\nAnd half of those, you lay awake\nWith thoughts of murder and carnage\n\n[Pre-Chorus]\nIf you lie down with dogs, then you'll get fleas\nBe careful of the company you keep\n\n[Chorus]\nThere's only twenty-four hours\nAnd that's not enough\nTo lie like you lie\nOr love like you love\n\n[Post-Chorus]\nHmm, hmm\nHmm, hmm\n\n[Verse 2]\nThere's only twenty-four hours in a day\nAnd half of those you lay\nBetween the sheets with me, my lying love\nThere's only twenty-four hours, so you'd say\nFor most of them you pay\nFor all the things they paid you for, my love\nYou might also like[Pre-Chorus]\nIf you lie down with dogs, then you'll get fleas\nBe careful of the ones you choose to leave\n\n[Chorus]\nThere's only twenty-four hours\nAnd that's not enough\nTo lie like you lie\nOr love like you love\n\n[Post-Chorus]\nHmm, hmm\nHmm, hmm\n\n[Bridge]\nGive me your heat\nGive me your diamonds\nYou hit that street\nAnd my crooked words\nYou count to three\nWhile they're all dying\nYou're hard to reach\nYou're cold to touch\n\n[Outro]\nLa-da-da-da-da-da\nLa-da-da-da-da-da\nLa-da-da-di-da-da-da13Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/2286563",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Swan Song by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/88269d930103ec11c113981ef6301c30.300x169x1.jpg",
+    "header_image_url": "https://images.genius.com/88269d930103ec11c113981ef6301c30.1000x563x1.jpg",
+    "id": 2286563,
+    "instrumental": false,
+    "lyrics_owner_id": 213070,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1692041551,
+    "path": "/Lana-del-rey-swan-song-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 20,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-swan-song-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 18
+    },
+    "release_date_for_display": "September 18, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0394d4a63d97c8242b033c96f52b6e7c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0394d4a63d97c8242b033c96f52b6e7c.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 215115
+    },
+    "title": "Swan Song",
+    "title_with_featured": "Swan Song",
+    "updated_by_human_at": 1720875271,
+    "url": "https://genius.com/Lana-del-rey-swan-song-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "68 ContributorsTranslationsFran\u00e7aisItalianoEspa\u00f1olPolskiT\u00fcrk\u00e7eDeutschSwan Song Lyrics[Verse 1]\nPut your white tennis shoes on and follow me\nWhy work so hard when you could just be free?\nYou got your money now, you got your legacy\nLet's leave the world for the ones who change everything\n\n[Pre-Chorus]\nNothing could stop\nThe two of us\nLet's just get lost\nThat's what we want\n\n[Chorus]\nAnd I will never sing again\nAnd you won't work another day\nI will never sing again\nWith just one wave, it goes away\nIt will be our swan song\nIt will be our swan song\nBe our swan song\nIt will be our swan song\n\n[Verse 2]\nDive in, dive deep and dive blue, my sweet\nRushing up from the water where the ice meets\nAnd you've been gone so long, you missed everything\nThe world can change in a day if you go away\nYou might also like[Pre-Chorus]\nBut nothing could stop\nThe two of us\nIf that's what we want\nWe could just get lost\n\n[Chorus]\nAnd I will never sing again\nAnd you won't work another day\nI will never sing again\nWith just one wave, it goes away\nIt will be our swan song\nIt will be our swan song\nBe our swan song\nIt will be our swan song\n\n[Bridge]\nDo you like\nDo you like where you've been and where you're going to?\n(Going to)\nSay goodnight\nSay goodnight to the life and the world you knew\nI'm gonna follow you\n\n[Chorus]\nAnd I will never sing again\nAnd you won't work another day\nAnd I will never sing again\nYou won't work another day\nIt will be our swan song\nIt will be our swan song\nBe our swan song\nIt will be our swan song\n[Outro]\nPut your white tennis shoes on and follow me\nPut your white tennis shoes on and follow me\nPut your white tennis shoes on and follow me\nWhy you work so hard when you could just be free?20Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/2136075",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Don't Let Me Be Misunderstood by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/e69b7b5710aa11d435d5ad63cccc770e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/e69b7b5710aa11d435d5ad63cccc770e.670x670x1.jpg",
+    "id": 2136075,
+    "instrumental": false,
+    "lyrics_owner_id": 240527,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723356458,
+    "path": "/Lana-del-rey-dont-let-me-be-misunderstood-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 12,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-dont-let-me-be-misunderstood-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 9,
+     "day": 18
+    },
+    "release_date_for_display": "September 18, 2015",
+    "release_date_with_abbreviated_month_for_display": "Sep. 18, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/003a44ef794b7614df44c090f9b6f7f9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/003a44ef794b7614df44c090f9b6f7f9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 130039
+    },
+    "title": "Don\u2019t Let Me Be Misunderstood",
+    "title_with_featured": "Don't Let Me Be Misunderstood",
+    "updated_by_human_at": 1723800757,
+    "url": "https://genius.com/Lana-del-rey-dont-let-me-be-misunderstood-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "33 ContributorsTranslationsItalianoFran\u00e7aisPolskiEspa\u00f1olT\u00fcrk\u00e7eDeutschDon\u2019t Let Me Be Misunderstood Lyrics[Verse 1]\nBaby, you understand me now\nIf sometimes you see that I'm mad\nDon't you know no one alive can always be an angel?\nWhen everything goes wrong, you see some bad\n\n[Chorus]\nBut I'm just a soul whose intentions are good\nOh, Lord, please don't let me be misunderstood\n\n[Verse 2]\nYou know sometimes, baby, I'm so carefree\nWith a joy that's hard to hide\nAnd then sometimes again, it seems that all I have is worry\nAnd then you're bound to see my other side\n\n[Chorus]\nBut I'm just a soul whose intentions are good\nOh, Lord, please don't let me be misunderstood\n\n[Bridge]\nIf I seem edgy, I want you to know\nI never meant to take it out on you\nLife has its problems and I get more than my share\nBut that's one thing I never mean to do 'cause I love you\nYou might also like[Verse 3]\nOh, baby, I'm just human\nDon't you know I have faults like anyone?\nSometimes I find myself alone regretting some little foolish thing\nYeah, some simple thing that I've done\n\n[Chorus]\n'Cause I'm just a soul whose intentions are good\nOh, Lord, please don't let me be misunderstood\n\n[Outro]\nI try so hard, don't let me be misunderstood\nI try so hard, don't let me be misunderstood12Embed"
+   }
+  }
+ ]
+}

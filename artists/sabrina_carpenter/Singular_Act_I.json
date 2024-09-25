@@ -1,0 +1,640 @@
+{
+ "_type": "album",
+ "api_path": "/albums/352892",
+ "cover_art_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+ "full_title": "Singular: Act I by Sabrina Carpenter",
+ "id": 352892,
+ "name": "Singular: Act I",
+ "name_with_artist": "Singular: Act I (artist: Sabrina Carpenter)",
+ "primary_artist_names": "Sabrina Carpenter",
+ "release_date_components": {
+  "year": 2018,
+  "month": 11,
+  "day": 9
+ },
+ "release_date_for_display": "November 9, 2018",
+ "url": "https://genius.com/albums/Sabrina-carpenter/Singular-act-i",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/249592",
+  "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+  "id": 249592,
+  "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Sabrina Carpenter",
+  "slug": "Sabrina-carpenter",
+  "url": "https://genius.com/artists/Sabrina-carpenter",
+  "iq": 2353
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/249592",
+   "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+   "id": 249592,
+   "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Sabrina Carpenter",
+   "slug": "Sabrina-carpenter",
+   "url": "https://genius.com/artists/Sabrina-carpenter",
+   "iq": 2353
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/3716668",
+    "artist_names": "Sabrina Carpenter",
+    "full_title": "Almost Love by\u00a0Sabrina\u00a0Carpenter",
+    "header_image_thumbnail_url": "https://images.genius.com/81b5872da83fb8e00d448c0f0a523121.300x300x1.png",
+    "header_image_url": "https://images.genius.com/81b5872da83fb8e00d448c0f0a523121.1000x1000x1.png",
+    "id": 3716668,
+    "instrumental": false,
+    "lyrics_owner_id": 2891574,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1705271231,
+    "path": "/Sabrina-carpenter-almost-love-lyrics",
+    "primary_artist_names": "Sabrina Carpenter",
+    "pyongs_count": 55,
+    "relationships_index_url": "https://genius.com/Sabrina-carpenter-almost-love-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 6,
+     "day": 6
+    },
+    "release_date_for_display": "June 6, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jun. 6, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/15ae4c9a566dec9845a3058cc72cb747.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/15ae4c9a566dec9845a3058cc72cb747.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 90907
+    },
+    "title": "Almost Love",
+    "title_with_featured": "Almost Love",
+    "updated_by_human_at": 1725223261,
+    "url": "https://genius.com/Sabrina-carpenter-almost-love-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/249592",
+     "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+     "id": 249592,
+     "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sabrina Carpenter",
+     "slug": "Sabrina-carpenter",
+     "url": "https://genius.com/artists/Sabrina-carpenter",
+     "iq": 2353
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/249592",
+      "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+      "id": 249592,
+      "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Sabrina Carpenter",
+      "slug": "Sabrina-carpenter",
+      "url": "https://genius.com/artists/Sabrina-carpenter",
+      "iq": 2353
+     }
+    ],
+    "artist": "Sabrina Carpenter",
+    "lyrics": "45 ContributorsTranslations\u0421\u0440\u043f\u0441\u043a\u0438Almost Love Lyrics[Intro]\nAh yeah, yeah, yeah\n\n[Verse 1]\nThe moment when the light is red before the go\nThe moment when the curtain's down before the show\nThe moment when you're done, but maybe just one more\nThat's how I feel before I get you all alone\n\n[Pre-Chorus]\nWe could give it a minute\nBut what's the fun in a minute?\nWhen we could push all the limits\nAh yeah, yeah, yeah, yeah\nShirt hanging off my shoulders\nBoth hands wanna hold ya\nSo baby, what's the hold up?\nYeah, yeah\n\n[Chorus]\nCan you feel the tension rising?\nNow you're, now you're getting it close\nNow you're, now you're getting it close\nAlmost love, it's almost love\nSpeed this up 'cause I'm excited\nNo more, no more taking it slow\nNo more, no more taking it slow\nAlmost love, it's almost love\nSee Sabrina Carpenter LiveGet tickets as low as $29You might also like[Post-Chorus]\nAlmost love\nAlmost love, but it could be love\nAlmost love\nAlmost love, but it could be love\nAlmost lo-lo-love\nAlmost love, but it could be love\nIt could be love\nIt could be, yeah\n\n[Verse 2]\nI want you like a midnight hour wants a view\nI want you like a loner wants an empty room\nI want you like a kiss that's long and overdue\nI need you more than I have ever needed you\n\n[Pre-Chorus]\nAnd we could give it a minute\nBut what's the fun in a minute?\nWhen we could push all the limits\nAh yeah, yeah, yeah, yeah\nShirt hanging off my shoulders\nBoth hands wanna hold ya\nSo baby, what's the hold up?\nYeah\n[Chorus]\nCan you feel the tension rising?\nNow you're, now you're getting it close\nNow you're, now you're getting it close\nAlmost love, it's almost love\nSpeed this up 'cause I'm excited\nNo more, no more taking it slow\nNo more, no more taking it slow\nAlmost love, it's almost love\n\n[Post-Chorus]\nAlmost love\nIt's almost love, but it could be love\nAlmost love\nAlmost love, but it could be love\nAlmost lo-lo-lo-lo-love\nAlmost love, but it could be love\nIt could be love\nIt could be, yeah, oh no\n\n[Bridge]\nWe could give it a minute\nBut what's the fun in a minute?\n\n[Chorus]\nCan you feel the tension rising?\nNow you're getting it so close\nNow you're getting this so close\nAlmost love, almost love\nOh, 'cause I'm excited\nNo more, no more taking it slow\nNo more, no more taking it slow\nIt's almost love\n[Post-Chorus]\nAlmost love, oh baby, oh\nIt's almost love, but it could be love\n'Cause it's almost love, but it could be love\nAlmost love and you know\nAlmost love\nBut it could be love\n'Cause it's almost love, but it could be love\nYeah, it could be love, eh55Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/3716865",
+    "artist_names": "Sabrina Carpenter",
+    "full_title": "Paris by\u00a0Sabrina\u00a0Carpenter",
+    "header_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "header_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "id": 3716865,
+    "instrumental": false,
+    "lyrics_owner_id": 2891574,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1700405879,
+    "path": "/Sabrina-carpenter-paris-lyrics",
+    "primary_artist_names": "Sabrina Carpenter",
+    "pyongs_count": 57,
+    "relationships_index_url": "https://genius.com/Sabrina-carpenter-paris-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 10,
+     "day": 25
+    },
+    "release_date_for_display": "October 25, 2018",
+    "release_date_with_abbreviated_month_for_display": "Oct. 25, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 88341
+    },
+    "title": "Paris",
+    "title_with_featured": "Paris",
+    "updated_by_human_at": 1725223275,
+    "url": "https://genius.com/Sabrina-carpenter-paris-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/249592",
+     "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+     "id": 249592,
+     "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sabrina Carpenter",
+     "slug": "Sabrina-carpenter",
+     "url": "https://genius.com/artists/Sabrina-carpenter",
+     "iq": 2353
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/249592",
+      "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+      "id": 249592,
+      "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Sabrina Carpenter",
+      "slug": "Sabrina-carpenter",
+      "url": "https://genius.com/artists/Sabrina-carpenter",
+      "iq": 2353
+     }
+    ],
+    "artist": "Sabrina Carpenter",
+    "lyrics": "64 ContributorsTranslationsItalianoSabrina Carpenter - Paris (Srpski Prevod)Paris Lyrics[Verse 1]\nIf I asked that boy to jump, I know he would\nHe don't even have to say, it's understood\nHe treat me nice, he treat me right, he treat me good\nStill I get so hesitant, still I get so hesitant\nSo I took myself where I think I should be\nSomething told me that it's waiting here for me\nParisian nights, Parisian high, Parisian breeze\nFeeding me like medicine, feeding me like medicine, yeah\n\n[Chorus]\nIt's so romantic in Paris\nWon't even try to compare it\nThought I was sure that I'd find it\nBut I already have love in L.A.\u00a0\nIt's so romantic in Paris\nWon't even try to compare it\nThought I was sure that I'd find it\nBut I already have love in L.A.\u00a0\nYeah, I already have love in L.A.\u00a0\n\n[Verse 2]\nIf you show me too much love, it makes me leave (Makes me leave)\nGuess that's one of many things that's wrong with me (That's wrong with me)\nLooking past you when you're right in front of me\nI won't do that anymore, I won't do that anymore (Anymore)\nWhy'd it take so long for me to know this? (Know this)\nScared to put the water with the roses (Roses)\nHalfway 'cross the world for me to notice\nBut I notice, yeah, I notice, yeah\nSee Sabrina Carpenter LiveGet tickets as low as $29You might also like[Chorus]\nIt's so romantic in Paris\nWon't even try to compare it\nThought I was sure that I'd find it\nBut I already have love in L.A.\u00a0\nIt's so romantic in Paris\nWon't even try to compare it\nThought I was sure that I'd find it\nBut I already have love in L.A.\u00a0\n\n[Bridge]\nJe ne voulais pas trouver l'amour\nMais Paris a quelque chose\nQui donne envie d'aimer, d'aimer passionn\u00e9ment\nMon c\u0153ur est \u00e0 toi pour toujours\nYou will always have my heart\n\n[Chorus]\nIt's so romantic in Paris\nWon't even try to compare it\nThought I was sure that I'd find it\nBut I already have love in L.A. (Already have love)\nIt's so romantic in Paris (So romantic in Paris)\nWon't even try to compare it (I know that I try)\nThought I was sure that I'd find it\nBut I already have love in L.A.\u00a0\nIt's so romantic in Paris, babe\nWon't even try to compare it (Won't even try, won't even try)\nThought I was sure that I'd find it (Thought I was sure, I was sure)\nBut I already have love in L.A.\u00a0\nBut I already have love in L.A.\u00a057Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/4037643",
+    "artist_names": "Sabrina Carpenter (Ft. UHMEER)",
+    "full_title": "Hold Tight by\u00a0Sabrina\u00a0Carpenter (Ft.\u00a0UHMEER)",
+    "header_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "header_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "id": 4037643,
+    "instrumental": false,
+    "lyrics_owner_id": 2891574,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1650130177,
+    "path": "/Sabrina-carpenter-hold-tight-lyrics",
+    "primary_artist_names": "Sabrina Carpenter",
+    "pyongs_count": 28,
+    "relationships_index_url": "https://genius.com/Sabrina-carpenter-hold-tight-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2018",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 42336
+    },
+    "title": "Hold Tight",
+    "title_with_featured": "Hold Tight (Ft.\u00a0UHMEER)",
+    "updated_by_human_at": 1725223753,
+    "url": "https://genius.com/Sabrina-carpenter-hold-tight-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1613667",
+      "header_image_url": "https://images.genius.com/bd14b29f4e23c271408c4676ae980d98.650x438x1.jpg",
+      "id": 1613667,
+      "image_url": "https://images.genius.com/660480989115c67df173b06b25b474a1.1000x1000x1.jpg",
+      "index_character": "u",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "UHMEER",
+      "slug": "Uhmeer",
+      "url": "https://genius.com/artists/Uhmeer"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/249592",
+     "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+     "id": 249592,
+     "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sabrina Carpenter",
+     "slug": "Sabrina-carpenter",
+     "url": "https://genius.com/artists/Sabrina-carpenter",
+     "iq": 2353
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/249592",
+      "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+      "id": 249592,
+      "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Sabrina Carpenter",
+      "slug": "Sabrina-carpenter",
+      "url": "https://genius.com/artists/Sabrina-carpenter",
+      "iq": 2353
+     }
+    ],
+    "artist": "Sabrina Carpenter",
+    "lyrics": "56 ContributorsTranslationsSabrina Carpenter -Hold Tight (Ft. UHMEER) (Srpski Prevod)Hold Tight Lyrics[Intro: Sabrina Carpenter]\nAh\n\n[Verse 1: Sabrina Carpenter]\nDone everything and done it again\nNot every party needs our attendance\n\n[Pre-Chorus: Sabrina Carpenter]\nDon't take this as complaining\nJust little rearrangements\nAll the nights that we've been takin'\nMaybe we could take one off\n\n[Chorus: Sabrina Carpenter]\nCould be in the canyons, probably in a mansion\nBut I like where my hands is, I just wanna hold tight\nAlways gotta go out, we don't ever slow down\nNot like we don't know how, I just wanna hold tight\nAh (I just wanna, I just wanna hold tight)\nAlways gotta go out, we don't ever slow down\nNot like we don't know how, I just wanna hold tight\n\n[Verse 2: Sabrina Carpenter]\nNot like I wanna keep you inside, yeah\nBut I was hoping we could switch up how we're spending our time\nSee Sabrina Carpenter LiveGet tickets as low as $29You might also like[Pre-Chorus: Sabrina Carpenter]\nDon't take this as complaining\nJust little rearrangements\nAll the nights that we've been takin'\nMaybe we could take one off\n\n[Chorus: Sabrina Carpenter]\nCould be in the canyons, probably in a mansion\nBut I like where my hands is, I just wanna hold tight\nAlways gotta go out, we don't ever slow down\nNot like we don't know how, I just wanna hold tight\nAh (I just wanna, I just wanna hold tight)\nAlways gotta go out, we don't ever slow down\nNot like we don't know how, I just wanna hold tight\n\n[Verse 3: UHMEER & Sabrina Carpenter]\nI just want that hand hold with the sweat in the middle\nRunning down to when I feel alone and the feeling gone, you can touch it a little\nHear me underneath the covers coloring your body, reading Braille\nTake you to Bahamas, seeping through the sand\nSucking on the silence, now I'm in your ear\nTelling you, baby, to listen, I just\nWanna keep you in, wanna keep you in right\nWanna feel your skin, wanna feel it on mine\nMaybe I been on the Internet forgetting how to keep it slow\nBut no, I need it bitty bad bone Bonnie Clyde, come and get it\nI don't know, I get it, get it, I get it, oh\n[Chorus: Sabrina Carpenter]\nCould be in the canyons, probably in a mansion\nBut I like where my hands is, I just wanna hold tight\nAlways gotta go out (Gotta go out), we don't ever slow down\n(Gotta slow down, down)\nNot like we don't know how, I just wanna hold tight\nAh (We keep going, we going)\n(I just wanna, I just wanna hold tight)\nAlways gotta go out (Always gotta go out), we don't ever slow down\n(Gotta slow down)\nNot like we don't know how, I just wanna hold tight28Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/4037526",
+    "artist_names": "Sabrina Carpenter",
+    "full_title": "Sue Me by\u00a0Sabrina\u00a0Carpenter",
+    "header_image_thumbnail_url": "https://images.genius.com/fa24713e20f6277b97f4dfaa580656fe.300x300x1.png",
+    "header_image_url": "https://images.genius.com/fa24713e20f6277b97f4dfaa580656fe.900x900x1.png",
+    "id": 4037526,
+    "instrumental": false,
+    "lyrics_owner_id": 3551625,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1681337541,
+    "path": "/Sabrina-carpenter-sue-me-lyrics",
+    "primary_artist_names": "Sabrina Carpenter",
+    "pyongs_count": 69,
+    "relationships_index_url": "https://genius.com/Sabrina-carpenter-sue-me-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2018",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/fa24713e20f6277b97f4dfaa580656fe.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/fa24713e20f6277b97f4dfaa580656fe.900x900x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 133690
+    },
+    "title": "Sue Me",
+    "title_with_featured": "Sue Me",
+    "updated_by_human_at": 1725224185,
+    "url": "https://genius.com/Sabrina-carpenter-sue-me-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/249592",
+     "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+     "id": 249592,
+     "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sabrina Carpenter",
+     "slug": "Sabrina-carpenter",
+     "url": "https://genius.com/artists/Sabrina-carpenter",
+     "iq": 2353
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/249592",
+      "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+      "id": 249592,
+      "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Sabrina Carpenter",
+      "slug": "Sabrina-carpenter",
+      "url": "https://genius.com/artists/Sabrina-carpenter",
+      "iq": 2353
+     }
+    ],
+    "artist": "Sabrina Carpenter",
+    "lyrics": "101 ContributorsTranslations\ud55c\uad6d\uc5b4Sabrina Carpenter - Sue Me (Srpski Prevod)Sue Me Lyrics[Verse 1]\nRemember when you said it, there's no second chance?\nOh, baby, I heard you been hoping you could change the past\nYou miss the long goodnights, you miss the long goodbyes\nYou miss the long goodnights (Yup, yup, yup, yup, yup)\nWell, did you ever think that it was hard for me\nTo walk it off like nothing happened, nonchalantly?\nI got you feeling like, I got you feeling right\nI got you feeling like (Yup, yup, yup, yup, yup)\n\n[Pre-Chorus]\nThat's my shape, I made the shadow\nThat's my name, don't wear it out though\nFeelin' myself can't be illegal, illegal\n\n[Chorus]\nSo sue me for looking too pretty tonight\nWearing your favorite color under the lights\nFor moving on, doing everything right\nSo sue me for being good friends with your friends\nAnd running into you the place that we met\nFor being something you can't forget\nSo sue me\n\n[Verse 2]\n(Go)\nIt's hard to see me on when you been off as hell\nBut I'm not gonna dull myself because you dull yourself\nI know it's hard to see what you don't want to see\nI know it's hard to see (Yup, yup, yup, yup, yup)\nSee Sabrina Carpenter LiveGet tickets as low as $29You might also like[Pre-Chorus]\nThat's my shape, I made the shadow\nThat's my name, don't wear it out though\nFeelin' myself can't be illegal, illegal\n\n[Chorus]\nSo sue me for looking too pretty tonight\nWearing your favorite color under the lights\nFor moving on, doing everything right\nSo sue me for being good friends with your friends\nAnd running into you the place that we met\nFor being something you can't forget\nSo sue me\n\n[Bridge]\nI, I, I\nI guess I'm hard to ignore\nPick up that jaw off the floor\n\n[Chorus]\nSo sue me for looking too pretty tonight\nWearing your favorite color under the lights\nFor moving on, doing everything right\n(Everything right, no, no, everything right, no, no, oh)\nSo sue me for being good friends with your friends\n(With your friends, yeah, yeah, yeah)\nAnd running into you the place that we met\n(The place that we met)\nFor being something you can't forget\n(You can't forget, no)\nSo sue me\n[Outro]\nSue me, baby\nNo, no69Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/4037523",
+    "artist_names": "Sabrina Carpenter",
+    "full_title": "\u200bprfct by\u00a0Sabrina\u00a0Carpenter",
+    "header_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "header_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "id": 4037523,
+    "instrumental": false,
+    "lyrics_owner_id": 2891574,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1650130374,
+    "path": "/Sabrina-carpenter-prfct-lyrics",
+    "primary_artist_names": "Sabrina Carpenter",
+    "pyongs_count": 28,
+    "relationships_index_url": "https://genius.com/Sabrina-carpenter-prfct-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2018",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 32506
+    },
+    "title": "\u200bprfct",
+    "title_with_featured": "\u200bprfct",
+    "updated_by_human_at": 1725224308,
+    "url": "https://genius.com/Sabrina-carpenter-prfct-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/249592",
+     "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+     "id": 249592,
+     "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sabrina Carpenter",
+     "slug": "Sabrina-carpenter",
+     "url": "https://genius.com/artists/Sabrina-carpenter",
+     "iq": 2353
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/249592",
+      "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+      "id": 249592,
+      "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Sabrina Carpenter",
+      "slug": "Sabrina-carpenter",
+      "url": "https://genius.com/artists/Sabrina-carpenter",
+      "iq": 2353
+     }
+    ],
+    "artist": "Sabrina Carpenter",
+    "lyrics": "65 ContributorsTranslationsSabrina Carpenter - prfct (Srpski Prevod)\u200bprfct Lyrics[Intro]\nEh, eh, eh, eh\nOh, oh, oh, oh\nEh, eh, eh, eh\nOh no\n\n[Verse 1]\nYou can get real close, talkin', you talkin' now\nUnderneath our clothes, pretend that we know it all\nShut off the lights just to hide in the dark\n(Hide in the) Dark, (Hide in the) dark\nThink that I know you the farther you are\n(Farther you are, farther you are) No\n\n[Pre-Chorus]\nLike A-B-C-D, that could work so perfectly\nIf perfect was the kind of thing that worked for me\nBut I wanna feel nervous, just a little bit off the edge\n(Wanna feel, wanna feel, wanna feel)\nEven if I know that I will end up in a mess\n\n[Chorus]\nLike eh, eh, eh, eh, eh, it won't be perfect\nBut I know, oh, oh, oh, oh, it could be worth it\nAnd for all of the nights I left tears running down my face, messing up my mascara\nIt's not perfect, eh, eh, eh, but maybe that's what we need\n(That's what we need)\nSee Sabrina Carpenter LiveGet tickets as low as $29You might also like[Verse 2]\nSee right through the fiction and all of this fakery\n(All of this fakery)\nJust give me some friction, let me see what nobody sees\n(See what nobody sees)\nYou don't think that I can handle the truth\n(Handle the truth, handle the truth)\nBaby, I'm over just playing it cool, no\n\n[Pre-Chorus]\nLike A-B-C-D, that could work so perfectly\nIf perfect was the kind of thing that worked for me\nBut I wanna feel nervous, just a little bit off the edge\n(Wanna feel, wanna feel, wanna feel)\nEven if I know that I will end up in a mess\n\n[Chorus]\nLike eh, eh, eh, eh, eh, it won't be perfect\n(And you know that I'm with you, baby)\nBut I know, oh, oh, oh, oh, it could be worth it\n(And I know it could be worth it, baby)\nAnd for all of the nights I left tears running down my face, messing up my mascara\nIt's not perfect, eh, eh, eh, but maybe that's what we need\n\n[Bridge]\nThat's what we need (That's what we need)\nThat's what we need (That's what we need)\nBaby, do you think that you could give it to me?\nThat's what we need\nThat's what we need\nBaby, do you think that you could give it to me?\n[Chorus]\nEh, eh, eh, eh, eh, it won't be perfect\n(What you need, you and I)\nBut I know, oh, oh, oh, oh, it could be worth it\n(Oh, will you give it to me, baby?)\nAnd for all of the nights I left tears running down my face, messing up my mascara\n(Mess with me, honey)\nIt's not perfect, eh, eh, eh, but maybe that's what we need\n(And you know, and you know, know, know)\n\n[Outro]\n(Eh, eh, eh, eh, eh, it won't be perfect)\nThat's what we need, that's what we need\n(But I know, oh, oh, oh, oh, it could be worth it)\nBaby, do you think that you could give it to me?\n(And for all of the nights I left tears running down my face, messing up my mascara)\nThat's what we need, that's what we need\nIt's not perfect, eh, eh, eh, but maybe that's what we need28Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/4037639",
+    "artist_names": "Sabrina Carpenter",
+    "full_title": "Bad Time by\u00a0Sabrina\u00a0Carpenter",
+    "header_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "header_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "id": 4037639,
+    "instrumental": false,
+    "lyrics_owner_id": 3551625,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1650137859,
+    "path": "/Sabrina-carpenter-bad-time-lyrics",
+    "primary_artist_names": "Sabrina Carpenter",
+    "pyongs_count": 42,
+    "relationships_index_url": "https://genius.com/Sabrina-carpenter-bad-time-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 11,
+     "day": 2
+    },
+    "release_date_for_display": "November 2, 2018",
+    "release_date_with_abbreviated_month_for_display": "Nov. 2, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 31227
+    },
+    "title": "Bad Time",
+    "title_with_featured": "Bad Time",
+    "updated_by_human_at": 1725224743,
+    "url": "https://genius.com/Sabrina-carpenter-bad-time-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/249592",
+     "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+     "id": 249592,
+     "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sabrina Carpenter",
+     "slug": "Sabrina-carpenter",
+     "url": "https://genius.com/artists/Sabrina-carpenter",
+     "iq": 2353
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/249592",
+      "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+      "id": 249592,
+      "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Sabrina Carpenter",
+      "slug": "Sabrina-carpenter",
+      "url": "https://genius.com/artists/Sabrina-carpenter",
+      "iq": 2353
+     }
+    ],
+    "artist": "Sabrina Carpenter",
+    "lyrics": "35 ContributorsTranslationsSabrina Carpenter -Bad Time (Srpski Prevod)Bad Time Lyrics[Intro]\nBad time for a good time, baby, a bad time\n\n[Verse 1]\nYou never finish your glass, take a little sip and you're bored\nDown in the apartment below, wouldn't even open your door\nYou said, \"It's a bad time for a good time, baby, a bad time\" (Mm)\nToo many times, I've asked myself, \"What did I come here for?\"\n\n[Pre-Chorus]\nNow I know you wanna talk about it, talk about it, yeah\nSuddenly, you're into me again\nLet's talk about it, talk about it, yeah\nI've been dyin' to use the line\n\n[Chorus]\nI'm sorry, but you've called at a bad time\nAnd every time is probably gonna be a bad time\nSorry, but it's not like the last time\nWhen you were callin' me and hopin' for a good time\nBad time for a good time, baby, a bad time\nYou should know about it by now\nBad time for a good time, baby, a bad time\nYou should know about it by now\nYou should know about it, na, na, yeah\nSee Sabrina Carpenter LiveGet tickets as low as $29You might also like[Verse 2]\nEverything's so clear to me now, wish I coulda seen it before\nYou were sittin' comfortable and I was busy kissin' your floor\n\n[Pre-Chorus]\nNow I know you wanna talk about it, talk about it, yeah\nSuddenly, you're into me again\nLet's talk about it, talk about it, yeah\nI've been dyin' to use the line\n\n[Chorus]\nI'm sorry, but you've called at a bad time\nAnd every time is probably gonna be a bad time\nSorry, but it's not like the last time\nWhen you were callin' me and hopin' for a good time\nBad time for a good time, baby, a bad time\nYou should know about it by now\nBad time for a good time, baby, a bad time (Ah yeah)\nYou should know about it by now\n\n[Post-Chorus]\nLa-la-la, la-la-la-la-la, la-la-la-la-la, yeah, sorry\nLa-la-la, la-la-la-la-la, la-la-la-la-la, yeah, sorry\n\n[Bridge]\nMm, no\nIt's a really bad time\nHey, hey, mm, now\nYou know that it's a bad time for a good time, baby, a bad time\nI'm just gonna say it one more time for fun\n[Chorus]\nI'm sorry, but you've called at a bad time\nAnd every time is probably gonna be a bad time (Yeah)\nSorry, but it's not like the last time\nWhen you were callin' me and hopin' for a good time\nBad time for a good time, baby, a bad time\nYou should know about it by now (Nah, nah, no, no, no)\nBad time for a good time, baby, a bad time\nYou should know about it by now\n\n[Post-Chorus]\nLa-la-la, la-la-la-la-la, la-la-la-la-la, yeah, sorry (Yeah, yeah)\nLa-la-la, la-la-la-la-la, la-la-la-la-la, yeah\nYou should know about it by now42Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/4037636",
+    "artist_names": "Sabrina Carpenter",
+    "full_title": "Mona Lisa by\u00a0Sabrina\u00a0Carpenter",
+    "header_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "header_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "id": 4037636,
+    "instrumental": false,
+    "lyrics_owner_id": 2891574,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1713854710,
+    "path": "/Sabrina-carpenter-mona-lisa-lyrics",
+    "primary_artist_names": "Sabrina Carpenter",
+    "pyongs_count": 31,
+    "relationships_index_url": "https://genius.com/Sabrina-carpenter-mona-lisa-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2018",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 34156
+    },
+    "title": "Mona Lisa",
+    "title_with_featured": "Mona Lisa",
+    "updated_by_human_at": 1725225787,
+    "url": "https://genius.com/Sabrina-carpenter-mona-lisa-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/249592",
+     "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+     "id": 249592,
+     "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sabrina Carpenter",
+     "slug": "Sabrina-carpenter",
+     "url": "https://genius.com/artists/Sabrina-carpenter",
+     "iq": 2353
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/249592",
+      "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+      "id": 249592,
+      "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Sabrina Carpenter",
+      "slug": "Sabrina-carpenter",
+      "url": "https://genius.com/artists/Sabrina-carpenter",
+      "iq": 2353
+     }
+    ],
+    "artist": "Sabrina Carpenter",
+    "lyrics": "38 ContributorsTranslationsSabrina Carpenter - Mona Lisa (Srpski Prevod)Mona Lisa Lyrics[Verse 1]\nKeep it casual, don't have to tippy-toe\nTake your cares off, just stay a couple more\nYou don't have to be, don't have to be a stranger\nGo and get a little closer\nPlaying mind games, we don't do that here\nSo put your bid in before I disappear\nYou don't have to be, don't have to be a stranger\nCome and get a little closer\n\n[Pre-Chorus]\nAin't gotta hesitate\nAin't gotta make me wait\nOh, baby, won't you stay?\nYeah, yeah\n\n[Chorus]\nBoth of my eyes, they've been fixing on you\nWasting your time, should be making that move\nCome and say hi, I've been dying to meet ya\nDon't leave me hanging like the Mona Lisa\nWhat's on my mind, I've been thinking maybe\nI could be yours by the time that we leave\nCome and say hi, I've been dying to meet ya\nDon't leave me hanging like the Mona Lisa, oh\nSee Sabrina Carpenter LiveGet tickets as low as $29You might also like[Verse 2]\nI know your type, what's with the timid behavior?\nYou let this ooh-la-la-la intimidate ya\nDon't you make me, don't you make me leave on my own\nI'm already ready, come on\n\n[Pre-Chorus]\nAin't gotta hesitate\nAin't gotta make me wait\nOh, baby, won't you stay?\nYeah, yeah\n\n[Chorus]\nBoth of my eyes, they've been fixing on you\nWasting your time, should be making that move\nCome and say hi, I've been dying to meet ya\nDon't leave me hanging like the Mona Lisa\nWhat's on my mind, I've been thinking maybe\nI could be yours by the time that we leave\nCome and say hi, I've been dying to meet ya\nDon't leave me hanging like the Mona Lisa, oh31Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/4037517",
+    "artist_names": "Sabrina Carpenter",
+    "full_title": "Diamonds Are Forever by\u00a0Sabrina\u00a0Carpenter",
+    "header_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "header_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "id": 4037517,
+    "instrumental": false,
+    "lyrics_owner_id": 2891574,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1650130813,
+    "path": "/Sabrina-carpenter-diamonds-are-forever-lyrics",
+    "primary_artist_names": "Sabrina Carpenter",
+    "pyongs_count": 35,
+    "relationships_index_url": "https://genius.com/Sabrina-carpenter-diamonds-are-forever-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2018",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/fc737825b7dab74efe7a5a97517f4ef2.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 41298
+    },
+    "title": "Diamonds Are Forever",
+    "title_with_featured": "Diamonds Are Forever",
+    "updated_by_human_at": 1725226066,
+    "url": "https://genius.com/Sabrina-carpenter-diamonds-are-forever-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/249592",
+     "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+     "id": 249592,
+     "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sabrina Carpenter",
+     "slug": "Sabrina-carpenter",
+     "url": "https://genius.com/artists/Sabrina-carpenter",
+     "iq": 2353
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/249592",
+      "header_image_url": "https://images.genius.com/3d8df19075a7d820abc18af8b160de93.1000x333x1.jpg",
+      "id": 249592,
+      "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Sabrina Carpenter",
+      "slug": "Sabrina-carpenter",
+      "url": "https://genius.com/artists/Sabrina-carpenter",
+      "iq": 2353
+     }
+    ],
+    "artist": "Sabrina Carpenter",
+    "lyrics": "52 ContributorsTranslationsSabrina Carpenter - Diamonds Are Forever (Srpski Prevod)Diamonds Are Forever Lyrics[Intro]\nNo\n\n[Verse 1]\nThink you got your break?\nI'm no sugar mama, I'm no piggy bank\nTell me what you think, nah, nah, nah\nStackin' bills and counting change\nI'm no Rockefeller, I'm not what you think\nNo way, nah, nah, nah\n\n[Pre-Chorus]\nI'm your new money\nDrop it all on your crew, spent too soon money\nOne percent, I'm at the top of this earth money\nThat's what I'm worth, honey\nThat's what I'm worth, worth, worth\n\n[Chorus]\nI am a diamond\nAnd diamonds are forever\nMy love is timeless\n'Cause diamonds are forever (Oh no, no)\nMoney don't buy class\nAnd I can't be bought like that, like that\nI am a diamond\nAnd diamonds are forever\nSee Sabrina Carpenter LiveGet tickets as low as $29You might also like[Verse 2]\nSteal my heart and steal my kiss\nBut you can't shake my balance\nThere's no can do, nah, nah, nah\nNo can do, nah, nah, nah\nAnd I'll take you out (Oh yeah) and I'll take you in\nThis love is my weakness, nah, nah\n\n[Pre-Chorus]\nI'm your new money (New money)\nDrop it all on your crew, spent too soon money\nOne percent, I'm at the top of this earth money\nThat's what I'm worth, honey\nThat's what I'm worth, worth, worth\n\n[Chorus]\nI am a diamond (Diamond, babe)\nAnd diamonds are forever (Oh, they're forever, ever)\nMy love is timeless\n'Cause diamonds are forever\nMoney don't buy class (Don't buy class, nah, nah)\nAnd I can't be bought like that, like that\nI am a diamond\nAnd diamonds are forever\nOh, nah, nah, nah, babe\n[Bridge]\n(Diamonds, diamonds)\n(Diamonds, diamonds)\nDiamonds are forever, baby\n(Diamonds, diamonds)\nWhat you gonna do for me, darlin'?\n(Diamonds, diamonds)\nI guess you want me to\nGive up these diamonds to you\n\n[Chorus]\nI am a diamond\nAnd diamonds are forever\nMy love is timeless (Ooh, it's so timeless, baby)\n'Cause diamonds are forever (No, they're forever, no, you know)\nMoney don't buy class\nAnd I can't be bought like that, like that\nI am a diamond\nAnd diamonds are forever\n\n[Post-Chorus]\n(Diamonds, diamonds)\nDiamonds, baby, diamonds, no, no\n(Diamonds, diamonds)\nKnow your love, these diamonds are yours\n(Diamonds, diamonds)\n(Diamonds, diamonds)\n[Outro]\nI guess you want me to\nGive up these diamonds to you35Embed"
+   }
+  }
+ ]
+}

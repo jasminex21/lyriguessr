@@ -1,0 +1,48 @@
+---
+title: "Game Details"
+---
+
+### Dataset Details
+
+Generally, artist datasets comprise of all songs from *studio albums* - excluding EPs and singles. But there are exceptions! All lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).
+
+Note that some lyrics are just a couple words - these tend to be ad-libs, such as "oh, oh." If that isn't hard enough already, lyrics such as "oh, oh" may easily show up in multiple songs, and you'll likely need to use hints to help you narrow it down.
+
+If you'd like to do your own analyses on artist datasets, you can find them in lyriguessr's [GitHub repo](https://github.com/jasminex21/lyriguessr). Contact me at <lyriguessr@gmail.com> for any questions!
+
+### Dataset Statistics
+
+Naturally, the larger the artist dataset, the harder the game is! If you like stats, this table is for you.
+
+``` {r echo=FALSE}
+library(gt)
+
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artist_dataset_statistics.csv")
+
+colnames(data) <- c("Artist", "Lines", "Songs", "Albums", "Avg. Words per Line")
+
+gt(data) %>% 
+    tab_header(title=md("Artist Dataset Statistics"), 
+               subtitle="Sorted in descending order by the # of lines in the dataset") %>%
+    opt_table_font(stack = "rounded-sans") %>%
+    tab_options(table.background.color = "#8D9F8E",
+                table.font.weight = "bolder",
+                table.font.color = "black",
+                table.font.color.light = "black",
+                table.font.size = "90%",
+                data_row.padding = 10,
+                data_row.padding.horizontal = 10) %>%
+    tab_style(style = cell_text(weight = "bolder"),
+              locations=list(cells_title(), cells_column_labels())) %>%
+    tab_style(style = cell_text(weight = "bolder"),
+              locations = cells_body(columns = Artist)) %>%
+    tab_style(style = cell_text(align = "center"),
+              locations = cells_column_labels()) %>%
+    cols_width(Artist ~ px(800),
+               Lines ~ px(100),
+               `Songs` ~ px(50),
+               `Albums` ~ px(50),
+               `Avg. Words per Line` ~ px(150))
+```
+
+

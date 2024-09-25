@@ -1,0 +1,677 @@
+{
+ "_type": "album",
+ "api_path": "/albums/23755",
+ "cover_art_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+ "full_title": "Paradise by Lana Del Rey",
+ "id": 23755,
+ "name": "Paradise",
+ "name_with_artist": "Paradise (artist: Lana Del Rey)",
+ "release_date_components": {
+  "year": 2012,
+  "month": 11,
+  "day": 9
+ },
+ "release_date_for_display": "November 9, 2012",
+ "url": "https://genius.com/albums/Lana-del-rey/Paradise",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/15740",
+  "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+  "id": 15740,
+  "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lana Del Rey",
+  "slug": "Lana-del-rey",
+  "url": "https://genius.com/artists/Lana-del-rey"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/15740",
+   "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+   "id": 15740,
+   "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lana Del Rey",
+   "slug": "Lana-del-rey",
+   "url": "https://genius.com/artists/Lana-del-rey"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 18,
+    "api_path": "/songs/90003",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Ride by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/dd8ea3134679a49c43a87ad021a074e1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/dd8ea3134679a49c43a87ad021a074e1.1000x1000x1.png",
+    "id": 90003,
+    "instrumental": false,
+    "lyrics_owner_id": 140305,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724638541,
+    "path": "/Lana-del-rey-ride-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 333,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-ride-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 9,
+     "day": 15
+    },
+    "release_date_for_display": "September 15, 2012",
+    "release_date_with_abbreviated_month_for_display": "Sep. 15, 2012",
+    "song_art_image_thumbnail_url": "https://images.genius.com/67eec695181fcb682fe6f2599ff7fbe0.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/67eec695181fcb682fe6f2599ff7fbe0.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 714686
+    },
+    "title": "Ride",
+    "title_with_featured": "Ride",
+    "updated_by_human_at": 1724630621,
+    "url": "https://genius.com/Lana-del-rey-ride-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "91 ContributorsTranslationsEspa\u00f1olPolskiDeutschItalianoFran\u00e7aisRide Lyrics[Opening Monologue]\n\n[Intro]\nOoh-ooh-ooh-ooh, ooh-ooh-ooh\nOoh-ooh-ooh-ooh, ooh-ooh-ooh\n\n[Verse 1]\nI been out on that open road\nBut you can be my full-time daddy, white and gold\nSinging blues has been gettin' old\nBut you can be my full-time baby, hot or cold\n\n[Pre-Chorus 1]\nDon't break me down (Don't break me down)\nI been traveling too long (I been traveling too long)\nI been tryin' too hard (I been tryin' too hard)\nWith one pretty song (With one pretty song)\n\n[Chorus]\nI hear the birds on the summer breeze, I drive fast\nI am alone at midnight\nBeen trying hard not to get into trouble, but I\nI've got a war in my mind\n\n[Post-Chorus]\nSo, I just ride, just ride\nI just ride, I just ride\nYou might also like[Verse 2]\nDying young and playing hard\nThat's the way my father made his life and art\nDrink all day and we talk 'til dark\nThat's the way the road dogs do it, light 'til dark\n\n[Pre-Chorus 2]\nDon't leave me now (Don't leave me now)\nDon't say goodbye (Don't say goodbye)\nDon't turn around (Don't turn around)\nLeave me high and dry (Leave me high and dry)\n\n[Chorus]\nI hear the birds on the summer breeze, I drive fast\nI am alone at midnight\nBeen trying hard not to get into trouble, but I\nI've got a war in my mind\n\n[Post-Chorus]\nI just ride, just ride\nI just ride, I just ride\n\n[Bridge]\nI'm tired of feeling like I'm fucking crazy\nI'm tired of driving 'til I see stars in my eyes\nIt's all I've got to keep myself sane, baby\nSo I just ride, I just ride\n[Chorus]\nI hear the birds on the summer breeze, I drive fast\nI am alone at midnight\nBeen trying hard not to get into trouble, but I\nI've got a war in my mind\n\n[Post-Chorus]\nI just ride, just ride\nI just ride, I just ride\n\n[Closing Monologue]333Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/96798",
+    "artist_names": "Lana Del Rey",
+    "full_title": "American by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "header_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "id": 96798,
+    "instrumental": false,
+    "lyrics_owner_id": 22825,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724654959,
+    "path": "/Lana-del-rey-american-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 66,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-american-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2012",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2012",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 210047
+    },
+    "title": "American",
+    "title_with_featured": "American",
+    "updated_by_human_at": 1724654959,
+    "url": "https://genius.com/Lana-del-rey-american-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "68 ContributorsTranslationsPolskiEspa\u00f1olDeutschItalianoAmerican Lyrics[Verse 1]\nPlay house, put my favorite record on\nGet down, get your crystal method on\nYou were like tall, tan, driving 'round the city\nFlirtin' with the girls like, \u201cyou're so pretty\u201d\n\"Springsteen is the King, don't ya think?\"\nI was like, \"Hell yeah, that guy can sing\"\nLike ooh-ooh-ooh\nOoh-ooh-ooh\n\n[Chorus]\nYou make me crazy, you make me wild\nJust like a baby, spin me 'round like a child\nYour skin so golden brown\nBe young, be dope, be proud\nLike an American\nOoh-ooh-ooh-ooh-ooh-ooh-ooh\nLike an American\nOoh-ooh-ooh-ooh-ooh-ooh-ooh\n\n[Verse 2]\nDrive fast, I can almost taste it now\nL.A., I don't even have to fake it now\nYou were like so sick, everybody said it\nYou were way ahead of the trend, get, get it\n\"Elvis is the best, hell yes\"\n\"Honey, put on that party dress\"\nLike ooh-ooh-ooh\nOoh-ooh-ooh\nYou might also like[Chorus]\nYou make me crazy, you make me wild\nJust like a baby, spin me 'round like a child\nYour skin so golden brown\nBe young, be dope, be proud\nLike an American\nOoh-ooh-ooh-ooh-ooh-ooh-ooh\nLike an American\nOoh-ooh-ooh-ooh-ooh-ooh-ooh\n\n[Bridge]\nEverybody wants to go fast\nBut they can't compare\nI don't really want the rest\nOnly you can take me there\nI don't even know what I'm saying\nBut I'm praying for you\n\n[Chorus]\nYou make me crazy, you make me wild\nJust like a baby, spin me 'round like a child\nYour skin so golden brown\nBe young, be dope, be proud\nLike an American\nOoh-ooh-ooh-ooh-ooh-ooh-ooh\nLike an American\nOoh-ooh-ooh-ooh-ooh-ooh-ooh\n[Outro]\nLike an American\nOoh-ooh-ooh-ooh-ooh-ooh-ooh\nLike an American\nOoh-ooh-ooh-ooh-ooh-ooh-ooh\nLike an American66Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/96801",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Cola by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "header_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "id": 96801,
+    "instrumental": false,
+    "lyrics_owner_id": 22825,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721424619,
+    "path": "/Lana-del-rey-cola-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 97,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-cola-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2012",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2012",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 660771
+    },
+    "title": "Cola",
+    "title_with_featured": "Cola",
+    "updated_by_human_at": 1721424619,
+    "url": "https://genius.com/Lana-del-rey-cola-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "136 ContributorsTranslationsFran\u00e7aisItalianoPolskiDeutschEspa\u00f1olCola Lyrics[Verse 1]\nMy pussy tastes like Pepsi Cola\nMy eyes are wide like cherry pies\nI gots a taste for men who are older\nIt's always been so it's no surprise\n\n[Pre-Chorus]\nHarvey's in the sky with diamonds and he's making me crazy\n(I come alive, alive)\nAll he wants to do is party with his pretty baby\n\n[Chorus]\nCome on, baby, let's ride\nWe can escape to the great sunshine\nI know your wife and she wouldn't mind\nWe made it out to the other side\nWe made it out to the other side\nWe made it out to the other side\n\n[Post-Chorus]\nCome on, come on\nCome on, come on, come on, baby\nOh, oh yeah\n\n[Verse 2]\nI fall asleep in an American flag\nI wear my diamonds on Skid Row\nI pledge allegiance to my dad\nFor teaching me everything he knows\nYou might also like[Pre-Chorus]\nHarvey's in the sky with diamonds and he's making me crazy\n(I come alive, alive)\nAll he wants to do is party with his pretty baby\n\n[Chorus]\nCome on, baby, let's ride\nWe can escape to the great sunshine\nI know your wife and she wouldn't mind\nWe made it out to the other side\nWe made it out to the other side\nWe made it out to the other side\n\n[Bridge]\nDrugs, suck it up, like vanilla icys\nDon't treat me rough, treat me really niceys\nDecorate my neck, diamantes ices\nWhy, come on, come on\n(Ooh-ooh, ooh-ooh, ooh-ooh, ooh yeah)\n\n[Chorus]\nCome on, baby, let's ride\nWe can escape to the great sunshine\nI know your wife and she wouldn't mind\nWe made it out to the other side\nCome on, baby, let's ride\nWe can escape to the great sunshine\nWe made it out to the other side\nWe made it out to the other side\n[Outro]\nCome on, come on, come on, baby\nCome on, come on, come on, baby\nOh, oh\nMy pussy tastes like Pepsi Cola\nOoh, ahh\nMy pussy tastes like Pepsi Cola\nOoh-ooh, ooh-ooh, ooh-ooh\nMy pussy tastes like Pepsi Cola\nOoh, oh yeah97Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 18,
+    "api_path": "/songs/96856",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Body Electric by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "header_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "id": 96856,
+    "instrumental": false,
+    "lyrics_owner_id": 155520,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722846453,
+    "path": "/Lana-del-rey-body-electric-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 61,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-body-electric-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2012",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2012",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 283662
+    },
+    "title": "Body Electric",
+    "title_with_featured": "Body Electric",
+    "updated_by_human_at": 1722846453,
+    "url": "https://genius.com/Lana-del-rey-body-electric-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "74 ContributorsTranslationsPolskiItalianoEspa\u00f1olDeutschPortugu\u00easBody Electric Lyrics[Verse 1]\nElvis is my daddy\nMarilyn's my mother\nJesus is my bestest friend\nWe don't need nobody\n'Cause we got each other\nOr at least I pretend\n\n[Pre-Chorus]\nWe get down every Friday night\nDancing and grinding in the pale moonlight\nGrand Ole Opry\nWe're feeling alright\nMary prays the rosary for my broken mind\n(I said, \"Don't worry 'bout it\")\n\n[Chorus]\nI sing the body electric\nI sing the body electric, baby\nI sing the body electric\nI sing the body electric\nSing that body electric\nSing that body electric\nI'm on fire\nSing that body electric\nYou might also like[Verse 2]\nWhitman is my daddy\nMonaco's my mother\nDiamonds are my bestest friend\nHeaven is my baby\nSuicide's her father\nOpulence is the end\n\n[Pre-Chorus]\nWe get down every Friday night\nDancing and grinding in the pale moonlight\nGrand Ole Opry\nWe're feeling alright\nMary prays the rosary for my broken mind\n(I said, \"Don't worry 'bout it\")\n\n[Chorus]\nI sing the body electric\nI sing the body electric, baby\nI sing the body electric\nI sing the body electric\nSing that body electric\nSing that body electric\nI'm on fire\nSing that body electric\n[Bridge]\nMy clothes still smell like you\nAnd all the photographs say you're still young\nI pretend I'm not hurt\nAnd go about the world like I'm having fun\n[Pre-Chorus]\nWe get crazy every Friday night\nDrop it like it's hot in the pale moonlight\nGrand Ole Opry\nFeeling alright\nMary swaying softly to her heart's delight\n\n[Chorus]\nI sing the body electric\nI sing the body electric, baby\nI sing the body electric\nI sing the body electric\nSing that body electric\nSing that body electric\nI'm on fire\nSing that body electric\n\n[Outro]\nI sing the body electric, baby\nI sing the body electric, baby\nI sing the body electric, baby61Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/112174",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Blue Velvet by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/572673feabebd9db6401c766a862521d.300x300x1.png",
+    "header_image_url": "https://images.genius.com/572673feabebd9db6401c766a862521d.1000x1000x1.png",
+    "id": 112174,
+    "instrumental": false,
+    "lyrics_owner_id": 180101,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724148167,
+    "path": "/Lana-del-rey-blue-velvet-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 21,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-blue-velvet-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 9,
+     "day": 20
+    },
+    "release_date_for_display": "September 20, 2012",
+    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2012",
+    "song_art_image_thumbnail_url": "https://images.genius.com/524d2aa1ff2d5e2efce27731a26345e9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/524d2aa1ff2d5e2efce27731a26345e9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 133570
+    },
+    "title": "Blue Velvet",
+    "title_with_featured": "Blue Velvet",
+    "updated_by_human_at": 1724148168,
+    "url": "https://genius.com/Lana-del-rey-blue-velvet-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "58 ContributorsTranslationsItalianoEspa\u00f1olDeutschPolskiBlue Velvet Lyrics[Intro]\nMmm\n\n[Verse 1]\nShe wore blue velvet\nBluer than velvet was the night\nSofter than satin was the light\nFrom the stars\n\n[Verse 2]\nShe wore blue velvet\nBluer than velvet were her eyes\nWarmer than May, her tender sighs\nLove was ours\n\n[Bridge]\nOurs a love I held tightly\nFeeling the rapture grow\nLike a flame burning brightly\nBut when she left, gone was the glow of\n\n[Verse 3]\nBlue velvet\nBut in my heart there'll always be\nPrecious and warm a memory\nThrough the years\nYou might also like[Outro]\nAnd I still can see blue velvet through my tears21Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/96956",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Gods & Monsters by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "header_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "id": 96956,
+    "instrumental": false,
+    "lyrics_owner_id": 103687,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718019821,
+    "path": "/Lana-del-rey-gods-and-monsters-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 153,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-gods-and-monsters-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2012",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2012",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 544094
+    },
+    "title": "Gods & Monsters",
+    "title_with_featured": "Gods & Monsters",
+    "updated_by_human_at": 1720871746,
+    "url": "https://genius.com/Lana-del-rey-gods-and-monsters-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "83 ContributorsTranslationsPolskiItalianoEspa\u00f1olDeutschFran\u00e7aisGods & Monsters Lyrics[Intro]\nL.A., L.A.\u200b\nL.A., L.A.\u200b\n\n[Verse 1]\nIn the land of gods and monsters\nI was an angel living in the garden of evil\nScrewed up, scared, doing anything that I needed\nShining like a fiery beacon\n\n[Pre-Chorus]\nYou got that medicine I need\nFame, liquor, love, give it to me slowly\nPut your hands on my waist, do it softly\nMe and God, we don't get along, so now I sing\n\n[Chorus]\nNo one's gonna take my soul away\nI'm living like Jim Morrison\nHeaded towards a fucked up holiday\nMotel sprees, sprees and I'm singing\n\"Fuck yeah, give it to me, this is\ufeff Heaven, what I truly want\"\nIt's innocence lost, innocence lost\n\n[Verse 2]\nIn the land of gods and monsters\nI was an angel looking to get fucked hard\nLike a groupie incognito, posing as a real singer\nLife imitates art\nYou might also like[Pre-Chorus]\nYou got that medicine I need\nDope, shoot it up, straight to the heart, please\nI don't really wanna know what's good for me\nGod's dead, I said, \"Baby, that's alright with me\"\n\n[Chorus]\nNo one's gonna take my soul away\nI'm living like Jim Morrison\nHeaded towards a fucked up holiday\nMotel sprees, sprees and I'm singing\n\"Fuck yeah, give it to me, this is\ufeff Heaven, what I truly want\"\nIt's innocence lost, innocence lost\n\n[Bridge]\nWhen you talk, it's like a movie and you're makin' me crazy\n'Cause life imitates art\nIf I get a little prettier, can I be your baby?\nYou tell me life isn't that hard\n\n[Chorus]\nNo one's gonna take my soul away\nI'm living like Jim Morrison\nHeaded towards a fucked up holiday\nMotel sprees, sprees and I'm singing\n\"Fuck yeah, give it to me, this is\ufeff Heaven, what I truly want\"\nIt's innocence lost, innocence lost153Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/92596",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Yayo by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "header_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "id": 92596,
+    "instrumental": false,
+    "lyrics_owner_id": 141281,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718198787,
+    "path": "/Lana-del-rey-yayo-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 62,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-yayo-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2012",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2012",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 243804
+    },
+    "title": "Yayo",
+    "title_with_featured": "Yayo",
+    "updated_by_human_at": 1720871748,
+    "url": "https://genius.com/Lana-del-rey-yayo-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "80 ContributorsTranslationsPolskiEspa\u00f1olItalianoDeutschT\u00fcrk\u00e7eYayo Lyrics[Verse 1]\nI like the snake on your tattoo\nI like the ivy and the ink blue\nYayo, yes, you, yayo\nYou have to take me right now\nFrom this dark trailer park life now\nYayo, how now, yayo\n\n[Chorus]\nPut me onto your black motorcycle\n'50s baby doll dress for my \"I do\"\nIt only takes two hours to Nevada\nI wear your sparkle\nYou call me your mama\nLet me put on a show for you, daddy\nLet me put on a show\nLet me put on a show for you, tiger\nAhh-ah-ah, let me put on a show\n\n[Verse 2]\nI need you like a baby when I hold you\nLike a druggie, like I told you\nYayo, yeah you, yayo\n\n[Chorus]\nPut me onto your black motorcycle\n'50s baby doll dress for my \"I do\"\nIt only takes two hours to Nevada\nI wear your sparkle\nYou call me your mama\nLet me put on a show for you, daddy\nLet me put on a show\nLet me put on a show for you, tiger\nAhh-ah-ah, let me put on a show\nYou might also like[Bridge]\nHello, heaven, you are a tunnel lined with yellow lights\nOn a dark night\nYayo, yes you, yayo\n\n[Chorus]\nPut me onto your black motorcycle\n'50s baby doll dress for my \"I do\"\nIt only takes two hours to Nevada\nI wear your sparkle\nYou call me your mama\nLet me put on a show for you, daddy\nLet me put on a show\nLet me put on a show for you, tiger\nAhh-ah-ah, let me put on a show62Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/96618",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Bel Air by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "header_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "id": 96618,
+    "instrumental": false,
+    "lyrics_owner_id": 30043,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724148457,
+    "path": "/Lana-del-rey-bel-air-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 37,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-bel-air-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2012",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2012",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/c7e999e577d81ec43b7fb8eb523659a9.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 176872
+    },
+    "title": "Bel Air",
+    "title_with_featured": "Bel Air",
+    "updated_by_human_at": 1724148511,
+    "url": "https://genius.com/Lana-del-rey-bel-air-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "66 ContributorsTranslationsPolskiDeutschItalianoEspa\u00f1olBel Air Lyrics[Verse 1]\nGargoyles standing at the front of your gate\nTrying to tell me to wait, but I can't wait to see you\nSo I run like I'm mad to heaven's door\nI don't wanna be bad, I won't cheat you no more\n\n[Chorus]\nRoses, Bel Air, take me there\nI've been waiting to meet you\nPalm trees in the light, I can see, late at night\nDarling, I'm waiting to greet you\nCome to me, baby\n\n[Verse 2]\nSpotlight, bad baby, you've got a flair\nFor the violentest kind of love anywhere out there\nMon amour, sweet child of mine, you're divine\nDidn't anyone ever tell you it's okay to shine?\n\n[Chorus]\nRoses, Bel Air, take me there\nI've been waiting to meet you\nPalm trees in the light, I can see, late at night\nDarling, I'm waiting to greet you\nCome to me, baby\nYou might also like[Bridge]\nDon't be afraid of me\nDon't be ashamed\nWalk in the way of my soft resurrection\nIdol of roses, iconic soul\nI know your name\nLead me to war with your brilliant direction\n\n[Chorus]\nRoses, Bel Air, take me there\nI've been waiting to meet you\nPalm trees in the light, I can see, late at night\nDarling, I'm waiting to greet you\nCome to me, baby\n\n[Chorus]\nRoses, Bel Air, take me there\nI've been waiting to meet you\nGrenadine, sunshine\u2014can you break this heart of mine?\nDarling, I'm waiting to greet you\nCome to me, baby37Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/111051",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Burning Desire by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/59e050d2c41888d30fd2ddc72c2641cb.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/59e050d2c41888d30fd2ddc72c2641cb.1000x1000x1.jpg",
+    "id": 111051,
+    "instrumental": false,
+    "lyrics_owner_id": 174654,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1566832110,
+    "path": "/Lana-del-rey-burning-desire-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 33,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-burning-desire-sample",
+    "release_date_components": {
+     "year": 2012,
+     "month": 11,
+     "day": 9
+    },
+    "release_date_for_display": "November 9, 2012",
+    "release_date_with_abbreviated_month_for_display": "Nov. 9, 2012",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f6c02f5d335ed1d8ee9e809fd4072cc4.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f6c02f5d335ed1d8ee9e809fd4072cc4.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 105517
+    },
+    "title": "Burning Desire",
+    "title_with_featured": "Burning Desire",
+    "updated_by_human_at": 1720871750,
+    "url": "https://genius.com/Lana-del-rey-burning-desire-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "35 ContributorsTranslationsPolskiRom\u00e2n\u0103Espa\u00f1olItalianoBurning Desire Lyrics[Verse 1]\nEvery Saturday night, I get dressed up to ride for you, baby\nCruising down the street on Hollywood and Vine for you, baby\nI drive fast, wind in my hair\nI push it to the limits 'cause I just don't care\nYou ask me where I've been; I been everywhere\nBut I don't want to be nowhere but here\n(Come on, tell me, boy)\n\n[Chorus]\nI've got a burning desire for you, baby\n(I've got a burning desire) (Come on, tell me, boy)\nI've got a burning desire for you, baby\n(I've got a burning desire) (Come on, tell me, boy)\nI drive fast, wind in my hair\nI push it to the limits 'cause I just don't care (Don't care)\nI've got a burning desire for you, baby\n(I've got a burning desire)\n\n[Verse 2]\nEvery Saturday night I seem to come alive for you, baby\nSanta Monica, I'm racing in the lights for you, baby\nI drive fast, radio blares\nHave to touch myself to pretend you're there\nYour hands were on my hips, your name was on my lips\nOver, over again like my only prayer\n(Come on, tell me, boy)\nYou might also like[Chorus]\nI've got a burning desire for you, baby\n(I've got a burning desire) (Come on, tell me, boy)\nI've got a burning desire for you, baby\n(I've got a burning desire) (Come on, tell me, boy)\nI drive fast, wind in my hair\nI push it to the limits 'cause I just don't care (Don't care)\nI've got a burning desire for you, baby\n(I've got a burning desire)\n\n[Bridge]\nI'm driving fast, flash!\nEveryone knows it\nI'm trying to get to you, baby\nI'm feeling scared and you know it\nI'm driving fast, flash!\nEveryone knows it\nI'm trying to get to you, baby\nI'm feeling scared and you know it\n\nI'm driving fast, flash!\nEveryone knows it\nI'm trying to get to you, baby\nI'm feeling scared and you know it\nI'm driving fast, flash!\nEveryone knows it\nI'm trying to get to you, baby\nI'm feeling scared and you know it\nOoh, ooh\n[Chorus]\nI've got a burning desire for you, baby\n(I've got a burning desire) (Come on, tell me, boy)\nI've got a burning desire for you, baby\n(I've got a burning desire) (Come on, tell me, boy)\nI drive fast, wind in my hair\nI push it to the limits 'cause I just don't care (Don't care)\nI've got a burning desire for you, baby\n(I've got a burning desire)33Embed"
+   }
+  }
+ ]
+}

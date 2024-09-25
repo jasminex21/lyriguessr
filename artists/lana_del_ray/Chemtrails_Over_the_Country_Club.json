@@ -1,0 +1,858 @@
+{
+ "_type": "album",
+ "api_path": "/albums/621392",
+ "cover_art_thumbnail_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.1000x1000x1.png",
+ "full_title": "Chemtrails Over the Country Club by Lana Del Rey",
+ "id": 621392,
+ "name": "Chemtrails Over the Country Club",
+ "name_with_artist": "Chemtrails Over the Country Club (artist: Lana Del Rey)",
+ "release_date_components": {
+  "year": 2021,
+  "month": 3,
+  "day": 19
+ },
+ "release_date_for_display": "March 19, 2021",
+ "url": "https://genius.com/albums/Lana-del-rey/Chemtrails-over-the-country-club",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/15740",
+  "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+  "id": 15740,
+  "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lana Del Rey",
+  "slug": "Lana-del-rey",
+  "url": "https://genius.com/artists/Lana-del-rey"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/15740",
+   "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+   "id": 15740,
+   "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lana Del Rey",
+   "slug": "Lana-del-rey",
+   "url": "https://genius.com/artists/Lana-del-rey"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 22,
+    "api_path": "/songs/5936457",
+    "artist_names": "Lana Del Rey",
+    "full_title": "White Dress by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.1000x1000x1.png",
+    "id": 5936457,
+    "instrumental": false,
+    "lyrics_owner_id": 1947772,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725110128,
+    "path": "/Lana-del-rey-white-dress-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 57,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-white-dress-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 3,
+     "day": 19
+    },
+    "release_date_for_display": "March 19, 2021",
+    "release_date_with_abbreviated_month_for_display": "Mar. 19, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 10,
+     "hot": false,
+     "pageviews": 365515
+    },
+    "title": "White Dress",
+    "title_with_featured": "White Dress",
+    "updated_by_human_at": 1725099853,
+    "url": "https://genius.com/Lana-del-rey-white-dress-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "130 ContributorsTranslationsItalianoPolskiT\u00fcrk\u00e7eT\u00fcrk\u00e7e\u0421\u0440\u043f\u0441\u043a\u0438Espa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\u65e5\u672c\u8a9e\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschFran\u00e7aisWhite Dress Lyrics[Verse 1]\nSun stare, don't care with my head in my hands\nThinking of a simpler time\nLike Sun Ra, feel small\nBut I had it under control every time\n\n[Chorus]\nWhen I was a waitress wearing a white dress\nLook how I do this, look how I got this\nI was a waitress working the night shift\nYou were my man, felt like I got this\nDown at the Men in Music Business Conference\nDown in Orlando, I was only nineteen\nDown at the Men in Music Business Conference\nI only mention it 'cause it was such a scene\nAnd I felt seen\nMm-mm-mm-mm-mm\n\n[Verse 2]\nSummer, sizzling\nListening to jazz out on the lawn\nList\u0435ning to White Stripes when th\u0435y were white-hot\nListening to rock all day long\n\n[Chorus]\nWhen I was a waitress wearing a tight dress handling the heat\nI wasn't famous, just listening to Kings of Leon to the beat\nLike look at how I got this, look how I got this\nJust singing the street\nDown at the Men in Music Business Conference\nI felt free 'cause I was only nineteen\nSuch a scene\nYou might also like[Bridge]\nSummer, summer's almost gone\nWe were talking about life, we were sitting outside 'til dawn\nBut I would still go back\nIf I could do it all again, I thought\nBecause it made me feel, made me feel like a god\n'Cause it made me feel, made me feel like a god\nSomehow it made me feel, made me feel like a god\n\n[Chorus]\nWhen I was a waitress wearing a white dress\nLook how I do this, look how I got this\nWhen I was a waitress working the night shift\nYou were my man, felt like I got this\nDown at the Men in Music Business Conference\nDown in Orlando, I was only nineteen\nDown at the Men in Music Business Conference\nI only mention it 'cause it was such a scene\nAnd I felt seen\nMm-mm-mm-mm-mm\n\n[Chorus]\nWhen I was a waitress wearing a tight dress\nLike, look how I do it, look how I got this\nI was a waitress wearing a tight dress\nLike, look how I do this, look how I got this\n[Outro]\nIt made me feel, made me feel like a god\nIt kinda makes me feel, like maybe I was better off\n'Cause it made me feel, made me feel like a god\nIt kinda makes me feel, like maybe I was better off57Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/5606344",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Chemtrails Over the Country Club by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.1000x1000x1.jpg",
+    "id": 5606344,
+    "instrumental": false,
+    "lyrics_owner_id": 1947772,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1713682162,
+    "path": "/Lana-del-rey-chemtrails-over-the-country-club-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 102,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-chemtrails-over-the-country-club-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 1,
+     "day": 11
+    },
+    "release_date_for_display": "January 11, 2021",
+    "release_date_with_abbreviated_month_for_display": "Jan. 11, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b55d4a06f72d1713bf8aa22601106a0a.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b55d4a06f72d1713bf8aa22601106a0a.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 840784
+    },
+    "title": "Chemtrails Over the Country Club",
+    "title_with_featured": "Chemtrails Over the Country Club",
+    "updated_by_human_at": 1720875830,
+    "url": "https://genius.com/Lana-del-rey-chemtrails-over-the-country-club-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "183 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olHrvatski\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschFran\u00e7ais\u65e5\u672c\u8a9ePortugu\u00easItalianoChemtrails Over the Country Club Lyrics[Chorus]\nI'm on the run with you, my sweet love\nThere's nothing wrong contemplating God\nUnder the chemtrails\u2005over\u2005the country club\nWearin'\u2005our jewels in the swimming pool\nMe\u2005and my sister just playin' it cool\nUnder the chemtrails over\u205fthe\u205fcountry\u205fclub\n\n[Verse 1]\nTake out your\u205fturquoise and all\u205fof your jewels\nGo to the market, the kids' swimming pools\nBaby, what's your sign?\nMy moon's in Leo, my Cancer is sun\nYou won't play, you're no fun\nWell, I don't care what they think\nDrag racing my little red sports car\nI'm not unhinged or unhappy, I'm just wild\n\n[Chorus]\nI'm on the run with you, my sweet love\nThere's nothing wrong contemplating God\nUnder the chemtrails over the country club\nWearin' our jewels in the swimming pool\nMe and my sister just playin' it cool\nUnder the chemtrails over the country club\nYou might also like[Verse 2]\nMeet you for coffee at the elementary schools\nWe laugh about nothing as the summer gets cool\nIt's beautiful how this deep normality settles down over me\nI'm not bored or unhappy, I'm still so strange and wild\n\n[Chorus]\nYou're in the wind, I'm in the water\nNobody's son, nobody's daughter\nWatching the chemtrails over the country club\nSuburbia, The Brentwood Market\nWhat to do next? Maybe we'll love it\nWhite picket chemtrails over the country club\n\n[Bridge]\nMy love, my love\n\n[Chorus]\nWashing my hair, doing the laundry\nLate night TV, I want you on me\nLike when we were kids under chemtrails and country clubs\nIt's never too late, baby, so don't give up\nIt's never too late, baby, so don't give up\nUnder the chemtrails over the country club, yeah (You're born in December and I'm born in June)\nUnder the chemtrails, over the country club, yeah (You're born in December and I'm born in June)\n[Outro]\nMy Cancer is sun and my Leo is moon\nMy Cancer is sun and my Leo is moon102Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/5792444",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Tulsa Jesus Freak by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.1000x1000x1.jpg",
+    "id": 5792444,
+    "instrumental": false,
+    "lyrics_owner_id": 1947772,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710412193,
+    "path": "/Lana-del-rey-tulsa-jesus-freak-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 39,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-tulsa-jesus-freak-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 3,
+     "day": 19
+    },
+    "release_date_for_display": "March 19, 2021",
+    "release_date_with_abbreviated_month_for_display": "Mar. 19, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d32a6f5fdc53c1638409b949b28c7c3e.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/d32a6f5fdc53c1638409b949b28c7c3e.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 305484
+    },
+    "title": "Tulsa Jesus Freak",
+    "title_with_featured": "Tulsa Jesus Freak",
+    "updated_by_human_at": 1720875832,
+    "url": "https://genius.com/Lana-del-rey-tulsa-jesus-freak-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "112 ContributorsTranslationsItalianoT\u00fcrk\u00e7eEspa\u00f1ol\u0421\u0440\u043f\u0441\u043a\u0438\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\u65e5\u672c\u8a9e\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschFran\u00e7aisTulsa Jesus Freak Lyrics[Chorus]\nYou should stay real close to Jesus\nKeep that bottle at your hand, my man\nFind your\u2005way\u2005back to my\u2005bed again\nSing me like a Bible\u2005hymn\nWe should go back to Arkansas\nTrade this body for the\u205fcan\u205fof\u205fGin\nLike a little\u205fpiece of heaven\nNo\u205fmore candle in the wind\n\n[Verse 1]\nYou should come back to our place, baby\nDon't be afraid of our love\nOn the second floor, darling\nIn a second flat, hurry up\n'Cause down in Arkansas the stores are all closed\nThe kids in their hoodies, they dance super slow\nWe're white-hot forever and only God knows\n\n[Chorus]\nYou should stay real close to Jesus\nKeep that bottle at your hand, my man\nFind your way back to my bed again\nSing me like a Bible hymn\nWe should go back to Arkansas\nTrade this body for the can of Gin\nLike a little piece of heaven\nNo more candle in the wind\nYou might also like[Post-Chorus]\nWe'll be white-hot forever (Forever, forever)\nWhite-hot forever (Forever, forever)\nWhite-hot forever\nAnd ever and ever, amen\n\n[Verse 2]\nCould I come back to the ranch, baby?\nI had to get away for a while\nJust to rest my nerves, darling\nCan I make you laugh with a smile?\nYou knew when you chose me\nI was nothing but ordinary\nAnd now the wind's blowing, reminding you of what you know\n\n[Chorus]\nYou should stay real close to Jesus\nKeep that bottle at your hand, my man\nFind your way back to my bed again (Sing, sing)\nSing me like a Bible hymn\nWe should go back to Arkansas\nTrade this body for that can of Gin\nLike a little piece of heaven\nNo more candle in the wind\n\n[Post-Chorus]\nWe'll be white-hot forever (Forever, forever)\nWhite-hot forever (Together, together)\nWhite-hot forever\nAnd ever and ever, the end\nWhite-hot forever (Forever, forever)\nWhite-hot forever (Together, together)\nWhite-hot forever\nAnd ever and ever, amen\n[Outro]\nYou should stay real close to Jesus\nIf you don't pray, you'll never learn\nKeep that bottle at your hand, my man\nYou know what I'm sayin'?\nFind your way back to my bed again\nSing me like a Bible hymn\nWe should go back to Arkansas\nI like living here\nTrade this body for the can of Gin\nLike a little piece of heaven\nNo more candle in the wind39Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/5157590",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Let Me Love You Like A Woman by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.1000x1000x1.jpg",
+    "id": 5157590,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1709908187,
+    "path": "/Lana-del-rey-let-me-love-you-like-a-woman-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 55,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-let-me-love-you-like-a-woman-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 10,
+     "day": 16
+    },
+    "release_date_for_display": "October 16, 2020",
+    "release_date_with_abbreviated_month_for_display": "Oct. 16, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/078c309b261fe8c4e94b2822610570af.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/078c309b261fe8c4e94b2822610570af.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 260691
+    },
+    "title": "Let Me Love You Like A Woman",
+    "title_with_featured": "Let Me Love You Like A Woman",
+    "updated_by_human_at": 1720875834,
+    "url": "https://genius.com/Lana-del-rey-let-me-love-you-like-a-woman-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "101 ContributorsTranslations\u65e5\u672c\u8a9eT\u00fcrk\u00e7eEspa\u00f1olHrvatskiPortugu\u00eas\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschFran\u00e7aisItaliano\u0420\u0443\u0441\u0441\u043a\u0438\u0439Let Me Love You Like A Woman Lyrics[Verse 1]\nI come from a small town, how 'bout you?\nI only mention it 'cause I'm ready\u2005to\u2005leave LA\nAnd I\u2005want you to come\nEighty miles north\u2005or south will do\nI don't care where as long as you're with me\nAnd I'm with you and you let me\n\n[Chorus]\nLet me love you like a woman\nLet me hold you like a baby\nLet me shine like a diamond\nLet me be who I'm meant to be\nTalk to me in poems and songs\nDon't make me be bittersweet\nLet me love you like a woman\nLet me hold you like a baby\nLet me hold you like a baby\n\n[Verse 2]\nI come from a small town far away\nI only mention it 'cause I'm ready to leave LA\nAnd I want you to come (And I need you to come)\nI guess I could manage if you stay\nIt's just if you do, I can't see myself having any fun, so\nYou might also like[Chorus]\nLet me love you like a woman\nLet me hold you like a baby\nLet me shine like a diamond\nLet me be who I'm meant to be\nTalk to me in songs and poems\nDon't make me be bittersweet\nLet me love you like a woman\n\n[Post-Chorus]\nTake you to infinity\nLet me love you like a woman (Let me hold you like a baby)\nTake you to infinity\nLet me love you like a woman (Let me hold you like a baby)\nTake you to infinity\n\n[Bridge]\nWe could get lost in the purple rain\nTalk about the good ol' days\nWe could get high on some pink champagne\nBaby, let me count the ways\n\n[Chorus]\nLet me love you like a woman\nLet me hold you like a baby\nLet me shine like a diamond\nLet me be who I'm meant to be\nTalk to me in songs and poems\nDon't make me be bittersweet\nLet me love you like a woman55Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/6288775",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Wild at Heart by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.1000x1000x1.png",
+    "id": 6288775,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1686263676,
+    "path": "/Lana-del-rey-wild-at-heart-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 34,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-wild-at-heart-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 3,
+     "day": 19
+    },
+    "release_date_for_display": "March 19, 2021",
+    "release_date_with_abbreviated_month_for_display": "Mar. 19, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 175784
+    },
+    "title": "Wild at Heart",
+    "title_with_featured": "Wild at Heart",
+    "updated_by_human_at": 1720875835,
+    "url": "https://genius.com/Lana-del-rey-wild-at-heart-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "107 ContributorsTranslationsT\u00fcrk\u00e7e\u0421\u0440\u043f\u0441\u043a\u0438Espa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\u65e5\u672c\u8a9e\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschFran\u00e7aisItalianoWild at Heart Lyrics[Verse 1]\nWhat would you do if I told you\nYou made me crazy\nTo see your pretty pics on Sunset Boulevard?\nAnd it makes me lazy\nSo I smoke cigarettes\nJust to understand the smog\n\n[Pre-Chorus]\nI love you lots like polka dots\nYou're killing me more\nThan coffee pots and insta-dots\nWith every drop I pour\nAnd if I had to do it all again\nI would because, babe, in the end\nIt brought me here to you\n\n[Chorus]\nI left Calabasas, escaped all the ashes, ran into the dark\nAnd it made me wild, wild, wild at heart\nThe cameras have flashes, they cause the car crashes\nBut I'm not a star\nIf you love me, you'll love me\n'Cause I'm wild, wild at heart\nIf they love me, they'll love me\n'Cause I'm wild, wild at heart\nYou might also like[Verse 2]\nWhat would you do if I wouldn't sing for them no more?\nLike if you heard I was out in the bars drinkin' Jack and Coke\nGoing crazy for anyone who would listen to my stories, babe\nTime after time, I think about leaving\nBut you know that I never do just 'cause you keep me believin'\n\n[Pre-Chorus]\nI love you lots, despite the odds\nYou're killing me, Joe\nAnd all these thoughts brought us apart\nAnd that's okay, too\n'Cause even in the worst of times\nYou saw the best of me\nAnd that's why I stay here with you\n\n[Chorus]\nI left Calabasas, escaped all the ashes, ran into the dark\nAnd it made me wild, wild, wild at heart\nThe cameras have flashes, they cause the car crashes\nBut I'm not a star\nIf you love me, you'll love me\n'Cause I'm wild, wild at heart\nIf you love me, you'll love me\n'Cause I'm wild, wild at heart\n[Outro]\n'Cause, baby, I'm wild at heart\nIf you love me, you'll love me\n'Cause I'm wild at heart\nBaby, I'm wild, wild at heart\nIf they love me, they'll love me\n'Cause I'm wild, wild at heart\nIf they love me, they'll love me\n'Cause I'm wild, wild at heart34Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 18,
+    "api_path": "/songs/6289341",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Dark But Just a Game by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.1000x1000x1.png",
+    "id": 6289341,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1709502967,
+    "path": "/Lana-del-rey-dark-but-just-a-game-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 43,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-dark-but-just-a-game-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 3,
+     "day": 19
+    },
+    "release_date_for_display": "March 19, 2021",
+    "release_date_with_abbreviated_month_for_display": "Mar. 19, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 12,
+     "hot": false,
+     "pageviews": 168126
+    },
+    "title": "Dark But Just a Game",
+    "title_with_featured": "Dark But Just a Game",
+    "updated_by_human_at": 1720875837,
+    "url": "https://genius.com/Lana-del-rey-dark-but-just-a-game-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "83 ContributorsTranslationsT\u00fcrk\u00e7e\u0421\u0440\u043f\u0441\u043a\u0438Espa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\u65e5\u672c\u8a9e\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschFran\u00e7aisItalianoDark But Just a Game Lyrics[Verse 1]\n\"It's dark, but just a game\"\nThat's what he would say to me\nThe faces aren't the same, but their stories all end tragically\n(Sweet or whatever, baby)\nAnd that's the price of fame\nA tale as old as time you'd be (Sweet or whatever, baby)\nA pretty little fool to think exceptions to the rule\nJust walk around like you and me, this way\nBut life is sweet or whatever, baby\nYou gotta take them for what they got\nAnd while the whole world is crazy\nWe're getting high in the parking lot\n\n[Chorus]\nW\u0435 keep changing all the time\nThe b\u0435st ones lost their minds\nSo I'm not gonna change\nI'll stay the same\nNo rose left on the vines\nDon't even want what's mine\nMuch less the fame\nIt's dark, but just a game\nIt's dark, but just a game\n\n[Verse 2]\nIt's dark, but just a game\nSo play it like a symphony\nYou know our love's the same, they'll both go down in infamy\nI was a pretty little thing and God, I loved to sing\nBut nothing came from either one but pain (But fuck it)\nLife is sweet or whatever, baby\nDon't ever think it's not\nWhile the whole world is crazy\nWe're making out in the parking lot\nYou might also like[Chorus]\nWe keep changing all the time\nThe best ones lost their minds\nSo I'm not gonna change\nI'll stay the same\nNo rose left on the vines\nDon't even want what's mine\nMuch less the fame\nIt's dark, but just a game\nWe keep changing all the time\nThe best ones lost their minds\nSo I'm not gonna change\nI'll stay the same\nNo rose left on the vines\nDon't even want what's mine\nMuch less the fame\nIt's dark, but just a game\nIt's dark, but just a game\nIt's dark, but just\u201443Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/6289397",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Not All Who Wander Are Lost by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.1000x1000x1.png",
+    "id": 6289397,
+    "instrumental": false,
+    "lyrics_owner_id": 1947772,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1707152183,
+    "path": "/Lana-del-rey-not-all-who-wander-are-lost-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 23,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-not-all-who-wander-are-lost-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 3,
+     "day": 19
+    },
+    "release_date_for_display": "March 19, 2021",
+    "release_date_with_abbreviated_month_for_display": "Mar. 19, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 123260
+    },
+    "title": "Not All Who Wander Are Lost",
+    "title_with_featured": "Not All Who Wander Are Lost",
+    "updated_by_human_at": 1720875838,
+    "url": "https://genius.com/Lana-del-rey-not-all-who-wander-are-lost-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "68 ContributorsTranslationsT\u00fcrk\u00e7e\u0421\u0440\u043f\u0441\u043a\u0438Espa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\u65e5\u672c\u8a9e\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschFran\u00e7aisItalianoNot All Who Wander Are Lost Lyrics[Verse 1]\nI've been wearin' the same damn clothes for three damn days\nLincoln, Nebraska's got me in a haze\nThe thing about men like you is you got a lot to say\nBut will you stay?\n\n[Pre-Chorus]\nYou say you got my name on your tattoo\nOpening up doors, pulling out chairs, look at you\nYou talk to God like I do, I think you know\nThe same secrets that I do, I'm talkin' 'bout\n\n[Chorus]\nNot all those who wander are lost\nNot all those who wander are lost\nNot all those who wander, all those who wander\nAll those who wander are lost\nIt's just wanderlust\n\n[Verse 2]\nThe thing about bein' on the road\nIs there's too much time to think\nAbout seasons of old\nAs you pour yourself a drink\n'Cause every time I said no\nIt wasn't quite what I meaned\nIf you know what I mean\nYou might also like[Pre-Chorus]\nYou said you got my name as your tattoo\nPulling out chairs, opening doors, look at you\nYou talk to people like I do, I think you know\nThe same things that I do\n\n[Chorus]\nNot all those who wander are lost\nNot all those who wander are lost\nNot all those who wander, all those who wander\nAll those who wander are lost\nIt's just wanderlust\n\n[Bridge]\nLook at me, look at you\nLook at what you made me do\nLook at me, look at you\nBible on your tattoo\nLook at me, look at you\nLook at what you made me do\nLook at me, look at you\n\n[Chorus]\nNot all those who wander are lost\nNot all those who wander are lost\nNot all those who wander, all those who wander\nAll those who wander are lost\nIt's just wanderlust23Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/3059538",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Yosemite by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.1000x1000x1.png",
+    "id": 3059538,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722940362,
+    "path": "/Lana-del-rey-yosemite-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 33,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-yosemite-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 3,
+     "day": 19
+    },
+    "release_date_for_display": "March 19, 2021",
+    "release_date_with_abbreviated_month_for_display": "Mar. 19, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8452a22576d71c693cfad76a95669904.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 189213
+    },
+    "title": "Yosemite",
+    "title_with_featured": "Yosemite",
+    "updated_by_human_at": 1722940362,
+    "url": "https://genius.com/Lana-del-rey-yosemite-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "98 ContributorsTranslationsT\u00fcrk\u00e7e\u0421\u0440\u043f\u0441\u043a\u0438Espa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\u65e5\u672c\u8a9e\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschFran\u00e7ais\u0627\u0644\u0639\u0631\u0628\u064a\u0629ItalianoYosemite Lyrics[Verse 1]\nSeasons may change\nBut we won't change\nIsn't it sweet how we know that already?\nWinter to spring\nSpring back to fall\nIsn't it cool how nothing here changes at all?\n\n[Pre-Chorus]\nYou make me feel I'm invincible\nJust like I wanted\nNo more candle in the wind\nIt's not like I'm invisible\nNot like before when I was burning at both ends\n\n[Chorus]\nWe did it for fun, we did it for free\nI did it for you, you did it for me\nWe did it for the right reasons\nWe did it for the right reasons\n\n[Verse 2]\nSeasons may change\nBut we won't change\nIsn't it strange how different we are from all of our friends?\nSeasons will turn\nThe world, it will turn\nThe only thing we'll turn is the pages of all of the poems we burned\nYou might also like[Pre-Chorus]\nHoney, you made me feel I'm invincible\nIt's just like I wanted\nNo more candle in the wind\nIt's not like I'm invisible\nLike I was before, no more burning at both ends\n\n[Chorus]\nNow I do it for fun, I do it for free\nI do it for you, you did it for me\nWe did it for the right reasons\nWe did it for the right reasons\n\n[Bridge]\nI remember watching How Green Was My Valley\nThen I was thinking\n\"How deep was the canyon that you came from?\"\nTelevision static was quite overwhelming\nWas it because of the cabin and the candles in the wind?\n\n[Chorus]\nWe've done it for fun, we've done it for free\nI showed up for you, you showed up for me\nWe did it for the right reasons\nWe did it for fun, we did it for free\n[Outro]\nWhen I was young 'til eternity\nI'll do it for the right reasons\nWithstanding all the time, changes, and seasons\nRight reasons33Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/6071050",
+    "artist_names": "Lana Del Rey (Ft. Nikki Lane)",
+    "full_title": "Breaking Up Slowly by\u00a0Lana\u00a0Del Rey (Ft.\u00a0Nikki\u00a0Lane)",
+    "header_image_thumbnail_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.1000x1000x1.jpg",
+    "id": 6071050,
+    "instrumental": false,
+    "lyrics_owner_id": 1947772,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721047928,
+    "path": "/Lana-del-rey-breaking-up-slowly-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 26,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-breaking-up-slowly-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 3,
+     "day": 19
+    },
+    "release_date_for_display": "March 19, 2021",
+    "release_date_with_abbreviated_month_for_display": "Mar. 19, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 146668
+    },
+    "title": "Breaking Up Slowly",
+    "title_with_featured": "Breaking Up Slowly (Ft.\u00a0Nikki\u00a0Lane)",
+    "updated_by_human_at": 1721047928,
+    "url": "https://genius.com/Lana-del-rey-breaking-up-slowly-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/370432",
+      "header_image_url": "https://images.genius.com/e698c6d898ca365448306c40d3a0d09d.1000x667x1.jpg",
+      "id": 370432,
+      "image_url": "https://images.genius.com/d2abe5d7c09e08e3db09d6bf241692dc.1000x1000x1.jpg",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nikki Lane",
+      "slug": "Nikki-lane",
+      "url": "https://genius.com/artists/Nikki-lane"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "57 ContributorsTranslationsItalianoT\u00fcrk\u00e7e\u0421\u0440\u043f\u0441\u043a\u0438Espa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\u65e5\u672c\u8a9e\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschFran\u00e7aisBreaking Up Slowly Lyrics[Chorus: Nikki Lane]\nBreakin' up slowly is a hard thing to do\nI love you only, but it's makin' me blue\nSo don't send me flowers like you always do\nIt's hard to be lonely, but it's the right thing\n\n[Verse 1: Nikki Lane]\nAre these my good years or do I have none?\nAre there really good years for everyone?\nI don't wanna live with a life of regret\nI don't wanna end up like Tammy Wynette\n\n[Chorus: Lana Del Rey & Nikki Lane]\n'Cause breakin' up slowly is a hard thing to do\nI love you only, but it's makin' me blue\nSo don't send me flowers like you always do\nIt's hard to b\u0435 lonely, but it's the right thing to do\n\n[Verse 2: Lana Del Rey]\nGeorg\u0435 got arrested out on the lawn\nWe might be breakin' up after this song\nWill he still love me long after I'm gone?\nOr did he see it comin' all along?\n\n[Chorus: Lana Del Rey & Nikki Lane]\n'Cause breakin' up slowly is a hard thing to do\nI love you only, and it's makin' me blue\nSo don't send me flowers like you always do\nIt's hard to be lonely (Baby, breakin' up is hard to do)\nBreakin' up slowly (Baby, breakin' up is hard to do)\nBreakin' up slowly is a hard thing to do\nI love you only, and it's makin' me blue\nSo don't send me flowers like you always do\nIt's hard to be lonely, but it's the right thing to doYou might also like26Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 20,
+    "api_path": "/songs/6289395",
+    "artist_names": "Lana Del Rey",
+    "full_title": "Dance Till We Die by\u00a0Lana\u00a0Del Rey",
+    "header_image_thumbnail_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.1000x1000x1.jpg",
+    "id": 6289395,
+    "instrumental": false,
+    "lyrics_owner_id": 1947772,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721542247,
+    "path": "/Lana-del-rey-dance-till-we-die-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 27,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-dance-till-we-die-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 3,
+     "day": 19
+    },
+    "release_date_for_display": "March 19, 2021",
+    "release_date_with_abbreviated_month_for_display": "Mar. 19, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 128780
+    },
+    "title": "Dance Till We Die",
+    "title_with_featured": "Dance Till We Die",
+    "updated_by_human_at": 1721542247,
+    "url": "https://genius.com/Lana-del-rey-dance-till-we-die-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "85 ContributorsTranslationsItalianoT\u00fcrk\u00e7e\u0421\u0440\u043f\u0441\u043a\u0438Espa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\u65e5\u672c\u8a9e\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschFran\u00e7aisDance Till We Die Lyrics[Verse 1]\nI'm coverin' Joni and I'm dancin' with Joan\nStevie is callin' on the telephone\nCourt almost burned down my home\nBut God, it feels good not to be alone\n\n[Pre-Chorus]\nBut sometimes, this ranch feels like my only friend\nAnd life doesn't always work out like we planned\nWe keep it movin', babe\n\n[Chorus]\nSo we made it back in the middle of the night\nTo the Louisiana two-step, high and bright\nAnd we won't say when, we won't ask why\nWe won't stop dancin' 'til we die\nWe'll keep walkin' on the sunny side\nAnd we won't stop dancin' 'til we die\n\n[Verse 2]\nTroubled by my circumstanc\u0435\nBurdened by the w\u0435ight of fame\nClementine's not just a fruit\nIt's my daughter's chosen name\n\n[Pre-Chorus]\nAnd when all the bars close down tonight\nThere's one that stays open just for us, alright\nWe keep dancin', babe\nYou might also like[Chorus]\nSo we made it back in the middle of the night (We keep dancin', babe)\nTo the Louisiana two-step, high and bright (We keep it movin', babe)\nAnd we won't say when, we won't ask why\nWe won't stop dancin' 'til we die\nWe'll keep walkin' on the sunny side\nAnd we won't stop dancin' 'til we die\n\n[Bridge]\nI went down to Woodside\nI left Berkeley, out of city, out of mind\nKillin' it, talkin' shit, Joan said she was gonna quit\nTearin' it up at the Afro-Caribbean two-step\nI left San Francisco\nI've been coverin' Joni and I'm dancin' with Joan\nIt's kinda hard to find love\nWhen you're used to rollin' like a rollin' stone\n\n[Chorus]\nSo we made it back in the middle of the night (We keep it movin', babe)\nTo the Louisiana two-step, high and bright (We keep dancin', babe)\nAnd we won't say when, we won't ask why\nWe won't stop dancin' 'til we die\nWe'll keep walkin' on the sunny side\nAnd we won't stop dancin' 'til we die\nAnd we won't stop dancin' 'til we die27Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/6288803",
+    "artist_names": "Lana Del Rey (Ft. Weyes Blood & Zella Day)",
+    "full_title": "For Free by\u00a0Lana\u00a0Del Rey (Ft.\u00a0Weyes\u00a0Blood & Zella\u00a0Day)",
+    "header_image_thumbnail_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.1000x1000x1.jpg",
+    "id": 6288803,
+    "instrumental": false,
+    "lyrics_owner_id": 12329316,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1619526520,
+    "path": "/Lana-del-rey-for-free-lyrics",
+    "primary_artist_names": "Lana Del Rey",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Lana-del-rey-for-free-sample",
+    "release_date_components": {
+     "year": 2021,
+     "month": 3,
+     "day": 19
+    },
+    "release_date_for_display": "March 19, 2021",
+    "release_date_with_abbreviated_month_for_display": "Mar. 19, 2021",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5fe7878dc64fdf786f58cf12e1e3511a.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 86890
+    },
+    "title": "For Free",
+    "title_with_featured": "For Free (Ft.\u00a0Weyes\u00a0Blood & Zella\u00a0Day)",
+    "updated_by_human_at": 1720875845,
+    "url": "https://genius.com/Lana-del-rey-for-free-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/481747",
+      "header_image_url": "https://images.genius.com/1b1e2a069da1694ac1ed10f3a8d3038e.1000x562x1.png",
+      "id": 481747,
+      "image_url": "https://images.genius.com/257a5e1914b7793fd9d83a6f5c557ef1.1000x1000x1.jpg",
+      "index_character": "w",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Weyes Blood",
+      "slug": "Weyes-blood",
+      "url": "https://genius.com/artists/Weyes-blood"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/184842",
+      "header_image_url": "https://images.genius.com/83104ce92ea5d51dafc8946abb568b86.1000x429x1.jpg",
+      "id": 184842,
+      "image_url": "https://images.genius.com/3c5bdb30d85a658455dd767116dbc86c.1000x1000x1.png",
+      "index_character": "z",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Zella Day",
+      "slug": "Zella-day",
+      "url": "https://genius.com/artists/Zella-day"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/15740",
+     "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+     "id": 15740,
+     "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lana Del Rey",
+     "slug": "Lana-del-rey",
+     "url": "https://genius.com/artists/Lana-del-rey"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/15740",
+      "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+      "id": 15740,
+      "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lana Del Rey",
+      "slug": "Lana-del-rey",
+      "url": "https://genius.com/artists/Lana-del-rey"
+     }
+    ],
+    "artist": "Lana Del Rey",
+    "lyrics": "57 ContributorsTranslationsItalianoT\u00fcrk\u00e7e\u0421\u0440\u043f\u0441\u043a\u0438Espa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Portugu\u00eas\u65e5\u672c\u8a9e\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschFran\u00e7aisFor Free Lyrics[Verse 1: Zella Day]\nI slept last night in a good hotel\nI went shoppin' today for jewels\nThe wind rushed around in the dirty town\nAnd the children let out from their school\nI was standin' on a noisy corner\nWaitin' for the walkin' green\nAcross the street, he stood\nAnd he played real good\nOn his clarinet for free\n\n[Verse 2: Lana Del Rey]\nNow me, I play for fortunes\nAnd those velvet curtain calls\nI've got a black Limousine and two gentlemen\nWho escort me through these halls\nAnd I'll play if you've got the money\nOr if you're a friend to me\nBut the one-man band by th\u0435 quick lunch stand\nHe's been playin' real good for free\n\n[Verse 3: Weyes Blood]\nNobody stopped to h\u0435ar him\nThough he played so sweet and high\nThey knew he had never been on the TV\nSo they passed his music by\nI meant to go over and ask for a song\nMaybe put on a harmony\nI heard his refrain as the signal changed\nHe was playin' real good for freeYou might also like18Embed"
+   }
+  }
+ ]
+}

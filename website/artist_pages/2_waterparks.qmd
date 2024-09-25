@@ -1,5 +1,6 @@
 ---
 title: "Waterparks"
+subtitle: "So learn these ****ing words"
 date: "2024-08-11"
 date-modified: "2024-08-11"
 categories: ["pop punk"]

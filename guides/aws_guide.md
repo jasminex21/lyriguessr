@@ -31,7 +31,7 @@
 
     iii. `yum install git`
 
-    iv. `git clone <repo_url>`
+    iv. `git clone https://github.com/jasminex21/lyriguessr.git`
 
     v. `yum install python3-pip`
 

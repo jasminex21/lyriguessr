@@ -2,7 +2,7 @@ import streamlit as st
 
 from lyriguessr.components import *
 
-set_global_vars(lyrics_path="./artists/the_nbhd/the neighbourhood_lyrics.csv", 
+set_global_vars(lyrics_path="./artists/the_neighbourhood/the neighbourhood_lyrics.csv", 
                 albums=["I'm Sorry",
                         "I Love You.",
                         "The Love Collection",
@@ -10,7 +10,7 @@ set_global_vars(lyrics_path="./artists/the_nbhd/the neighbourhood_lyrics.csv",
                         "Wiped Out!",
                         "Hard to Imagine the Neighbourhood Ever Changing",
                         "Chip Chrome & the Mono-Tones (Deluxe)"],
-                leaderboard_path="./artists/the_nbhd/leaderboard.db")
+                leaderboard_path="./artists/the_neighbourhood/leaderboard.db")
 
 config_game(game_title="nbhdGuessr")
 init_session_states()

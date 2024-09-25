@@ -1,5 +1,6 @@
 ---
 title: "Taylor Swift"
+subtitle: "Are you...perhaps...ready for it?"
 date: "2024-08-01"
 date-modified: "2024-08-12"
 categories: ["pop"]
@@ -58,3 +59,4 @@ gt(data) %>%
 ### Similar Artists
 
 * [Olivia Rodrigo](4_olivia_rodrigo.qmd)
+* [Sabrina Carpenter](7_sabrina_carpenter.qmd)

@@ -1,45 +1,42 @@
 ---
 title: "Coming Soon..."
+date-modified: "2024-09-24"
 ---
-
-### Artists to be added 
 
 ::: {.callout-tip appearance="simple"}
 ## Tip
 Interact with me at [@lyriguessr](https://x.com/lyriguessr) on Twitter or Instagram to request new artists!
 :::
 
-*In this order...*
-
-* Olivia Rodrigo
-* Billie Eilish
-* Chappell Roan
-* Dominic Fike
-* Clairo
-* Lana del Ray
-* Hozier
-* Harry Styles
-* Bad Bunny
-* SZA
-* Ariana Grande
-* beabadoobee
-* Kendrick Lamar
-* Tyler, the Creator
-* Chase Atlantic
-* The Weeknd
+### 🔜 Artists I plan on adding
+* 5 Seconds of Summer
 * Twenty One Pilots
 * Fall Out Boy
-
-#### Potential other artists
-
-* Bad Omens
-* Beach Bunny
-* 5 Seconds of Summer
+* My Chemical Romance
 * Paramore
-* Charli XCX
-* KPop artists - e.g. BTS, TWICE, etc. Will need insights as to how I should do this, considering the language barrier
+* Beyonce
+* Billie Eilish
+* Kendrick Lamar
+* SZA
 
-#### Others
+### 🤔 Other potential artists
+* Pierce the Veil
+* Bring Me the Horizon
+* Sleep Token
+* Chappell Roan
+* Dominic Fike
+* Harry Styles
+* Bad Bunny
+* Ariana Grande
+* beabadoobee
+* PinkPantheress
+* Lorde
+* Halsey
+* Tyler, the Creator
+* Lana del Ray
+* Hozier
+* Oasis
 
+### ❓ Other ideas
 * Hamilton (the musical)
 * Disney movie songs

@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+promo/
+logs/
+analytics/UNIQUE_USERS.csv
+
 # C extensions
 *.so
 

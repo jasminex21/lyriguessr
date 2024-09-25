@@ -1,0 +1,841 @@
+{
+ "_type": "album",
+ "api_path": "/albums/531649",
+ "cover_art_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+ "full_title": "Immunity by Clairo",
+ "id": 531649,
+ "name": "Immunity",
+ "name_with_artist": "Immunity (artist: Clairo)",
+ "release_date_components": {
+  "year": 2019,
+  "month": 8,
+  "day": 2
+ },
+ "release_date_for_display": "August 2, 2019",
+ "url": "https://genius.com/albums/Clairo/Immunity",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/1144133",
+  "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+  "id": 1144133,
+  "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Clairo",
+  "slug": "Clairo",
+  "url": "https://genius.com/artists/Clairo",
+  "iq": 7477
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1144133",
+   "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+   "id": 1144133,
+   "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+   "index_character": "c",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Clairo",
+   "slug": "Clairo",
+   "url": "https://genius.com/artists/Clairo",
+   "iq": 7477
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/4632148",
+    "artist_names": "Clairo",
+    "full_title": "Alewife by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/8e9d7db76d2cf67d3f558d7c6d6153e5.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/8e9d7db76d2cf67d3f558d7c6d6153e5.600x600x1.jpg",
+    "id": 4632148,
+    "instrumental": false,
+    "lyrics_owner_id": 3711735,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1704410937,
+    "path": "/Clairo-alewife-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 26,
+    "relationships_index_url": "https://genius.com/Clairo-alewife-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 2
+    },
+    "release_date_for_display": "August 2, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 2, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8e9d7db76d2cf67d3f558d7c6d6153e5.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/8e9d7db76d2cf67d3f558d7c6d6153e5.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 222392
+    },
+    "title": "Alewife",
+    "title_with_featured": "Alewife",
+    "updated_by_human_at": 1704410937,
+    "url": "https://genius.com/Clairo-alewife-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "41 ContributorsTranslationsPolskiAlewife Lyrics[Verse 1]\nIn Massachusetts\nOnly 30 minutes from Alewife\nI lay in my room\nWonderin' why I've got this life\nI met you by surprise\nYou were hangin' out all the time\nBut you know you saved me from doin'\nSomething to myself that night\n\n[Verse 2]\nYou called me seven times\nOne, two, three, four, on the line\nI didn't mean to scare you\nJust had the thoughts in my mind\nThey showed up to my door\nMy parents didn't know what for\nSwear I could've done it\nIf you weren't there when I hit the floor\n\n[Verse 3]\nIt's been so long\nAnd you've been my sister all along\nBut you know I'll be alright\nEighth grade was never that tightSee Clairo LiveGet tickets as low as $49You might also like26Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/4631323",
+    "artist_names": "Clairo",
+    "full_title": "Impossible by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/8e9d7db76d2cf67d3f558d7c6d6153e5.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/8e9d7db76d2cf67d3f558d7c6d6153e5.600x600x1.jpg",
+    "id": 4631323,
+    "instrumental": false,
+    "lyrics_owner_id": 3711735,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1705772798,
+    "path": "/Clairo-impossible-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Clairo-impossible-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 2
+    },
+    "release_date_for_display": "August 2, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 2, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8e9d7db76d2cf67d3f558d7c6d6153e5.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/8e9d7db76d2cf67d3f558d7c6d6153e5.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 94739
+    },
+    "title": "Impossible",
+    "title_with_featured": "Impossible",
+    "updated_by_human_at": 1705772798,
+    "url": "https://genius.com/Clairo-impossible-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "30 ContributorsImpossible Lyrics[Verse: Clairo]\nHow are you feeling? How are you doing?\nI'm sorry, I just wanted to hear your voice so clear\nWhat are you thinking? Am I amusing?\nIt's so strange to talk after all these years\nWhat is the meaning? It's so confusing\nAll my old feelings coming back to me\nWhen was the last time that I saw your face?\nKnow it like the back of my hand, I'd say\nAnd you're not that dumb anymore\nI picked up the books you threw to the floor\nPut them back on the shelf\nDon't you see how much I want your help?\n\n[Chorus: Clairo]\nAnd I know we're not the same as we were\nUsed to be falling hard, but now it just hurts me so bad\nAnd you know that I can't hold back\nAll of these worries that I have had 'bout you\n\n[Bridge: Clairo & Danielle Haim]\nAnd I know that it's time\nTo forget how I'm feeling, don't want to give in\nBut I know, know that it's right\nTo listen to my breathing and start believing myself\nAnd I know that it's time\nTo forget how I'm feeling, don't want to give in\nBut I know, know that it's right\nTo listen to my breathing and start believing myself\nWoah, myself, myself\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus: Clairo]\nAnd I know we're not the same as we were\nUsed to be falling hard, but now it just hurts me so bad\nAnd you know that I can't hold back\nAll of these worries that I have had 'bout you8Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/4631314",
+    "artist_names": "Clairo",
+    "full_title": "Closer To You by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "id": 4631314,
+    "instrumental": false,
+    "lyrics_owner_id": 93685,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1699570626,
+    "path": "/Clairo-closer-to-you-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Clairo-closer-to-you-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 6,
+     "day": 27
+    },
+    "release_date_for_display": "June 27, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jun. 27, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 90097
+    },
+    "title": "Closer To You",
+    "title_with_featured": "Closer To You",
+    "updated_by_human_at": 1699570626,
+    "url": "https://genius.com/Clairo-closer-to-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "25 ContributorsTranslationsEspa\u00f1olFran\u00e7aisCloser To You Lyrics[Verse 1]\nI feel it in my bones, even when I'm alone\nMama said, \"I told you so,\" going down a different road\nYou call me late at night, I pick up every time\nWish that I could rewind, get some peace of mind\n\n[Pre-Chorus]\nShut up, don't wanna hear it now, I'm fed up\nWish I could say it was enough, oh, to make me walk away\nAnd I'm messed up 'cause every time I start to get up\nAnd now my head feels fucked up, and I know it won't change\n\n[Chorus]\nThe things you do\nOnly make me want to get closer to you\nAnd the things that you say\nOnly make me want to stay\n\n[Verse 2]\nCan't push me away, I'm not going, I'll wait\nYou know this street runs two ways, say\nSo I need to hear your voice\nKnow I'm standing here by choice\nAnd I can't hear the background noise, anyway\n\n[Pre-Chorus]\nShut up, don't wanna hear it now, I'm fed up\nWish I could say it was enough, oh, to make me walk away\nAnd I'm messed up 'cause every time I start to get up\nAnd now my head feels fucked up, and I know it won't change\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nThe things you do\nOnly make me want to get closer to you\nAnd the things that you say\nOnly make me want to stay10Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/4631317",
+    "artist_names": "Clairo",
+    "full_title": "North by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "id": 4631317,
+    "instrumental": false,
+    "lyrics_owner_id": 126836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1713727030,
+    "path": "/Clairo-north-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Clairo-north-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 2
+    },
+    "release_date_for_display": "August 2, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 2, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 98489
+    },
+    "title": "North",
+    "title_with_featured": "North",
+    "updated_by_human_at": 1713727030,
+    "url": "https://genius.com/Clairo-north-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "24 ContributorsNorth Lyrics[Verse 1]\nI'm nervous, couldn\u2019t tell you why\nTouching me, hands warm on my thighs\nAnd I know I could turn a blind eye\nAfraid of what I'm gonna find\nDoes it really have to be this way?\nOh, and my body hasn't felt the same\nSince you left my apartment\nThink my pillows still have your scent\n\n[Chorus]\nI just want to let you know\nI\u2019m seeing the sides that you don't show\nAnd I know that we've got some potential\n'Cause that look you gave me was so gentle\n\n[Verse 2]\nDo you think that you could stay?\nI need more time, I need to get away from here\nPour my love out\nSpill it all on the ground\nIs it all in my head? What are you saying?\nUsually I'd be fine, but my head is spinning\nI never let anybody in\nSomehow you got under my skin\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nNever seen a face like yours\nI got it together, but my breath feels short\nI don't wanna close the door\nMaybe I should just go up north\n\n[Bridge]\nAll I'm tryna say\nIs I miss you in every way\nFingertips on my back\nThings I know that I can't have\n\n[Chorus]\nNever seen a face like yours\nI got it together, but my breath feels short\nI don\u2019t wanna close the door\nMaybe I should just go up north\n\n[Outro]\nMaybe I should just go up north\nMaybe I should just go up north10Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/4432520",
+    "artist_names": "Clairo",
+    "full_title": "Bags by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "id": 4432520,
+    "instrumental": false,
+    "lyrics_owner_id": 4719669,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1697664103,
+    "path": "/Clairo-bags-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 58,
+    "relationships_index_url": "https://genius.com/Clairo-bags-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 5,
+     "day": 24
+    },
+    "release_date_for_display": "May 24, 2019",
+    "release_date_with_abbreviated_month_for_display": "May. 24, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 536192
+    },
+    "title": "Bags",
+    "title_with_featured": "Bags",
+    "updated_by_human_at": 1721472963,
+    "url": "https://genius.com/Clairo-bags-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "78 ContributorsTranslationsT\u00fcrk\u00e7eDeutschBags Lyrics[Verse 1]\nEvery second counts\nI don't wanna talk to you anymore, and\nAll these little games\nYou can call me by the name I gave you yesterday, yeah\nEvery minute counts\nI don't wanna watch TV anymore, yeah\nCan you figure me out?\nJust doin' this to waste more time on the couch\n\n[Chorus]\nCan you see me? I'm waiting for the right time\nI can't read you, but if you want, the pleasure's all mine\nCan you see me using everything to hold back?\nI guess this could be worse\nWalking out the door with your bags\nWalking out the door with your bags\nWalking out the door with your bags\nWalking out the door with your bags\n\n[Verse 2]\nPour your glass of wine\nMitchell told me I should be just fine (Yeah)\nCases under the bed\nSpill it open, let it rush to my head\nI don't wanna be forward, I don't wanna cut corners\nSavor this with everything I have inside of me\nI'm not the type to run\nI know that we're having fun\nBut what's the rush? Kissing, then my cheeks are so flushed\nSee Clairo LiveGet tickets as low as $49You might also like[Bridge]\nTell you how I felt\nSugar coated melting in your mouth\nPardon my emotions\nI should probably keep it all to myself\nKnow you'd make fun of me\nKnow you'd make fun of me\nKnow you'd make fun of me\nKnow you'd make fun of me\n\n[Chorus]\nCan you see me? I'm waiting for the right time\nI can't read you, but if you want, the pleasure's all mine\nCan you see me using everything to hold back?\nI guess this could be worse\nWalking out the door with your bags\nWalking out the door with your bags\nWalking out the door with your bags\nWalking out the door with your bags58Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/4631319",
+    "artist_names": "Clairo",
+    "full_title": "Softly by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "id": 4631319,
+    "instrumental": false,
+    "lyrics_owner_id": 126836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1711762241,
+    "path": "/Clairo-softly-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 17,
+    "relationships_index_url": "https://genius.com/Clairo-softly-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 2
+    },
+    "release_date_for_display": "August 2, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 2, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 156294
+    },
+    "title": "Softly",
+    "title_with_featured": "Softly",
+    "updated_by_human_at": 1711762241,
+    "url": "https://genius.com/Clairo-softly-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "30 ContributorsTranslationsEspa\u00f1olSoftly Lyrics[Verse 1]\nIs it alright\nTo feel this way so early?\nBut am I blind?\nAll the sweet nothings fallin' in love overnight\n\n[Pre-Chorus]\nDidn't mean to get so close\nAnd I know that I should probably go\nBut I got this feeling\nTell me, girl, I gotta know\n\n[Chorus]\nTouch you softly, I call you up late at night\nKnow that it isn't right, but you could be my one and only\nYou get me in the mood, know what I'm tryna do (Oh)\nDo you think that we can move closer, baby?\nI want you, yeah, yeah (Ooh)\n\n[Verse 2]\nAnd all my life\nBeen wanting this forever (Mm)\nAnd in my mind\nThink of ways to ask you \"Why don't you come over sometime?\"\n\n[Pre-Chorus]\nDidn't mean to get so close\nAnd I know that I should probably go\nBut I got this feeling\nTell me, girl, I gotta know\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nTouch you softly, I call you up late at night\nKnow that it isn't right, but you could be my one and only\nYou get me in the mood, know what I'm tryna do (Oh)\nDo you think that we can move closer, baby?\nI want you, yeah, yeah (Ooh)\n\n[Outro]\nAnd I don't care what they say\nAnd I don't care what they say\nCare what they say to me, I'm doing it differently\nBaby, I'm doing it differently17Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/4631315",
+    "artist_names": "Clairo",
+    "full_title": "Sofia by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "id": 4631315,
+    "instrumental": false,
+    "lyrics_owner_id": 5768480,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1680737284,
+    "path": "/Clairo-sofia-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 70,
+    "relationships_index_url": "https://genius.com/Clairo-sofia-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 7,
+     "day": 26
+    },
+    "release_date_for_display": "July 26, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jul. 26, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 739232
+    },
+    "title": "Sofia",
+    "title_with_featured": "Sofia",
+    "updated_by_human_at": 1721472925,
+    "url": "https://genius.com/Clairo-sofia-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "74 ContributorsTranslationsItalianoPortugu\u00easEspa\u00f1olSofia Lyrics[Chorus]\nI think we could do it if we tried\nIf only to say you're mine\nSofia, know that you and I\nShouldn't feel like a crime\nI think we could do it if we tried\nIf only to say you're mine\nSofia, know that you and I\nShouldn't feel like a crime\n\n[Verse 1]\nYou know I'll do anything you ask me to\nBut, oh my God, I think I'm in love with you\nStanding here alone now\nThink that we can drive around\nI just wanna say\nHow I love you with your hair down\nBaby, you don't gotta fight\nI'll be here 'til the end of time\nWishing that you were mine\nPull you in, it's alright\n\n[Chorus]\nI think we could do it if we tried\nIf only to say you're mine\nSofia, know that you and I\nShouldn't feel like a crime\nSee Clairo LiveGet tickets as low as $49You might also like[Verse 2]\nHoney, I don't want it to fade\nThere's things that I know could get in the way\nI don't want to say goodbye\nAnd I think that we could do it if we tried\n\n[Chorus]\nI think we could do it if we tried\nIf only to say you're mine\nSofia, know that you and I\nShouldn't feel like a crime\n\n[Outro]\nI think we could do it if we tried\n(I think we could, I think we could do it\nWe could, we could, do it)\nI think we could do it if we tried\n(Sofia, know that you, you, you and I\nShouldn't feel like a crime)\nI think we could do it if we tried\n(Sofia, know that you and I\nShouldn't feel like a crime)\nI think we could do it if we tried\n(Sofia, know that you, you, you and I\nShouldn't feel like a crime)\nI think we could do it if we tried70Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/4631318",
+    "artist_names": "Clairo",
+    "full_title": "White Flag by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "id": 4631318,
+    "instrumental": false,
+    "lyrics_owner_id": 3711735,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1657510193,
+    "path": "/Clairo-white-flag-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Clairo-white-flag-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 2
+    },
+    "release_date_for_display": "August 2, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 2, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 85533
+    },
+    "title": "White Flag",
+    "title_with_featured": "White Flag",
+    "updated_by_human_at": 1681432223,
+    "url": "https://genius.com/Clairo-white-flag-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "33 ContributorsWhite Flag Lyrics[Verse 1]\nPiecing it all back together again\nDidn't get along, been four years since\nWe had it all, and you were my friend\nThose days got away, hope you find solace in this\nI was 15 when I first felt loneliness\nCut my hair, only listened to Loveless\n\n[Chorus]\nGrown apart and we're so far gone\nBut I'm waving the white flag\nSending my love back, move on\n\n[Verse 2]\nLaughing at me, you kick me when I'm down\nOh, how can you pretend you didn't say that now?\nWish you the best, I know that you're stressed out\nBut you know in small towns\nWhat goes around comes back around, mmmSee Clairo LiveGet tickets as low as $49You might also like5Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/3845362",
+    "artist_names": "Clairo",
+    "full_title": "Feel Something by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "id": 3845362,
+    "instrumental": false,
+    "lyrics_owner_id": 2034060,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721005784,
+    "path": "/Clairo-feel-something-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Clairo-feel-something-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 2
+    },
+    "release_date_for_display": "August 2, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 2, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 77052
+    },
+    "title": "Feel Something",
+    "title_with_featured": "Feel Something",
+    "updated_by_human_at": 1721005784,
+    "url": "https://genius.com/Clairo-feel-something-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "24 ContributorsTranslationsEspa\u00f1olFeel Something Lyrics[Verse 1]\nTravelled so far on my own\nI don't know where I've gone\nAnd I don't wanna be alone\nWhen I am so far from my home\n\n[Chorus]\nYou wanna feel something\nBut I don't feel nothing\nTrying so hard to get over you\n\n[Verse 2]\nWanna go back to the place where we started\nAt the party, I see you, but you keep your guard up\nWe could be something special if you wanted\nI'm afraid that if we tried to, you would just give up\n(You would just give up)\n\n[Chorus]\nYou wanna feel something\nBut I don't feel nothing\nTrying so hard to get over you\nYou wanna feel something\nBut I don't feel nothing\nTrying so hard to get over you\nSee Clairo LiveGet tickets as low as $49You might also like[Bridge]\nDo you wanna go away with me?\nDo you wanna go away with me?\nDo you wanna go away with me?\nDo you wanna go away with me?\n\n[Chorus]\nYou wanna feel something\nBut I don't feel nothing\nTrying so hard to get over you\nYou wanna feel something\nBut I don't feel nothing\nTrying so hard to get over you6Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/4631313",
+    "artist_names": "Clairo",
+    "full_title": "Sinking by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "id": 4631313,
+    "instrumental": false,
+    "lyrics_owner_id": 126836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1716926054,
+    "path": "/Clairo-sinking-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/Clairo-sinking-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 2
+    },
+    "release_date_for_display": "August 2, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 2, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 66670
+    },
+    "title": "Sinking",
+    "title_with_featured": "Sinking",
+    "updated_by_human_at": 1716926054,
+    "url": "https://genius.com/Clairo-sinking-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "27 ContributorsSinking Lyrics[Verse 1]\nEvery night\nThink of things I can't do or haven't done\nAnd does it make me weak?\nSometimes I feel like I can't breathe\nIs that all you see in me?\n\n[Chorus]\nDon't you wait for something more\nI'll still be sinking to the floor\nOh, you can't help me\nNow I'm all alone\nIs it my doing? Is it my doing? Mmm\n\n[Verse 2]\nOutside, it's getting colder\nWhy does it feel like I'm older than I asked to be?\nBut when you say my name\nIt all falls away so tenderly\n\n[Chorus]\nDon't you wait for something more\nI'll still be sinking to the floor\nOh, you tried to help me\nWhy do I feel so cold?\nIs it my doing? Is it my doing?\nSee Clairo LiveGet tickets as low as $49You might also like[Outro]\n(Ah)\nIs it my doing? Is it my doing? (Ah)\nIs it my doing? Oh (Ah)\nMmm, is it my doing? (Ah)\nMmm7Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/4631316",
+    "artist_names": "Clairo",
+    "full_title": "I Wouldn't Ask You by\u00a0Clairo",
+    "header_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "id": 4631316,
+    "instrumental": false,
+    "lyrics_owner_id": 3711735,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1688165448,
+    "path": "/Clairo-i-wouldnt-ask-you-lyrics",
+    "primary_artist_names": "Clairo",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/Clairo-i-wouldnt-ask-you-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 2
+    },
+    "release_date_for_display": "August 2, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 2, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 105925
+    },
+    "title": "I Wouldn\u2019t Ask You",
+    "title_with_featured": "I Wouldn't Ask You",
+    "updated_by_human_at": 1707806614,
+    "url": "https://genius.com/Clairo-i-wouldnt-ask-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1144133",
+     "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+     "id": 1144133,
+     "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Clairo",
+     "slug": "Clairo",
+     "url": "https://genius.com/artists/Clairo",
+     "iq": 7477
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1144133",
+      "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+      "id": 1144133,
+      "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Clairo",
+      "slug": "Clairo",
+      "url": "https://genius.com/artists/Clairo",
+      "iq": 7477
+     }
+    ],
+    "artist": "Clairo",
+    "lyrics": "48 ContributorsTranslationsFran\u00e7aisClairo - I Wouldn\u2019t Ask You (Traducci\u00f3n al Espa\u00f1ol)I Wouldn\u2019t Ask You Lyrics[Part I]\n\n[Chorus]\nI wouldn't ask you to take care of me\nOh, and I wouldn't ask you to take care of me\nI wouldn't ask you to take care of me\nOh, and I wouldn't ask you to take care of me\n(I think I'm losing you)\n\n[Verse 1]\nSwitchblade 'round my neck, don't get close to me\nAsk about your life, still in the nosebleeds\nLaying in your bed, call that intimacy\nWish I could get past the security\nWonder why I wake up living in a made-up\nDream of you and I, together there\nBaby, wake the fuck up, time for you to grow up\nDon't you know that life is rarely ever fair?\n\n[Chorus]\nI wouldn't ask you to take care of me\nOh, and I wouldn't ask you to take care of me\nI wouldn't ask you to take care of me\nOh, and I wouldn't ask you to take care of me\n\n[Verse 2]\nTell you how I feel, I keep it real clean\nLock hanging 'round my neck, you don't get a key\nCome a little closer, I'll show you what I mean\nOh, boy, you know it's all for me\nIce-cold, baby, I'm ice-cold\nYou're the only one who can make me fold\nIce-cold, baby, I'm ice-cold\nYou're the only one who can make me fold\nSee Clairo LiveGet tickets as low as $49You might also like[Chorus]\nI wouldn't ask you to take care of me\nOh, I wouldn't ask you to take care of me\nI wouldn't ask you to take care of me\nOh, I wouldn't ask you to take care of me\nI wouldn't ask you to take care of me\nOh, I wouldn't ask you to take care of me\nI wouldn't ask you to take care of me\nOh, I wouldn't ask you to take care of me\n[Part II]\n\n[Intro]\n(Think I could be all you dreamed)\n(Penthouse apartments, bars, limousines)\n(Think I could make you believe)\n(Be your Tinker Bell bitch, you can make me your queen)\n\n[Verse 1]\nI wouldn't ask you, baby\n(Don't want to overstep my boundaries)\n(But I want to get to know you, plant the seed)\nI wouldn't ask you, baby\n(Think I could be all you dreamed)\n(Penthouse apartments, bars, limousines)\nTo be the one I love\nTo be the one I love, I love\n[Chorus]\nWe could be\nWe could be so strong (Ask you)\nWe'll be alright, we'll be alright\nWe could be so strong (Ask you)\nWe'll be alright, we'll be alright\nWe could be so strong (Ask you)\nWe'll be alright, we'll be alright\n\n[Verse 2]\nCaught me by surprise\nEverything I need in my life\nI wanna call you mine\nI wanna be intertwined\n\n[Chorus]\nWe could be so strong (Ask you)\nWe'll be alright, we'll be alright\nWe could be so strong (Ask you)\nWe'll be alright, we'll be alright\nWe could be so strong (Ask you)\nWe'll be alright, we'll be alright\n\n[Outro]\nFeels like I've known you for so long\nWithout you, I don't feel strong\nFeels like I've known you for so long\nWithout you, I don't feel so strong, yeah\nSo strong\nWe could be so strong7Embed"
+   }
+  }
+ ]
+}

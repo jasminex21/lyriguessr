@@ -7,12 +7,15 @@ website:
   title: "lyriguessr"
   description: "Lyric-guessing games for your favorite artists"
   favicon: favicon.png
+  twitter-card: true
+  
   google-analytics: 
     tracking-id: "G-ZNG33JQXZ7"
 
   open-graph: 
     title: "lyriguessr"
     description: "Lyric-guessing games for your favorite artists"
+  
   page-navigation: true
 
   announcement: 
@@ -24,7 +27,6 @@ website:
 
   page-footer: 
     left: "Copyright 2024, Jasmine Xu"
-    right: "Built with 🤍 and [Quarto](https://quarto.org/)"
     background: "#8D9F8E"
 
   sidebar:
@@ -48,6 +50,10 @@ website:
         text: Coming Soon
       - href: about.qmd
         text: About
+      - href: artist_stats.qmd
+        text: Details
+      # - href: feedback.qmd
+      #   text: Provide Feedback
       - text: "---"
       - section: Artists
         href: index.qmd

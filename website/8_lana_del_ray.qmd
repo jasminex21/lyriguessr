@@ -1,14 +1,15 @@
 ---
-title: "The Neighbourhood"
-date: "2024-09-01"
-date-modified: "2024-09-01"
-categories: ["alt rock"]
+title: "Lana Del Ray"
+date: ""
+date-modified: ""
+categories: ["alt pop"]
 ---
 
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://thenbhd.lyriguessr.xyz/" target="_blank">nbhdGuessr!</a> (opens external link)**
+NOT UP YET
+<!-- **Go to <a href="https://badomens.streamlit.app/" target="_blank">badOmensGuessr!</a> (opens external link)** -->
 :::
 :::
 
@@ -16,21 +17,22 @@ categories: ["alt rock"]
 
 ::: {.callout-note appearance="simple"}
 ## Announcement
-I am taking requests for cooler/punnier names for The Neighbourhood's game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
+I am taking requests for cooler/punnier names for this game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
 :::
 
-Lyrics range from *I'm Sorry...* to *Chip Chrome & the Mono-Tones (Deluxe)*.
+Lyrics range from *Born to Die* to *Did you know that there’s a tunnel under Ocean Blvd*.
 
 ### The Dataset and Statistics
 
-There are 3,347 lines in the **nbhdGuessr** dataset, with 2,319 of them being *unique* lines. 
+There are 1,123 lines in the dataset, with 790 of them being *unique* lines. 
 
-* You have around a 0.030% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+* You have around a 0.089% chance of getting each line (not factoring in repeated lyrics) in Hard mode! 
+
 ```{r echo=FALSE}
-#| label: nbhd
+#| label: lana
 library(gt)
 
-data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/the_nbhd/the neighbourhood_counts.csv")
+data = read.csv("/home/jasmine/PROJECTS/lyriguessr/artists/lana_del_ray/lana del ray_counts.csv")
 
 colnames(data) <- c("Lyric", "#", "Song", "Pct.")
 
@@ -60,4 +62,3 @@ gt(data) %>%
 ### Similar Artists
 
 Nothing here yet...
-

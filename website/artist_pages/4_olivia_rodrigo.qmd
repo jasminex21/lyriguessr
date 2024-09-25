@@ -1,5 +1,6 @@
 ---
 title: "Olivia Rodrigo"
+subtitle: "it's brutal out here"
 date: "2024-09-02"
 date-modified: "2024-09-02"
 categories: ["pop", "pop rock"]
@@ -8,7 +9,7 @@ categories: ["pop", "pop rock"]
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://olivia_rodrigo.lyriguessr.xyz/" target="_blank">oliviaRodriguessr!</a> (opens external link)**
+**Go to <a href="https://oliviarodrigo.lyriguessr.xyz/" target="_blank">oliviaRodriguessr!</a> (opens external link)**
 :::
 :::
 
@@ -61,3 +62,4 @@ gt(data) %>%
 ### Similar Artists
 
 * [Taylor Swift](0_taylor_swift.qmd)
+* [Sabrina Carpenter](7_sabrina_carpenter.qmd)
