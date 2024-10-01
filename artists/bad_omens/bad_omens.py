@@ -39,6 +39,7 @@ init_session_states()
 
 ui(game_title="badOmensGuessr",
    instructions=["Only *V.A.N*, *THE DRAIN*, *TERMS & CONDITIONS*, *EVEN*, *ANYTHING > HUMAN*, and *NERVOUS SYSTEM* are included from *CONCRETE JUNGLE [THE OST]*."],
+   similar_artists=["Waterparks"],
    guess_placeholder="e.g. Like a Villain or Dethrone",
    default_theme="THE DEATH OF PEACE OF MIND"
    )
