@@ -1,0 +1,899 @@
+{
+ "_type": "album",
+ "api_path": "/albums/27886",
+ "cover_art_thumbnail_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png",
+ "full_title": "Save Rock and Roll by Fall Out Boy",
+ "id": 27886,
+ "name": "Save Rock and Roll",
+ "name_with_artist": "Save Rock and Roll (artist: Fall Out Boy)",
+ "primary_artist_names": "Fall Out Boy",
+ "release_date_components": {
+  "year": 2013,
+  "month": 4,
+  "day": 12
+ },
+ "release_date_for_display": "April 12, 2013",
+ "url": "https://genius.com/albums/Fall-out-boy/Save-rock-and-roll",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/7811",
+  "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+  "id": 7811,
+  "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Fall Out Boy",
+  "slug": "Fall-out-boy",
+  "url": "https://genius.com/artists/Fall-out-boy",
+  "iq": 27835
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/7811",
+   "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+   "id": 7811,
+   "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+   "index_character": "f",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Fall Out Boy",
+   "slug": "Fall-out-boy",
+   "url": "https://genius.com/artists/Fall-out-boy",
+   "iq": 27835
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/133952",
+    "artist_names": "Fall Out Boy",
+    "full_title": "The Phoenix by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/ba34ca0ff602cd83ea8d89da5d5ae615.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/ba34ca0ff602cd83ea8d89da5d5ae615.1000x1000x1.jpg",
+    "id": 133952,
+    "instrumental": false,
+    "lyrics_owner_id": 173194,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714071178,
+    "path": "/Fall-out-boy-the-phoenix-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 79,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-the-phoenix-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 7,
+     "day": 16
+    },
+    "release_date_for_display": "July 16, 2013",
+    "release_date_with_abbreviated_month_for_display": "Jul. 16, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ba34ca0ff602cd83ea8d89da5d5ae615.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ba34ca0ff602cd83ea8d89da5d5ae615.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 257622
+    },
+    "title": "The Phoenix",
+    "title_with_featured": "The Phoenix",
+    "updated_by_human_at": 1714158395,
+    "url": "https://genius.com/Fall-out-boy-the-phoenix-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "97 ContributorsThe Phoenix Lyrics[Intro]\nPut on your war paint\n\n[Verse 1]\nYou are a brick tied to me that's dragging me down\nStrike a match and I'll burn you to the ground\nWe are the jack-o-lanterns in July\nSetting fire to the sky\nHere, here comes this rising tide so come on\n(Put on your war paint)\nCross walks and crossed hearts and hope to dies\nSilver clouds with grey linings\n\n[Pre-Chorus]\nSo we can take the world back from the heart-attacked\nOne maniac at a time, we will take it back\nYou know time crawls on when you're waiting for the song to start\nSo dance alone to the beat of your heart\n\n[Chorus]\nHey, young blood, doesn't it feel\nLike our time is running out?\nI'm gonna change you like a remix\nThen I'll raise you like a phoenix\nWearing our vintage misery\nNo, I think it looked a little better on me\nI'm gonna change you like a remix\nThen I'll raise you like a phoenix\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Verse 2]\nBring home the boys in scraps, scrap metal the tanks\nGet hitched, make a career out of robbing banks\nBecause the world is just a teller and we are wearing black masks\n\"You broke our spirit,\" says the note we pass\n\n[Pre-Chorus]\nSo we can take the world back from the heart-attacked\nOne maniac at a time, we will take it back\nYou know time crawls on when you're waiting for the song to start\nSo dance alone to the beat of your heart\n\n[Chorus]\nHey, young blood, doesn't it feel\nLike our time is running out?\nI'm gonna change you like a remix\nThen I'll raise you like a phoenix\nWearing our vintage misery\nNo, I think it looked a little better on me\nI'm gonna change you like a remix\nThen I'll raise you like a phoenix\n\n[Break]\nPut on your war paint\n\n[Bridge]\nThe war is won before it's begun\nRelease the doves, surrender love\nThe war is won before it's begun\nRelease the doves, surrender love\nThe war is won before it's begun\nRelease the doves, surrender love\n(Wave the white flag, wave the white flag, yeah)\nThe war is won before it's begun\n(Wave the white flag, wave the white flag, yeah)\nRelease the doves, surrender love\n(Wave the white flag, wave the white flag, yeah)\n[Chorus]\nHey, young blood, doesn't it feel\nLike our time is running out?\nI'm gonna change you like a remix\nThen I'll raise you like a phoenix\nWearing our vintage misery\nNo, I think it looked a little better on me\nI'm gonna change you like a remix\nThen I'll raise you like a phoenix\nHey, young blood, doesn't it feel\nLike our time is running out?\nI'm gonna change you like a remix\nThen I'll raise you like a phoenix\n\n[Outro]\nPut on your war paint79Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/114854",
+    "artist_names": "Fall Out Boy",
+    "full_title": "My Songs Know What You Did In The Dark (Light \u2019Em Up) by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/96ec7fb3875fd58a6992772e5875d709.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/96ec7fb3875fd58a6992772e5875d709.600x600x1.jpg",
+    "id": 114854,
+    "instrumental": false,
+    "lyrics_owner_id": 162064,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724742825,
+    "path": "/Fall-out-boy-my-songs-know-what-you-did-in-the-dark-light-em-up-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 91,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-my-songs-know-what-you-did-in-the-dark-light-em-up-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2013",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/96ec7fb3875fd58a6992772e5875d709.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/96ec7fb3875fd58a6992772e5875d709.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 327087
+    },
+    "title": "My Songs Know What You Did In The Dark (Light \u2019Em Up)",
+    "title_with_featured": "My Songs Know What You Did In The Dark (Light \u2019Em Up)",
+    "updated_by_human_at": 1726842087,
+    "url": "https://genius.com/Fall-out-boy-my-songs-know-what-you-did-in-the-dark-light-em-up-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "92 ContributorsMy Songs Know What You Did In The Dark (Light \u2019Em Up) Lyrics[Intro]\n(Hands, put your hands, hands, put your hands in the air)\n(Hands, put your hands, hands, put your hands in the air)\nOh-woah-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh\nOh-woah-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh\n\n[Verse 1]\nB-B-Be careful making wishes in the dark, dark\nCan't be sure when they've hit their mark\nAnd besides in the mean-meantime, I'm just\nDreaming of tearin' you apart\nI'm in the deep details with the Devil\nYou know, the world can never get me on my level\nI just gotta get you out the cage\nI'm a young lover's rage\nGonna need a spark to ignite\n\n[Pre-Chorus]\nBut my songs know what you did in the dark\n\n[Chorus]\nSo light 'em up, up, up\nLight 'em up, up, up\nLight 'em up, up, up\nI'm on fire\nSo light 'em up, up, up\nLight 'em up, up, up\nLight 'em up, up, up\nI'm on fire\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Post-Chorus]\nWoah-oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh\nIn the dark, dark\nWoah-oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh\nIn the dark, dark\n\n[Verse 2]\nWell all the writers keep writing what they write\nSomewhere another pretty vein just died (Died)\nI've got the scars from tomorrow and I wish you could see\nThat you're the antidote to everything except for me\nThrough a constellation of tears on your lashes\nBurn everything you love, then burn the ashes\nIn the end everything collides, my childhood\nSpat back out the monster that you see\n\n[Pre-Chorus]\nMy songs know what you did in the dark\n\n[Chorus]\nSo light 'em up, up, up\nLight 'em up, up, up\nLight 'em up, up, up\nI'm on fire\nSo light 'em up, up, up\nLight 'em up, up, up\nLight 'em up, up, up\nI'm on fire\n[Post-Chorus]\nWoah-oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh\nIn the dark, dark\nWoah-oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh\nIn the dark, dark\n\n[Bridge]\nHands, put your hands, hands, hands in the air (Left, left, left, right, left)\nHands, put your hands, hands, hands in the air (Left, left, left, right, left)\nMy songs know what you did in the dark\n(My songs know what you did in the dark)\n\n[Chorus]\nSo light 'em up, up, up\nLight 'em up, up, up\nLight 'em up, up, up\nI'm on fire\nSo light 'em up, up, up\nLight 'em up, up, up\nLight 'em up, up, up\nI'm on fire\nWoah-oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh\nIn the dark, dark\nWoah-oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh\nIn the dark, dark\nWoah-oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh91Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/138297",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Alone Together by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/777160b10eb60e4c1c5c9e65663c48f7.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/777160b10eb60e4c1c5c9e65663c48f7.1000x1000x1.jpg",
+    "id": 138297,
+    "instrumental": false,
+    "lyrics_owner_id": 131,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724623748,
+    "path": "/Fall-out-boy-alone-together-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 52,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-alone-together-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 8,
+     "day": 6
+    },
+    "release_date_for_display": "August 6, 2013",
+    "release_date_with_abbreviated_month_for_display": "Aug. 6, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/777160b10eb60e4c1c5c9e65663c48f7.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/777160b10eb60e4c1c5c9e65663c48f7.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 191002
+    },
+    "title": "Alone Together",
+    "title_with_featured": "Alone Together",
+    "updated_by_human_at": 1724623748,
+    "url": "https://genius.com/Fall-out-boy-alone-together-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "54 ContributorsTranslationsPolskiAlone Together Lyrics[Chorus 1]\nI don't know where you're going\nBut do you got room for one more troubled soul?\nI don't know where I'm going\nBut I don't think I'm coming home\nAnd I said, \"I'll check in tomorrow if I don't wake up dead\"\nThis is the road to ruin and we're starting at the end\n\n[Chorus 2]\nSay, yeah, (Yeah!) let's be alone together (Yeah!)\nWe could stay young forever (Yeah!)\nScream it from the top of your lungs (Yeah!)\nSay, yeah, (Yeah!) let's be alone together (Yeah!)\nWe can stay young forever (Yeah!)\nWe'll stay young, young, young, young, young\nUh, uh, uh, uh-oh, uh, uh, uh, uh-oh\nUh, uh, uh, uh-oh, uh, uh, uh, uh-oh\n\n[Verse 1]\nCut me off, I lost my track, it's not my fault, I'm a maniac\nIt's not funny anymore, no it's not\nMy heart is like a stallion, they love it more when it's broken\nDo you wanna feel beautiful, do you wanna, yeah\n\n[Pre-Chorus]\nI'm outside the door, invite me in\nSo we can go back and play pretend\nI'm on deck, I'm up next\nTonight I'm high as a private jet, 'cause\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Chorus 1]\nI don't know where you're going\nBut do you got room for one more troubled soul?\nI don't know where I'm going\nBut I don't think I'm coming home\nAnd I said, \"I'll check in tomorrow if I don't wake up dead\"\nThis is the road to ruin and we're starting at the end\n\n[Chorus 2]\nSay, yeah, (Yeah!) let's be alone together (Yeah!)\nWe could stay young forever (Yeah!)\nScream it from the top of your lungs (yeah!)\nSay, yeah, (Yeah!) let's be alone together (Yeah!)\nWe can stay young forever (Yeah!)\nWe'll stay young, young, young, young, young\nUh, uh, uh, uh-oh, uh, uh, uh, uh-oh\nUh, uh, uh, uh-oh, uh, uh, uh, uh-oh\n\n[Bridge]\nMy heart is like a stallion, they love it more when it's broken\nDo you wanna feel beautiful, do you wanna, yeah\n\n[Pre-Chorus]\nI'm outside the door, invite me in\nSo we can go back and play pretend\nI'm on deck, I'm up next\nTonight I'm high as a private jet, yeah\n[Chorus 2]\n(Yeah!) Let's be alone together (Yeah!)\nWe could stay young forever (Yeah!)\nScream it from the top of your lungs\nSay, yeah, (Yeah!) let's be alone together (Yeah)\nWe could stay young forever (Yeah!)\nWe'll stay young-yo-yo-young, I-I-\n\n[Chorus 1]\nI don't know where you're going\nBut do you got room for one more troubled soul?\nI don't know where I'm going\nBut I don't think I'm coming home\nAnd I said, \"I'll check in tomorrow if I don't wake up dead\"\nThis is the road to ruin and we're starting at the end52Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/138300",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Where Did the Party Go by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/0d86219d3833590c2b185ce7f4fb9984.300x169x1.jpg",
+    "header_image_url": "https://images.genius.com/0d86219d3833590c2b185ce7f4fb9984.1000x563x1.jpg",
+    "id": 138300,
+    "instrumental": false,
+    "lyrics_owner_id": 131,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1715136238,
+    "path": "/Fall-out-boy-where-did-the-party-go-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 39,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-where-did-the-party-go-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 12
+    },
+    "release_date_for_display": "April 12, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5570ddf0f725d426aa78a5295f57b05b.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5570ddf0f725d426aa78a5295f57b05b.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 107365
+    },
+    "title": "Where Did the Party Go",
+    "title_with_featured": "Where Did the Party Go",
+    "updated_by_human_at": 1715136238,
+    "url": "https://genius.com/Fall-out-boy-where-did-the-party-go-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "61 ContributorsWhere Did the Party Go Lyrics[Intro]\nNa, na, na, na, na, na, na, na, na, na\nNa, na, na, na, na, na, na, na, na, na\n\n[Verse 1]\nI'm here to collect your hearts\nIt's the only reason that I sing\nI don't believe a word you say\nBut I can't stop listening\nThis is the story of how they met\nHer picture was on the back of a pack of cigarettes\nAnd when she touched him he turned ruby red\nA story that they'll never forget, never forget\n\n[Pre-Chorus]\nAnd all the boys are smoking Menthols, girls are getting back rubs\nI will drift to you if you make yourself shake fast enough\nMy old aches become new again\nMy old friends become exes again\n\n[Chorus]\nWoah, where did the party go?\nWe're ending it on the phone\nI'm not gonna go home alone\nWoah, where did the party go?\nNa, na, na, na, na, na, na, na, na, na\nNa, na, na, na, na, na, na, na, na, na, yeah\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Verse 2]\nI know I expect too much\nAnd not enough all at once\nYou know I only wanted fun\nAnd you got me all fucked up on love\nI looked for your name on the ouija board\nAnd your naked magic, oh dear lord\nYou and me are the difference between real love\nAnd the love on TV, love on TV\n\n[Pre-Chorus]\nAnd all the boys are smoking Menthols, girls are getting back rubs\nI will drift to you if you make yourself shake fast enough\nMy old aches become new again\nMy old friends become exes again, yeah\n\n[Chorus]\nWoah, where did the party go?\nWe're ending it on the phone\nI'm not gonna go home alone\nWoah, where did the party go?\nNa, na, na, na, na, na, na, na, na, na\nNa, na, na, na, na, na, na, na, na, na\n\n[Bridge]\nWe were the kids who screamed, \"we weren't the same,\" in sweaty rooms\nNow we're doomed to organizing walk-in closets like tombs\nSilent film stars stuck in talking cinema life\nSo let's fade away together one dream at a time\nNa, na, na, na, na, na, na, na, na, na\nNa, na, na, na, na, na, na, na, na, na\n[Chorus]\nWoah, where did the party go?\nWe're ending it on the phone\nI'm not gonna go home alone\nWoah, where did the party go?\nNa, na, na, na, na, na, na, na, na, na\nNa, na, na, na, na, na, na, na, na, na\nNa, na, na, na, na, na, na, na, na, na\nNa, na, na, na, na, na, na, na, na, na\nNa, na, na, na, na, na, na, na, na, na\nNa, na, na, na, na, na, na, na, na, na\nNa, na, na, na, na, na, na, na, na, na\nNa, na, na, na, na, na, na, na, na, na...\n\n[Outro]\nCool, step out-\nOr to the-39Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/138304",
+    "artist_names": "Fall Out Boy (Ft. Foxes)",
+    "full_title": "Just One Yesterday by\u00a0Fall\u00a0Out Boy (Ft.\u00a0Foxes)",
+    "header_image_thumbnail_url": "https://images.genius.com/4c255a0756d4e51bcc3c746611171a6a.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/4c255a0756d4e51bcc3c746611171a6a.1000x1000x1.jpg",
+    "id": 138304,
+    "instrumental": false,
+    "lyrics_owner_id": 131,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1687352272,
+    "path": "/Fall-out-boy-just-one-yesterday-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 40,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-just-one-yesterday-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 12
+    },
+    "release_date_for_display": "April 12, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/4c255a0756d4e51bcc3c746611171a6a.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/4c255a0756d4e51bcc3c746611171a6a.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 177882
+    },
+    "title": "Just One Yesterday",
+    "title_with_featured": "Just One Yesterday (Ft.\u00a0Foxes)",
+    "updated_by_human_at": 1705084720,
+    "url": "https://genius.com/Fall-out-boy-just-one-yesterday-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/26041",
+      "header_image_url": "https://images.genius.com/c2c26aece5d307002d41a5dabcd79dd2.1000x250x1.jpg",
+      "id": 26041,
+      "image_url": "https://images.genius.com/2dde1231f6ba41816aa181a76124f5b6.500x500x1.png",
+      "index_character": "f",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Foxes",
+      "slug": "Foxes",
+      "url": "https://genius.com/artists/Foxes"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "54 ContributorsTranslationsDeutschJust One Yesterday Lyrics[Verse 1: Patrick Stump]\nI thought of angels choking on their halos\nGet them drunk on rose water (Water)\nSee how dirty I can get them pulling out their fragile teeth\nAnd clip their tiny wings (Clip their tiny wings)\n\n[Pre-Chorus: Patrick with Foxes]\nAnything you say can and will be held against you\nSo only say my name, it will be held against you\nAnything you say can and will be held against you\nSo only say my name\n\n[Chorus: Patrick with Foxes, Foxes]\nIf heaven's grief brings hell's rain\nThen I'd trade all my tomorrows for just one yesterday\n(I know I'm bad news)\nFor just one yesterday\n(I saved it all for you)\nI want to teach you a lesson in the worst kind of way\nStill I'd trade all my tomorrows for just one yesterday\n(I know I'm bad news)\nFor just one yesterday\n(I saved it all for you)\nFor just one yesterday\n\n[Verse 2: Patrick with Foxes]\nLetting people down is my thing, baby, find yourself a new gig\nThis town ain't big enough for two of us\nI don't have the right name or the right looks (Right looks)\nBut I have twice the heart\n[Pre-Chorus: Patrick with Foxes, Foxes]\nAnything you say can and will be held against you\nSo only say my name, it will be held against you\nAnything you say can and will be held against you\nSo only say my name (Name)\n\n[Chorus: Patrick with Foxes, Foxes]\nIf heaven's grief brings hell's rain\nThen I'd trade all my tomorrows for just one yesterday\n(I know I'm bad news)\nFor just one yesterday\n(I saved it all for you)\nI want to teach you a lesson in the worst kind of way\nStill I'd trade all my tomorrows for just one yesterday\n(I know I'm bad news)\nFor just one yesterday\n(I saved it all for you)\nFor just one yesterday\n\n[Bridge: Foxes & Patrick]\nIf I spilled my guts\nThe world would never look at you the same way\nAnd now I'm here to give you all of my love (Whoa-oh-oh-oh-oh)\nSo I can watch your face as I take it all away (Whoa-oh-oh-oh-oh)\n\n[Chorus: Patrick with Foxes, Foxes]\nIf heaven's grief brings hell's rain\nThen I'd trade all my tomorrows for just one yesterday\n(I know I'm bad news)\nFor just one yesterday\n(I saved it all for you)\nI want to teach you a lesson in the worst kind of way\nStill I'd trade all my tomorrows for just one yesterday\n(I know I'm bad news)\nFor just one yesterday\n(I saved it all for you)\nFor just one yesterday\n[Outro: Patrick]\nWhoa-oh-oh-oh-oh-oh-oh-oh-oh-oh\nWhoa-oh-oh-oh-oh-oh-oh-oh-oh-oh\nWhoa-oh-oh-oh-oh-oh-oh-oh-oh-oh\nWhoa-oh-oh-oh-oh-oh-oh-oh-oh-ohSee Fall Out Boy LiveGet tickets as low as $20You might also like40Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/138313",
+    "artist_names": "Fall Out Boy (Ft. Big Sean)",
+    "full_title": "The Mighty Fall by\u00a0Fall\u00a0Out Boy (Ft.\u00a0Big\u00a0Sean)",
+    "header_image_thumbnail_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png",
+    "id": 138313,
+    "instrumental": false,
+    "lyrics_owner_id": 207603,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722064884,
+    "path": "/Fall-out-boy-the-mighty-fall-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 28,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-the-mighty-fall-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 12
+    },
+    "release_date_for_display": "April 12, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 120106
+    },
+    "title": "The Mighty Fall",
+    "title_with_featured": "The Mighty Fall (Ft.\u00a0Big\u00a0Sean)",
+    "updated_by_human_at": 1722064884,
+    "url": "https://genius.com/Fall-out-boy-the-mighty-fall-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/492",
+      "header_image_url": "https://images.genius.com/9993d1270da8380d4db0f5b2dc2ddce5.747x363x1.jpg",
+      "id": 492,
+      "image_url": "https://images.genius.com/9e5e3136782920b95ae156055d141a52.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Big Sean",
+      "slug": "Big-sean",
+      "url": "https://genius.com/artists/Big-sean",
+      "iq": 18649
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "67 ContributorsThe Mighty Fall Lyrics[Intro: Big Sean]\nOh god!\nSean Don\nFall Out... Boi\n\n[Verse 1: Patrick Stump]\nDi-di-did you trip down 12 steps into Malibu, ooh, ooh, ooh\n(Malibu, ooh, ooh, ooh)\nSo why the hell is there a light that's keeping us forever\nBel Air baby, did you get dressed up, pretty pout, pout\n(While you bottomed out, out, out, out, oh)\nI can't stop it when there's chemicals keeping us together\nUh, uh, uh, I'm singing\n\n[Chorus: Patrick Stump]\nWhoa, how the mighty fall, the mighty fall, the mighty fall\nThey fall in love, how the mighty fall, the mighty fall, the mighty fall\nOh, how the mighty fall in love\n\n[Verse 2: Patrick Stump]\nYour crooked love is just a pyramid scheme and I'm dizzy on dreams\n(And I'm dizzy on dreams)\nBut if you ask me two's a whole lot lonelier than one\nBaby, we should have left our love in the gutter where we found it\n(Gutter where we found it)\n'Cause you think, you think your only crime is that you got caught\nI'm singing\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Chorus: Patrick Stump]\nWhoa, how the mighty fall, the mighty fall, the mighty fall\nThey fall in love, how the mighty fall, the mighty fall, the mighty fall\nOh, how the mighty fall in love\n\n[Bridge: Patrick Stump]\nIt's getting clear, you're never coming clean\nSo lock you up inside and swallow, swallow the key\n\n[Verse 3: Big Sean & Patrick Stump]\nHello? Yeah, I know you said not to call unless I'm dying\nWell, I'm driving and I can't stop staring at my eyelids\nBut, even though my eyes closed, I still see you\nI just hope that when you see me, I'm not see-through, you know how we do (Oh)\nSometimes I swear, I need a day just for me to lay\nWith some T and A, but the way we, the way we do is (Oh)\nDeeper, baby, straight-up chemistry, DNA\nMake me wanna give you every dollar out my B of A (Oh)\nLike, I let her climb on top\nI'm either fuckin' or workin', so the grind don't stop (Oh)\nThey say I got screws missing, well hell, only when I'm missing you\nAnd hell yeah I'm a dick, girl, addicted to you\n\n[Chorus: Patrick Stump]\nWhoa, how the mighty fall, the mighty fall, the mighty fall\nThey fall in love, how the mighty fall, the mighty fall, the mighty fall\nOh, how the mighty fall in love28Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/138315",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Miss Missing You by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png",
+    "id": 138315,
+    "instrumental": false,
+    "lyrics_owner_id": 208385,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1726489694,
+    "path": "/Fall-out-boy-miss-missing-you-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 40,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-miss-missing-you-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 12
+    },
+    "release_date_for_display": "April 12, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 136648
+    },
+    "title": "Miss Missing You",
+    "title_with_featured": "Miss Missing You",
+    "updated_by_human_at": 1726489694,
+    "url": "https://genius.com/Fall-out-boy-miss-missing-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "58 ContributorsMiss Missing You Lyrics[Verse 1]\nDon't panic, no, not yet\nI know I'm the one you want to forget\nCue all the love to leave my heart\nIt's time for me to fall apart\n\n[Pre-Chorus]\nNow you're gone, but I'll be okay\nYour hot whiskey eyes have fanned the flame\nMaybe I'll burn a little brighter tonight\nLet the fire breathe me back to life\n\n[Chorus]\nBaby, you were my picket fence, I miss missing you now and then\nChlorine kissed summer skin, I miss missing you now and then\nSometimes before it gets better, the darkness gets bigger\nThe person that you'd take a bullet for is behind the trigger\nOh, we're fading fast, I miss missing you now and then\n\n[Verse 2]\nMaking eyes at this husk around my heart\nI see through you when we're sitting in the dark\nSo give me your filth, make it rough\nLet me, let me trash your love\n\n[Pre-Chorus]\nI will sing to you every day\nIf it will take away the pain\nOh, and I've heard you got it, got it so bad\n'Cause I am the best you'll never have\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Chorus]\nBaby, you were my picket fence, I miss missing you now and then\nChlorine kissed summer skin, I miss missing you now and then\nSometimes before it gets better, the darkness gets bigger\nThe person that you'd take a bullet for is behind the trigger\nOh, we're fading fast, I miss missing you now and then\nNow and then (Ooh-ooh), now and then (Ooh-ooh), now and then (Ooh-ooh)\n\n[Outro]\nBaby, you were my picket fence\nI miss missing you now and then...40Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/138316",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Death Valley by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png",
+    "id": 138316,
+    "instrumental": false,
+    "lyrics_owner_id": 208385,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1643594500,
+    "path": "/Fall-out-boy-death-valley-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 27,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-death-valley-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 12
+    },
+    "release_date_for_display": "April 12, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 62841
+    },
+    "title": "Death Valley",
+    "title_with_featured": "Death Valley",
+    "updated_by_human_at": 1643594500,
+    "url": "https://genius.com/Fall-out-boy-death-valley-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "47 ContributorsDeath Valley Lyrics[Verse 1]\nI want to see your animal side\nLet it all out\nI wanna see the dirt under your skin\nI need your broken promises\n\n[Pre-Chorus]\nI want the guts and glory, baby, baby\nThis town is wasted and alone\n\n[Chorus]\nBut we are alive, here in death valley\nBut don't take love off the table yet\n'Cause tonight, it's just fire alarms and losing you\nWe love a lot, so we only lose a little\nBut we are alive, we are alive, we are alive\n\n[Verse 2]\nI want to see your animal side\nLet it all out\nOh, there you go, undress to impress\nYou can wear the crown but you're no princess\n\n[Pre-Chorus]\nSo put the \"D\" in dirt now, baby, baby\nLet's get you wasted and alone\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Chorus]\n'Cause we are alive, here in death valley\nBut don't take love off the table yet\n'Cause tonight, it's just fire alarms and losing you\nWe love a lot, so we only lose a little\nBut we are alive, we are alive, we are alive\n\n[Bridge]\nWe're going to die, it's just a matter of time\nHard times come, good times go\nI'm either gone in an instant\nOr here 'til the bitter end, I never know\nWhat I've got will make you feel more alive\nI'll be your favorite drug, I will get you high, I will get you high\n\n[Chorus]\nWe're still, we are alive, here in death valley\nBut don't take love off the table yet\n'Cause tonight, it's just fire alarms and losing you\nWe love a lot, so we only lose a little\nBut we are alive, we are alive, we are alive27Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/138317",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Young Volcanoes by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/96aa7a12cf47c522f4666feae2eaac9b.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/96aa7a12cf47c522f4666feae2eaac9b.1000x1000x1.jpg",
+    "id": 138317,
+    "instrumental": false,
+    "lyrics_owner_id": 131,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1687351159,
+    "path": "/Fall-out-boy-young-volcanoes-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 48,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-young-volcanoes-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 11,
+     "day": 4
+    },
+    "release_date_for_display": "November 4, 2013",
+    "release_date_with_abbreviated_month_for_display": "Nov. 4, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/96aa7a12cf47c522f4666feae2eaac9b.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/96aa7a12cf47c522f4666feae2eaac9b.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 160551
+    },
+    "title": "Young Volcanoes",
+    "title_with_featured": "Young Volcanoes",
+    "updated_by_human_at": 1712609144,
+    "url": "https://genius.com/Fall-out-boy-young-volcanoes-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "64 ContributorsYoung Volcanoes Lyrics[Verse 1]\nWhen Rome's in ruins\nWe are the lions, free of the Colosseums\nIn poison places, we are anti-venom\nWe're the beginning of the end\n\n[Pre-Chorus]\nTonight, the foxes hunt the hounds\nIt's all over now\nBefore it has begun\nWe've already won\n[Chorus]\nWe are wild\nWe are like young volcanoes\nWe are wild\nAmericana, exotica, do you wanna feel a little beautiful, baby?\n\n[Verse 2]\nC'mon, make it easy, say I never mattered\nRun it up the flag pole\nWe will teach you how to make boys next door\nOut of assholes (Hahaha!)\n\n[Pre-Chorus]\nTonight, the foxes hunt the hounds\nIt's all over now\nBefore it has begun\nWe've already won\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Chorus]\nWe are wild\nWe are like young volcanoes\nWe are wild\nAmericana, exotica, do you wanna feel a little beautiful, baby?\nWe are wild\nWe are like young volcanoes\nWe are wild\nAmericana, exotica, do you wanna feel a little beautiful, baby?48Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/138319",
+    "artist_names": "Fall Out Boy (Ft. Courtney Love)",
+    "full_title": "Rat a Tat by\u00a0Fall\u00a0Out Boy (Ft.\u00a0Courtney\u00a0Love)",
+    "header_image_thumbnail_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png",
+    "id": 138319,
+    "instrumental": false,
+    "lyrics_owner_id": 208385,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1704808512,
+    "path": "/Fall-out-boy-rat-a-tat-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 19,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-rat-a-tat-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 12
+    },
+    "release_date_for_display": "April 12, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 101763
+    },
+    "title": "Rat a Tat",
+    "title_with_featured": "Rat a Tat (Ft.\u00a0Courtney\u00a0Love)",
+    "updated_by_human_at": 1704808512,
+    "url": "https://genius.com/Fall-out-boy-rat-a-tat-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/45341",
+      "header_image_url": "https://images.genius.com/349f67c5da98898eb87ba340ba2b733e.1000x563x1.jpg",
+      "id": 45341,
+      "image_url": "https://images.genius.com/f89067d5079b3205574133e8a8ad7e46.1000x1000x1.png",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Courtney Love",
+      "slug": "Courtney-love",
+      "url": "https://genius.com/artists/Courtney-love"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "74 ContributorsRat a Tat Lyrics[Intro: Courtney Love, Fall Out Boy]\nIt's Courtney, bitch\nRat-a-tat-tat, rat-a-tat-tat-tat, hey!\nNo thesis existed for burning cities down at such a rampant rate\nNo graphics and no fucking PowerPoint presentation\nRat-a-tat-tat, rat-a-tat-tat-tat, hey!\nSo they just DIY'd that shit and they built their own bombs\nShe's his suicide blonde, she's better than gold\nRat-a-tat-tat, rat-a-tat-tat-tat, hey!\n\n[Verse 1: Patrick Stump]\nAre you ready for another bad poem?\nOne more off-key anthem\nLet your teeth sink in\nRemember me as I was, not as I am\nAnd I said, \"I'll check in tomorrow\nIf I don't wake up dead\"\nI kept wishing she had blonde ambition\nAnd she'd let it go to my head\n\n[Pre-Chorus: Patrick Stump]\nRat-a-tat-tat, rat-a-tat-tat-tat, hey!\nIf my love is a weapon, there's no second guessing when I say\nRat-a-tat-tat, rat-a-tat-tat-tat, hey!\nIf my heart is a grenade, you pull the pin and say\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Chorus: Patrick Stump]\nWe're all fighting, growing old, we're all fighting, growing old\nIn the (Hope!) hopes of a few minutes more\nTo get-get on St. Peter's list\nBut you need to lower your standards\n'Cause it's never getting any better than this\n\n[Refrain: Courtney Love, Patrick Stump]\nWe are professional ashes of roses, this kerosene's live\nRat-a-tat-tat, rat-a-tat-tat-tat, hey!\nYou settled your score, this is where you come to beg\n'Cause it's never getting any better than this\nUnborn and unshaven, killing fields of fire to a congress of ravens\nRat-a-tat-tat, rat-a-tat-tat-tat, hey!\nThis is what we do, baby, we nightmare you\n\n[Verse 2: Patrick Stump]\nI'm about to make your sweat roll backwards\nAnd your heart beat in reverse\nOur guts can't be reworked\nAs alone as a little white church in the middle of the desert getting burned\nBut I'll take your heart served up two ways\nI sing a bitter song\nI'm the lonelier version of you\nI just don't know where it went wrong\n[Pre-Chorus: Patrick Stump]\nRat-a-tat-tat, rat-a-tat-tat-tat, hey!\nIf my love is a weapon, there's no second-guessing when I say\nRat-a-tat-tat, rat-a-tat-tat-tat, hey!\nIf my heart is a grenade, you pull the pin and say\n\n[Chorus: Patrick Stump]\nWe're all fighting, growing old, we're all fighting, growing old\nIn the (Hope!) hopes of a few minutes more\nTo get-get on St. Peter's list\nBut you need to lower your standards\n'Cause it's never getting any better than this\n\n[Post-Chorus: Patrick Stump]\nRat-a-tat-tat, rat-a-tat-tat-tat, hey\nIt's never getting any better than this\nRat-a-tat-tat, rat-a-tat-tat-tat, hey\nIt's never getting any better than this\nRat-a-tat-tat, rat-a-tat-tat-tat, hey\nIt's never getting any better than this\nRat-a-tat-tat, rat-a-tat-tat-tat, hey\nIt's never getting any better than this\n\n[Bridge: Courtney Love, Patrick Stump]\nShe's sick and she's wrong, she's young dirty blonde\nAnd you sink inside her like a suicide bomb\nHe says, \"I've seen bigger,\" she says, \"I've lit better\"\nAnd they throw the matches down into the glitter\nNot a dry eye left in the house\n(Talk less, mean more)\nGo boy, go boy, run for your life\n(Let's be electric, like we were before)\nGo boy, go boy, run for your life\n(Talk less, mean more)\nGo boy, go boy, run for your life\n[Chorus: Patrick Stump]\nWe're all fighting, growing old, we're all fighting, growing old\nIn the (hope!) hopes of a few minutes more\nTo get-get on St. Peter's list\nBut you need to lower your standards\n'Cause it's never getting any better than this\n\n[Post-Chorus: Patrick Stump]\nRat-a-tat-tat, rat-a-tat-tat-tat, hey\nIt's never getting any better than this\nRat-a-tat-tat, rat-a-tat-tat-tat, hey\nIt's never getting any better than this\nRat-a-tat-tat, rat-a-tat-tat-tat, hey\nIt's never getting any better than this\nRat-a-tat-tat, rat-a-tat-tat-tat, hey\nIt's never getting any better than this\n[Outro: Patrick Stump]\nAre you ready for another bad poem?19Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/138320",
+    "artist_names": "Fall Out Boy (Ft. Elton John)",
+    "full_title": "Save Rock and Roll by\u00a0Fall\u00a0Out Boy (Ft.\u00a0Elton\u00a0John)",
+    "header_image_thumbnail_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png",
+    "id": 138320,
+    "instrumental": false,
+    "lyrics_owner_id": 131,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1687351726,
+    "path": "/Fall-out-boy-save-rock-and-roll-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 38,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-save-rock-and-roll-sample",
+    "release_date_components": {
+     "year": 2013,
+     "month": 4,
+     "day": 12
+    },
+    "release_date_for_display": "April 12, 2013",
+    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2013",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5d0b86e72357f457d86282a67f8b82aa.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 137412
+    },
+    "title": "Save Rock and Roll",
+    "title_with_featured": "Save Rock and Roll (Ft.\u00a0Elton\u00a0John)",
+    "updated_by_human_at": 1687351844,
+    "url": "https://genius.com/Fall-out-boy-save-rock-and-roll-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/560",
+      "header_image_url": "https://images.genius.com/0da6c62176ca98e3197d3635ae8f5134.1000x333x1.jpg",
+      "id": 560,
+      "image_url": "https://images.genius.com/08208ed49e1c3f811ae93f1c4f8bceb5.395x395x1.jpg",
+      "index_character": "e",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Elton John",
+      "slug": "Elton-john",
+      "url": "https://genius.com/artists/Elton-john"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "71 ContributorsSave Rock and Roll Lyrics[Intro: Patrick Stump]\nUntil your breathing stops, stops, stops\nUntil your breathing stops, stops, stops\nUntil your-your-your-your-your\nForever, forever\n\n[Verse 1: Patrick Stump]\nI need more dreams and less life\nI need that dark in a little more light\nI cried tears you'll never see\nSo fuck you, you can go cry me an ocean, and leave me be\n\n[Pre-Chorus: Patrick Stump]\nYou are what you love, not who loves you\nIn a world full of the word 'yes', I'm here to scream\n\n[Chorus: Patrick Stump]\nNo, no (No, no)\nWherever I go, go (go, go)\nTrouble seems to follow\nI only plugged in to save rock and roll (Rock and roll)\nNo, no (No, no), wherever I go, go (Go, go)\nTrouble seems to follow\nOnly plugged in to save rock and roll (Forever, forever)\n\n[Post-Chorus: Patrick Stump]\nUntil your breathing stops, stops, stops\nUntil your breathing stops, stops, stops\nUntil your-your-your-your-your\nForever, forever\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Verse 2: Elton John & Patrick Stump]\nBlood brothers in desperation\nAn oath of silence for the voice of a generation\nWhoa! How'd it get to be only me?\nLike I'm the last damn kid still kicking that still believes\n\n[Pre-Chorus: Elton John & Patrick Stump]\nI will defend the faith going down swinging\nI will save the songs, that we can't stop singing\n\n[Chorus: Elton John & Patrick Stump]\nNo, no (No, no)\nWherever I go, go (Go, go)\nTrouble seems to follow\nI only plugged in to save rock and roll (Rock and roll)\nNo, no (No, no), wherever I go, go (Go, go)\nTrouble seems to follow\nOnly plugged in to save rock and roll (Forever, forever)\n\n[Bridge: Elton John & Patrick Stump &  Both]\nOh no, we won't go\n'Cause we don't know when to quit, oh oh\nOh no, we won't go\n'Cause we don't know how to quit, no, no\nOh no, we won't go\n(Until your breathing stops, stops, stops)\n'Cause we don't know when to quit, oh oh\n(Until your breathing stops, stops, stops)\nOh no, we won't go\n(Until your-your-your-your-your)\n'Cause we don't know how to quit, no, no\n(Forever, forever)\n[Pre-Chorus: Elton John]\nYou are what you love, not who loves you\nIn a world full of the word 'yes', I'm here to scream...\n\n[Chorus: Elton John & Patrick Stump]\nNo, no (No, no)\nWherever I go, go (Go, go)\nTrouble seems to follow\nI only plugged in to save rock and roll (Rock and roll)\nNo, no (No, no), wherever I go, go (Go, go)\nTrouble seems to follow\nOnly plugged in to save rock and roll (Rock and roll)\n\n[Outro: Patrick Stump & Elton John]\nOh no, we won't go\n'Cause we don't know when to quit, oh oh\nOh no, we won't go\n'Cause we don't know when to quit, oh oh\nOh no, we won't go\n(No, no)\n'Cause we don't know when to quit, oh oh\n(Wherever I go, go)\nOh no, we won't go\n(Trouble seems to follow)\n'Cause we don't know when to quit, oh oh\n(I only plugged in to save rock and roll)\nOh no, we won't go\n(No, no)\n'Cause we don't know when to quit, oh oh\n(Wherever I go, go)\nOh no, we won't go\n(Trouble seems to follow)\n'Cause we don't know when to quit, oh oh\n(Only plugged in to save rock and roll...)38Embed"
+   }
+  }
+ ]
+}

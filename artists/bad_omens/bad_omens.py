@@ -23,7 +23,7 @@ theme_css = {
 
 acceptable_answers = {"F E R A L": ["FERAL", "F.E.R.A.L"],
                       "Reprise (The Sound of the End)": ["Reprise"],
-                      "V.A.N": "VAN"}
+                      "V.A.N": ["VAN"]}
 
 set_global_vars(lyrics_path="./artists/bad_omens/bad omens_lyrics.csv", 
                 albums=["Bad Omens",
@@ -39,6 +39,7 @@ init_session_states()
 
 ui(game_title="badOmensGuessr",
    instructions=["Only *V.A.N*, *THE DRAIN*, *TERMS & CONDITIONS*, *EVEN*, *ANYTHING > HUMAN*, and *NERVOUS SYSTEM* are included from *CONCRETE JUNGLE [THE OST]*."],
+   similar_artists=["Waterparks"],
    guess_placeholder="e.g. Like a Villain or Dethrone",
    default_theme="THE DEATH OF PEACE OF MIND"
    )

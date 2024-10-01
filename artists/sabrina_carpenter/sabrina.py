@@ -30,5 +30,6 @@ init_session_states()
 
 ui(game_title="sabrinaGuessr",
    instructions=[],
+   similar_artists=["Taylor Swift", "Olivia Rodrigo"],
    guess_placeholder="e.g. Thumbs or Espresso",
    default_theme="Short n' Sweet")

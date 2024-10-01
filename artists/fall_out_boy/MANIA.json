@@ -1,0 +1,785 @@
+{
+ "_type": "album",
+ "api_path": "/albums/342080",
+ "cover_art_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+ "full_title": "MANIA by Fall Out Boy",
+ "id": 342080,
+ "name": "MANIA",
+ "name_with_artist": "MANIA (artist: Fall Out Boy)",
+ "primary_artist_names": "Fall Out Boy",
+ "release_date_components": {
+  "year": 2018,
+  "month": 1,
+  "day": 19
+ },
+ "release_date_for_display": "January 19, 2018",
+ "url": "https://genius.com/albums/Fall-out-boy/Mania",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/7811",
+  "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+  "id": 7811,
+  "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Fall Out Boy",
+  "slug": "Fall-out-boy",
+  "url": "https://genius.com/artists/Fall-out-boy",
+  "iq": 27835
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/7811",
+   "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+   "id": 7811,
+   "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+   "index_character": "f",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Fall Out Boy",
+   "slug": "Fall-out-boy",
+   "url": "https://genius.com/artists/Fall-out-boy",
+   "iq": 27835
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/3305975",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Stay Frosty Royal Milk Tea by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "id": 3305975,
+    "instrumental": false,
+    "lyrics_owner_id": 4177315,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714243368,
+    "path": "/Fall-out-boy-stay-frosty-royal-milk-tea-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 38,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-stay-frosty-royal-milk-tea-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 19
+    },
+    "release_date_for_display": "January 19, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 19, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 245073
+    },
+    "title": "Stay Frosty Royal Milk Tea",
+    "title_with_featured": "Stay Frosty Royal Milk Tea",
+    "updated_by_human_at": 1716288334,
+    "url": "https://genius.com/Fall-out-boy-stay-frosty-royal-milk-tea-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "96 ContributorsStay Frosty Royal Milk Tea Lyrics[Verse 1]\nI think I got too many memories getting in the way of me\nI'm 'bout to go Tonya Harding on the whole world's knee\nAnd I'm stuck, night vision, so stuck, night vision\nBut I come to life, come to life\n\n[Pre-Chorus]\nSome princes don't become kings\nEven at the best of times, I'm out of my mind\nYou only get what you grieve\nAre you smelling that shit? Are you smelling that shit?\nEau de r\u00e9sistance!\n\n[Chorus]\nThe only thing that's ever stopping me is me, hey!\nThe only thing that's ever stopping me is me, hey!\nI testify if I die in my sleep\nThen know that my life was just a killer dream, yeah\n\n[Verse 2]\nSeems like the whole damn world went and lost its mind\nAnd all my childhood heroes have fallen off or died\nFake tears, real living, fake tears\nBut the alcohol never lies, never lies\n\n[Pre-Chorus]\nSome princes don't become kings\nEven at the best of times, I'm out of my mind\nYou only get what you grieve\nAre you smelling that shit? Are you smelling that shit?\nEau de r\u00e9sistance!\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Chorus]\nThe only thing that's ever stopping me is me, hey!\nThe only thing that's ever stopping me is me, hey!\nI testify if I die in my sleep\nThen know that my life was just a killer dream, yeah\nThen know that my life was just a killer dream, yeah\n\n[Post-Chorus]\nI testify, I testify\nAre you smelling that shit?\nEau de r\u00e9sistance!\n\n[Bridge]\n(Hey! Hey! Hey!)\nSome princes don't become kings\nEven at the best of times, I'm out of my mind\nYou only get what you grieve\nAre you smelling that shit? Are you smelling that shit?\n\n[Chorus]\nThe only thing that's ever stopping me is me, hey!\nThe only thing that's ever stopping me is me, hey!\nI testify if I die in my sleep\nThen know that my life was just a killer dream, yeah\nThen know that my life was just a killer dream, yeah\n[Outro]\nAre you smelling that shit?\nEau de r\u00e9sistance!38Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/3218739",
+    "artist_names": "Fall Out Boy",
+    "full_title": "The Last of the Real Ones by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "id": 3218739,
+    "instrumental": false,
+    "lyrics_owner_id": 4609115,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714071806,
+    "path": "/Fall-out-boy-the-last-of-the-real-ones-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 52,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-the-last-of-the-real-ones-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 9,
+     "day": 14
+    },
+    "release_date_for_display": "September 14, 2017",
+    "release_date_with_abbreviated_month_for_display": "Sep. 14, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 308064
+    },
+    "title": "The Last of the Real Ones",
+    "title_with_featured": "The Last of the Real Ones",
+    "updated_by_human_at": 1714159171,
+    "url": "https://genius.com/Fall-out-boy-the-last-of-the-real-ones-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "85 ContributorsThe Last of the Real Ones Lyrics[Verse 1]\nI was just an only child of the universe\nAnd then I found you, and then I found you\nYou are the sun and I am just the planets\nSpinning around you, spinning around you\nYou were too good to be true, gold plated\nBut what's inside you? But what's inside you?\nI know this whole damn city thinks it needs you\nBut not as much as I do, as much as I do, yeah\n\n[Chorus]\n'Cause you're the last of a dying breed\nWrite our names in the wet concrete\nI wonder if your therapist knows\nEverything about me\nI'm here in search of your glory\nThere's been a million before me\nThat ultra-kind of love\nYou never walk away from\n\n[Post-Chorus]\nYou're just the last of the real ones\nYou're just the last of the real ones\nYou're just the last of the real ones\n(You're just the last of the real ones)\nYou're just the last of the real ones\n(You're just the last of the real ones)\nYou're just the last of the real ones\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Verse 2]\nI am a collapsing star with tunnel vision\nBut only for you, but only for you\nMy head is stripped, just like a screw that's been tightened too many times\nWhen I think of you, when I think of you\nI will shield you from the waves if they find you\nI will protect you, I will protect you\nJust tell me, tell me, tell me I, I am the only one\nEven if it's not true, even if it's not true, yeah\n\n[Chorus]\n'Cause you're the last of a dying breed\nWrite our names in the wet concrete\nI wonder if your therapist knows\nEverything about me\nI'm here in search of your glory\nThere's been a million before me\nThat ultra-kind of love\nYou never walk away from\n\n[Post-Chorus]\nYou're just the last of the real ones\nYou're just the last of the real ones\nYou're just the last of the real ones\n(You're just the last of the real ones)\nYou're just the last of the real ones\n(You're just the last of the real ones)\nYou're just the last of...\n[Bridge]\nI'm here, at the beginning of the end\nOh, the end of infinity with you\nI'm here, at the beginning of the end\nOh, the end of infinity with you\nI'm done with having dreams, the thing that I believe\nOh, you drain all the fear from me\nI'm done with having dreams, the thing that I believe\nYou drain the fear from me\n\n[Chorus]\n'Cause you're the last of a dying breed\nWrite our names in the wet concrete\nI wonder if your therapist knows\nEverything about me\nI'm here in search of your glory\nThere's been a million before me\nThat ultra-kind of love\nYou never walk away from\n\n[Post-Chorus]\nYou're just the last of the real ones\nYou're just the last of the real ones\nYou're just the last of the real ones\n(You're just the last of the real ones)\nYou're just the last of the real ones\n(You're just the last of the real ones)\nYou're just the last of the real ones52Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/3305976",
+    "artist_names": "Fall Out Boy",
+    "full_title": "HOLD ME TIGHT OR DON'T by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "id": 3305976,
+    "instrumental": false,
+    "lyrics_owner_id": 4785706,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1683756361,
+    "path": "/Fall-out-boy-hold-me-tight-or-dont-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 50,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-hold-me-tight-or-dont-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 11,
+     "day": 15
+    },
+    "release_date_for_display": "November 15, 2017",
+    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 219430
+    },
+    "title": "HOLD ME TIGHT OR DON\u2019T",
+    "title_with_featured": "HOLD ME TIGHT OR DON'T",
+    "updated_by_human_at": 1683756361,
+    "url": "https://genius.com/Fall-out-boy-hold-me-tight-or-dont-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "79 ContributorsHOLD ME TIGHT OR DON\u2019T Lyrics[Intro]\nOh na na na na na na na na na na\n\n[Verse 1]\nI never really feel a thing, I'm just kinda too froze\nYou were the only one, that even kinda came close\nI just pinch myself, no longer comatose\nI woke up, no luck, I woke up, no luck\n\n[Pre-Chorus]\nAnd when your stitch comes loose, I wanna sleep on\nEvery piece of fuzz and stuffing that comes out of you\nYou, I took too many hits off this memory\nI need to come down\n\n[Chorus]\nAn-n-n-n-n-n-n-n-nother day goes by\nSo hold me tight, hold me tight, or don't\nOh n-n-no, no, this isn't how our story ends\nSo hold me tight, hold me tight, or don't\n\n[Post-Chorus]\nOh na na na na na na na na na na na na\nNa na na na na na na na na\nOh na na na na na na na na na na na na\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Verse 2]\nI got too high again, realized I can't not be with you\nOr be just your friend, I love you to death, but I just can't\nI just can't pretend, we were lovers first\nConfidants but never friends, were we ever friends?\n\n[Pre-Chorus]\nBut when your stitch comes loose, I wanna sleep on\nEvery piece of fuzz and stuffing that comes out of you\nYou, I took too many hits off this memory\nI need to come down\n\n[Chorus]\nAn-n-n-n-n-n-n-n-nother day goes by\nSo hold me tight, hold me tight, or don't\nOh n-n-no, no, this isn't how our story ends\nSo hold me tight, hold me tight, or don't\n\n[Post-Chorus]\nOh na na na na na na na na na na na na\nNa na na na na na na na na\nOh na na na na na na na na na na na na\nHold me tight, or don't\n\n[Bridge]\n'Cause I'm past the limits\nThe distance between us, it sharpens me like a knife\nPast the limits\nThe distance between us, it sharpens me like a knife\n[Chorus]\nAn-n-n-n-n-n-n-n-nother day goes by\nSo hold me tight, hold me tight, or don't\nI'm pretty sure that this isn't how our story ends\nSo hold me tight, hold me tight, hold me tight, or don't\n\n[Post-Chorus]\nOh na na na na na na na na na na na na\nNa na na na na na na na na\nOh na na na na na na na na na na na na50Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/3218722",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Wilson (Expensive Mistakes) by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "id": 3218722,
+    "instrumental": false,
+    "lyrics_owner_id": 4027082,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1726257139,
+    "path": "/Fall-out-boy-wilson-expensive-mistakes-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 33,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-wilson-expensive-mistakes-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 11
+    },
+    "release_date_for_display": "January 11, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 11, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 225735
+    },
+    "title": "Wilson (Expensive Mistakes)",
+    "title_with_featured": "Wilson (Expensive Mistakes)",
+    "updated_by_human_at": 1726257210,
+    "url": "https://genius.com/Fall-out-boy-wilson-expensive-mistakes-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "70 ContributorsWilson (Expensive Mistakes) Lyrics[Intro]\n\n[Verse 1]\nI was, I was, I was, I was\nGonna say something that would solve all our problems\nBut then I got drunk and I forgot what I was talking about\nI forgot what I was talking about\nDon't you, don't you, don't you know\nThere's nothing more cruel than to be loved by everybody\nThere's nothing more cruel than to be loved by everybody but you\nThan to be loved by everybody but you, but you\n\n[Pre-Chorus]\nIf I can get my shit together, I'm gonna run away and never see\nAny of you again, never see any of you again\n\n[Chorus]\nI hope the roof flies off and we get blown out into space\nI always make such expensive mistakes\nI know it's just a number, but you're the 8th wonder\nI'll stop wearing black when they make a darker color\n\n[Post-Chorus]\nWoah, woah, woah\nWhen they make a darker color\nWoah, woah\nI'll stop wearing black when they make a darker color\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Verse 2]\nWoke up on the wrong side of p-p-paradise\nAnd when I say I'm sorry I'm late\nI wasn't showing up at all\nI really mean I didn't plan on showing up at all\nDon't you, don't you, don't you know\nI hate all my friends, I miss the days when I pretended\nI hate all my friends, I miss the days when I pretended with you\nI miss the days when I pretended with you, with you\n\n[Pre-Chorus]\nIf I can get my shit together, I'm gonna run away and never see\nAny of you again, never see any of you again\n\n[Chorus]\nI hope the roof flies off and we get blown out into space\nI always make such expensive mistakes\nI know it's just a number, but you're the eighth wonder\nI'll stop wearing black when they make a darker color\n\n[Post-Chorus]\nWoah, woah, woah\nWhen they make a darker color\nWoah, woah\nI'll stop wearing black when they make a darker color\nWoah, woah, woah\nWhen they make a darker color\nWoah, woah\nI'll stop wearing black when they make a darker color\n[Bridge]\nIf we hadn't done this thing\nI think I'd be a medicine man\nSo I could get high on our own\nSupply whenever I can\nAnd I became such a strange shape\nSuch a strange shape from trying to fit in\nI became such a strange shape\nSuch a strange shape\n\n[Chorus]\nI hope the roof flies off and we get blown out into space\nI always make such expensive mistakes\nI know it's just a number but you're the eighth wonder\nI'll stop wearing black when they make a darker color\n\n[Post-Chorus]\nWoah, woah, woah\nWhen they make a darker color\nWoah, woah\nI'll stop wearing black when they make a darker color\nWoah, woah, woah\nI'll stop wearing black, I'll stop wearing black\nWoah, woah, woah\nI'll stop wearing black when they make a darker color33Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/3305977",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Church by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "id": 3305977,
+    "instrumental": false,
+    "lyrics_owner_id": 4177315,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1701192132,
+    "path": "/Fall-out-boy-church-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 20,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-church-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 19
+    },
+    "release_date_for_display": "January 19, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 19, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 182799
+    },
+    "title": "Church",
+    "title_with_featured": "Church",
+    "updated_by_human_at": 1705172483,
+    "url": "https://genius.com/Fall-out-boy-church-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "76 ContributorsChurch Lyrics[Chorus]\nIf you were church, I'd get on my knees\nConfess my love, I'd know where to be\nMy sanctuary, you're holy to me\nIf you were church, I'd get on my knees\n\n[Post-Chorus]\nI'd get on my knees, I'd get on my knees, I'd get on my knees\n\n[Verse 1]\nTake the pain\nMake it billboard big\nThen swallow it for me\nTime capsule for the future\nTrust me, that's what I will be\nOh, the things that you do\nIn the name of what you love\nYou are doomed but just enough\nYou are doomed but just enough\n\n[Chorus]\nIf you were church, whoo, I'd get on my knees, yeah\nConfess my love, I'd know where to be\nMy sanctuary, you're holy to me\nIf you were church, yeah, I'd get on my knees\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Post-Chorus]\nI'd get on my knees, I'd get on my knees, I'd get on my knees\n\n[Verse 2]\nI love the world\nBut I just don't love the way it makes me feel\nGot a few more fake friends\nAnd it's getting hard to know what's real\nAnd if death is the last appointment\nThen we're all just sitting in the waiting room (Mr. Stump?)\nI am just a human trying to avoid my certain doom\n\n[Chorus]\nIf you were church, yeah, I'd get on my knees\nConfess my love, I'd know where to be\nMy sanctuary, you're holy to me\nIf you were church, yeah, I'd get on my knees\n\n[Bridge]\nI'd get on my knees, yeah, oh\nI'd get on my knees, ah ah ah\nI'd get on my knees, yeah\nI'd get on my knees\n\n[Chorus]\nIf you were church, I'd get on my knees\nConfess my love, I'd know where to be\nMy sanctuary, you're holy to me, you're holy to me\nIf you were church, yeah, I'd get on my knees, yeah20Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/3218738",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Heaven's Gate by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "id": 3218738,
+    "instrumental": false,
+    "lyrics_owner_id": 3628738,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1615028911,
+    "path": "/Fall-out-boy-heavens-gate-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 21,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-heavens-gate-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 19
+    },
+    "release_date_for_display": "January 19, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 19, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 154343
+    },
+    "title": "Heaven\u2019s Gate",
+    "title_with_featured": "Heaven's Gate",
+    "updated_by_human_at": 1710981743,
+    "url": "https://genius.com/Fall-out-boy-heavens-gate-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "70 ContributorsHeaven\u2019s Gate Lyrics[Verse 1]\nOne look from you and I'm on that faded love\nOut of my body and flying above\nIf there were any more left of me, I'd give it to you\nAnd I'll tell you that I am fine, but I'm a missile that's guided to you\n\n[Pre-Chorus]\nGo out in the world to start over again and again\nAs many times as ya can\nAnd in the end, if I don't make it on the list\nWould you sneak me a wristband?\nWould you give me, give me, give me\n\n[Chorus]\nGive me a boost, a boost over heaven's gate, yeah\nGive me a boost over heaven's gate, I'm gonna need a boost\n'Cause everything else is a substitute for your love\nGive me a boost over heaven's gate\n\n[Verse 2]\nI got dreams of my own, but I want to make yours come true\nSo please come through, honey please, please come through\n\n[Pre-Chorus]\nOh, go out in the world, start over again and again\nAs many times as you can\nAnd in the end, if I don't make it on the list\nWould you sneak me a wristband?\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Chorus]\nGive me a boost, a boost over heaven's gate, yeah\nGive me a boost over heaven's gate, I'm gonna need a boost\n'Cause everything else is a substitute for your love\nGive me a boost over heaven's gate\n\n[Bridge]\nYou're the one habit I just can't kick\nYou're the one habit I just can't kick\nYou're the one habit I just can't kick\nYou're the one habit I just can't kick\nYou're the one, you're the one, you're the one, you're the one\nYou're the one habit I just can't kick\n\n[Chorus]\nGive me a boost, a boost over heaven's gate, yeah\nGive me a boost over heaven's gate, I'm gonna need a boost\n'Cause everything else is a substitute for your love\nGive me a boost over heaven's gate, give me a boost...21Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/3122937",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Champion by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "id": 3122937,
+    "instrumental": false,
+    "lyrics_owner_id": 1873201,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1698692818,
+    "path": "/Fall-out-boy-champion-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 29,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-champion-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 6,
+     "day": 22
+    },
+    "release_date_for_display": "June 22, 2017",
+    "release_date_with_abbreviated_month_for_display": "Jun. 22, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 187907
+    },
+    "title": "Champion",
+    "title_with_featured": "Champion",
+    "updated_by_human_at": 1710981986,
+    "url": "https://genius.com/Fall-out-boy-champion-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "64 ContributorsChampion Lyrics[Intro]\nChampion, champion\n\n[Verse 1]\nI'm calling you from the future\nTo let you know we've made a mistake\nAnd there's a fog from the past that's giving me, giving me\nSuch a headache\nAnd I'm back with a madness, I'm a champion\nOf the people who don't believe in champions\nI got nothing but dreams inside\nI got nothing but dreams\n\n[Pre-Chorus]\nI'm just young enough to still believe, still believe\nBut young enough not to know what to believe in\nYoung enough not to know what to believe in, yeah\n\n[Chorus]\nIf I can live through this, if I can live through this\nIf I can live through this, I can do anything\nIf I can live through this, if I can live through this\nIf I can live through this, I can do anything\n\n[Post-Chorus]\nChampion, champion\nChampion, champion\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Verse 2]\nI got rage every day, on the inside\nThe only thing I do is sit around and kill the time\nI'm trying to blow out the pilot light\nI'm trying to blow out the light\n\n[Pre-Chorus]\nI'm just young enough to still believe, still believe\nBut young enough not to know what to believe in\nYoung enough not to know what to believe\n\n[Chorus]\nIf I can live through this, if I can live through this\nIf I can live through this, I can do anything\nIf I can live through this, if I can live through this\nIf I can live through this, I can do anything\n\n[Bridge]\nChampion, champion, I can do anything\nChampion, champion, and I can do anything\nChampion, champion, and I can do anything\nChampion, champion, I can do anything!\n\n[Chorus]\nIf I can live through this, if I can live through this\nIf I can live through this, I can do anything\nIf I can live through this, if I can live through this\n(I can do anything, I can do anything)\nIf I can live through this\n(If I can live through this, if I can live through, live through)\nIf I can live through this, if I can live through this\n(Yeah, yeah, yeah, if I can live, yeah, yeah)\nIf I can live through this, I could do anything\n(If I can live, yeah, I could do anything)\nIf I can live through this, if I can live through this\n(I can do anything, I can do anything)\nIf I can live through this\n(I can do anything, I can do anything)\n[Outro]\nChampion, champion29Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/3305978",
+    "artist_names": "Fall Out Boy (Ft. Burna Boy)",
+    "full_title": "Sunshine Riptide by\u00a0Fall\u00a0Out Boy (Ft.\u00a0Burna\u00a0Boy)",
+    "header_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "id": 3305978,
+    "instrumental": false,
+    "lyrics_owner_id": 3628738,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1680592964,
+    "path": "/Fall-out-boy-sunshine-riptide-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-sunshine-riptide-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 19
+    },
+    "release_date_for_display": "January 19, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 19, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 138271
+    },
+    "title": "Sunshine Riptide",
+    "title_with_featured": "Sunshine Riptide (Ft.\u00a0Burna\u00a0Boy)",
+    "updated_by_human_at": 1681038901,
+    "url": "https://genius.com/Fall-out-boy-sunshine-riptide-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/39313",
+      "header_image_url": "https://images.genius.com/cef71f532763e70953a596e2bd5c2cac.1000x229x1.jpg",
+      "id": 39313,
+      "image_url": "https://images.genius.com/7af3374828b9ef22cc7373741880a597.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Burna Boy",
+      "slug": "Burna-boy",
+      "url": "https://genius.com/artists/Burna-boy",
+      "iq": 758
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "87 ContributorsSunshine Riptide Lyrics[Verse 1: Patrick Stump]\nI don't even have my own attention\nYou say, \"Please don't ever change\"\nBut you don't like me the way I am\nThe sign says \"Don't you tap the glass\"\nBut I read it in reverse\n\"eht pat uoy t'nod syas ngis ehT\"\nThe world tried to burn all the mercy outta me\nBut you know I wouldn't let it\nIt tried to teach me the hard way, I can't forget it\nDrivin' down the coast again\nThe pills are kickin' in, the pills are kickin' in\n\nShe said, \"I love you 'til I don't\"\nI am just playin' house, no idea what I'm doin' now\nThere are no atheists in foxholes\nThe pressure's gettin' to me, it's time to throw in the towel\n\n[Chorus: Patrick Stump]\n'Cause I'm stuck in the sunshine riptide\nDancin' all alone in the mornin' light\nThe sunshine riptide\nYou came back like a wave when I was feelin' alright\nThe sunshine\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Verse 2: Burna Boy]\nCall me Oluwaburna, I fell in love, but I didn't fall down\nThem say me nah normal, drink Hennessy, me nah drink water\nMake me stumble pon me Air Jordan\nAin't no slowing down, know I keep it rolling now\nSmoking in my fuckin' brain, passing through my fuckin' mind\nFeel like I'm bulletproof, bulletproof, baby\nWith the sun shinin' through, got the blunt and the juice, cruise\nRidin' through the...\n\n[Chorus: Patrick Stump]\nSunshine riptide\nDancin' all alone in the mornin' light\nThe sunshine riptide\nYou came back like a wave when I was feelin' al- (-right)\n\n[Post-Chorus: Patrick Stump]\nSun, sun, sun\nSun, sun, sun (I-I'm stuck in...)\nSun, sun, sun\nSun, sun\n\n[Verse 3: Patrick Stump]\nYou are my truest feelin' yet\nI love you so much, it's just like oxygen\nAnd it's goin' to my head\nA public meltdown, petulant, but irreverent\nTake all your possibilities, then take away the limits\nTake your ideas and throw away all the gimmicks\nI do the best with what I have\nThe pills are kickin' in, the pills are kickin' in\n\n[Chorus: Patrick Stump]\n'Cause I'm stuck in the sunshine riptide\nDancin' all alone in the mornin' light\nThe sunshine riptide (The sunshine)\nYou came back like a wave when I was feelin' al- (-right)\nI'm stuck in the sunshine riptide\nDancin' all alone in the mornin' light\nThe sunshine riptide (The sunshine)\nYou came back like a wave when I was feelin' al- (-right)\n\n[Post-Chorus: Patrick Stump]\nSun, sun, sun\nSun, sun, sun (I-I'm stuck in...)\nSun, sun, sun\nSun, sun (I-I'm stuck in...)18Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 24,
+    "api_path": "/songs/3068434",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Young and Menace by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "id": 3068434,
+    "instrumental": false,
+    "lyrics_owner_id": 3628738,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1691592036,
+    "path": "/Fall-out-boy-young-and-menace-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 47,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-young-and-menace-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 4,
+     "day": 27
+    },
+    "release_date_for_display": "April 27, 2017",
+    "release_date_with_abbreviated_month_for_display": "Apr. 27, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 208159
+    },
+    "title": "Young and Menace",
+    "title_with_featured": "Young and Menace",
+    "updated_by_human_at": 1711323706,
+    "url": "https://genius.com/Fall-out-boy-young-and-menace-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "106 ContributorsYoung and Menace Lyrics[Verse 1]\nWe've gone way too fast for way too long\nAnd we were never supposed to make it half this far\nAnd I lived so much life, lived so much life\nI think that God is gonna have to kill me twice\nKill me twice like my name was Nikki Sixx\nI woke up in my shoes again but somewhere you exist singing\n\n[Chorus]\nOops I, did it again, I forgot what I was losing my mind about\nOh, I only wrote this down to make you press rewind\nAnd send a message: I was young and a menace\n\n[Breakdown (Chopped Sample)]\nYoung and a menace\n\n[Verse 2]\nWoke up on the wrong side of reality\nAnd there's a madness that's just coursing right through me\nAnd as far as the time, far as the time\nNot sure I'm there yet but I'm certain I've arrived\n\n[Chorus]\nOops I, did it again, I forgot what I was losing my mind about\nOh, I only wrote this down to make you press rewind\nAnd send a message: I was young and a menace\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Breakdown (Chopped Sample)]\nYoung and a menace\n\n[Bridge]\nI'm just here flying off the deep end\nI'm just here to become the best yet\nI'm just here for the psych assessment\nI'm just here for the... For the...\nFall!\n\n[Breakdown (Chopped Sample)]\nYoung and a menace\n\n[Outro]\nWe've gone way too fast for way too long47Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/3305979",
+    "artist_names": "Fall Out Boy",
+    "full_title": "Bishops Knife Trick by\u00a0Fall\u00a0Out Boy",
+    "header_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "id": 3305979,
+    "instrumental": false,
+    "lyrics_owner_id": 4177315,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718047118,
+    "path": "/Fall-out-boy-bishops-knife-trick-lyrics",
+    "primary_artist_names": "Fall Out Boy",
+    "pyongs_count": 23,
+    "relationships_index_url": "https://genius.com/Fall-out-boy-bishops-knife-trick-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 1,
+     "day": 19
+    },
+    "release_date_for_display": "January 19, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jan. 19, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/498be5169e62ef48eac8a05e6e04f8d4.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 119724
+    },
+    "title": "Bishops Knife Trick",
+    "title_with_featured": "Bishops Knife Trick",
+    "updated_by_human_at": 1718047117,
+    "url": "https://genius.com/Fall-out-boy-bishops-knife-trick-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/7811",
+     "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+     "id": 7811,
+     "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+     "index_character": "f",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fall Out Boy",
+     "slug": "Fall-out-boy",
+     "url": "https://genius.com/artists/Fall-out-boy",
+     "iq": 27835
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 27835
+     }
+    ],
+    "artist": "Fall Out Boy",
+    "lyrics": "70 ContributorsBishops Knife Trick Lyrics[Verse 1]\nI'm pedal to the metal, make no mistake\nThis is my pity party, pity party\nAnd I'm living out of time, eternal heatstroke\nSpiritual revolt from the waist down, from the waist down\n\n[Pre-Chorus]\nI'm just a full tank away from freedom\nSpitfire\n\n[Chorus]\nThese are the last blues we're ever gonna have\nLet's see how deep we get\nThe glow of the cities below lead us back\nTo the places that we never should have left\nThe last blues we're ever gonna have\nLet's see how deep we'll get\nThe glow of the cities below lead us back\nTo the places that we never should have left\n\n[Post-Chorus]\nThe last, the last, the last\nThe last, the last, the last\nThe last, the last, the last\nThe last, the last, the last\nSee Fall Out Boy LiveGet tickets as low as $20You might also like[Verse 2]\nI got a feeling inside that I can't domesticate\nIt doesn't wanna live in a cage, a feeling that I can't housebreak\nAnd I'm yours 'til the earth starts to crumble and the heavens roll away\nI'm struggling to exist with you and without you, yeah\n\n[Pre-Chorus]\nI'm just a full tank away from freedom, yeah\nSpitfire\n\n[Chorus]\nThese are the last blues we're ever gonna have\nLet's see how deep we get\nThe glow of the cities below lead us back\nTo the places that we never should have left\nThe last blues we're ever gonna have\nLet's see how deep we'll get\nThe glow of the cities below lead us back\nTo the places that we never should have left\n\n[Post-Chorus]\nThe last, the last, the last\nThe last, the last, the last\nThe last, the last, the last\nThe last, the last, the last\n[Bridge]\nI'm sifting through sand, sand, sand, sand\nLooking for pieces of broken hourglass\nTrying to get it all back, put it back together\nAs if the time had never passed\nI know I should walk away, know I should walk away\nBut I just want to let you break my brain\nAnd I can't seem to get a grip\nNo, no matter how I live with it\n\n[Chorus]\nThese are the last blues, yeah\nThe glow of the cities below lead us back\nTo the places that we never should have left\nThe last blues we're ever gonna have\nLet's see how deep we'll get\nThe glow of the cities below lead us back\nTo the places that we never should have left\n\n[Post-Chorus]\nThe last (The last, the last, the last)\nThe last (The last, the last, the last)\nThe last (The last, the last, the last)\nThe last (The last, the last, the last)23Embed"
+   }
+  }
+ ]
+}

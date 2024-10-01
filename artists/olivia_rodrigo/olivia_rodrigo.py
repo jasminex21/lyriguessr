@@ -20,5 +20,6 @@ init_session_states()
 
 ui(game_title="oliviaRodriguessr",
    instructions=[],
+   similar_artists=["Taylor Swift", "Sabrina Carpenter"],
    guess_placeholder="e.g. drivers license or get him back!",
    default_theme="SOUR / GUTS")
