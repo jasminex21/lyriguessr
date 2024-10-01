@@ -54,6 +54,7 @@ config_game(game_title="waterparksGuessr")
 init_session_states()
 
 ui(game_title="waterparksGuessr",
+   similar_artists=["Bad Omens"],
    instructions=["Candy, What We Do For Fun, and Silver (Acoustic) are not included!"],
    guess_placeholder="e.g. 21 Questions or Numb",
    default_theme="Entertainment")
