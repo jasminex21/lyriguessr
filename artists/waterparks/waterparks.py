@@ -50,10 +50,10 @@ set_global_vars(lyrics_path="./artists/waterparks/waterparks_lyrics.csv",
                 theme_css=theme_css,
                 acceptable_answers=acceptable_answers)
 
-config_game(game_title="waterparksGuessr")
+config_game(game_title="guessrParks")
 init_session_states()
 
-ui(game_title="waterparksGuessr",
+ui(game_title="guessrParks",
    similar_artists=["Bad Omens"],
    instructions=["Candy, What We Do For Fun, and Silver (Acoustic) are not included!"],
    guess_placeholder="e.g. 21 Questions or Numb",
