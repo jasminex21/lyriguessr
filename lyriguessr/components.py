@@ -297,6 +297,8 @@ def answered_correctly():
     st.session_state.streak += 1
     st.session_state.album_counter[st.session_state.correct_album].append(True)
     st.session_state.hide_buttons = True
+    # hints disappear once you answer correctly (to optimize mobile experience)
+    st.session_state.hint_feedback = ""
 
 def answered_incorrectly():
     st.session_state.points -= 1
@@ -341,6 +343,7 @@ def hint():
 
 def giveup():
     st.session_state.incorrect_feedback = ""
+    st.session_state.hint_feedback = ""
     st.session_state.disable_buttons = True
     st.session_state.disable_hint_btn = True
     st.session_state.points -= 2
@@ -436,6 +439,7 @@ def get_database():
         return f.read()
     
 def ui(game_title, 
+       similar_artists,
        instructions,
        guess_placeholder,
        default_theme=None): 
@@ -467,6 +471,10 @@ def ui(game_title,
     buffer1, main_col, buffer2 = st.columns([1, 3, 1])
     with main_col:
         st.title(f"Welcome to {game_title}!")
+        st.markdown(f'#### **More artist games at <a href="https://www.lyriguessr.xyz/" target="_blank">lyriguessr!</a> (opens external link)**', 
+                unsafe_allow_html=True)
+        st.markdown(f"*Similar artists: {', '.join(similar_artists)}*")
+
         if st.session_state.game_in_progress == False: 
 
             start_tab, past_stats_tab, leaderboard_tab = st.tabs(["Start New Game", "Stats", "Leaderboard"])
@@ -479,7 +487,6 @@ def ui(game_title,
                     st.markdown(f"Lyrics range from *{ALL_ALBUMS[0]}* to *{ALL_ALBUMS[-1]}*.")
                     for instruct in instructions:
                         st.markdown(instruct, unsafe_allow_html=True)
-                    st.markdown(f"Return to [lyriguessr](https://jasminex21.github.io/lyriguessr/) for more artist games!")
                     st.markdown("### IMPORTANT GUIDELINES:")
                     st.markdown(f"Capitalization and minor spelling errors do NOT matter!")
                 
@@ -601,7 +608,7 @@ def ui(game_title,
                         st.button(":arrow_right: Next round", on_click=new_round)
                     
                     col1, col2, col4 = st.columns(3)
-                    col4.button(":octagonal_sign: End current game", on_click=end_game, key="end_game")
+                    col4.button(":octagonal_sign:  END CURRENT GAME", on_click=end_game, key="end_game")
 
                 with stats_tab:
                     st.markdown(f"### In-Game Statistics")

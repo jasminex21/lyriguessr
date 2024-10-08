@@ -9,16 +9,11 @@ categories: ["pop punk"]
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://waterparks.lyriguessr.xyz/" target="_blank">waterparksGuessr!</a> (opens external link)**
+**Go to <a href="https://waterparks.lyriguessr.xyz/" target="_blank">guessrParks!</a> (opens external link)**
 :::
 :::
 
 ### Details
-
-::: {.callout-note appearance="simple"}
-## Announcement
-I am taking requests for cooler/punnier names for Waterparks' game! Tweet me your ideas on Twitter [@lyriguessr](https://x.com/lyriguessr) and I will run a poll!
-:::
 
 Lyrics range from *Airplane Conversations* to *INTELLECTUAL PROPERTY*.
 

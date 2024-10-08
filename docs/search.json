@@ -1,22 +1,19 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "6_clairo.html",
+    "href": "6_clairo.html",
+    "title": "Clairo",
     "section": "",
-    "text": "About me\nHi! I’m Jasmine, the developer of lyriguessr. I study Statistics & Data Science and Computer Science at UT Austin (hook ’em!), and love working on projects such as lyriguessr in my free time.\n\nBusiness inquiries: contact me at lyriguessr@gmail.com!\n\nThe idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate Hannah during my freshman year. We’re both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!\nI realized that tayLyrics could be generalized to any artist - why not share the fun with everyone, right? And so lyriguessr was born.\n\nMy favorite artists are Waterparks, Bad Omens, and Taylor Swift. Follow me on Spotify here!\n\n\n\nAcknowledgements\nA couple people I’d like to thank for their contributions to lyriguessr’s development…\n\nMy roommate (and the love of my life) Hannah, whose love for (and insane competency at) tayLyrics inspired the creation of lyriguessr\nJiant, for his business insights\nTrus, for designing the amazing lyriguessr logo",
-    "crumbs": [
-      "About"
-    ]
+    "text": "Play the game!\n\n\n\n\nGo to clairoGuessr! (opens external link)\n\n\n\n\nDetails\n\n\n\n\n\n\nAnnouncement\n\n\n\nI am taking requests for cooler/punnier names for this game! Tweet me your ideas on Twitter @lyriguessr and I will run a poll!\n\n\nLyrics range from diary 001 to Charm.\n2 Hold U, Get With U, Sis, Bubble Gum, and Heaven are included in the game, under the album “Original singles.”\n\n\nThe Dataset and Statistics\nThere are 1,123 lines in the dataset, with 790 of them being unique lines.\n\nYou have around a 0.089% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\n\n\n\n\n\n\n\n\n\nTop 6 Most Common Lyrics\n\n\nAnd each lyric's number of occurrences, and chance of showing up in Hard mode\n\n\nLyric\n#\nSong\nPct.\n\n\n\n\n\"I think we could do it if we tried\"\n9\nSofia\n0.8%\n\n\n\"You're the boy of my dreams\"\n9\nB.O.M.D.\n0.8%\n\n\n\"And I could be a pretty girl\"\n8\nPretty Girl\n0.71%\n\n\n\"Walking out the door with your bags\"\n8\nBags\n0.71%\n\n\n\"Mm, mm, mm\"\n8\nGlory of the Snow\n0.71%\n\n\n\"Ooh, ooh, ooh\"\n7\nThank You OR Add Up My Love OR Pier 4\n0.62%\n\n\n\n\n\n\n\n\n\nSimilar Artists\nNothing here yet…"
   },
   {
-    "objectID": "coming_soon.html",
-    "href": "coming_soon.html",
-    "title": "Coming Soon…",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to lyriguessr!",
     "section": "",
-    "text": "Artists to be added\n\n\n\n\n\n\nTip\n\n\n\nInteract with me at @lyriguessr on Twitter or Instagram to request new artists!\n\n\n\nSabrina Carpenter\nLana del Ray\nBillie Eilish\nChappell Roan\nDominic Fike\nHozier\nHarry Styles\nBad Bunny\nSZA\nAriana Grande\nbeabadoobee\nLorde\nKendrick Lamar\nTyler, the Creator\nChase Atlantic\nThe Weeknd\nTwenty One Pilots\nFall Out Boy\n\n\nPotential other artists\n\nBeach Bunny\n5 Seconds of Summer\nParamore\nCharli XCX\nKPop artists - e.g. BTS, TWICE, etc. Will need insights as to how I should do this, considering the language barrier\n\n\n\nOthers\n\nHamilton (the musical)\nDisney movie songs",
+    "text": "⚔️ The Game\nEarn as many points as possible by guessing the song that the generated lyric(s) comes from.\nIf you don’t have a guess, you can ask for up to 3 hints per round. You start with 20 hints per game, but you can earn one extra hint every 10 rounds! Or, you can choose to give up.\n\n\n\n\n\n\nPoints Breakdown (click to expand)\n\n\n\n\n\n\nEasy correct guess: +1\nMedium correct guess: +3\nHard correct guess: +5\nHint (each): -1\nGiving up: -2\n\n\n\n\n\n\n🎵 Artists\n\nInteract with me at @lyriguessr on Twitter or Instagram to request new artists!\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date Added - Oldest\n        \n         \n          Date Added - Newest\n        \n         \n          Artist\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nArtist\n\n\nDate Added\n\n\nGenres\n\n\n\n\n\n\nTaylor Swift\n\n\nAug 1, 2024\n\n\npop\n\n\n\n\nRadiohead\n\n\nAug 7, 2024\n\n\nart rock, alt rock\n\n\n\n\nWaterparks\n\n\nAug 11, 2024\n\n\npop punk\n\n\n\n\nOlivia Rodrigo\n\n\nSep 2, 2024\n\n\npop, pop rock\n\n\n\n\nBad Omens\n\n\nSep 3, 2024\n\n\nmetalcore\n\n\n\n\nSabrina Carpenter\n\n\nSep 19, 2024\n\n\npop\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Coming Soon"
+      "Home"
     ]
   },
   {
@@ -46,7 +43,7 @@
     "href": "artist_pages/2_waterparks.html",
     "title": "Waterparks",
     "section": "",
-    "text": "Play the game!\n\n\n\n\nGo to waterparksGuessr! (opens external link)\n\n\n\n\nDetails\n\n\n\n\n\n\nAnnouncement\n\n\n\nI am taking requests for cooler/punnier names for Waterparks’ game! Tweet me your ideas on Twitter @lyriguessr and I will run a poll!\n\n\nLyrics range from Airplane Conversations to INTELLECTUAL PROPERTY.\nDemo album 1 is not included, and neither are Candy and What We Do For Fun.\n\n\nThe Dataset and Statistics\nThere are 4,449 lines in the waterparksGuessr dataset, with 2,577 of them being unique lines.\n\nYou have around a 0.022% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\n\n\n\n\n\n\n\n\n\nTop 5 Most Common Lyrics\n\n\nAnd each lyric's number of occurrences, and chance of showing up in Hard mode\n\n\nLyric\n#\nSong\nPct.\n\n\n\n\n\"Mad all the time\"\n14\nMad All the Time\n0.31%\n\n\n\"So let me go, let me go down\"\n14\nPeach (Lobotomy)\n0.31%\n\n\n\"Last night I had the strangest dream of all\"\n13\nGreatest Hits\n0.29%\n\n\n\"Whoa, you’ll never know\"\n12\nI Was Hiding Under Your Porch Because I Love You\n0.27%\n\n\n\"Do you feel it too?\"\n12\nTelephone\n0.27%\n\n\n\n\n\n\n\n\n\nSimilar Artists\nNothing here yet…",
+    "text": "Play the game!\n\n\n\n\nGo to guessrParks! (opens external link)\n\n\n\n\nDetails\nLyrics range from Airplane Conversations to INTELLECTUAL PROPERTY.\nDemo album 1 is not included, and neither are Candy and What We Do For Fun.\n\n\nThe Dataset and Statistics\nThere are 4,449 lines in the waterparksGuessr dataset, with 2,577 of them being unique lines.\n\nYou have around a 0.022% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\n\n\n\n\n\n\n\n\n\nTop 5 Most Common Lyrics\n\n\nAnd each lyric's number of occurrences, and chance of showing up in Hard mode\n\n\nLyric\n#\nSong\nPct.\n\n\n\n\n\"Mad all the time\"\n14\nMad All the Time\n0.31%\n\n\n\"So let me go, let me go down\"\n14\nPeach (Lobotomy)\n0.31%\n\n\n\"Last night I had the strangest dream of all\"\n13\nGreatest Hits\n0.29%\n\n\n\"Whoa, you’ll never know\"\n12\nI Was Hiding Under Your Porch Because I Love You\n0.27%\n\n\n\"Do you feel it too?\"\n12\nTelephone\n0.27%\n\n\n\n\n\n\n\n\n\nSimilar Artists\nNothing here yet…",
     "crumbs": [
       "Artists",
       "Waterparks"
@@ -71,7 +68,7 @@
     "href": "artist_stats.html",
     "title": "Game Details",
     "section": "",
-    "text": "Dataset Details\nGenerally, artist datasets comprise of all songs from studio albums - excluding EPs and singles. But there are exceptions! All lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).\nNote that some lyrics are just a couple words - these tend to be ad-libs, such as “oh, oh.” If that isn’t hard enough already, lyrics such as “oh, oh” may easily show up in multiple songs, and you’ll likely need to use hints to help you narrow it down.\nIf you’d like to do your own analyses on artist datasets, you can find them in lyriguessr’s GitHub repo. Contact me at lyriguessr@gmail.com for any questions!\n\n\nDataset Statistics\nNaturally, the larger the artist dataset, the harder the game is! If you like stats, this table is for you.\n\n\n\n\n\n\n\n\nArtist Dataset Statistics\n\n\nSorted in descending order by the # of lines in the dataset\n\n\nArtist\nLines\nSongs\nAlbums\nAvg. Words per Line\n\n\n\n\nTaylor Swift\n11776\n232\n11\n7.23\n\n\nLana Del Ray\n5960\n125\n9\n6.85\n\n\nWaterparks\n4449\n82\n8\n6.57\n\n\nSabrina Carpenter\n3438\n68\n6\n6.95\n\n\nRadiohead\n2588\n100\n9\n5.46\n\n\nBad Omens\n1744\n46\n4\n7.67\n\n\nOlivia Rodrigo\n1219\n28\n2\n7.79\n\n\nClairo\n1123\n40\n5\n6.79",
+    "text": "Dataset Details\nGenerally, artist datasets comprise of all songs from studio albums - excluding EPs and singles. But there are exceptions! All lyrics and section designators (chorus, verses, etc.) are taken from Genius (so blame them for unusual lyric cutoffs!).\nNote that some lyrics are just a couple words - these tend to be ad-libs, such as “oh, oh.” If that isn’t hard enough already, lyrics such as “oh, oh” may easily show up in multiple songs, and you’ll likely need to use hints to help you narrow it down.\nIf you’d like to do your own analyses on artist datasets, you can find them in lyriguessr’s GitHub repo. Contact me at lyriguessr@gmail.com for any questions!\n\n\nDataset Statistics\nNaturally, the larger the artist dataset, the harder the game is! If you like stats, this table is for you.\n\n\n\n\n\n\n\n\nArtist Dataset Statistics\n\n\nSorted in descending order by the # of lines in the dataset\n\n\nArtist\nLines\nSongs\nAlbums\nAvg. Words per Line\n\n\n\n\nTaylor Swift\n11776\n232\n11\n7.23\n\n\nWaterparks\n4449\n82\n8\n6.57\n\n\nFall Out Boy\n4316\n102\n8\n7.71\n\n\nSabrina Carpenter\n3438\n68\n6\n6.95\n\n\nRadiohead\n2588\n100\n9\n5.46\n\n\nBad Omens\n1744\n46\n4\n7.67\n\n\nOlivia Rodrigo\n1219\n28\n2\n7.79",
     "crumbs": [
       "Details"
     ]
@@ -110,24 +107,23 @@
     ]
   },
   {
-    "objectID": "artist_pages/6_clairo.html",
-    "href": "artist_pages/6_clairo.html",
-    "title": "Clairo",
+    "objectID": "coming_soon.html",
+    "href": "coming_soon.html",
+    "title": "Coming Soon…",
     "section": "",
-    "text": "Play the game!\n\n\n\n\nGo to clairoGuessr! (opens external link)\n\n\n\n\nDetails\n\n\n\n\n\n\nAnnouncement\n\n\n\nI am taking requests for cooler/punnier names for this game! Tweet me your ideas on Twitter @lyriguessr and I will run a poll!\n\n\nLyrics range from diary 001 to Charm.\n2 Hold U, Get With U, Sis, Bubble Gum, and Heaven are included in the game, under the album “Original singles.”\n\n\nThe Dataset and Statistics\nThere are 1,123 lines in the dataset, with 790 of them being unique lines.\n\nYou have around a 0.089% chance of getting each line (not factoring in repeated lyrics) in Hard mode!\n\n\n\n\n\n\n\n\n\nTop 6 Most Common Lyrics\n\n\nAnd each lyric's number of occurrences, and chance of showing up in Hard mode\n\n\nLyric\n#\nSong\nPct.\n\n\n\n\n\"I think we could do it if we tried\"\n9\nSofia\n0.8%\n\n\n\"You're the boy of my dreams\"\n9\nB.O.M.D.\n0.8%\n\n\n\"And I could be a pretty girl\"\n8\nPretty Girl\n0.71%\n\n\n\"Walking out the door with your bags\"\n8\nBags\n0.71%\n\n\n\"Mm, mm, mm\"\n8\nGlory of the Snow\n0.71%\n\n\n\"Ooh, ooh, ooh\"\n7\nThank You OR Add Up My Love OR Pier 4\n0.62%\n\n\n\n\n\n\n\n\n\nSimilar Artists\nNothing here yet…",
+    "text": "Tip\n\n\n\nInteract with me at @lyriguessr on Twitter or Instagram to request new artists!\n\n\n\n🔜 Artists I plan on adding\n\n5 Seconds of Summer\nTwenty One Pilots\nFall Out Boy\nMy Chemical Romance\nParamore\nBeyonce\nBillie Eilish\nKendrick Lamar\nSZA\n\n\n\n🤔 Other potential artists\n\nPierce the Veil\nBring Me the Horizon\nSleep Token\nChappell Roan\nDominic Fike\nHarry Styles\nBad Bunny\nAriana Grande\nbeabadoobee\nPinkPantheress\nLorde\nHalsey\nTyler, the Creator\nLana del Ray\nHozier\nOasis\n\n\n\n❓ Other ideas\n\nHamilton (the musical)\nDisney movie songs",
     "crumbs": [
-      "Artists",
-      "Clairo"
+      "Coming Soon"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to lyriguessr!",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "⚔️ The Game\nEarn as many points as possible by guessing the song that the generated lyric(s) comes from.\nIf you don’t have a guess, you can ask for up to 3 hints per round. You start with 20 hints per game, but you can earn one extra hint every 10 rounds! Or, you can choose to give up.\n\n\n\n\n\n\nPoints Breakdown (click to expand)\n\n\n\n\n\n\nEasy correct guess: +1\nMedium correct guess: +3\nHard correct guess: +5\nHint (each): -1\nGiving up: -2\n\n\n\n\n\n\n🎵 Artists\n\nInteract with me at @lyriguessr on Twitter or Instagram to request new artists!\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date Added - Oldest\n        \n         \n          Date Added - Newest\n        \n         \n          Artist\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nArtist\n\n\nDate Added\n\n\nGenres\n\n\n\n\n\n\nTaylor Swift\n\n\nAug 1, 2024\n\n\npop\n\n\n\n\nRadiohead\n\n\nAug 7, 2024\n\n\nart rock, alt rock\n\n\n\n\nWaterparks\n\n\nAug 11, 2024\n\n\npop punk\n\n\n\n\nOlivia Rodrigo\n\n\nSep 2, 2024\n\n\npop, pop rock\n\n\n\n\nBad Omens\n\n\nSep 3, 2024\n\n\nmetalcore\n\n\n\n\nClairo\n\n\nSep 10, 2024\n\n\npop, bedroom pop\n\n\n\n\nSabrina Carpenter\n\n\nSep 19, 2024\n\n\npop\n\n\n\n\n\nNo matching items",
+    "text": "About me\nHi! I’m Jasmine, the developer of lyriguessr. I study Statistics & Data Science and Computer Science at UT Austin (hook ’em!), and love working on projects such as lyriguessr in my free time.\n\nBusiness inquiries: contact me at lyriguessr@gmail.com!\n\nThe idea of lyriguessr all started with tayLyrics, the Taylor Swift-themed game I initially created for myself and my roommate Hannah during my freshman year. We’re both Swifties and are avid tayLyrics players - try to beat us on the leaderboard!\nI realized that tayLyrics could be generalized to any artist - why not share the fun with everyone, right? And so lyriguessr was born.\n\nMy favorite artists are Waterparks, Bad Omens, and Taylor Swift. Follow me on Spotify here!\n\n\n\nAcknowledgements\nA couple people I’d like to thank for their contributions to lyriguessr’s development…\n\nMy roommate (and the love of my life) Hannah, whose love for (and insane competency at) tayLyrics inspired the creation of lyriguessr\nJiant, for his business insights\nTrus, for designing the amazing lyriguessr logo",
     "crumbs": [
-      "Home"
+      "About"
     ]
   }
 ]

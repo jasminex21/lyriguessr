@@ -188,5 +188,5 @@ class Lyrigetter:
         artist_df = pd.DataFrame(stats, 
                                  columns=["artist", "nlines", "songs", "albums", "avg_words_per_line"])
         all_stats = pd.concat([current_stats, artist_df])
-        all_stats.sort_values(by='nlines', ascending=False)
+        all_stats = all_stats.sort_values(by='nlines', ascending=False)
         all_stats.to_csv("/home/jasmine/PROJECTS/lyriguessr/artist_dataset_statistics.csv", index=False)
