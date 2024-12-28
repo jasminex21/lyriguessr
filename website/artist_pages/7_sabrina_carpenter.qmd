@@ -8,7 +8,7 @@ categories: ["pop"]
 ::: {.callout-tip appearance="simple"}
 ## Play the game!
 ::: lead
-**Go to <a href="https://sabrina.lyriguessr.xyz/" target="_blank">sabrinaGuessr!</a> (opens external link)**
+**Go to <a href="https://sabrinacarpenter.streamlit.app/"target="_blank">sabrinaGuessr!</a> (opens external link)**
 :::
 :::
 
