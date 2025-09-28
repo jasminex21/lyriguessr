@@ -55,7 +55,3 @@ gt(data) %>%
                Song ~ px(500),
                `Pct.` ~ px(100))
 ```
-
-### Similar Artists
-
-* [Olivia Rodrigo](4_olivia_rodrigo.qmd)
