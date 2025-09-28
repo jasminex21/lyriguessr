@@ -170,7 +170,7 @@ def apply_theme(selected_theme):
     h3, h2, h1, strong, .lyrics, h4 {{
         color: {selected_theme["text_color"]};
         font-weight: 900 !important;
-        font-family: 'Outfit', sans-serif;
+        font-family: 'Outfit', sans-serif !important;
     }}
     .lyrics {{
         font-size: 20px;

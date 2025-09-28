@@ -46,8 +46,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: coming_soon.qmd
-        text: Coming Soon
+      # - href: coming_soon.qmd
+      #   text: Coming Soon
       - href: about.qmd
         text: About
       - href: artist_stats.qmd

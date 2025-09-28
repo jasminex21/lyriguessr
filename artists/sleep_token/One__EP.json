@@ -1,0 +1,745 @@
+{
+ "_type": "album",
+ "api_path": "/albums/380271",
+ "cover_art_thumbnail_url": "https://images.genius.com/d20c80a20f09a4a6f630d309bfb8e520.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/d20c80a20f09a4a6f630d309bfb8e520.999x999x1.jpg",
+ "full_title": "One - EP by Sleep Token",
+ "id": 380271,
+ "name": "One - EP",
+ "name_with_artist": "One - EP (artist: Sleep Token)",
+ "primary_artist_names": "Sleep Token",
+ "release_date_components": {
+  "year": 2016,
+  "month": 12,
+  "day": 2
+ },
+ "release_date_for_display": "December 2, 2016",
+ "url": "https://genius.com/albums/Sleep-token/One-ep",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/1257521",
+  "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+  "id": 1257521,
+  "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sleep Token",
+  "slug": "Sleep-token",
+  "url": "https://genius.com/artists/Sleep-token"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1257521",
+   "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+   "id": 1257521,
+   "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Sleep Token",
+   "slug": "Sleep-token",
+   "url": "https://genius.com/artists/Sleep-token"
+  }
+ ],
+ "comment_count": 0,
+ "custom_header_image_url": null,
+ "description_preview": "\u201cOne\u201d, is the first EP released by British alternative metal band, Sleep Token.\n\nFeaturing 3 tracks, the EP introduces the bands signature draw towards ambient, harmonic melodies, though introducing some heavier elements throughout the album.",
+ "header_image_url": "https://images.genius.com/d20c80a20f09a4a6f630d309bfb8e520.999x999x1.jpg",
+ "lock_state": "editable",
+ "pyongs_count": 1,
+ "release_date": "2016-12-02",
+ "tracking_paths": {
+  "aggregate": "/albums/Sleep-token/One-ep",
+  "concurrent": "/albums/Sleep-token/One-ep"
+ },
+ "current_user_metadata": {
+  "permissions": [
+   "create_comment"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "destroy",
+   "pyong",
+   "lock",
+   "super_lock",
+   "unlock",
+   "sort_songs",
+   "see_short_id",
+   "create_question"
+  ],
+  "interactions": {
+   "pyong": false
+  }
+ },
+ "song_pageviews": 39463,
+ "cover_arts": [
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/380271",
+   "id": 178985,
+   "image_url": "https://images.genius.com/d20c80a20f09a4a6f630d309bfb8e520.999x999x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/d20c80a20f09a4a6f630d309bfb8e520.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/178985",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 9507353,
+  "annotator_login": "marzavocados",
+  "api_path": "/referents/13033284",
+  "classification": "unreviewed",
+  "fragment": "One - EP",
+  "id": 13033284,
+  "ios_app_url": "genius://referents/13033284",
+  "is_description": true,
+  "is_image": false,
+  "path": "/13033284/One-ep/One-ep",
+  "range": {
+   "content": "One - EP"
+  },
+  "song_id": null,
+  "url": "https://genius.com/13033284/One-ep/One-ep",
+  "verified_annotator_ids": [],
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "add_pinned_annotation_to",
+    "add_community_annotation_to"
+   ],
+   "relationships": {}
+  },
+  "tracking_paths": {
+   "aggregate": "/13033284/One-ep/One-ep",
+   "concurrent": "/albums/Sleep-token/One-ep"
+  },
+  "twitter_share_message": "\u201c\u201cOne\u201d, is the first EP released by British alternative metal band, Sleep Token.\n\nFeaturing 3 tra\u2026\u201d \u2014@Genius",
+  "annotatable": {
+   "_type": "album",
+   "api_path": "/albums/380271",
+   "context": "Sleep Token",
+   "id": 380271,
+   "image_url": "https://images.genius.com/d20c80a20f09a4a6f630d309bfb8e520.300x300x1.jpg",
+   "link_title": "One - EP",
+   "title": "One - EP",
+   "type": "Album",
+   "url": "https://genius.com/albums/Sleep-token/One-ep"
+  },
+  "annotations": [
+   {
+    "_type": "annotation",
+    "api_path": "/annotations/13033284",
+    "being_created": false,
+    "body": {
+     "plain": "\u201cOne\u201d, is the first EP released by British alternative metal band, Sleep Token.\n\nFeaturing 3 tracks, the EP introduces the bands signature draw towards ambient, harmonic melodies, though introducing some heavier elements throughout the album."
+    },
+    "comment_count": 0,
+    "community": true,
+    "created_at": 1676532511,
+    "custom_preview": null,
+    "deleted": false,
+    "embed_content": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/13033284/standalone_embed'><a href='https://genius.com/13033284/One-ep/One-ep'>One - EP</a><br><a href='https://genius.com/albums/Sleep-token/One-ep'>&#8213; One - EP</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>",
+    "has_voters": true,
+    "id": 13033284,
+    "needs_exegesis": false,
+    "pinned": false,
+    "proposed_edit_count": 1,
+    "pyongs_count": null,
+    "referent_id": 13033284,
+    "share_url": "https://genius.com/13033284",
+    "source": null,
+    "state": "pending",
+    "twitter_share_message": "\u201c\u201cOne\u201d, is the first EP released by British alternative metal band, Sleep Token.\n\nFeaturing 3 tracks, the\u2026\u201d \u2014@Genius",
+    "url": "https://genius.com/13033284/One-ep/One-ep",
+    "verified": false,
+    "votes_total": 5,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "report_as_abusive",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "accepted_by": null,
+    "authors": [
+     {
+      "_type": "user_attribution",
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "Mildly depressed emo with too much free time wasted dissecting said emo songs.\n\nIS SELENA GOMEZ A SELF-FULFILLING PROPHECY?????\n\n\n\nfind me >\nhttps://linktr.ee/iamnotacult.com",
+       "api_path": "/users/9507353",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+       "human_readable_role_for_display": "Contributor",
+       "id": 9507353,
+       "iq": 8037,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "marzavocados",
+       "name": "marzavocados",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/marzavocados",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "created_by": {
+     "_type": "user",
+     "about_me_summary": "Mildly depressed emo with too much free time wasted dissecting said emo songs.\n\nIS SELENA GOMEZ A SELF-FULFILLING PROPHECY?????\n\n\n\nfind me >\nhttps://linktr.ee/iamnotacult.com",
+     "api_path": "/users/9507353",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+     "human_readable_role_for_display": "Contributor",
+     "id": 9507353,
+     "iq": 8037,
+     "is_meme_verified": false,
+     "is_verified": false,
+     "login": "marzavocados",
+     "name": "marzavocados",
+     "role_for_display": "contributor",
+     "url": "https://genius.com/marzavocados",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    "rejection_comment": null,
+    "top_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "performance_groups": [],
+ "song_performances": [
+  {
+   "label": "Producers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Writers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  },
+  {
+   "label": "Bass Guitar",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    }
+   ]
+  },
+  {
+   "label": "Drums",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922837",
+     "header_image_url": "https://images.genius.com/1e2c9c0b1a0ffe5f17f2c1c8e349ed7b.1000x661x1.jpg",
+     "id": 2922837,
+     "image_url": "https://images.genius.com/b01693b22538b600b3072e18b49952b7.605x668x1.png",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel II",
+     "slug": "Vessel-ii",
+     "url": "https://genius.com/artists/Vessel-ii"
+    }
+   ]
+  },
+  {
+   "label": "Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    }
+   ]
+  },
+  {
+   "label": "Piano",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1452979",
+     "header_image_url": "https://images.genius.com/976a7925b25dca6eab7bfc32d49a5224.1000x661x1.jpg",
+     "id": 1452979,
+     "image_url": "https://images.genius.com/22dce9e4184a67563f6a613f4e8a3361.630x630x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TuneCore",
+     "slug": "Tunecore",
+     "url": "https://genius.com/artists/Tunecore"
+    }
+   ]
+  },
+  {
+   "label": "Vocals",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/3313300",
+    "artist_names": "Sleep Token",
+    "full_title": "Thread the Needle by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/2fe9660780bc8867ae6eb4d72ab6e805.300x330x1.jpg",
+    "header_image_url": "https://images.genius.com/2fe9660780bc8867ae6eb4d72ab6e805.909x1000x1.jpg",
+    "id": 3313300,
+    "instrumental": false,
+    "lyrics_owner_id": 930466,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1715291212,
+    "path": "/Sleep-token-thread-the-needle-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Sleep-token-thread-the-needle-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 9,
+     "day": 8
+    },
+    "release_date_for_display": "September 8, 2016",
+    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2fe9660780bc8867ae6eb4d72ab6e805.300x330x1.jpg",
+    "song_art_image_url": "https://images.genius.com/2fe9660780bc8867ae6eb4d72ab6e805.909x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 13177
+    },
+    "title": "Thread the Needle",
+    "title_with_featured": "Thread the Needle",
+    "updated_by_human_at": 1715291212,
+    "url": "https://genius.com/Sleep-token-thread-the-needle-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nBury me inside this\nLabyrinth bed\nWe can feel that time is\nDilated\n\n[Chorus]\nWe can spend the night in\nFascination\nYou can thread the needle\nTime and time again\n\n[Post-Chorus]\nYou turn the lights down\nCome on and find out\nYou turn the lights down\nCome on and find out\n\n[Verse 2]\nSomething to confide in\nSomething to erase\nJust look at where we're lying\nAn invisible space\n\n[Chorus]\nWe can spend the night in\nFascination\nYou can thread the needle\nTime and time again\n\n[Instrumental Break]\n\n[Post-Chorus]\nYou turn the lights down\nCome on and find out\nYou turn the lights down\nCome on and find out\n\n[Instrumental Outro]"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/3313302",
+    "artist_names": "Sleep Token",
+    "full_title": "Fields of Elation by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/d20c80a20f09a4a6f630d309bfb8e520.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d20c80a20f09a4a6f630d309bfb8e520.999x999x1.jpg",
+    "id": 3313302,
+    "instrumental": false,
+    "lyrics_owner_id": 930466,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1726133761,
+    "path": "/Sleep-token-fields-of-elation-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Sleep-token-fields-of-elation-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 11,
+     "day": 10
+    },
+    "release_date_for_display": "November 10, 2016",
+    "release_date_with_abbreviated_month_for_display": "Nov. 10, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d20c80a20f09a4a6f630d309bfb8e520.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d20c80a20f09a4a6f630d309bfb8e520.999x999x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 13140
+    },
+    "title": "Fields of Elation",
+    "title_with_featured": "Fields of Elation",
+    "updated_by_human_at": 1726133761,
+    "url": "https://genius.com/Sleep-token-fields-of-elation-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nThe daylight recedes in unison, this room\nBuries the hours, like death in motion\n\n[Chorus]\nNobody else can pull me out\nThe fields of elation, quiet and loamy\n\n[Verse 2]\nYour name is a sin I breathe, like oxygen\nCaught in the careless arms of lust again\n\n[Chorus]\nNobody else can pull me out\nThe fields of elation, quiet and loamy\n\n[Chorus]\nAnd nobody else can pull me out\nThe fields of elation, quiet and loamy\nAnd nobody else can pull me out\nThe fields of elation, quiet and loamy\n\n[Instrumental Break]\n\n[Outro]\nI'm losing my faith in our lives apart\nI'm losing my faith in our lives apart\nI'm losing my faith in our lives apart\nI'm losing my faith in our lives apart"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/3999789",
+    "artist_names": "Sleep Token",
+    "full_title": "When the Bough Breaks by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/790c1f2392a9d75f8b62d7fdab00a3ca.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/790c1f2392a9d75f8b62d7fdab00a3ca.504x504x1.jpg",
+    "id": 3999789,
+    "instrumental": false,
+    "lyrics_owner_id": 6048779,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1739271935,
+    "path": "/Sleep-token-when-the-bough-breaks-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Sleep-token-when-the-bough-breaks-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 12,
+     "day": 2
+    },
+    "release_date_for_display": "December 2, 2016",
+    "release_date_with_abbreviated_month_for_display": "Dec. 2, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/790c1f2392a9d75f8b62d7fdab00a3ca.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/790c1f2392a9d75f8b62d7fdab00a3ca.504x504x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 13207
+    },
+    "title": "When the Bough Breaks",
+    "title_with_featured": "When the Bough Breaks",
+    "updated_by_human_at": 1739271935,
+    "url": "https://genius.com/Sleep-token-when-the-bough-breaks-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nYou could stay alive\nJust tell me that you notice\nEven in the dark\nThe way I left you breathing\n\n[Refrain]\nSometimes when we touch\nEverything we love resets\nIt's only just enough\nEven when we run with death\n\n[Verse 2]\nWe could be released\nFlowing over sorrow days\nWe could stay suspended\nEven when the bough breaks\n\n[Refrain]\nSometimes when we touch\nEverything we love resets\nIt's only just enough\nEven when we run with death\n\n[Instrumental Break]\n\n[Bridge]\nDon't lie to me\nDon't lie to me\nDon't lie to me\nDon't lie to me\nDon't lie to me\nDon't lie to me\nDon't lie to me\nDon't lie to me\n\n[Chorus]\nEverything we touch turns water into blood\n(Don't lie to me, don't lie to me)\nYou try to look away from, even when the bough breaks\n(Don't lie to me, don't lie to me)\nYou don't really love, you just hate to be alone\n(Don't lie to me, don't lie to me)\nYou hate to be alone\n(Don't lie to me)\nYou hate to be alone\n(Don't lie to me)\nEverything we touch turns water into blood\n(Don't lie to me, don't lie to me, don't lie to me)\nYou try to look away from, even when the bough breaks\n(Don't lie to me, don't lie to me, don't lie to me)\nYou don't really love, you just hate to be alone\n(Don't lie to me, don't lie to me, don't lie to me)\nYou hate to be alone\n(Don't lie to me)\nYou hate to be alone\nEverything we touch turns water into blood\nYou try to look away from, even when the bough breaks\nYou don't really love, you just hate to be alone\nYou hate to be alone\nYou hate to be alone\nEverything we touch turns water into blood\n(Don't lie to me)\nYou try to look away from, even when the bough breaks\n(Don't lie to me)\nYou don't really love, you just hate to be alone\n(Don't lie to me)\nYou hate to be alone\n(Don't lie)\nYou hate to be alone\n\n[Instrumental Outro]"
+   }
+  }
+ ]
+}

@@ -34,7 +34,9 @@ If you don't have a guess, you can ask for up to 3 hints per round. You start wi
 
 ### 🎵 Artists
 
-> Interact with me at @lyriguessr on [Twitter](https://x.com/lyriguessr) or [Instagram](https://www.instagram.com/lyriguessr) to request new artists!
+<!-- > Interact with me at @lyriguessr on [Twitter](https://x.com/lyriguessr) or [Instagram](https://www.instagram.com/lyriguessr) to request new artists! -->
+
+I will add more artists based on demand. Past artists included on lyriguessr include: Radiohead, Olivia Rodrigo, Sabrina Carpenter, Waterparks, and Bad Omens.
 
 ::: {#artist_games}
 :::

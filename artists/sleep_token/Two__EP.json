@@ -1,0 +1,771 @@
+{
+ "_type": "album",
+ "api_path": "/albums/380272",
+ "cover_art_thumbnail_url": "https://images.genius.com/a73d99e03eded168e64a7a8bab484337.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/a73d99e03eded168e64a7a8bab484337.480x480x1.jpg",
+ "full_title": "Two - EP by Sleep Token",
+ "id": 380272,
+ "name": "Two - EP",
+ "name_with_artist": "Two - EP (artist: Sleep Token)",
+ "primary_artist_names": "Sleep Token",
+ "release_date_components": {
+  "year": 2017,
+  "month": 7,
+  "day": 21
+ },
+ "release_date_for_display": "July 21, 2017",
+ "url": "https://genius.com/albums/Sleep-token/Two-ep",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/1257521",
+  "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+  "id": 1257521,
+  "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sleep Token",
+  "slug": "Sleep-token",
+  "url": "https://genius.com/artists/Sleep-token"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1257521",
+   "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+   "id": 1257521,
+   "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Sleep Token",
+   "slug": "Sleep-token",
+   "url": "https://genius.com/artists/Sleep-token"
+  }
+ ],
+ "comment_count": 0,
+ "custom_header_image_url": null,
+ "description_preview": "\u201cTwo\u201d, is the second EP released by British alternative metal band, Sleep Token.\n\nFeaturing 3 tracks, the album conducts a twisted, vaguely sinister sound, maintaining the haunting melodic components comprised in precursor, \u201cOne\u201d, though introducing minor, droning sounds to compliment the growth of addressed topics in their lyricism.",
+ "header_image_url": "https://images.genius.com/a73d99e03eded168e64a7a8bab484337.480x480x1.jpg",
+ "lock_state": "editable",
+ "pyongs_count": 1,
+ "release_date": "2017-07-21",
+ "tracking_paths": {
+  "aggregate": "/albums/Sleep-token/Two-ep",
+  "concurrent": "/albums/Sleep-token/Two-ep"
+ },
+ "current_user_metadata": {
+  "permissions": [
+   "create_comment"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "destroy",
+   "pyong",
+   "lock",
+   "super_lock",
+   "unlock",
+   "sort_songs",
+   "see_short_id",
+   "create_question"
+  ],
+  "interactions": {
+   "pyong": false
+  }
+ },
+ "song_pageviews": 85191,
+ "cover_arts": [
+  {
+   "_type": "cover_art",
+   "annotated": false,
+   "api_path": "/albums/380272",
+   "id": 178986,
+   "image_url": "https://images.genius.com/a73d99e03eded168e64a7a8bab484337.480x480x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/a73d99e03eded168e64a7a8bab484337.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/178986",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 9507353,
+  "annotator_login": "marzavocados",
+  "api_path": "/referents/13033297",
+  "classification": "unreviewed",
+  "fragment": "Two - EP",
+  "id": 13033297,
+  "ios_app_url": "genius://referents/13033297",
+  "is_description": true,
+  "is_image": false,
+  "path": "/13033297/Two-ep/Two-ep",
+  "range": {
+   "content": "Two - EP"
+  },
+  "song_id": null,
+  "url": "https://genius.com/13033297/Two-ep/Two-ep",
+  "verified_annotator_ids": [],
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "add_pinned_annotation_to",
+    "add_community_annotation_to"
+   ],
+   "relationships": {}
+  },
+  "tracking_paths": {
+   "aggregate": "/13033297/Two-ep/Two-ep",
+   "concurrent": "/albums/Sleep-token/Two-ep"
+  },
+  "twitter_share_message": "\u201c\u201cTwo\u201d, is the second EP released by British alternative metal band, Sleep Token.\n\nFeaturing 3 tr\u2026\u201d \u2014@Genius",
+  "annotatable": {
+   "_type": "album",
+   "api_path": "/albums/380272",
+   "context": "Sleep Token",
+   "id": 380272,
+   "image_url": "https://images.genius.com/a73d99e03eded168e64a7a8bab484337.300x300x1.jpg",
+   "link_title": "Two - EP",
+   "title": "Two - EP",
+   "type": "Album",
+   "url": "https://genius.com/albums/Sleep-token/Two-ep"
+  },
+  "annotations": [
+   {
+    "_type": "annotation",
+    "api_path": "/annotations/13033297",
+    "being_created": false,
+    "body": {
+     "plain": "\u201cTwo\u201d, is the second EP released by British alternative metal band, Sleep Token.\n\nFeaturing 3 tracks, the album conducts a twisted, vaguely sinister sound, maintaining the haunting melodic components comprised in precursor, \u201cOne\u201d, though introducing minor, droning sounds to compliment the growth of addressed topics in their lyricism."
+    },
+    "comment_count": 0,
+    "community": true,
+    "created_at": 1676532481,
+    "custom_preview": null,
+    "deleted": false,
+    "embed_content": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/13033297/standalone_embed'><a href='https://genius.com/13033297/Two-ep/Two-ep'>Two - EP</a><br><a href='https://genius.com/albums/Sleep-token/Two-ep'>&#8213; Two - EP</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>",
+    "has_voters": true,
+    "id": 13033297,
+    "needs_exegesis": false,
+    "pinned": false,
+    "proposed_edit_count": 0,
+    "pyongs_count": null,
+    "referent_id": 13033297,
+    "share_url": "https://genius.com/13033297",
+    "source": null,
+    "state": "pending",
+    "twitter_share_message": "\u201c\u201cTwo\u201d, is the second EP released by British alternative metal band, Sleep Token.\n\nFeaturing 3 tracks, th\u2026\u201d \u2014@Genius",
+    "url": "https://genius.com/13033297/Two-ep/Two-ep",
+    "verified": false,
+    "votes_total": 2,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "report_as_abusive",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "accepted_by": null,
+    "authors": [
+     {
+      "_type": "user_attribution",
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "Mildly depressed emo with too much free time wasted dissecting said emo songs.\n\nIS SELENA GOMEZ A SELF-FULFILLING PROPHECY?????\n\n\n\nfind me >\nhttps://linktr.ee/iamnotacult.com",
+       "api_path": "/users/9507353",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+       "human_readable_role_for_display": "Contributor",
+       "id": 9507353,
+       "iq": 8037,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "marzavocados",
+       "name": "marzavocados",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/marzavocados",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "created_by": {
+     "_type": "user",
+     "about_me_summary": "Mildly depressed emo with too much free time wasted dissecting said emo songs.\n\nIS SELENA GOMEZ A SELF-FULFILLING PROPHECY?????\n\n\n\nfind me >\nhttps://linktr.ee/iamnotacult.com",
+     "api_path": "/users/9507353",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+     "human_readable_role_for_display": "Contributor",
+     "id": 9507353,
+     "iq": 8037,
+     "is_meme_verified": false,
+     "is_verified": false,
+     "login": "marzavocados",
+     "name": "marzavocados",
+     "role_for_display": "contributor",
+     "url": "https://genius.com/marzavocados",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    "rejection_comment": null,
+    "top_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "performance_groups": [],
+ "song_performances": [
+  {
+   "label": "Producers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Writers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922837",
+     "header_image_url": "https://images.genius.com/1e2c9c0b1a0ffe5f17f2c1c8e349ed7b.1000x661x1.jpg",
+     "id": 2922837,
+     "image_url": "https://images.genius.com/b01693b22538b600b3072e18b49952b7.605x668x1.png",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel II",
+     "slug": "Vessel-ii",
+     "url": "https://genius.com/artists/Vessel-ii"
+    }
+   ]
+  },
+  {
+   "label": "Bass Guitar",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  },
+  {
+   "label": "Composer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922837",
+     "header_image_url": "https://images.genius.com/1e2c9c0b1a0ffe5f17f2c1c8e349ed7b.1000x661x1.jpg",
+     "id": 2922837,
+     "image_url": "https://images.genius.com/b01693b22538b600b3072e18b49952b7.605x668x1.png",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel II",
+     "slug": "Vessel-ii",
+     "url": "https://genius.com/artists/Vessel-ii"
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    }
+   ]
+  },
+  {
+   "label": "Drums",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922837",
+     "header_image_url": "https://images.genius.com/1e2c9c0b1a0ffe5f17f2c1c8e349ed7b.1000x661x1.jpg",
+     "id": 2922837,
+     "image_url": "https://images.genius.com/b01693b22538b600b3072e18b49952b7.605x668x1.png",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel II",
+     "slug": "Vessel-ii",
+     "url": "https://genius.com/artists/Vessel-ii"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2205923",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1740760317",
+     "id": 2205923,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1740760317",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Basick Records",
+     "slug": "Basick-records",
+     "url": "https://genius.com/artists/Basick-records"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    }
+   ]
+  },
+  {
+   "label": "Piano",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  },
+  {
+   "label": "Vocals",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/3313304",
+    "artist_names": "Sleep Token",
+    "full_title": "Calcutta by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/c7f1e0e6120b3ad24397898c710da0f5.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/c7f1e0e6120b3ad24397898c710da0f5.500x500x1.jpg",
+    "id": 3313304,
+    "instrumental": false,
+    "lyrics_owner_id": 930466,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1729597723,
+    "path": "/Sleep-token-calcutta-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Sleep-token-calcutta-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 5,
+     "day": 20
+    },
+    "release_date_for_display": "May 20, 2017",
+    "release_date_with_abbreviated_month_for_display": "May 20, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c7f1e0e6120b3ad24397898c710da0f5.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/c7f1e0e6120b3ad24397898c710da0f5.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 25220
+    },
+    "title": "Calcutta",
+    "title_with_featured": "Calcutta",
+    "updated_by_human_at": 1729597723,
+    "url": "https://genius.com/Sleep-token-calcutta-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nI am caught, tangled in\nWrapped and quartered\nTripping up and over\nTime lived again\nFor just a moment\nMissing pieces find me\n\n[Pre-Chorus]\nI sweat and I ache for\nYour eyes and the way you breathe\n\n[Chorus]\nAnd I wake, saying your name\nAnd I wake, saying your name\n\n[Verse 2]\nYou are more than warm belief\nMelting skywards\nMore than silence broken\nI'm whole again\nFor just a moment\nTill the morning comes\n\n[Chorus]\nAnd I wake, saying your name\nAnd I wake, saying your name\n\n[Bridge]\nOh, she said you'd better believe it\nI said you don't know\nOh, you said you'd better believe it\nI said you don't even know\n\n[Instrumental Break]\n\n[Verse 3]\nTime lived again for just a moment\nMissing pieces find me\nAnd I'm whole again for just a moment\nMissing pieces find me\nTime lived again for just a moment\n(I sweat and I ache for)\nMissing pieces find me\n(I sweat and I ache for)\nAnd I'm whole again, whole again\n(I sweat and I ache for)\nWhole again\n(I sweat and)\n\n[Instrumental Outro]"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/3313306",
+    "artist_names": "Sleep Token",
+    "full_title": "Nazareth by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/69724947c3cb379ab5ed865bea5c78ef.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/69724947c3cb379ab5ed865bea5c78ef.500x500x1.jpg",
+    "id": 3313306,
+    "instrumental": false,
+    "lyrics_owner_id": 930466,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723680934,
+    "path": "/Sleep-token-nazareth-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Sleep-token-nazareth-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 6,
+     "day": 19
+    },
+    "release_date_for_display": "June 19, 2017",
+    "release_date_with_abbreviated_month_for_display": "Jun. 19, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/69724947c3cb379ab5ed865bea5c78ef.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/69724947c3cb379ab5ed865bea5c78ef.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 40177
+    },
+    "title": "Nazareth",
+    "title_with_featured": "Nazareth",
+    "updated_by_human_at": 1723672566,
+    "url": "https://genius.com/Sleep-token-nazareth-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nAnd I'll see you when the wrath comes\nKnocking on your bedroom door with money\nBuilding you a kingdom\nDrippin' from the open mouth\nI'll show you what you look like from the inside\nAnd I'll see you when the wrath comes around\n\n[Chorus]\nTonight, tonight, tonight\nYou have the answer\nTonight, tonight, tonight\nYou have the answer\n\n[Verse 2]\nLet's load the gun\nMake her eat the tape in the bathroom mirror\nSee if she can guess what\nA hollow point does to a naked body\nLet's fuck her up\nManifest pain at the core of pleasure\nI'll see you when the wrath comes around\n\n[Chorus]\nTonight, tonight, tonight\nYou have the answer\nTonight, tonight, tonight\nYou have the answer\n\n[Bridge]\nLet's load the gun\n(They won't be missing you, they won't be missing you)\nLet's load the gun\n(They won't be missing you, they won't be missing you)\nLet's load the gun\n(They won't be missing you, they won't be missing you)\nLet's load the gun\n(See you when the wrath comes, see you when the wrath comes)\n(They won't be missing you, they won't be missing you)\nLet's load the gun\n(See you when the wrath comes)\n\n[Instrumental Outro]"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/3313308",
+    "artist_names": "Sleep Token",
+    "full_title": "Jericho by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/be9507ad58b8c7b2dc36bf43f463364b.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/be9507ad58b8c7b2dc36bf43f463364b.1000x1000x1.jpg",
+    "id": 3313308,
+    "instrumental": false,
+    "lyrics_owner_id": 930466,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1739943788,
+    "path": "/Sleep-token-jericho-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Sleep-token-jericho-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 7,
+     "day": 21
+    },
+    "release_date_for_display": "July 21, 2017",
+    "release_date_with_abbreviated_month_for_display": "Jul. 21, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/be9507ad58b8c7b2dc36bf43f463364b.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/be9507ad58b8c7b2dc36bf43f463364b.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 19899
+    },
+    "title": "Jericho",
+    "title_with_featured": "Jericho",
+    "updated_by_human_at": 1739943788,
+    "url": "https://genius.com/Sleep-token-jericho-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nTread, ancient water salt\nLike I\nSink, down like precious stones (Oh)\n\n[Refrain]\nUntil I wake I, dine on old encounters\nUntil\n\n[Chorus]\nYou taste like new flesh\nYou taste like new flesh\nYou taste like new flesh\nSay my name again\n\n[Verse 2]\nFold, secrets in the sweat\nLike I\nSwallow, years beneath this bed (Oh)\n\n[Refrain]\nUntil I wake I, dine on old encounters\nUntil (Oh-oh)\n\n[Pre-Chorus]\nThere's something in the way you lay\nEnough to make the dead switch graves\nYou take your leave\n\n[Chorus]\nYou taste like new flesh\nYou taste like new flesh\nYou taste like new flesh\nSay my name again\nSay my name again\n\n[Bridge]\nMy hands are not worthy\nMy hands are not worthy\n(Till I wake I, dine on old encounters)\nMy hands are not worthy\n(Till I wake I, dine on old encounters)\nMy hands are not worthy\n(Till I wake I, dine on old encounters)\nMy hands are not worthy\n(Till I wake I, till I wake I)\n\n[Outro]\nTill I wake I, dine on old encounters\nTill I wake I, dine on old encounters\nTill I wake I, dine on old encounters\nTill I wake I, till I wake I"
+   }
+  }
+ ]
+}

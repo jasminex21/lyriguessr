@@ -1,0 +1,1712 @@
+{
+ "_type": "album",
+ "api_path": "/albums/538672",
+ "cover_art_thumbnail_url": "https://images.genius.com/a9c020dc18fa87b486ef3d44b6455cc4.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/a9c020dc18fa87b486ef3d44b6455cc4.999x999x1.jpg",
+ "full_title": "Sundowning by Sleep Token",
+ "id": 538672,
+ "name": "Sundowning",
+ "name_with_artist": "Sundowning (artist: Sleep Token)",
+ "primary_artist_names": "Sleep Token",
+ "release_date_components": {
+  "year": 2019,
+  "month": 11,
+  "day": 21
+ },
+ "release_date_for_display": "November 21, 2019",
+ "url": "https://genius.com/albums/Sleep-token/Sundowning",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/1257521",
+  "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+  "id": 1257521,
+  "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sleep Token",
+  "slug": "Sleep-token",
+  "url": "https://genius.com/artists/Sleep-token"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1257521",
+   "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+   "id": 1257521,
+   "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Sleep Token",
+   "slug": "Sleep-token",
+   "url": "https://genius.com/artists/Sleep-token"
+  }
+ ],
+ "comment_count": 0,
+ "custom_header_image_url": null,
+ "description_preview": "Released two years after their previous EP, \u201cTwo\u201d, Sundowning is the first full length studio album from masked British rock band, Sleep Token.\n\nThough established somewhat in their earlier work, Sundowning builds massively on the diversity of Sleep Tokens' sound, opening the concept album with a bold, theatrical track, guiding the listener through genres to repeatedly break musical traditions, manipulating soundscapes to evoke emotive highs and lows throughout. By switching between growing and declining on its references to impulse and restriction, conceptually the album avows the turmoil in uncertainty from track to track, exposing vulnerabilities, power, lust and idealisation across the 12 tracks.",
+ "header_image_url": "https://images.genius.com/a9c020dc18fa87b486ef3d44b6455cc4.999x999x1.jpg",
+ "lock_state": "editable",
+ "pyongs_count": 1,
+ "release_date": "2019-11-21",
+ "tracking_paths": {
+  "aggregate": "/albums/Sleep-token/Sundowning",
+  "concurrent": "/albums/Sleep-token/Sundowning"
+ },
+ "current_user_metadata": {
+  "permissions": [
+   "create_comment"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "destroy",
+   "pyong",
+   "lock",
+   "super_lock",
+   "unlock",
+   "sort_songs",
+   "see_short_id",
+   "create_question"
+  ],
+  "interactions": {
+   "pyong": false
+  }
+ },
+ "song_pageviews": 425319,
+ "cover_arts": [
+  {
+   "_type": "cover_art",
+   "annotated": false,
+   "api_path": "/albums/538672",
+   "id": 389944,
+   "image_url": "https://images.genius.com/a9c020dc18fa87b486ef3d44b6455cc4.999x999x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/a9c020dc18fa87b486ef3d44b6455cc4.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/389944",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011605,
+   "image_url": "https://images.genius.com/cf080f375d8981761233cfa8fe9ccb51.640x640x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/cf080f375d8981761233cfa8fe9ccb51.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011605",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011607,
+   "image_url": "https://images.genius.com/e219b201e737ec2f9d7200819dbbb672.640x640x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/e219b201e737ec2f9d7200819dbbb672.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011607",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011608,
+   "image_url": "https://images.genius.com/656f09d26b5bdcc77c4ec55df43b9771.640x640x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/656f09d26b5bdcc77c4ec55df43b9771.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011608",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011609,
+   "image_url": "https://images.genius.com/af789095ba9e65bd8338e486159192b4.640x640x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/af789095ba9e65bd8338e486159192b4.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011609",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011610,
+   "image_url": "https://images.genius.com/2ab935d86d7f416b4f2b5af7be6ca62d.640x640x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/2ab935d86d7f416b4f2b5af7be6ca62d.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011610",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011611,
+   "image_url": "https://images.genius.com/f773a888cb599ea969df7125faf5a16e.640x640x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/f773a888cb599ea969df7125faf5a16e.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011611",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011618,
+   "image_url": "https://images.genius.com/ebd2154711c744d83d560b5629a33650.640x640x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/ebd2154711c744d83d560b5629a33650.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011618",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011612,
+   "image_url": "https://images.genius.com/cecd583a89c9813cbfdf465d5953bd24.640x640x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/cecd583a89c9813cbfdf465d5953bd24.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011612",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011613,
+   "image_url": "https://images.genius.com/5b511b0708f10a16dcaaa712032a777c.640x640x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/5b511b0708f10a16dcaaa712032a777c.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011613",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011615,
+   "image_url": "https://images.genius.com/2e17bccf13d827d9015f109cc1708733.640x640x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/2e17bccf13d827d9015f109cc1708733.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011615",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011616,
+   "image_url": "https://images.genius.com/690863ba3c44114afe78d2e88e26d187.640x640x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/690863ba3c44114afe78d2e88e26d187.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011616",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/538672",
+   "id": 1011617,
+   "image_url": "https://images.genius.com/27d4eb4a7895ac035d266250b45bde59.1000x1000x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/27d4eb4a7895ac035d266250b45bde59.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1011617",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": false,
+   "api_path": "/albums/538672",
+   "id": 1012824,
+   "image_url": "https://images.genius.com/49eb7cb81d138312255b5370f8ebdf5e.750x750x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/49eb7cb81d138312255b5370f8ebdf5e.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/1012824",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 9507353,
+  "annotator_login": "marzavocados",
+  "api_path": "/referents/18757851",
+  "classification": "unreviewed",
+  "fragment": "Sundowning",
+  "id": 18757851,
+  "ios_app_url": "genius://referents/18757851",
+  "is_description": true,
+  "is_image": false,
+  "path": "/18757851/Sundowning/Sundowning",
+  "range": {
+   "content": "Sundowning"
+  },
+  "song_id": null,
+  "url": "https://genius.com/18757851/Sundowning/Sundowning",
+  "verified_annotator_ids": [],
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "add_pinned_annotation_to",
+    "add_community_annotation_to"
+   ],
+   "relationships": {}
+  },
+  "tracking_paths": {
+   "aggregate": "/18757851/Sundowning/Sundowning",
+   "concurrent": "/albums/Sleep-token/Sundowning"
+  },
+  "twitter_share_message": "\u201cReleased two years after their previous EP, \u201cTwo\u201d, Sundowning is the first full length studio al\u2026\u201d \u2014@Genius",
+  "annotatable": {
+   "_type": "album",
+   "api_path": "/albums/538672",
+   "context": "Sleep Token",
+   "id": 538672,
+   "image_url": "https://images.genius.com/a9c020dc18fa87b486ef3d44b6455cc4.300x300x1.jpg",
+   "link_title": "Sundowning",
+   "title": "Sundowning",
+   "type": "Album",
+   "url": "https://genius.com/albums/Sleep-token/Sundowning"
+  },
+  "annotations": [
+   {
+    "_type": "annotation",
+    "api_path": "/annotations/18757851",
+    "being_created": false,
+    "body": {
+     "plain": "Released two years after their previous EP, \u201cTwo\u201d, Sundowning is the first full length studio album from masked British rock band, Sleep Token.\n\nThough established somewhat in their earlier work, Sundowning builds massively on the diversity of Sleep Tokens' sound, opening the concept album with a bold, theatrical track, guiding the listener through genres to repeatedly break musical traditions, manipulating soundscapes to evoke emotive highs and lows throughout. By switching between growing and declining on its references to impulse and restriction, conceptually the album avows the turmoil in uncertainty from track to track, exposing vulnerabilities, power, lust and idealisation across the 12 tracks."
+    },
+    "comment_count": 0,
+    "community": true,
+    "created_at": 1676517834,
+    "custom_preview": null,
+    "deleted": false,
+    "embed_content": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/18757851/standalone_embed'><a href='https://genius.com/18757851/Sundowning/Sundowning'>Sundowning</a><br><a href='https://genius.com/albums/Sleep-token/Sundowning'>&#8213; Sundowning</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>",
+    "has_voters": true,
+    "id": 18757851,
+    "needs_exegesis": false,
+    "pinned": false,
+    "proposed_edit_count": 0,
+    "pyongs_count": null,
+    "referent_id": 18757851,
+    "share_url": "https://genius.com/18757851",
+    "source": null,
+    "state": "pending",
+    "twitter_share_message": "\u201cReleased two years after their previous EP, \u201cTwo\u201d, Sundowning is the first full length studio album from\u2026\u201d \u2014@Genius",
+    "url": "https://genius.com/18757851/Sundowning/Sundowning",
+    "verified": false,
+    "votes_total": 9,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "report_as_abusive",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "accepted_by": null,
+    "authors": [
+     {
+      "_type": "user_attribution",
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "Mildly depressed emo with too much free time wasted dissecting said emo songs.\n\nIS SELENA GOMEZ A SELF-FULFILLING PROPHECY?????\n\n\n\nfind me >\nhttps://linktr.ee/iamnotacult.com",
+       "api_path": "/users/9507353",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+       "human_readable_role_for_display": "Contributor",
+       "id": 9507353,
+       "iq": 8037,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "marzavocados",
+       "name": "marzavocados",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/marzavocados",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "created_by": {
+     "_type": "user",
+     "about_me_summary": "Mildly depressed emo with too much free time wasted dissecting said emo songs.\n\nIS SELENA GOMEZ A SELF-FULFILLING PROPHECY?????\n\n\n\nfind me >\nhttps://linktr.ee/iamnotacult.com",
+     "api_path": "/users/9507353",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/avatars/medium/9905c10350f2c3dacb60788ded5d4550",
+     "human_readable_role_for_display": "Contributor",
+     "id": 9507353,
+     "iq": 8037,
+     "is_meme_verified": false,
+     "is_verified": false,
+     "login": "marzavocados",
+     "name": "marzavocados",
+     "role_for_display": "contributor",
+     "url": "https://genius.com/marzavocados",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    "rejection_comment": null,
+    "top_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "performance_groups": [],
+ "song_performances": [
+  {
+   "label": "Producers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Writers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/409057",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 409057,
+     "image_url": "https://images.genius.com/5994c6d57fe12cc24ba2fe17ed9fc99f.912x912x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Fallon",
+     "slug": "Brian-fallon",
+     "url": "https://genius.com/artists/Brian-fallon"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922837",
+     "header_image_url": "https://images.genius.com/1e2c9c0b1a0ffe5f17f2c1c8e349ed7b.1000x661x1.jpg",
+     "id": 2922837,
+     "image_url": "https://images.genius.com/b01693b22538b600b3072e18b49952b7.605x668x1.png",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel II",
+     "slug": "Vessel-ii",
+     "url": "https://genius.com/artists/Vessel-ii"
+    }
+   ]
+  },
+  {
+   "label": "Bass Guitar",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Composer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922837",
+     "header_image_url": "https://images.genius.com/1e2c9c0b1a0ffe5f17f2c1c8e349ed7b.1000x661x1.jpg",
+     "id": 2922837,
+     "image_url": "https://images.genius.com/b01693b22538b600b3072e18b49952b7.605x668x1.png",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel II",
+     "slug": "Vessel-ii",
+     "url": "https://genius.com/artists/Vessel-ii"
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/3256808",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1740760317",
+     "id": 3256808,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1740760317",
+     "index_character": "u",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music UK",
+     "slug": "Universal-music-uk",
+     "url": "https://genius.com/artists/Universal-music-uk"
+    }
+   ]
+  },
+  {
+   "label": "Distributor",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/3875454",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1740760317",
+     "id": 3875454,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1740760317",
+     "index_character": "i",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Integral (Distributor)",
+     "slug": "Integral-distributor",
+     "url": "https://genius.com/artists/Integral-distributor"
+    }
+   ]
+  },
+  {
+   "label": "Drums",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922837",
+     "header_image_url": "https://images.genius.com/1e2c9c0b1a0ffe5f17f2c1c8e349ed7b.1000x661x1.jpg",
+     "id": 2922837,
+     "image_url": "https://images.genius.com/b01693b22538b600b3072e18b49952b7.605x668x1.png",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel II",
+     "slug": "Vessel-ii",
+     "url": "https://genius.com/artists/Vessel-ii"
+    }
+   ]
+  },
+  {
+   "label": "Guitar",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  },
+  {
+   "label": "Keyboards",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1087879",
+     "header_image_url": "https://images.genius.com/5a35a3e5b104b41b71ce4870257b497f.360x152x1.png",
+     "id": 1087879,
+     "image_url": "https://images.genius.com/334b3b6c66031ac411be17676505fb48.1000x1000x1.png",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Spinefarm Records",
+     "slug": "Spinefarm-records",
+     "url": "https://genius.com/artists/Spinefarm-records"
+    }
+   ]
+  },
+  {
+   "label": "Lyricist",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/409057",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 409057,
+     "image_url": "https://images.genius.com/5994c6d57fe12cc24ba2fe17ed9fc99f.912x912x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Fallon",
+     "slug": "Brian-fallon",
+     "url": "https://genius.com/artists/Brian-fallon"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/3256808",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1740760317",
+     "id": 3256808,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1740760317",
+     "index_character": "u",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music UK",
+     "slug": "Universal-music-uk",
+     "url": "https://genius.com/artists/Universal-music-uk"
+    }
+   ]
+  },
+  {
+   "label": "Piano",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1423597",
+     "header_image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "id": 1423597,
+     "image_url": "https://images.genius.com/985ac34702bb419107e636667e6ac847.900x900x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Lever",
+     "slug": "George-lever",
+     "url": "https://genius.com/artists/George-lever"
+    }
+   ]
+  },
+  {
+   "label": "Vocals",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2922836",
+     "header_image_url": "https://images.genius.com/ae6e959df19ad759449643c3e2d1f484.1000x563x1.jpg",
+     "id": 2922836,
+     "image_url": "https://images.genius.com/11f59802450514c25a29f407b954eaf0.800x800x1.jpg",
+     "index_character": "v",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vessel1",
+     "slug": "Vessel1",
+     "url": "https://genius.com/artists/Vessel1"
+    }
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/4646841",
+    "artist_names": "Sleep Token",
+    "full_title": "The Night Does Not Belong to God by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/9c3847d5b1c860da46f8162467936548.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/9c3847d5b1c860da46f8162467936548.320x320x1.jpg",
+    "id": 4646841,
+    "instrumental": false,
+    "lyrics_owner_id": 4082232,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710319023,
+    "path": "/Sleep-token-the-night-does-not-belong-to-god-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Sleep-token-the-night-does-not-belong-to-god-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/9c3847d5b1c860da46f8162467936548.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/9c3847d5b1c860da46f8162467936548.320x320x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 51960
+    },
+    "title": "The Night Does Not Belong to God",
+    "title_with_featured": "The Night Does Not Belong to God",
+    "updated_by_human_at": 1710319119,
+    "url": "https://genius.com/Sleep-token-the-night-does-not-belong-to-god-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nWhen you live\nBy daylight\nWith angels\nAt your side\nIn order now\nBestowed by\nThe light of\nThe sunrise\n\n[Pre-Chorus]\nAnd you remember everything\nOnly till the sun recedes once again\n\n[Chorus]\nAnd the night comes down like heaven\nThe night comes down like heaven\nThe night comes down like heaven\nThe night comes down like heaven\nThe night comes down like heaven\nThe night comes down like heaven\nThe night comes down like heaven\nThe night comes down like heaven\n\n[Verse 2]\nThe whites of your eyes\nTurn black in the lowlight\nIn turning divine\nWe tangle endlessly\nLike lovers entwined\nI know for the last time\nYou will not be mine\nSo give me the night, the night, the night\n\n[Chorus]\nThe night comes down like heaven\nThe night comes down like heaven\nThe night comes down like heaven\nThe night comes down like heaven\nThe night comes down like heaven\n(The whites of your eyes)\nThe night comes down like heaven\n(Turn black in the lowlight)\nThe night comes down like heaven\n(In turning divine)\nThe night comes down like heaven\n(We tangle endlessly)"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/4677083",
+    "artist_names": "Sleep Token",
+    "full_title": "The Offering by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/4bbd6f067add3c8500a87d6bb41afc58.300x300x1.png",
+    "header_image_url": "https://images.genius.com/4bbd6f067add3c8500a87d6bb41afc58.800x800x1.png",
+    "id": 4677083,
+    "instrumental": false,
+    "lyrics_owner_id": 8785247,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1729458079,
+    "path": "/Sleep-token-the-offering-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/Sleep-token-the-offering-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 7,
+     "day": 4
+    },
+    "release_date_for_display": "July 4, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jul. 4, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/4bbd6f067add3c8500a87d6bb41afc58.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/4bbd6f067add3c8500a87d6bb41afc58.800x800x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 57889
+    },
+    "title": "The Offering",
+    "title_with_featured": "The Offering",
+    "updated_by_human_at": 1729458079,
+    "url": "https://genius.com/Sleep-token-the-offering-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Instrumental Intro]\n\n[Verse 1]\nAnd you are a garden, entwined with all\nYou are the silence on sacred shores\nYou've got diamonds for teeth, my love\nSo take a bite of me, just once, I want to\nTurn the page once again (Oh)\nTake a bite\n\n[Verse 2]\nThis is a given, an offering\nIn your favour, a sacrifice in your name\nBut I know you've got a taste\nSo just take a bite of me\nTurn the page once again (Oh)\nGive up the game and let me in (Oh)\nMy arms belong around you (Oh, oh)\nSo take a bite, I want to know (Oh)\n(I want to)\n\n[Outro]\n(Take a bite)\nTake a bite\n\n[Instrumental Outro]"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/4710004",
+    "artist_names": "Sleep Token",
+    "full_title": "Levitate by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/1d64528500b5c3b628ca5855084be66a.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/1d64528500b5c3b628ca5855084be66a.600x600x1.jpg",
+    "id": 4710004,
+    "instrumental": false,
+    "lyrics_owner_id": 8785247,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1729458391,
+    "path": "/Sleep-token-levitate-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Sleep-token-levitate-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 7,
+     "day": 18
+    },
+    "release_date_for_display": "July 18, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jul. 18, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/1d64528500b5c3b628ca5855084be66a.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/1d64528500b5c3b628ca5855084be66a.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 27613
+    },
+    "title": "Levitate",
+    "title_with_featured": "Levitate",
+    "updated_by_human_at": 1729458391,
+    "url": "https://genius.com/Sleep-token-levitate-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nI can lift you up\nYour\u200a body is mostly blood\nLike\u200a water, a perfect flood\nEngulfing me again (Oh)\nAnd I can tell you won't\nRemember\u200a my cracking bones\nThe\u200a trauma we can't regrow\nJust as you leave again, no\n\n[Chorus]\nWill\u200a you levitate\nUp where the angels inhabit?\nWill you levitate\nWhere I won't reach you?\n\n[Verse 2]\nAnd\u200a we imitate\nA story of perfect days\nA ballad we fabricate\nAs you forget your words again (Oh)\nAnd is that all you need\nTo merely pretend to be\nFalling in love with me?\nForgetting the agony again (Oh)\n\n[Chorus]\nWill you levitate\nUp where the angels inhabit?\nWill you levitate\nWhere I won't reach you?\nWill you levitate\nUp where my love doesn't matter?\nWill you levitate\nWhere I won't reach you?\n\n[Outro]\nWill you levitate?\nWill you levitate?\nWill you levitate?"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/4747353",
+    "artist_names": "Sleep Token",
+    "full_title": "Dark Signs by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/14a5ee3924fde0898730d5e0a6bc0f67.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/14a5ee3924fde0898730d5e0a6bc0f67.500x500x1.jpg",
+    "id": 4747353,
+    "instrumental": false,
+    "lyrics_owner_id": 4599845,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1739330613,
+    "path": "/Sleep-token-dark-signs-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Sleep-token-dark-signs-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 1
+    },
+    "release_date_for_display": "August 1, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 1, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/14a5ee3924fde0898730d5e0a6bc0f67.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/14a5ee3924fde0898730d5e0a6bc0f67.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 11,
+     "hot": false,
+     "pageviews": 38400
+    },
+    "title": "Dark Signs",
+    "title_with_featured": "Dark Signs",
+    "updated_by_human_at": 1739330613,
+    "url": "https://genius.com/Sleep-token-dark-signs-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nWhere I was raised, there was no streetlights\nJust pitch black and passing headlights\nAnd where we met\u201a there must have been dark signs\nOmens in your skies\n\n[Pre-Chorus]\nMost days\u201a you reach for safety\nRemain calm\u201a forget that you know me\nAnd when we met, I could see dark signs\nAlarm bells in your eyes\n\n[Chorus]\nAnd I miss the man I was\n(I won't break and bend to my basic need to be loved and close to somebody)\nThe moment we left off\n(I won't break and bend to my basic need to be loved and close to somebody)\nAnd I hate who I have become\n(I won't break and bend to my basic need to be loved and close to somebody)\nEvery time I wake up\n(I won't break and bend to my basic need to be loved and close to somebody)\n\n[Verse 2]\nAnd if you saw the marks on my dashboard\nThe new scars that I didn't ask for\nAnd would you call asking for answers?\nTear my arms off\n\n[Pre-Chorus]\nAnd most days, you reach for safety\nRemain calm\u201a forget that you know me (Oh-oh)\nWhen we met, I could see dark signs\nAlarm bells in your eyes\n\n[Chorus]\nAnd I miss the man I was\n(I won't break and bend to my basic need to be loved and close to somebody)\nThe moment we left off\n(I won't break and bend to my basic need to be loved and close to somebody)\nAnd I hate who I have become\n(I won't break and bend to my basic need to be loved and close to somebody)\nEvery time I wake up\n(I won't break and bend to my basic need to be loved and close to somebody)\nAnd I miss the man I was\nThe moment we left off\nAnd I hate who I have become\nEvery time I wake up\n\n[Outro]\nI won't break and bend to my basic need to be loved and close to somebody\nWhen we met, I could see dark signs (Oh)\n(I won't break and bend to my basic need to be loved and close to somebody)\nWhen we met\u201a I could see dark signs (Oh)\n(I won't break and bend to my basic need to be loved and close to somebody)\nWhen we met, I could see dark signs (Oh)\n(I won't break and bend to my basic need to be loved and close to somebody)\nWhen we met, I could see dark signs (Oh, no)\n(I won't break and bend to my basic need to be loved and close to somebody)\nWhen we met, I could see dark signs, no\n(I won't break and bend to my basic need to be loved and close to somebody)\nWhen we met"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/4785184",
+    "artist_names": "Sleep Token",
+    "full_title": "Higher by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/660263707ae478feea7bf70ce8cf97a9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/660263707ae478feea7bf70ce8cf97a9.500x500x1.jpg",
+    "id": 4785184,
+    "instrumental": false,
+    "lyrics_owner_id": 6048779,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710323437,
+    "path": "/Sleep-token-higher-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Sleep-token-higher-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 15
+    },
+    "release_date_for_display": "August 15, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 15, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/660263707ae478feea7bf70ce8cf97a9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/660263707ae478feea7bf70ce8cf97a9.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 13,
+     "hot": false,
+     "pageviews": 42683
+    },
+    "title": "Higher",
+    "title_with_featured": "Higher",
+    "updated_by_human_at": 1729698151,
+    "url": "https://genius.com/Sleep-token-higher-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nYou say you won't begin again\nCapitulate and let me in\n'Cause I am a fire and you are dry as bone\nYou are taking your time\nYou are killing me slow\nAnd I know we instigate\nGo back and forth\nLacerate\n'Cause you can remember only when you're alone\nI am granting you more than the debt that I owe\n\n[Chorus]\n'Cause I look for scarlet and you look for ultraviolet\nAnd we are exhausted by all this pretending\nWe just can't resist the violence\nAnd you need a melody, I only need the silence\nBut each time we battle\nThe blood and the fury takes us a little higher\n\n[Verse 2]\nWith all that you believe\nYou still refuse to shelter me\n'Cause I am a danger\nAnd you're a long way from home\nYou are one among many, but you're now on your own\nAnd I hate the way you look\nAt me when I am not understood\n'Cause you can remember only when you're alone\nI am granting you more than the debt that I owe\n\n[Bridge]\nYou won't begin again\nYou won't begin again\nYou won't begin again\nYou won't begin again\n\n[Chorus]\n'Cause I look for scarlet and you look for ultraviolet\nAnd we are exhausted by all this pretending\nWe just can't resist the violence\nAnd you need a melody, I only need the silence\nBut each time we battle\nThe blood and the fury takes us a little higher\n\n[Build]\nThe debt that I owe\nThe debt that I owe\nThe debt that I owe\nThe debt that I owe\nThe debt that I owe\nThe debt that I owe\n\n[Breakdown]\nThe debt that I owe"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/4825056",
+    "artist_names": "Sleep Token",
+    "full_title": "Take Aim by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/f760a440b050e5dee8637848fead5796.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f760a440b050e5dee8637848fead5796.500x500x1.jpg",
+    "id": 4825056,
+    "instrumental": false,
+    "lyrics_owner_id": 6048779,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1691950498,
+    "path": "/Sleep-token-take-aim-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Sleep-token-take-aim-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 29
+    },
+    "release_date_for_display": "August 29, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 29, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f760a440b050e5dee8637848fead5796.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f760a440b050e5dee8637848fead5796.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 24659
+    },
+    "title": "Take Aim",
+    "title_with_featured": "Take Aim",
+    "updated_by_human_at": 1729698418,
+    "url": "https://genius.com/Sleep-token-take-aim-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nWait, won't you wait for me?\nDon't you bathe in rivers?\nDon't you feel alive?\nAnd when I\u2005see\u2005you waking up\nAnd\u2005it sends me shivers\nHow you love\u2005like weapons kill\n\n[Chorus]\nSo take aim\nAt me for once\nJust take aim\nBreak me apart\n\n[Verse 2]\nCall, won't you call out my name?\nLike a curse on this world?\nLike a battle cry?\nAnd you make me hate myself\nMake me tear my body\nMake me yearn for your embrace\n\n[Chorus]\nSo take aim\nAt me for once\nJust take aim\nBreak me apart, love\nWon't you?\n\n[Outro]\nAnd you know I'll be yours\nWhen the moment is perfect\nI will fire and forget till we both lay broken\nAnd you know I'll be yours\nJust want to be worth it\nI will run like the wind till you follow me again"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4863694",
+    "artist_names": "Sleep Token",
+    "full_title": "Give by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/ff5647018ef900c9b32a5ced2c8f6cfe.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/ff5647018ef900c9b32a5ced2c8f6cfe.600x600x1.jpg",
+    "id": 4863694,
+    "instrumental": false,
+    "lyrics_owner_id": 6048779,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1711516179,
+    "path": "/Sleep-token-give-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Sleep-token-give-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 9,
+     "day": 12
+    },
+    "release_date_for_display": "September 12, 2019",
+    "release_date_with_abbreviated_month_for_display": "Sep. 12, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ff5647018ef900c9b32a5ced2c8f6cfe.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ff5647018ef900c9b32a5ced2c8f6cfe.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 27891
+    },
+    "title": "Give",
+    "title_with_featured": "Give",
+    "updated_by_human_at": 1729698656,
+    "url": "https://genius.com/Sleep-token-give-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nYou take the dark and carve me out a home\nI picture you when you are\u2005all\u2005alone\nI know how\u2005we got here\nI know how we\u2005got here\nI am the shadow, you're a passenger\nI am the intake of breath so sharp and I know you better\nJust wanna know you better\n\n[Chorus]\nIf you wanna give\nThen give me all that you can give\nAll your darkest impulses\nAnd if you wanna give me anything, then give\nGive in again\n\n[Verse 2]\nI'll tear the fibre from the filament\nI'll be the limit of your light again\nI wanna taste you better\nI wanna taste you better\nI will be watching for your enemies\nTo let them know that they contend with me\nI wanna know you're out there\nI wanna know you're out there\n\n[Chorus]\nIf you wanna give\nThen give me all that you can give\nAll your darkest impulses and\nIf you wanna give me anything\nThen give, give in again\nI just wanna give\nWanna give you all that I can give\nAll my darkest impulses\nAnd if you wanna give me anything, then give\nGive in again\n\n[Bridge]\nIn this open warfare\nI won't fight fair\nNo, I won't fight fair\nAnd in your waking moments\nI will be there\nI will be there\n\n[Chorus]\nIf you wanna give\nThen give me all that you can give\nAll your darkest impulses\nAnd if you wanna give me anything, then give\nGive in again\nI just wanna give\nWanna give you all that I can give\nAll my darkest impulses\nAnd if you wanna give me anything, then give\nGive in again"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/4866348",
+    "artist_names": "Sleep Token",
+    "full_title": "Gods by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/cecd583a89c9813cbfdf465d5953bd24.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/cecd583a89c9813cbfdf465d5953bd24.640x640x1.jpg",
+    "id": 4866348,
+    "instrumental": false,
+    "lyrics_owner_id": 6558684,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710324651,
+    "path": "/Sleep-token-gods-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Sleep-token-gods-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 9,
+     "day": 26
+    },
+    "release_date_for_display": "September 26, 2019",
+    "release_date_with_abbreviated_month_for_display": "Sep. 26, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/cecd583a89c9813cbfdf465d5953bd24.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/cecd583a89c9813cbfdf465d5953bd24.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 25689
+    },
+    "title": "Gods",
+    "title_with_featured": "Gods",
+    "updated_by_human_at": 1729698832,
+    "url": "https://genius.com/Sleep-token-gods-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nI see the gods avert their gaze from me\nMy fucking form is but a wreck\u2005beneath\u2005them\nAnd they're always\u2005people I can call on\nIt's all\u2005so easy for me\n\n[Chorus]\nNo more taking chances\nNo more teeth to bite with\nNo more smiling faces\nI am alone again\n\n[Verse 2]\nYou wanna talk?\nYou wanna talk it out?\n'Cause the joke's on me and I'm laughing too\nYou wanna watch me bleed?\n'Cause I bleed so well\nIt's all so easy for me\n\n[Bridge]\n(Eternally, eternally)\nDo you like the way it feels?\nLike fire from the heavens\nCarving past the surface into you\nAnd do you like the way it feels?\nLike fire from the heavens\nTearing me asunder beside you\n\n[Breakdown]\nIt's all so easy for me\nIt's all so easy for me"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/4866349",
+    "artist_names": "Sleep Token",
+    "full_title": "Sugar by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/579a9225d4eb4bc78bc9d81137353d6e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/579a9225d4eb4bc78bc9d81137353d6e.640x640x1.jpg",
+    "id": 4866349,
+    "instrumental": false,
+    "lyrics_owner_id": 4351253,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710325303,
+    "path": "/Sleep-token-sugar-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Sleep-token-sugar-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 10,
+     "day": 10
+    },
+    "release_date_for_display": "October 10, 2019",
+    "release_date_with_abbreviated_month_for_display": "Oct. 10, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/579a9225d4eb4bc78bc9d81137353d6e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/579a9225d4eb4bc78bc9d81137353d6e.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 10,
+     "hot": false,
+     "pageviews": 36358
+    },
+    "title": "Sugar",
+    "title_with_featured": "Sugar",
+    "updated_by_human_at": 1729699052,
+    "url": "https://genius.com/Sleep-token-sugar-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nAnd you play a twisted little game\nBut I know in a way\nYou need to complicate\nBelieve\u2005that\u2005though we never\u2005eat\nWe still know how to feed\nWe\u2005still know how to bleed (Oh)\n\n[Chorus]\nSugar, I've developed a taste for you now\nSugar, I've developed a taste for you now\nSugar, I've developed a taste for you now\nSugar, I've developed a taste for you now\n\n[Verse 2]\nMy arms keep you in the room\nBarely let you move\nShow me what you do (Oh)\nTonight, we're second-guessed again\nLet me wrap the chains\nAddicted to the pain\n\n[Chorus]\nSugar, I've developed a taste for you now\nSugar, I've developed a taste for you now\nSugar, I've developed a taste for you now\nSugar, I've developed a taste for you now\n\n[Bridge]\nDo you wanna see how far it goes?\nDo you wanna test me now, my love?\nYou must be crazy if you think that I will give in so easily\nThings we buried low\nComin' to the surface now, my love\nYou must be crazy if you think that I will give up the game\n\n[Chorus]\n(Oh, whoa)\nSugar, I've got a taste for you now\nSugar, I've got a taste for you now\nSugar, I've got a taste for you now\nSugar, I've got a taste for you now\nSugar, I've developed a taste for you now\n(Do you wanna see how far it goes?)\nSugar, I've developed a taste for you now\n(Do you wanna test me now, my love?)\nSugar, I've developed a taste for you now\n(You must be crazy if you think that I will give in so easily)\nSugar, I've developed a taste for you now\n(Things we buried low, comin' to the surface now, my love)\n(You must be crazy if you think that I will give up the game)"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/4866350",
+    "artist_names": "Sleep Token",
+    "full_title": "Say That You Will by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/5119f5b7914ecac3cae25205a0dac27e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5119f5b7914ecac3cae25205a0dac27e.500x500x1.jpg",
+    "id": 4866350,
+    "instrumental": false,
+    "lyrics_owner_id": 4351253,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1715668098,
+    "path": "/Sleep-token-say-that-you-will-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Sleep-token-say-that-you-will-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 10,
+     "day": 24
+    },
+    "release_date_for_display": "October 24, 2019",
+    "release_date_with_abbreviated_month_for_display": "Oct. 24, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5119f5b7914ecac3cae25205a0dac27e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5119f5b7914ecac3cae25205a0dac27e.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 18884
+    },
+    "title": "Say That You Will",
+    "title_with_featured": "Say That You Will",
+    "updated_by_human_at": 1729699431,
+    "url": "https://genius.com/Sleep-token-say-that-you-will-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nIs that a word you said, my love\nOr just a gesture in tongues?\nWell, I live\u2005to\u2005guess your sorrow\nAnd\u2005you live to empty my lungs\n\n[Pre-Chorus]\nAnd\u2005you've got me up in a frenzy again\nAnd I know you're planning to leave in the end\n\n[Chorus]\nWon't you say that you will?\nLet the impulse to love\nAnd the instinct to kill\nEntangle to one\nIn this light, you are mine\nTill the sweat turns to blood\nWon't you say that you will\nEven if you won't?\n\n[Verse 2]\nOh, is that a glint in your eye?\nIs that a blade in your palm?\nWell, I am yours tonight\nSo will you lay in my arms?\n\n[Pre-Chorus]\nYou've got me up in a frenzy again\nI know you're planning to leave in the end\n\n[Chorus]\nWon't you say that you will?\nLet the impulse to love\nAnd the instinct to kill\nEntangle to one\nIn this light, you are mine\nTill the sweat turns to blood\nWon't you say that you will\nEven if you won't?\nWon't you say that you will?\nLet the impulse to love\nAnd the instinct to kill\nEntangle to one\nIn this light, you are mine\nTill the sweat turns to blood\nWon't you say that you will\nEven if you won't?\n\n[Instrumental Break]\n\n[Outro]\nYou've got me up in a frenzy again\nYou've got me up in a frenzy again\nYou've got me up in a frenzy again\nYou've got me up in a frenzy again\nYou've got me up in a frenzy again\nYou've got me up in a frenzy again"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/4866351",
+    "artist_names": "Sleep Token",
+    "full_title": "Drag Me Under by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/09e2d5d66a19cefd3da456178ac25810.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/09e2d5d66a19cefd3da456178ac25810.1000x1000x1.jpg",
+    "id": 4866351,
+    "instrumental": false,
+    "lyrics_owner_id": 6048779,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710326118,
+    "path": "/Sleep-token-drag-me-under-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Sleep-token-drag-me-under-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 11,
+     "day": 7
+    },
+    "release_date_for_display": "November 7, 2019",
+    "release_date_with_abbreviated_month_for_display": "Nov. 7, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/09e2d5d66a19cefd3da456178ac25810.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/09e2d5d66a19cefd3da456178ac25810.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 17575
+    },
+    "title": "Drag Me Under",
+    "title_with_featured": "Drag Me Under",
+    "updated_by_human_at": 1729699683,
+    "url": "https://genius.com/Sleep-token-drag-me-under-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nAnd I know\nThe angels tonight are\nAs lost for words\nAs I am\nTo merely\nBehold you\nAs we lie\u2005down\u2005together\n\n[Chorus]\nDrag me under\u2005again\nDeep into your love (Oh)\n\n[Verse 2]\nAnd I\u2005know\nThe Gods will\nAbandon the heavens just to find us\nTo merely\nBehold you\nAs we lie down together\n\n[Chorus]\nDrag me under again\nDeep into your love (Oh)\n\n[Verse 3]\nHold me beneath the surface\n(And I know the angels tonight are lost for words)\nDeep into your love\n(As I am to merely behold you as we lie down together)"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/4654726",
+    "artist_names": "Sleep Token",
+    "full_title": "Blood Sport by\u00a0Sleep\u00a0Token",
+    "header_image_thumbnail_url": "https://images.genius.com/cd0027cb68f3258355d68e5aec136bf9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/cd0027cb68f3258355d68e5aec136bf9.1000x1000x1.jpg",
+    "id": 4654726,
+    "instrumental": false,
+    "lyrics_owner_id": 8785247,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710326615,
+    "path": "/Sleep-token-blood-sport-lyrics",
+    "primary_artist_names": "Sleep Token",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Sleep-token-blood-sport-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 11,
+     "day": 21
+    },
+    "release_date_for_display": "November 21, 2019",
+    "release_date_with_abbreviated_month_for_display": "Nov. 21, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/cd0027cb68f3258355d68e5aec136bf9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/cd0027cb68f3258355d68e5aec136bf9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 56223
+    },
+    "title": "Blood Sport",
+    "title_with_featured": "Blood Sport",
+    "updated_by_human_at": 1729699928,
+    "url": "https://genius.com/Sleep-token-blood-sport-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1257521",
+     "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+     "id": 1257521,
+     "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sleep Token",
+     "slug": "Sleep-token",
+     "url": "https://genius.com/artists/Sleep-token"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1257521",
+      "header_image_url": "https://images.genius.com/256e7412c8dd9eb2d499e5c0edadb796.1000x439x1.jpg",
+      "id": 1257521,
+      "image_url": "https://images.genius.com/da893ab2d06128b9f6bde32bf71a1c85.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Token",
+      "slug": "Sleep-token",
+      "url": "https://genius.com/artists/Sleep-token"
+     }
+    ],
+    "artist": "Sleep Token",
+    "lyrics": "[Verse 1]\nI wanna roll the numbers\nI wanna feel my stars align again\nEven if the earth breaks like burnt skin\nAnd the heavens just won't open up for me\nWould you invite me in again?\nWon't you pay for your arrogance?\nWon't you show me your weakness?\n\n[Chorus]\nI made loving you a blood sport\nI made loving you a blood sport\nI made loving you a blood sport\nI can't win\nI made loving you a blood sport\nI made loving you a blood sport\nI made loving you a blood sport\nI can't win\nSo let's play\n\n[Post-Chorus]\nAnd somewhere\nSomewhere the atoms stopped fusing\nI'm still your favourite regret\nYou're still my weapon of choosing\nAnd out there\nStuck in a quantum pattern\nTangled with what I never said\nYou say it doesn't matter\n\n[Verse 2]\nI wanna be forgiven\nI wanna choke up chunks of my own sins\nEven if the sky cracks in mourning\nAnd the heavens just won't open up for me\nWould you invite me in again?\nLet me pay for my arrogance?\nWon't you show me your weakness?\n\n[Chorus]\nI made loving you a blood sport\nI made loving you a blood sport\nI made loving you a blood sport\nI can't win\nI made loving you a blood sport\nI made loving you a blood sport\nI made loving you a blood sport\nI can't win\n\n[Post-Chorus]\nAnd somewhere\n(I made loving you a blood sport)\nSomewhere the atoms stopped fusing\n(I made loving you a blood sport)\nI'm still your favourite regret\n(I made loving you a blood sport)\nYou're still my weapon of choosing\nAnd out there\n(I made loving you a blood sport)\nStuck in a quantum pattern\n(I made loving you a blood sport)\nTangled with what I never said\n(I made loving you a blood sport)\nYou say it doesn't matter"
+   }
+  }
+ ]
+}
